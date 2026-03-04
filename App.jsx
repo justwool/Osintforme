@@ -4,7 +4,7 @@ export default function App() {
   const [data, setData] = useState([]);
   const [loading, setLoading] = useState(true);
   // GET THIS LINK FROM YOUR GITHUB AFTER THE SCRIPT RUNS
-  const DATA_URL = "PASTE_YOUR_RAW_URL_HERE";
+  const DATA_URL = "https://raw.githubusercontent.com/justwool/Osintforme/refs/heads/main/data.json";
 
   useEffect(() => {
     fetch(DATA_URL).then(res => res.json()).then(d => {
