@@ -1,5 +1,55 @@
 [
   {
+    "id": "https://www.france24.com/en/lebanon-reports-83-children-among-dead-after-israeli-attacks",
+    "timestamp": "2026-03-08T16:48:11",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Lebanon reports 83 children among dead after Israeli attacks",
+    "url": "https://www.france24.com/en/lebanon-reports-83-children-among-dead-after-israeli-attacks"
+  },
+  {
+    "id": "https://www.dw.com/en/serbia-fears-rise-over-the-last-independent-media-outlets/a-76205060?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-03-08T16:46:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Serbia: Fears rise over the last independent media outlets",
+    "url": "https://www.dw.com/en/serbia-fears-rise-over-the-last-independent-media-outlets/a-76205060?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.aljazeera.com/features/2026/3/8/is-israel-reshaping-lebanon-trying-to-separate-hezbollah-from-its-people?traffic_source=rss",
+    "timestamp": "2026-03-08T16:36:24",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Is Israel reshaping Lebanon, trying to separate Hezbollah from its people?",
+    "url": "https://www.aljazeera.com/features/2026/3/8/is-israel-reshaping-lebanon-trying-to-separate-hezbollah-from-its-people?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/opinions/2026/3/8/we-the-american-people-have-had-enough-of-endless-wars?traffic_source=rss",
+    "timestamp": "2026-03-08T16:35:17",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "We, the American people, have had enough of endless wars",
+    "url": "https://www.aljazeera.com/opinions/2026/3/8/we-the-american-people-have-had-enough-of-endless-wars?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/3/8/israel-escalates-attacks-across-lebanon-as-two-soldiers-killed?traffic_source=rss",
+    "timestamp": "2026-03-08T16:31:19",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Israel escalates attacks across Lebanon as two soldiers killed",
+    "url": "https://www.aljazeera.com/news/2026/3/8/israel-escalates-attacks-across-lebanon-as-two-soldiers-killed?traffic_source=rss"
+  },
+  {
     "id": "https://www.france24.com/en/iran-keeps-targeting-gulf-states-the-situation-in-oman",
     "timestamp": "2026-03-08T16:30:44",
     "source": "France24",
@@ -1058,6 +1108,16 @@
     "region": "mena",
     "text": "Iran war: What is happening on day nine of US-Israel attacks?",
     "url": "https://www.aljazeera.com/news/2026/3/8/iran-war-what-is-happening-on-day-nine-of-us-israel-attacks?traffic_source=rss"
+  },
+  {
+    "id": "https://www.dw.com/en/germany-news-greens-lead-merz-s-cdu-in-critical-state-poll/live-76265491?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-03-08T07:47:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Germany news: Greens lead Merz's CDU in critical state poll",
+    "url": "https://www.dw.com/en/germany-news-greens-lead-merz-s-cdu-in-critical-state-poll/live-76265491?maca=en-rss-en-all-1573-xml-mrss"
   },
   {
     "id": "https://www.dw.com/en/germany-news-merz-s-cdu-faces-critical-test-as-voting-gets-underway-in-wealthy-state-of-baden-w\u00fcrttemberg/live-76265491?maca=en-rss-en-all-1573-xml-mrss",
@@ -4938,65 +4998,5 @@
     "region": "mena",
     "text": "Has Donald Trump failed to sell the Iran war to the world?",
     "url": "https://www.aljazeera.com/video/inside-story/2026/3/6/has-donald-trump-failed-to-sell-the-iran-war-to-the-world?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/counting-the-cost/2026/3/6/how-will-the-middle-east-conflict-affect-global-energy-prices?traffic_source=rss",
-    "timestamp": "2026-03-06T17:30:00",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "How will the Middle East conflict affect global energy prices?",
-    "url": "https://www.aljazeera.com/video/counting-the-cost/2026/3/6/how-will-the-middle-east-conflict-affect-global-energy-prices?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/economy/2097917",
-    "timestamp": "2026-03-06T17:22:42",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Gas shortage hikes EU prices, impacts chemical and fertilizer output \u2014 Novak",
-    "url": "https://tass.com/economy/2097917"
-  },
-  {
-    "id": "https://tass.com/economy/2097911",
-    "timestamp": "2026-03-06T17:21:28",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "European stock markets in the red on Friday",
-    "url": "https://tass.com/economy/2097911"
-  },
-  {
-    "id": "https://tass.com/politics/2097913",
-    "timestamp": "2026-03-06T17:20:23",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Ukrainian strikes injured 10 emergency service workers, killed 2 in February",
-    "url": "https://tass.com/politics/2097913"
-  },
-  {
-    "id": "https://tass.com/economy/2097909",
-    "timestamp": "2026-03-06T17:19:30",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Aluminum, nickel supplies from Russia to China up substantially in 2025 \u2014 research",
-    "url": "https://tass.com/economy/2097909"
-  },
-  {
-    "id": "https://tass.com/politics/2097907",
-    "timestamp": "2026-03-06T17:18:41",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russia terminates agreement with UN on creation of sustainable development center",
-    "url": "https://tass.com/politics/2097907"
   }
 ]
