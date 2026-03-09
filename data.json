@@ -1,5 +1,45 @@
 [
   {
+    "id": "https://www.france24.com/en/middle-east/20260309-war-iran-end-very-soon-says-trump",
+    "timestamp": "2026-03-09T23:32:30",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Trump says Iran war could end 'soon' as Middle East conflict rattles markets",
+    "url": "https://www.france24.com/en/middle-east/20260309-war-iran-end-very-soon-says-trump"
+  },
+  {
+    "id": "https://www.france24.com/en/middle-east/20260309-hrw-accuses-israel-white-phosphorus-lebanon",
+    "timestamp": "2026-03-09T23:05:15",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "HRW accuses Israel of using white phosphorus over Lebanese town",
+    "url": "https://www.france24.com/en/middle-east/20260309-hrw-accuses-israel-white-phosphorus-lebanon"
+  },
+  {
+    "id": "https://www.defenseone.com/technology/2026/03/new-science-heat-changing-future-soldiering/411996/",
+    "timestamp": "2026-03-09T22:52:56",
+    "source": "Defense One",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "New science on heat is changing the future of soldiering",
+    "url": "https://www.defenseone.com/technology/2026/03/new-science-heat-changing-future-soldiering/411996/"
+  },
+  {
+    "id": "https://www.militarytimes.com/news/your-navy/2026/03/09/uss-george-hw-bush-completes-pre-deployment-exercise/",
+    "timestamp": "2026-03-09T22:34:03",
+    "source": "Military Times",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "USS George H.W. Bush completes pre-deployment exercise",
+    "url": "https://www.militarytimes.com/news/your-navy/2026/03/09/uss-george-hw-bush-completes-pre-deployment-exercise/"
+  },
+  {
     "id": "https://euromaidanpress.com/2026/03/10/russo-ukrainian-war-day-1475-ukraine-went-from-importing-almost-no-weapons-to-buying-more-than-any-country-on-earth-in-four-years-flat/",
     "timestamp": "2026-03-09T22:24:14",
     "source": "Euromaidan Press",
@@ -108,6 +148,16 @@
     "region": "global",
     "text": "USS Nimitz Begins Last Cruise Ahead of Decommissioning",
     "url": "https://news.usni.org/2026/03/09/uss-nimitz-begins-last-cruise-ahead-of-decommissioning"
+  },
+  {
+    "id": "https://www.defenseone.com/business/2026/03/anthropic-sues-over-dozen-federal-agencies-and-government-leaders/411997/",
+    "timestamp": "2026-03-09T21:14:00",
+    "source": "Defense One",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Anthropic sues DOD, Hegseth, and a dozen other federal agencies",
+    "url": "https://www.defenseone.com/business/2026/03/anthropic-sues-over-dozen-federal-agencies-and-government-leaders/411997/"
   },
   {
     "id": "https://taskandpurpose.com/news/veterans-richard-star-act-senate/",
@@ -4948,55 +4998,5 @@
     "region": "ru",
     "text": "Lula da Silva postpones March visit to United States \u2014 minister",
     "url": "https://tass.com/world/2098307"
-  },
-  {
-    "id": "https://www.airandspaceforces.com/pentagon-task-force-faa-to-conduct-counter-drone-laser-test/",
-    "timestamp": "2026-03-08T01:06:16",
-    "source": "Air Force Mag",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Pentagon Task Force, FAA to Test Counter-Drone Laser",
-    "url": "https://www.airandspaceforces.com/pentagon-task-force-faa-to-conduct-counter-drone-laser-test/"
-  },
-  {
-    "id": "https://tass.com/politics/2098299",
-    "timestamp": "2026-03-08T00:46:50",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Fire area in oil depot in Armavir is 200 sq m",
-    "url": "https://tass.com/politics/2098299"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/3/8/trump-says-us-does-not-need-united-kingdom-aircraft-carriers-for-iran-war?traffic_source=rss",
-    "timestamp": "2026-03-08T00:33:56",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Trump says US does not need UK\u2019s aircraft carriers for Iran war",
-    "url": "https://www.aljazeera.com/news/2026/3/8/trump-says-us-does-not-need-united-kingdom-aircraft-carriers-for-iran-war?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/world/2098289",
-    "timestamp": "2026-03-08T00:28:29",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Ex-UN headquarters in Sulaymaniyah attacked twice by drones \u2014 news portal",
-    "url": "https://tass.com/world/2098289"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c7430kn9ze4o?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-03-08T00:02:55",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "The heartwarming tale of a father, a daughter, and a wedding band wowing India",
-    "url": "https://www.bbc.com/news/articles/c7430kn9ze4o?at_medium=RSS&at_campaign=rss"
   }
 ]
