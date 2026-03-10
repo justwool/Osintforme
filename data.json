@@ -1,5 +1,345 @@
 [
   {
+    "id": "https://tass.com/world/2099407",
+    "timestamp": "2026-03-10T16:51:32",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Four Iranian diplomats killed in Israeli strike on Beirut \u2014 Iranian envoy to UN",
+    "url": "https://tass.com/world/2099407"
+  },
+  {
+    "id": "https://breakingdefense.com/2026/03/special-ops-leader-rudd-confirmed-to-helm-cybercom-and-nsa/",
+    "timestamp": "2026-03-10T16:49:30",
+    "source": "Breaking Defense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Special ops leader Rudd confirmed to helm CYBERCOM and NSA",
+    "url": "https://breakingdefense.com/2026/03/special-ops-leader-rudd-confirmed-to-helm-cybercom-and-nsa/"
+  },
+  {
+    "id": "https://www.france24.com/en/video/20260310-israelis-vow-to-stay-put-as-war-rages-across-border",
+    "timestamp": "2026-03-10T16:48:07",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Israelis vow to stay put as war rages across border",
+    "url": "https://www.france24.com/en/video/20260310-israelis-vow-to-stay-put-as-war-rages-across-border"
+  },
+  {
+    "id": "https://www.france24.com/en/video/20260310-iran-targeted-by-fresh-strikes-as-us-warns-of-most-intense-day",
+    "timestamp": "2026-03-10T16:40:10",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Iran targeted by fresh strikes as US warns of 'most intense day'",
+    "url": "https://www.france24.com/en/video/20260310-iran-targeted-by-fresh-strikes-as-us-warns-of-most-intense-day"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/3/10/iea-to-meet-as-countries-mull-releasing-oil-reserves-amid-iran-war?traffic_source=rss",
+    "timestamp": "2026-03-10T16:37:15",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "IEA due to meet as member states mull releasing oil reserves amid Iran war",
+    "url": "https://www.aljazeera.com/news/2026/3/10/iea-to-meet-as-countries-mull-releasing-oil-reserves-amid-iran-war?traffic_source=rss"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/03/10/shahed-program-killing-ukrainians-is-recruiting-teenagers-through-sponsored-influencer-video-russia-calls-it-promising-career/",
+    "timestamp": "2026-03-10T16:36:26",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Shahed program killing Ukrainians is recruiting teenagers through sponsored influencer video \u2014 Russia calls it promising career",
+    "url": "https://euromaidanpress.com/2026/03/10/shahed-program-killing-ukrainians-is-recruiting-teenagers-through-sponsored-influencer-video-russia-calls-it-promising-career/"
+  },
+  {
+    "id": "https://tass.com/emergencies/2099393",
+    "timestamp": "2026-03-10T16:36:09",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Ukrainian armed forces missile strike on Bryansk leaves casualties, wounded",
+    "url": "https://tass.com/emergencies/2099393"
+  },
+  {
+    "id": "https://breakingdefense.com/2026/03/the-latest-in-iran-and-an-update-in-the-anthropic-saga/",
+    "timestamp": "2026-03-10T16:35:35",
+    "source": "Breaking Defense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "The latest in Iran and an update in the Anthropic saga",
+    "url": "https://breakingdefense.com/2026/03/the-latest-in-iran-and-an-update-in-the-anthropic-saga/"
+  },
+  {
+    "id": "https://tass.com/politics/2099387",
+    "timestamp": "2026-03-10T16:25:00",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Putin holds second telephone call with Iranian president in one week \u2014 Kremlin",
+    "url": "https://tass.com/politics/2099387"
+  },
+  {
+    "id": "https://www.france24.com/en/middle-east/20260310-iran-us-israel-war-middle-east-kharg-island-oil-hub-infrastructure-strategic-importance-global-economy",
+    "timestamp": "2026-03-10T16:21:03",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Kharg Island: Iran\u2019s \u2018untouchable\u2019 oil artery?",
+    "url": "https://www.france24.com/en/middle-east/20260310-iran-us-israel-war-middle-east-kharg-island-oil-hub-infrastructure-strategic-importance-global-economy"
+  },
+  {
+    "id": "https://www.defenseone.com/threats/2026/03/russia-linked-hackers-appear-iran-wars-cyber-front-their-impact-murky/412013/",
+    "timestamp": "2026-03-10T16:21:00",
+    "source": "Defense One",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Russia-linked hackers appear on Iran war\u2019s cyber front, but their impact is murky",
+    "url": "https://www.defenseone.com/threats/2026/03/russia-linked-hackers-appear-iran-wars-cyber-front-their-impact-murky/412013/"
+  },
+  {
+    "id": "https://www.twz.com/land/u-s-striking-iranian-navy-ships-with-ballistic-missiles",
+    "timestamp": "2026-03-10T16:19:30",
+    "source": "The Drive WarZone",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "U.S. Striking Iranian Navy Ships With Ballistic Missiles",
+    "url": "https://www.twz.com/land/u-s-striking-iranian-navy-ships-with-ballistic-missiles"
+  },
+  {
+    "id": "https://www.militarytimes.com/news/your-military/2026/03/10/majority-of-american-voters-oppose-the-iran-war-poll-finds/",
+    "timestamp": "2026-03-10T16:13:50",
+    "source": "Military Times",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Majority of American voters oppose the Iran war, poll finds",
+    "url": "https://www.militarytimes.com/news/your-military/2026/03/10/majority-of-american-voters-oppose-the-iran-war-poll-finds/"
+  },
+  {
+    "id": "https://www.theguardian.com/travel/2026/mar/10/principe-africa-villagers-to-be-paid-protect-ecosystem-african-galapagos",
+    "timestamp": "2026-03-10T16:13:35",
+    "source": "Guardian World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Villagers on Principe, the \u2018African Galapagos\u2019, to be paid for protecting the ecosystem",
+    "url": "https://www.theguardian.com/travel/2026/mar/10/principe-africa-villagers-to-be-paid-protect-ecosystem-african-galapagos"
+  },
+  {
+    "id": "https://tass.com/world/2099379",
+    "timestamp": "2026-03-10T16:12:17",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Pentagon chief says world does not appreciate US efforts to reduce civilian casualties",
+    "url": "https://tass.com/world/2099379"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/03/10/moscow-is-flying-in-commission-to-replace-sevastopol-commanders-who-lost-s-400-in-ukrainian-strikes-instead-of-ending-war/",
+    "timestamp": "2026-03-10T16:11:09",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Moscow is flying in commission to replace Sevastopol commanders who lost S-400 in Ukrainian strikes, instead of ending war",
+    "url": "https://euromaidanpress.com/2026/03/10/moscow-is-flying-in-commission-to-replace-sevastopol-commanders-who-lost-s-400-in-ukrainian-strikes-instead-of-ending-war/"
+  },
+  {
+    "id": "https://www.dw.com/en/biontech-founders-step-down-to-start-new-venture/a-76293789?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-03-10T16:10:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "BioNTech founders step down to start new venture",
+    "url": "https://www.dw.com/en/biontech-founders-step-down-to-start-new-venture/a-76293789?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://tass.com/economy/2099371",
+    "timestamp": "2026-03-10T16:09:22",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Elon Musk tops Forbes' list of the world's richest people again",
+    "url": "https://tass.com/economy/2099371"
+  },
+  {
+    "id": "https://www.france24.com/en/europe/20260310-russia-deportation-ukrainian-children-a-crime-against-humanity-says-un-inquiry",
+    "timestamp": "2026-03-10T16:08:17",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Russia's deportation of Ukrainian children a 'crime against humanity', says UN inquiry",
+    "url": "https://www.france24.com/en/europe/20260310-russia-deportation-ukrainian-children-a-crime-against-humanity-says-un-inquiry"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/3/10/us-general-says-he-respects-irans-fight?traffic_source=rss",
+    "timestamp": "2026-03-10T16:05:05",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "US general says he \u2018respects\u2019 Iran\u2019s fight",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/10/us-general-says-he-respects-irans-fight?traffic_source=rss"
+  },
+  {
+    "id": "https://www.defenseone.com/policy/2026/03/year-hegseths-cuts-defense-civilians-report-degraded-performance-and-low-morale/412006/",
+    "timestamp": "2026-03-10T16:00:00",
+    "source": "Defense One",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "A year into Hegseth\u2019s cuts, defense civilians report \u2018degraded performance\u2019 and low morale",
+    "url": "https://www.defenseone.com/policy/2026/03/year-hegseths-cuts-defense-civilians-report-degraded-performance-and-low-morale/412006/"
+  },
+  {
+    "id": "https://www.france24.com/en/tv-shows/arts24/20260310-alison-bechdel-on-the-true-story-of-the-bechdel-test",
+    "timestamp": "2026-03-10T15:59:56",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Alison Bechdel on 'The True Story of the Bechdel Test'",
+    "url": "https://www.france24.com/en/tv-shows/arts24/20260310-alison-bechdel-on-the-true-story-of-the-bechdel-test"
+  },
+  {
+    "id": "https://tass.com/world/2099357",
+    "timestamp": "2026-03-10T15:57:16",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Bodies of 84 IRIS Dena crew members identified, will be returned to Iran \u2014 military",
+    "url": "https://tass.com/world/2099357"
+  },
+  {
+    "id": "https://www.france24.com/en/video/20260310-as-energy-prices-soar-russia-emerges-as-major-winner-of-middle-east-war",
+    "timestamp": "2026-03-10T15:57:14",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "As energy prices soar, Russia emerges as major winner of Middle East war",
+    "url": "https://www.france24.com/en/video/20260310-as-energy-prices-soar-russia-emerges-as-major-winner-of-middle-east-war"
+  },
+  {
+    "id": "https://tass.com/world/2099355",
+    "timestamp": "2026-03-10T15:56:03",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Middle East conflict leads to largest oil supply disruption in history \u2014 CNBC",
+    "url": "https://tass.com/world/2099355"
+  },
+  {
+    "id": "https://www.france24.com/en/video/20260310-iran-vows-to-fight-as-long-as-needed-as-trump-says-war-will-end-soon",
+    "timestamp": "2026-03-10T15:55:59",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Iran vows to fight 'as long as needed' as Trump says war will end 'soon'",
+    "url": "https://www.france24.com/en/video/20260310-iran-vows-to-fight-as-long-as-needed-as-trump-says-war-will-end-soon"
+  },
+  {
+    "id": "https://www.france24.com/en/video/20260310-hegseth-vows-most-intense-day-yet-of-us-strikes-as-iran-aims-to-fight-on",
+    "timestamp": "2026-03-10T15:54:33",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Hegseth vows most intense day yet of US strikes as Iran aims to fight on",
+    "url": "https://www.france24.com/en/video/20260310-hegseth-vows-most-intense-day-yet-of-us-strikes-as-iran-aims-to-fight-on"
+  },
+  {
+    "id": "https://taskandpurpose.com/news/military-hegseth-iran-2026/",
+    "timestamp": "2026-03-10T15:52:54",
+    "source": "Task & Purpose",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Hegseth won\u2019t say how long Iran war might last",
+    "url": "https://taskandpurpose.com/news/military-hegseth-iran-2026/"
+  },
+  {
+    "id": "https://www.defensenews.com/global/asia-pacific/2026/03/10/two-iranian-warships-take-sanctuary-in-india-and-sri-lanka/",
+    "timestamp": "2026-03-10T15:51:06",
+    "source": "Defense News",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Two Iranian warships take sanctuary in India and Sri Lanka",
+    "url": "https://www.defensenews.com/global/asia-pacific/2026/03/10/two-iranian-warships-take-sanctuary-in-india-and-sri-lanka/"
+  },
+  {
+    "id": "https://www.dw.com/en/discrimination-is-a-widespread-phenomenon-in-germany/a-76293746?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-03-10T15:48:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Discrimination is a widespread phenomenon in Germany",
+    "url": "https://www.dw.com/en/discrimination-is-a-widespread-phenomenon-in-germany/a-76293746?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/03/10/ukraine-destroys-russias-volna-3-drone-jammer-with-its-drone-in-donetsk-oblast/",
+    "timestamp": "2026-03-10T15:47:56",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Ukraine destroys Russia\u2019s Volna-3 drone jammer with its drone in Donetsk Oblast",
+    "url": "https://euromaidanpress.com/2026/03/10/ukraine-destroys-russias-volna-3-drone-jammer-with-its-drone-in-donetsk-oblast/"
+  },
+  {
+    "id": "https://news.usni.org/2026/03/10/chinese-australian-navy-helicopters-have-unsafe-interaction-over-yellow-sea",
+    "timestamp": "2026-03-10T15:46:24",
+    "source": "USNI News",
+    "platform": "rss",
+    "category": "naval",
+    "region": "global",
+    "text": "Chinese, Australian Navy Helicopters Have \u2018Unsafe\u2019 Interaction Over Yellow Sea",
+    "url": "https://news.usni.org/2026/03/10/chinese-australian-navy-helicopters-have-unsafe-interaction-over-yellow-sea"
+  },
+  {
+    "id": "https://www.france24.com/en/tv-shows/france-in-focus/20260310-the-louvre-heist-security-flaws-and-deeper-cracks-at-france-s-top-museum",
+    "timestamp": "2026-03-10T15:38:50",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "The Louvre heist: Security flaws and deeper cracks at France\u2019s top museum",
+    "url": "https://www.france24.com/en/tv-shows/france-in-focus/20260310-the-louvre-heist-security-flaws-and-deeper-cracks-at-france-s-top-museum"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/3/10/israeli-air-strike-targets-building-in-south-lebanon?traffic_source=rss",
+    "timestamp": "2026-03-10T15:34:41",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Israeli air strike targets building in south Lebanon",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/10/israeli-air-strike-targets-building-in-south-lebanon?traffic_source=rss"
+  },
+  {
     "id": "https://www.dw.com/en/pakistan-to-close-schools-cut-spending-over-iran-war/a-76293311?maca=en-rss-en-all-1573-xml-mrss",
     "timestamp": "2026-03-10T15:28:00",
     "source": "DW World",
@@ -80,6 +420,26 @@
     "url": "https://www.theguardian.com/world/2026/mar/10/tumbler-ridge-shooting-victim-sues-openai-canada"
   },
   {
+    "id": "https://tass.com/world/2099339",
+    "timestamp": "2026-03-10T15:14:09",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Iranian security agencies targeted in recent strike on northwest Iran \u2014 Mehr",
+    "url": "https://tass.com/world/2099339"
+  },
+  {
+    "id": "https://tass.com/world/2099337",
+    "timestamp": "2026-03-10T15:13:20",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Hungary interested in supporting Ukraine as buffer zone between itself, Russia \u2014 PM",
+    "url": "https://tass.com/world/2099337"
+  },
+  {
     "id": "https://www.france24.com/en/video/20260310-waves-of-displaced-arriving-in-lebanon-s-sidon-as-israel-warns-of-new-strikes",
     "timestamp": "2026-03-10T15:12:57",
     "source": "France24",
@@ -110,6 +470,16 @@
     "url": "https://www.aljazeera.com/news/2026/3/10/pete-hegseth-vows-most-intense-day-of-us-strikes-against-iran?traffic_source=rss"
   },
   {
+    "id": "https://sofrep.com/news/the-rhodesian-bush-war-fireforce-and-the-security-forces-that-fought-it/",
+    "timestamp": "2026-03-10T15:00:10",
+    "source": "SOFREP",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "The Rhodesian Bush War: Fireforce and the Security Forces That Fought It",
+    "url": "https://sofrep.com/news/the-rhodesian-bush-war-fireforce-and-the-security-forces-that-fought-it/"
+  },
+  {
     "id": "https://breakingdefense.com/2026/03/robinson-helicopter-launches-unmanned-division-envisions-next-gen-helo-drones/",
     "timestamp": "2026-03-10T15:00:00",
     "source": "Breaking Defense",
@@ -118,6 +488,36 @@
     "region": "global",
     "text": "Robinson Helicopter launches unmanned division, envisions next-gen helo drones",
     "url": "https://breakingdefense.com/2026/03/robinson-helicopter-launches-unmanned-division-envisions-next-gen-helo-drones/"
+  },
+  {
+    "id": "https://tass.com/economy/2099331",
+    "timestamp": "2026-03-10T14:57:41",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "BRICS Thailand-Russia Business Forum to be held in Bangkok on March 20 \u2014 organizers",
+    "url": "https://tass.com/economy/2099331"
+  },
+  {
+    "id": "https://tass.com/world/2099329",
+    "timestamp": "2026-03-10T14:56:25",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Israel hits Hezbollah sites in Beirut\u2019s south \u2014 source",
+    "url": "https://tass.com/world/2099329"
+  },
+  {
+    "id": "https://tass.com/sports/2099325",
+    "timestamp": "2026-03-10T14:52:06",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russian cross-country skier Bagiyan wins gold at 2026 Winter Paralympics in sprint event",
+    "url": "https://tass.com/sports/2099325"
   },
   {
     "id": "https://www.dw.com/en/china-bets-on-new-tech-domestic-demand-at-two-sessions/a-76293096?maca=en-rss-en-all-1573-xml-mrss",
@@ -138,6 +538,16 @@
     "region": "global",
     "text": "Hegseth leaves Iran war\u2019s timeline in Trump\u2019s hands",
     "url": "https://www.defenseone.com/threats/2026/03/hegseth-leaves-iran-wars-timeline-trumps-hands/412007/"
+  },
+  {
+    "id": "https://tass.com/politics/2099323",
+    "timestamp": "2026-03-10T14:49:18",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Hot phase of Middle East conflict may last 10-15 days more \u2014 Russian expert",
+    "url": "https://tass.com/politics/2099323"
   },
   {
     "id": "https://www.aljazeera.com/video/newsfeed/2026/3/10/protesters-block-irans-womens-football-team-bus-en-route-to-airport?traffic_source=rss",
@@ -168,6 +578,26 @@
     "region": "mena",
     "text": "US defence chief ends Iran war briefing with prayer for troops",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/3/10/us-defence-chief-ends-iran-war-briefing-with-prayer-for-troops?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/economy/2099315",
+    "timestamp": "2026-03-10T14:34:34",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Prototype drone similar to Starlink planned for testing in spring of 2026 \u2014 CUST",
+    "url": "https://tass.com/economy/2099315"
+  },
+  {
+    "id": "https://tass.com/economy/2099313",
+    "timestamp": "2026-03-10T14:33:20",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Strait of Hormuz closure would lead to a global economic disaster \u2014 Saudi Aramco CEO",
+    "url": "https://tass.com/economy/2099313"
   },
   {
     "id": "https://www.france24.com/en/tv-shows/focus/20260310-europe-s-borders-under-threat-from-russia-baltic-states-gear-up-for-war",
@@ -478,6 +908,16 @@
     "region": "ru",
     "text": "Aggressors seeking to \u2018drive wedge\u2019 between Iran, Arab countries \u2014 Russian diplomat",
     "url": "https://tass.com/politics/2099261"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cev7llekwllo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-03-10T13:26:17",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "'I just want to be able to sleep': Attacks in Iran rock cities and cut power",
+    "url": "https://www.bbc.com/news/articles/cev7llekwllo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://tass.com/politics/2099255",
@@ -4558,445 +4998,5 @@
     "region": "global",
     "text": "Bag of cannabis and cash accidentally donated to NZ charity shop",
     "url": "https://www.bbc.com/news/articles/c1w5yq924j1o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/03/09/iranian_strategist_no_ceasefire_on_our_agenda_1169209.html",
-    "timestamp": "2026-03-09T11:31:16",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Iranian Strategist: No Ceasefire on Our Agenda",
-    "url": "https://www.realcleardefense.com/2026/03/09/iranian_strategist_no_ceasefire_on_our_agenda_1169209.html"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/03/09/us_navy_year_in_review_1169204.html",
-    "timestamp": "2026-03-09T11:31:15",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "U.S. Navy Year in Review",
-    "url": "https://www.realcleardefense.com/2026/03/09/us_navy_year_in_review_1169204.html"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/03/09/mass_drones_to_save_missiles_a_highlow_mix_for_the_pacific_1169205.html",
-    "timestamp": "2026-03-09T11:31:15",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Mass Drones to Save Missiles: A High\u2013Low Mix for the Pacific",
-    "url": "https://www.realcleardefense.com/2026/03/09/mass_drones_to_save_missiles_a_highlow_mix_for_the_pacific_1169205.html"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/03/09/epic_leader__the_source_of_epic_furys_success_1169155.html",
-    "timestamp": "2026-03-09T11:31:14",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Epic Leader \u2013 the Source of Epic Fury's Success",
-    "url": "https://www.realcleardefense.com/2026/03/09/epic_leader__the_source_of_epic_furys_success_1169155.html"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/03/09/dei_may_be_gone_in_nameits_enforcers_still_hold_the_levers_of_power_1169257.html",
-    "timestamp": "2026-03-09T11:31:13",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "DEI May Be Gone in Name\u2014Its Enforcers Still Hold the Levers of Power",
-    "url": "https://www.realcleardefense.com/2026/03/09/dei_may_be_gone_in_nameits_enforcers_still_hold_the_levers_of_power_1169257.html"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/03/09/the_rise_of_space_in_us_warfare_1169206.html",
-    "timestamp": "2026-03-09T11:31:12",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "The Rise of Space in U.S. Warfare",
-    "url": "https://www.realcleardefense.com/2026/03/09/the_rise_of_space_in_us_warfare_1169206.html"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/03/09/us_armys_project_flytrap_1169229.html",
-    "timestamp": "2026-03-09T11:31:12",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "U.S. Army's Project Flytrap",
-    "url": "https://www.realcleardefense.com/2026/03/09/us_armys_project_flytrap_1169229.html"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/03/09/missile_makers_agree_to_quadruple_production_trump_says_1169261.html",
-    "timestamp": "2026-03-09T11:31:11",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Missile Makers Agree To 'Quadruple' Production, Trump Says",
-    "url": "https://www.realcleardefense.com/2026/03/09/missile_makers_agree_to_quadruple_production_trump_says_1169261.html"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/03/09/pentagon_seeks_12b_more_to_bolster_f-35_program_1169154.html",
-    "timestamp": "2026-03-09T11:31:09",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Pentagon Seeks $12B More to Bolster F-35 Program",
-    "url": "https://www.realcleardefense.com/2026/03/09/pentagon_seeks_12b_more_to_bolster_f-35_program_1169154.html"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/03/09/is_russia_changing_its_nuclear_doctrine_to_affect_its_war_in_ukraine_1169259.html",
-    "timestamp": "2026-03-09T11:30:36",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Is Russia Changing its Nuclear Doctrine to Affect its War in Ukraine?",
-    "url": "https://www.realcleardefense.com/2026/03/09/is_russia_changing_its_nuclear_doctrine_to_affect_its_war_in_ukraine_1169259.html"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/03/09/from_tehran_to_donbas_what_the_iran_war_means_for_russia_and_ukraine_1169208.html",
-    "timestamp": "2026-03-09T11:30:35",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "From Tehran to Donbas: What the Iran War Means for Russia and Ukraine",
-    "url": "https://www.realcleardefense.com/2026/03/09/from_tehran_to_donbas_what_the_iran_war_means_for_russia_and_ukraine_1169208.html"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/03/09/trumps_iran_war_may_be_putins_nuclear_green_light_1169258.html",
-    "timestamp": "2026-03-09T11:30:35",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Trump's Iran War May Be Putin's Nuclear Green Light",
-    "url": "https://www.realcleardefense.com/2026/03/09/trumps_iran_war_may_be_putins_nuclear_green_light_1169258.html"
-  },
-  {
-    "id": "https://www.france24.com/en/hezbollah-reports-clash-with-overnight-israeli-raid-in-east-lebanon",
-    "timestamp": "2026-03-09T11:29:09",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Hezbollah reports clash with overnight Israeli raid in east Lebanon",
-    "url": "https://www.france24.com/en/hezbollah-reports-clash-with-overnight-israeli-raid-in-east-lebanon"
-  },
-  {
-    "id": "https://tass.com/politics/2098763",
-    "timestamp": "2026-03-09T11:25:33",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Putin says Russia\u2019s support and solidarity with Iran remains unchanged",
-    "url": "https://tass.com/politics/2098763"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/03/09/russias-advanced-radar-was-called-gravestone-ukraine-just-gave-it-appropriate-send-off-over-crimea/",
-    "timestamp": "2026-03-09T11:16:03",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Russia\u2019s advanced radar was called Gravestone. Ukraine just gave it appropriate send-off over Crimea",
-    "url": "https://euromaidanpress.com/2026/03/09/russias-advanced-radar-was-called-gravestone-ukraine-just-gave-it-appropriate-send-off-over-crimea/"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/3/9/newcastle-united-vs-barcelona-champions-league-team-news-start?traffic_source=rss",
-    "timestamp": "2026-03-09T11:09:05",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Newcastle United vs Barcelona: Champions League \u2013 team news, start, lineups",
-    "url": "https://www.aljazeera.com/sports/2026/3/9/newcastle-united-vs-barcelona-champions-league-team-news-start?traffic_source=rss"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/03/09/ukraine-sent-drone-experts-to-protect-us-bases-in-jordan-overnight-last-month-kyiv-destroyed-87-of-iranian-designed-drones-on-its-soil/",
-    "timestamp": "2026-03-09T10:46:58",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Ukraine sent drone experts to protect US bases in Jordan overnight. Last month, Kyiv destroyed 87% of Iranian-designed drones on its soil",
-    "url": "https://euromaidanpress.com/2026/03/09/ukraine-sent-drone-experts-to-protect-us-bases-in-jordan-overnight-last-month-kyiv-destroyed-87-of-iranian-designed-drones-on-its-soil/"
-  },
-  {
-    "id": "https://tass.com/world/2098755",
-    "timestamp": "2026-03-09T10:46:04",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Hungary proposes EU lift ban on Russian oil, gas \u2014 Szijjarto",
-    "url": "https://tass.com/world/2098755"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/3/9/reprehensible-new-wave-of-iranian-missiles-drones-target-gulf-nations?traffic_source=rss",
-    "timestamp": "2026-03-09T10:41:33",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "\u2018Reprehensible\u2019: New wave of Iranian missiles, drones target Gulf nations",
-    "url": "https://www.aljazeera.com/news/2026/3/9/reprehensible-new-wave-of-iranian-missiles-drones-target-gulf-nations?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/3/9/moment-building-in-beirut-southern-suburbs-was-targeted-by-israeli-strike?traffic_source=rss",
-    "timestamp": "2026-03-09T10:38:52",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Moment building in Beirut southern suburbs was targeted by Israeli strike",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/9/moment-building-in-beirut-southern-suburbs-was-targeted-by-israeli-strike?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/china-calls-for-end-of-conflict-in-middle-east-amid-global-instability",
-    "timestamp": "2026-03-09T10:38:29",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "China calls for end of conflict in Middle East amid global instability",
-    "url": "https://www.france24.com/en/china-calls-for-end-of-conflict-in-middle-east-amid-global-instability"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/3/9/uk-media-bias-muslims?traffic_source=rss",
-    "timestamp": "2026-03-09T10:37:52",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "UK media biased against Muslims, says group that analysed 40,000 articles",
-    "url": "https://www.aljazeera.com/news/2026/3/9/uk-media-bias-muslims?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/iran-goes-full-dynasty-with-choice-of-new-supreme-leader",
-    "timestamp": "2026-03-09T10:34:17",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Iran goes \u2018full dynasty\u2019 with choice of new supreme leader",
-    "url": "https://www.france24.com/en/iran-goes-full-dynasty-with-choice-of-new-supreme-leader"
-  },
-  {
-    "id": "https://www.france24.com/en/many-in-lebanon-can-t-afford-moving-to-safer-areas-as-israeli-strikes-continue",
-    "timestamp": "2026-03-09T10:30:53",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Many in Lebanon can't afford moving to safer areas as Israeli strikes continue",
-    "url": "https://www.france24.com/en/many-in-lebanon-can-t-afford-moving-to-safer-areas-as-israeli-strikes-continue"
-  },
-  {
-    "id": "https://www.france24.com/en/concern-inherited-power-exchange-may-not-go-down-well-in-iran",
-    "timestamp": "2026-03-09T10:29:49",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Concern 'inherited power exchange may not go down well' in Iran",
-    "url": "https://www.france24.com/en/concern-inherited-power-exchange-may-not-go-down-well-in-iran"
-  },
-  {
-    "id": "https://www.france24.com/en/gulf-countries-targeted-by-fresh-iranian-attacks-as-repatriation-still-underway",
-    "timestamp": "2026-03-09T10:27:03",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Gulf countries targeted by fresh Iranian attacks as repatriation still underway",
-    "url": "https://www.france24.com/en/gulf-countries-targeted-by-fresh-iranian-attacks-as-repatriation-still-underway"
-  },
-  {
-    "id": "https://www.defensenews.com/global/europe/2026/03/09/finland-readies-itself-to-be-able-to-host-nukes-in-longtime-policy-departure/",
-    "timestamp": "2026-03-09T10:26:05",
-    "source": "Defense News",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Finland readies itself to be able to host nukes in longtime policy departure",
-    "url": "https://www.defensenews.com/global/europe/2026/03/09/finland-readies-itself-to-be-able-to-host-nukes-in-longtime-policy-departure/"
-  },
-  {
-    "id": "https://www.france24.com/en/khamenei-son-nomination-met-with-mixed-reactions",
-    "timestamp": "2026-03-09T10:23:29",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Khamenei son nomination met with mixed reactions",
-    "url": "https://www.france24.com/en/khamenei-son-nomination-met-with-mixed-reactions"
-  },
-  {
-    "id": "https://www.france24.com/en/tv-shows/press-review/20260309-the-shadow-prince-mojtaba-khamenei-succeeds-father-as-iran-s-new-supreme-leader",
-    "timestamp": "2026-03-09T10:19:39",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "The 'shadow prince': Mojtaba Khamenei succeeds father as Iran's new Supreme Leader",
-    "url": "https://www.france24.com/en/tv-shows/press-review/20260309-the-shadow-prince-mojtaba-khamenei-succeeds-father-as-iran-s-new-supreme-leader"
-  },
-  {
-    "id": "https://www.dw.com/en/long-before-ai-fake-photos-were-already-popular/a-76188708?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-03-09T10:18:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Long before AI, fake photos were already popular",
-    "url": "https://www.dw.com/en/long-before-ai-fake-photos-were-already-popular/a-76188708?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/3/9/iran-says-1255-killed-in-us-israeli-attacks-mostly-civilians?traffic_source=rss",
-    "timestamp": "2026-03-09T10:12:48",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Iran says 1,255 people killed in US-Israeli attacks, mostly civilians",
-    "url": "https://www.aljazeera.com/news/2026/3/9/iran-says-1255-killed-in-us-israeli-attacks-mostly-civilians?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/israelis-divided-over-war-with-iran-as-conflict-expands",
-    "timestamp": "2026-03-09T10:07:03",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Israelis divided over war with Iran as conflict expands",
-    "url": "https://www.france24.com/en/israelis-divided-over-war-with-iran-as-conflict-expands"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/3/9/iraq-coach-urges-fifa-to-delay-world-cup-playoff-amid-us-israel-war-on-iran?traffic_source=rss",
-    "timestamp": "2026-03-09T10:05:40",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Iraq coach urges FIFA to delay World Cup playoff amid US-Israel war on Iran",
-    "url": "https://www.aljazeera.com/sports/2026/3/9/iraq-coach-urges-fifa-to-delay-world-cup-playoff-amid-us-israel-war-on-iran?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/iran-related-oil-price-surge-impacts-united-states",
-    "timestamp": "2026-03-09T10:04:31",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Iran-related oil price surge impacts United States",
-    "url": "https://www.france24.com/en/iran-related-oil-price-surge-impacts-united-states"
-  },
-  {
-    "id": "https://www.france24.com/en/half-a-million-displaced-in-lebanon-amid-intensifying-israeli-strikes",
-    "timestamp": "2026-03-09T10:02:51",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Half a million displaced in Lebanon amid intensifying Israeli strikes",
-    "url": "https://www.france24.com/en/half-a-million-displaced-in-lebanon-amid-intensifying-israeli-strikes"
-  },
-  {
-    "id": "https://www.france24.com/en/with-new-supreme-leader-iran-says-business-back-as-usual",
-    "timestamp": "2026-03-09T10:01:19",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "With new supreme leader, Iran says 'business back as usual'",
-    "url": "https://www.france24.com/en/with-new-supreme-leader-iran-says-business-back-as-usual"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/3/9/which-us-and-israeli-military-companies-are-profiting-from-the-iran-war?traffic_source=rss",
-    "timestamp": "2026-03-09T09:56:01",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Which US and Israeli military companies are profiting from the Iran war?",
-    "url": "https://www.aljazeera.com/news/2026/3/9/which-us-and-israeli-military-companies-are-profiting-from-the-iran-war?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/defense/2098739",
-    "timestamp": "2026-03-09T09:51:33",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian army liberates settlement of Golubovka in DPR",
-    "url": "https://tass.com/defense/2098739"
-  },
-  {
-    "id": "https://www.gov.uk/guidance/service-prosecuting-authority",
-    "timestamp": "2026-03-09T09:43:44",
-    "source": "UK MoD",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Service Prosecuting Authority",
-    "url": "https://www.gov.uk/guidance/service-prosecuting-authority"
-  },
-  {
-    "id": "https://www.france24.com/en/who-is-khamenei-s-son-the-new-iranian-supreme-leader",
-    "timestamp": "2026-03-09T09:43:17",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Who is Khamenei's son, the new Iranian supreme leader?",
-    "url": "https://www.france24.com/en/who-is-khamenei-s-son-the-new-iranian-supreme-leader"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/3/9/we-are-going-make-a-tonne-of-money-us-senator-graham-on-us-war-on-iran?traffic_source=rss",
-    "timestamp": "2026-03-09T09:30:54",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "\u2018We are going make a tonne of money\u2019: US Senator Graham on US war on Iran",
-    "url": "https://www.aljazeera.com/news/2026/3/9/we-are-going-make-a-tonne-of-money-us-senator-graham-on-us-war-on-iran?traffic_source=rss"
-  },
-  {
-    "id": "https://www.defensenews.com/global/europe/2026/03/09/european-nato-nations-reduce-reliance-on-us-arms-imports-sipri-data/",
-    "timestamp": "2026-03-09T09:30:53",
-    "source": "Defense News",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "European NATO nations reduce reliance on US arms imports: SIPRI data",
-    "url": "https://www.defensenews.com/global/europe/2026/03/09/european-nato-nations-reduce-reliance-on-us-arms-imports-sipri-data/"
-  },
-  {
-    "id": "https://www.france24.com/en/europe/20260309-belgium-to-investigate-targeted-synagogue-explosion-in-liege",
-    "timestamp": "2026-03-09T09:26:12",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Belgian interior minister slams 'anti-Semitic act' as police probe Li\u00e8ge synagogue explosion",
-    "url": "https://www.france24.com/en/europe/20260309-belgium-to-investigate-targeted-synagogue-explosion-in-liege"
-  },
-  {
-    "id": "https://tass.com/world/2098721",
-    "timestamp": "2026-03-09T09:18:35",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Israeli army says intercepting missiles after new launch from Iran",
-    "url": "https://tass.com/world/2098721"
   }
 ]
