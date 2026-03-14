@@ -1,5 +1,35 @@
 [
   {
+    "id": "https://tass.com/emergencies/2101665",
+    "timestamp": "2026-03-14T19:17:50",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russia downs 280 Ukrainian drones during 10 hours on Saturday",
+    "url": "https://tass.com/emergencies/2101665"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/03/14/she-did-hair-now-she-does-war-with-droid-tw-robot-driving-through-dusty-frontline-terrain-in-ukraine/",
+    "timestamp": "2026-03-14T19:15:29",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "She did hair. Now, she does war driving Droid TW robot through dusty frontline terrain in Ukraine",
+    "url": "https://euromaidanpress.com/2026/03/14/she-did-hair-now-she-does-war-with-droid-tw-robot-driving-through-dusty-frontline-terrain-in-ukraine/"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/3/14/us-embassy-in-venezuela-reopens-as-trump-pushes-for-access-to-resources?traffic_source=rss",
+    "timestamp": "2026-03-14T19:04:05",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "US embassy in Venezuela reopens as Trump pushes for access to resources",
+    "url": "https://www.aljazeera.com/news/2026/3/14/us-embassy-in-venezuela-reopens-as-trump-pushes-for-access-to-resources?traffic_source=rss"
+  },
+  {
     "id": "https://euromaidanpress.com/2026/03/14/kyiv-troops-hold-positions-while-grinding-forward-on-southern-front-destroying-russian-units-along-way/",
     "timestamp": "2026-03-14T18:44:22",
     "source": "Euromaidan Press",
@@ -8,6 +38,16 @@
     "region": "ua",
     "text": "Kyiv troops hold positions while grinding forward on southern front \u2014destroying Russian units along way",
     "url": "https://euromaidanpress.com/2026/03/14/kyiv-troops-hold-positions-while-grinding-forward-on-southern-front-destroying-russian-units-along-way/"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/3/14/iran-warns-uae-ports-and-american-hideouts-are-targets?traffic_source=rss",
+    "timestamp": "2026-03-14T18:31:30",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Iran warns UAE ports and \u2018American hideouts\u2019 are targets",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/iran-warns-uae-ports-and-american-hideouts-are-targets?traffic_source=rss"
   },
   {
     "id": "https://euromaidanpress.com/2026/03/14/ukraine-strikes-khanskaya-airfield-where-moscow-trains-its-top-military-pilots-its-500-kilometers-inside-russian-territory/",
@@ -4958,45 +4998,5 @@
     "region": "ru",
     "text": "Israel, US strike eastern Tehran \u2014 agency",
     "url": "https://tass.com/world/2100963"
-  },
-  {
-    "id": "https://www.aljazeera.com/economy/2026/3/13/oil-stays-above-100-a-barrel-amid-irans-stranglehold-on-strait-of-hormuz?traffic_source=rss",
-    "timestamp": "2026-03-13T03:58:19",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Oil stays above $100 a barrel amid Iran\u2019s stranglehold on Strait of Hormuz",
-    "url": "https://www.aljazeera.com/economy/2026/3/13/oil-stays-above-100-a-barrel-amid-irans-stranglehold-on-strait-of-hormuz?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/asia-pacific/20260313-pakistan-airstrikes-kabul-afghanistan-four-killed",
-    "timestamp": "2026-03-13T03:55:25",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Pakistan air strikes hit Kabul and Afghan border provinces, killing four",
-    "url": "https://www.france24.com/en/asia-pacific/20260313-pakistan-airstrikes-kabul-afghanistan-four-killed"
-  },
-  {
-    "id": "https://www.dw.com/en/pakistan-bombs-kabul-and-afghan-border-provinces/a-76341327?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-03-13T03:48:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Pakistan bombs Kabul and Afghan border provinces",
-    "url": "https://www.dw.com/en/pakistan-bombs-kabul-and-afghan-border-provinces/a-76341327?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://tass.com/world/2100961",
-    "timestamp": "2026-03-13T03:42:08",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Iraqi radical groups say they carried out over 30 attacks on US sites in past day",
-    "url": "https://tass.com/world/2100961"
   }
 ]
