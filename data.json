@@ -1,5 +1,75 @@
 [
   {
+    "id": "https://tass.com/economy/2102001",
+    "timestamp": "2026-03-16T06:48:18",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Japan starts releasing oil from its national reserves to market",
+    "url": "https://tass.com/economy/2102001"
+  },
+  {
+    "id": "https://tass.com/politics/2101995",
+    "timestamp": "2026-03-16T06:26:29",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Ukraine loses 9,100 troops, mercenaries over past week \u2014 expert",
+    "url": "https://tass.com/politics/2101995"
+  },
+  {
+    "id": "https://www.france24.com/en/tv-shows/sports/20260316-ligue-1-lyon-can-t-beat-le-havre-and-see-om-take-off-in-race-for-3rd",
+    "timestamp": "2026-03-16T06:14:23",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Ligue 1: Lyon can't beat Le Havre and see OM take off in race for 3rd",
+    "url": "https://www.france24.com/en/tv-shows/sports/20260316-ligue-1-lyon-can-t-beat-le-havre-and-see-om-take-off-in-race-for-3rd"
+  },
+  {
+    "id": "https://tass.com/world/2101993",
+    "timestamp": "2026-03-16T06:12:46",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Iran vows continued fight until Trump realizes US war on it is 'wrong' \u2014 top diplomat",
+    "url": "https://tass.com/world/2101993"
+  },
+  {
+    "id": "https://www.dw.com/en/kazakhstan-voters-back-constitutional-overhaul-exit-polls-show/a-76372891?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-03-16T06:09:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Kazakhstan voters back constitutional overhaul, exit polls show",
+    "url": "https://www.dw.com/en/kazakhstan-voters-back-constitutional-overhaul-exit-polls-show/a-76372891?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/3/16/rafah-crossing-closure-leaves-gaza-patients-trapped-without-treatment?traffic_source=rss",
+    "timestamp": "2026-03-16T06:04:39",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Rafah crossing closure leaves Gaza patients trapped without treatment",
+    "url": "https://www.aljazeera.com/news/2026/3/16/rafah-crossing-closure-leaves-gaza-patients-trapped-without-treatment?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/3/16/one-battle-after-anothers-big-night-key-takeaways-from-the-2026-oscars?traffic_source=rss",
+    "timestamp": "2026-03-16T05:24:45",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "One Battle After Another\u2019s big night: Key takeaways from the 2026 Oscars",
+    "url": "https://www.aljazeera.com/news/2026/3/16/one-battle-after-anothers-big-night-key-takeaways-from-the-2026-oscars?traffic_source=rss"
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cp9mg90k78eo?at_medium=RSS&at_campaign=rss",
     "timestamp": "2026-03-16T05:04:06",
     "source": "BBC World",
@@ -128,6 +198,16 @@
     "region": "mena",
     "text": "Stars at Oscars 2026 call for end to war in Gaza and Iran",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/3/16/stars-at-oscars-2026-call-for-end-to-war-in-gaza-and-iran?traffic_source=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c33jkvmzl4ko?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-03-16T03:43:48",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Oscars 2026: Winners list in full",
+    "url": "https://www.bbc.com/news/articles/c33jkvmzl4ko?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://tass.com/world/2101961",
@@ -588,6 +668,16 @@
     "region": "ru",
     "text": "Organizers of Paralympic Games in Italy hand over Paralympic flag to France",
     "url": "https://tass.com/sports/2101911"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c4gj1135x7ro?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-03-15T20:47:36",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Michigan synagogue attacker's brother was Hezbollah commander, IDF says",
+    "url": "https://www.bbc.com/news/articles/c4gj1135x7ro?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.france24.com/en/france/20260315-left-wing-candidate-emmanuel-gregoire-tops-first-round-paris-mayoral-race-rachida-dati",
@@ -4908,95 +4998,5 @@
     "region": "global",
     "text": "Marine Raider\u2019s remains identified 80 years after being killed in action",
     "url": "https://www.militarytimes.com/veterans/military-history/2026/03/13/marine-raiders-remains-identified-80-years-after-being-killed-in-action/"
-  },
-  {
-    "id": "https://www.france24.com/en/tv-shows/the-world-this-week/20260313-iran-a-nepo-ayatollah-the-hubris-trap-the-costs-of-a-very-complete-war",
-    "timestamp": "2026-03-13T19:27:57",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Iran: A 'Nepo-Ayatollah', the 'Hubris trap\"\u00a0& the costs of a \"very complete war\"",
-    "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260313-iran-a-nepo-ayatollah-the-hubris-trap-the-costs-of-a-very-complete-war"
-  },
-  {
-    "id": "https://news.usni.org/2026/03/13/uss-tripoli-31st-meu-heading-to-the-middle-east",
-    "timestamp": "2026-03-13T19:18:36",
-    "source": "USNI News",
-    "platform": "rss",
-    "category": "naval",
-    "region": "global",
-    "text": "USS Tripoli, 31st MEU Heading to the Middle East",
-    "url": "https://news.usni.org/2026/03/13/uss-tripoli-31st-meu-heading-to-the-middle-east"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/3/13/qatars-interior-minister-says-security-situation-stable-amid-iran-war?traffic_source=rss",
-    "timestamp": "2026-03-13T19:18:20",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Qatar\u2019s interior minister says security situation \u2018stable\u2019 amid Iran war",
-    "url": "https://www.aljazeera.com/news/2026/3/13/qatars-interior-minister-says-security-situation-stable-amid-iran-war?traffic_source=rss"
-  },
-  {
-    "id": "https://breakingdefense.com/2026/03/uk-navy-buys-20-usvs-to-act-as-unmanned-proving-ground/",
-    "timestamp": "2026-03-13T19:01:58",
-    "source": "Breaking Defense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "UK Navy buys 20 USVs to act as unmanned \u2018proving ground\u2019",
-    "url": "https://breakingdefense.com/2026/03/uk-navy-buys-20-usvs-to-act-as-unmanned-proving-ground/"
-  },
-  {
-    "id": "https://sofrep.com/news/sofrep-cartoon-british-army-survey-on-gender-neutral-grooming-standards-raises-plucked-eyebrows/",
-    "timestamp": "2026-03-13T19:00:57",
-    "source": "SOFREP",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "SOFREP Cartoon: British Army Survey on Gender-Neutral Grooming Standards Raises (Plucked) Eyebrows",
-    "url": "https://sofrep.com/news/sofrep-cartoon-british-army-survey-on-gender-neutral-grooming-standards-raises-plucked-eyebrows/"
-  },
-  {
-    "id": "https://www.twz.com/news-features/ukrainian-companies-prohibited-from-exporting-shahed-interceptor-drones",
-    "timestamp": "2026-03-13T18:56:30",
-    "source": "The Drive WarZone",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Ukrainian Companies Prohibited From Exporting Shahed Interceptor Drones",
-    "url": "https://www.twz.com/news-features/ukrainian-companies-prohibited-from-exporting-shahed-interceptor-drones"
-  },
-  {
-    "id": "https://www.defensenews.com/industry/techwatch/2026/03/13/after-ukraine-fpv-drones-could-take-on-arctic-warfare/",
-    "timestamp": "2026-03-13T18:56:20",
-    "source": "Defense News",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "After Ukraine, FPV drones could take on Arctic warfare",
-    "url": "https://www.defensenews.com/industry/techwatch/2026/03/13/after-ukraine-fpv-drones-could-take-on-arctic-warfare/"
-  },
-  {
-    "id": "https://tass.com/world/2101467",
-    "timestamp": "2026-03-13T18:53:58",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Iran uses solid-fuel ballistic missiles to attack Israel \u2014 IRGC",
-    "url": "https://tass.com/world/2101467"
-  },
-  {
-    "id": "https://www.defensenews.com/flashpoints/ukraine/2026/03/13/ukraine-opens-battlefield-ai-data-to-allies-in-world-first-move/",
-    "timestamp": "2026-03-13T18:53:41",
-    "source": "Defense News",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Ukraine opens battlefield AI data to allies in world-first move",
-    "url": "https://www.defensenews.com/flashpoints/ukraine/2026/03/13/ukraine-opens-battlefield-ai-data-to-allies-in-world-first-move/"
   }
 ]
