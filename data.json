@@ -1,5 +1,75 @@
 [
   {
+    "id": "https://tass.com/world/2102657",
+    "timestamp": "2026-03-17T06:04:08",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "US embassy advises Americans to leave Iraq due to security threat \u2014 statement",
+    "url": "https://tass.com/world/2102657"
+  },
+  {
+    "id": "https://tass.com/world/2102655",
+    "timestamp": "2026-03-17T05:55:00",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Debris from intercepted missile falls in UAE's Abu Dhabi, killing one person \u2014 authorities",
+    "url": "https://tass.com/world/2102655"
+  },
+  {
+    "id": "https://www.aljazeera.com/sports/2026/3/17/iran-negotiating-with-fifa-to-move-world-cup-2026-matches-from-us-to-mexico?traffic_source=rss",
+    "timestamp": "2026-03-17T05:42:00",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Iran negotiating with FIFA to move World Cup 2026 matches from US to Mexico",
+    "url": "https://www.aljazeera.com/sports/2026/3/17/iran-negotiating-with-fifa-to-move-world-cup-2026-matches-from-us-to-mexico?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/world/2102649",
+    "timestamp": "2026-03-17T05:33:00",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "US can hardly deal with both Ukraine, war at Iran at the same time \u2014 Turkish expert",
+    "url": "https://tass.com/world/2102649"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/3/17/eu-says-iran-is-not-europes-war?traffic_source=rss",
+    "timestamp": "2026-03-17T05:26:51",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "EU says Iran is \u2018not Europe\u2019s war\u2019",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/17/eu-says-iran-is-not-europes-war?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/world/2102647",
+    "timestamp": "2026-03-17T05:01:38",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Majority backs Kazakhstan\u2019s new Constitution with 87.15% in referendum",
+    "url": "https://tass.com/world/2102647"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/3/17/marine-turned-anti-war-protester-says-trump-wrong-on-israel-iran?traffic_source=rss",
+    "timestamp": "2026-03-17T05:00:43",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Marine turned anti-war protester says Trump wrong on Israel, Iran",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/17/marine-turned-anti-war-protester-says-trump-wrong-on-israel-iran?traffic_source=rss"
+  },
+  {
     "id": "https://tass.com/emergencies/2102643",
     "timestamp": "2026-03-17T04:54:13",
     "source": "TASS English",
@@ -8,6 +78,16 @@
     "region": "ru",
     "text": "Two more UAVs destroyed over Russia\u2019s Leningrad Region",
     "url": "https://tass.com/emergencies/2102643"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cpd8w5y0dpdo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-03-17T04:41:58",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "And the burger goes to... Michael B Jordan marks Oscars win at In-N-Out",
+    "url": "https://www.bbc.com/news/articles/cpd8w5y0dpdo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.aljazeera.com/sports/2026/3/17/venezuela-defeats-italy-sets-up-wbc-final-against-us?traffic_source=rss",
@@ -1328,6 +1408,16 @@
     "region": "global",
     "text": "Lockheed completes first flight test for PrSM Inc 2 aimed at hitting moving maritime targets",
     "url": "https://breakingdefense.com/2026/03/lockheed-completes-first-flight-test-for-prsm-inc-2-aimed-at-hitting-moving-maritime-targets/"
+  },
+  {
+    "id": "https://www.dw.com/en/us-wants-help-to-guard-strait-of-hormuz-but-eu-isn-t-keen/a-76380348?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-03-16T17:20:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "US wants help to guard Strait of Hormuz, but EU isn't keen",
+    "url": "https://www.dw.com/en/us-wants-help-to-guard-strait-of-hormuz-but-eu-isn-t-keen/a-76380348?maca=en-rss-en-all-1573-xml-mrss"
   },
   {
     "id": "https://www.dw.com/en/us-wants-help-to-guard-strait-of-hormuz-but-eu-is-not-keen/a-76380348?maca=en-rss-en-all-1573-xml-mrss",
@@ -4908,95 +4998,5 @@
     "region": "mena",
     "text": "What do the first two weeks of the war on Iran portend for the future?",
     "url": "https://www.aljazeera.com/opinions/2026/3/15/what-do-the-first-two-weeks-of-the-war-on-iran-portend-for-the-future?traffic_source=rss"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/03/15/ukraine-offers-washington-a-50-billion-drone-deal/",
-    "timestamp": "2026-03-15T13:34:52",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Ukraine proposed a $50 billion drone partnership with the US a year ago. Washington hasn\u2019t responded.",
-    "url": "https://euromaidanpress.com/2026/03/15/ukraine-offers-washington-a-50-billion-drone-deal/"
-  },
-  {
-    "id": "https://tass.com/sports/2101827",
-    "timestamp": "2026-03-15T13:07:58",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian skier Bagiyan wins third gold at Paralympics",
-    "url": "https://tass.com/sports/2101827"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/3/15/keisuke-honda-loses-us-advertising-deal-over-iran-support-at-world-cup?traffic_source=rss",
-    "timestamp": "2026-03-15T13:06:41",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Keisuke Honda loses US advertising deal over Iran support at World Cup",
-    "url": "https://www.aljazeera.com/sports/2026/3/15/keisuke-honda-loses-us-advertising-deal-over-iran-support-at-world-cup?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/middle-east/20260315-week-in-pictures-trouble-in-strait-of-hormuz-iran-new-leader-trump-epstein-statue",
-    "timestamp": "2026-03-15T13:03:39",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "The week in pictures: Trouble in the Strait of Hormuz, Iran\u2019s new leader and a Trump-Epstein statue",
-    "url": "https://www.france24.com/en/middle-east/20260315-week-in-pictures-trouble-in-strait-of-hormuz-iran-new-leader-trump-epstein-statue"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/3/15/france-offers-to-broker-lebanon-israel-talks-what-do-we-know?traffic_source=rss",
-    "timestamp": "2026-03-15T13:00:51",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "France offers to broker Lebanon-Israel talks: What do we know?",
-    "url": "https://www.aljazeera.com/news/2026/3/15/france-offers-to-broker-lebanon-israel-talks-what-do-we-know?traffic_source=rss"
-  },
-  {
-    "id": "https://sofrep.com/news/cuba-and-the-us-in-a-high%e2%80%91stakes-negotiation-drama/",
-    "timestamp": "2026-03-15T13:00:35",
-    "source": "SOFREP",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Cuba and the US in a High\u2011Stakes Negotiation Drama",
-    "url": "https://sofrep.com/news/cuba-and-the-us-in-a-high%e2%80%91stakes-negotiation-drama/"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/03/15/russian-sanctions-will-return-as-soon-as-the-crisis-is-over-trump/",
-    "timestamp": "2026-03-15T12:59:55",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Russia\u2019s oil sanctions will return \u201cas soon as\u201d the Middle East crisis ends, Trump says. But there\u2019s no end in sight.",
-    "url": "https://euromaidanpress.com/2026/03/15/russian-sanctions-will-return-as-soon-as-the-crisis-is-over-trump/"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/3/15/icc-judge-says-us-sanctions-left-her-without-bank-cards-and-google-accounts?traffic_source=rss",
-    "timestamp": "2026-03-15T12:53:02",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "ICC judge says US sanctions left her without bank cards and Google accounts",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/15/icc-judge-says-us-sanctions-left-her-without-bank-cards-and-google-accounts?traffic_source=rss"
-  },
-  {
-    "id": "https://www.dw.com/en/kenya-minister-flies-to-russia-to-halt-illegal-army-hiring/a-76366201?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-03-15T12:44:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Kenya minister flies to Russia to halt illegal army hiring",
-    "url": "https://www.dw.com/en/kenya-minister-flies-to-russia-to-halt-illegal-army-hiring/a-76366201?maca=en-rss-en-all-1573-xml-mrss"
   }
 ]
