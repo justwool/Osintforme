@@ -1,5 +1,55 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/crk14m7mjddo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-03-22T23:27:59",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "France's Socialists hold onto power in major cities in election boost for mainstream",
+    "url": "https://www.bbc.com/news/articles/crk14m7mjddo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.france24.com/en/middle-east/20260322-west-bank-settler-violence-gaza-strikes-palestinians-killed",
+    "timestamp": "2026-03-22T23:12:26",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "West Bank settler violence surges as Israeli strikes in Gaza kill 4 Palestinians",
+    "url": "https://www.france24.com/en/middle-east/20260322-west-bank-settler-violence-gaza-strikes-palestinians-killed"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/3/22/socialist-emmanuel-gregoire-wins-paris-mayoral-race?traffic_source=rss",
+    "timestamp": "2026-03-22T22:59:44",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Socialist Emmanuel Gregoire wins Paris mayoral race",
+    "url": "https://www.aljazeera.com/news/2026/3/22/socialist-emmanuel-gregoire-wins-paris-mayoral-race?traffic_source=rss"
+  },
+  {
+    "id": "https://www.france24.com/en/middle-east/20260322-iran-gulf-water-energy-threat-trump-ultimatum",
+    "timestamp": "2026-03-22T22:57:57",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Iran threatens to cripple Gulf water and energy systems after Trump ultimatum",
+    "url": "https://www.france24.com/en/middle-east/20260322-iran-gulf-water-energy-threat-trump-ultimatum"
+  },
+  {
+    "id": "https://www.aljazeera.com/sports/2026/3/22/vinicius-strikes-twice-as-real-madrid-edge-atletico-3-2-in-pulsating-derby?traffic_source=rss",
+    "timestamp": "2026-03-22T22:37:57",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Vinicius strikes twice as Real Madrid edge Atletico 3-2 in pulsating derby",
+    "url": "https://www.aljazeera.com/sports/2026/3/22/vinicius-strikes-twice-as-real-madrid-edge-atletico-3-2-in-pulsating-derby?traffic_source=rss"
+  },
+  {
     "id": "https://www.dw.com/en/slovenia-election-sees-ruling-party-tied-with-opposition/a-76473130?maca=en-rss-en-all-1573-xml-mrss",
     "timestamp": "2026-03-22T22:32:00",
     "source": "DW World",
@@ -20,6 +70,16 @@
     "url": "https://www.aljazeera.com/video/inside-story/2026/3/22/whos-left-running-iran?traffic_source=rss"
   },
   {
+    "id": "https://tass.com/politics/2105419",
+    "timestamp": "2026-03-22T22:02:38",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Ukrainian forces shell DPR settlements four times over past day",
+    "url": "https://tass.com/politics/2105419"
+  },
+  {
     "id": "https://www.navalnews.com/naval-news/2026/03/us-mda-jmsdf-complete-successful-asev-integration-testing/",
     "timestamp": "2026-03-22T21:58:18",
     "source": "Naval News",
@@ -28,6 +88,16 @@
     "region": "global",
     "text": "US MDA, JMSDF Complete Successful ASEV Integration Testing",
     "url": "https://www.navalnews.com/naval-news/2026/03/us-mda-jmsdf-complete-successful-asev-integration-testing/"
+  },
+  {
+    "id": "https://tass.com/world/2105417",
+    "timestamp": "2026-03-22T21:57:29",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Missile launched from Iran toward Israel may have landed in Lebanon \u2014 Ynet",
+    "url": "https://tass.com/world/2105417"
   },
   {
     "id": "https://www.france24.com/en/video/20260322-france-s-municipal-elections-emmanuel-gr%C3%A9goire-elected-paris-mayor",
@@ -4928,75 +4998,5 @@
     "region": "global",
     "text": "'Trump could be ready to stop the war at almost any moment,' ex-adviser John Bolton says",
     "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260320-trump-could-be-ready-to-stop-the-war-at-almost-any-moment-ex-adviser-john-bolton-says"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/counting-the-cost/2026/3/20/could-iran-war-trigger-the-next-global-food-shock?traffic_source=rss",
-    "timestamp": "2026-03-20T16:20:00",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Could Iran war trigger the next global food shock?",
-    "url": "https://www.aljazeera.com/video/counting-the-cost/2026/3/20/could-iran-war-trigger-the-next-global-food-shock?traffic_source=rss"
-  },
-  {
-    "id": "https://www.militarytimes.com/veterans/2026/03/20/va-social-worker-dies-following-shooting-at-rural-georgia-clinic/",
-    "timestamp": "2026-03-20T16:16:49",
-    "source": "Military Times",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "VA social worker dies following shooting at rural Georgia clinic",
-    "url": "https://www.militarytimes.com/veterans/2026/03/20/va-social-worker-dies-following-shooting-at-rural-georgia-clinic/"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/03/20/ukrainian-fpv-drone-downed-russian-ka-52/",
-    "timestamp": "2026-03-20T16:13:59",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Ukrainian FPV drone downed Russian Ka-52 helicopter \u2013 then Magyar\u2019s Birds came back to finish the crew",
-    "url": "https://euromaidanpress.com/2026/03/20/ukrainian-fpv-drone-downed-russian-ka-52/"
-  },
-  {
-    "id": "https://www.dw.com/en/iran-war-assassinations-leave-little-room-for-negotiation/a-76455839?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-03-20T16:13:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Iran war: Assassinations leave little room for negotiation",
-    "url": "https://www.dw.com/en/iran-war-assassinations-leave-little-room-for-negotiation/a-76455839?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://tass.com/economy/2104937",
-    "timestamp": "2026-03-20T16:08:11",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Three Russian airplanes to undergo certification this year",
-    "url": "https://tass.com/economy/2104937"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/3/20/air-raid-sirens-blare-during-eid-call-to-prayer-in-kuwait?traffic_source=rss",
-    "timestamp": "2026-03-20T16:05:39",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Air raid sirens blare during Eid call to prayer in Kuwait",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/20/air-raid-sirens-blare-during-eid-call-to-prayer-in-kuwait?traffic_source=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c248pgn158go?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-03-20T16:02:50",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Israel strikes Syria after Druze clashes",
-    "url": "https://www.bbc.com/news/articles/c248pgn158go?at_medium=RSS&at_campaign=rss"
   }
 ]
