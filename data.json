@@ -1,5 +1,105 @@
 [
   {
+    "id": "https://tass.com/world/2105377",
+    "timestamp": "2026-03-22T16:19:12",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Some NATO countries working on measures to ensure security in Strait of Hormuz \u2014 Rutte",
+    "url": "https://tass.com/world/2105377"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/people-power/2026/3/22/the-gaza-tribunal-a-question-of-complicity?traffic_source=rss",
+    "timestamp": "2026-03-22T16:13:27",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "The Gaza Tribunal: A question of complicity",
+    "url": "https://www.aljazeera.com/video/people-power/2026/3/22/the-gaza-tribunal-a-question-of-complicity?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/3/22/pakistan-super-league-matches-to-be-held-in-empty-stadiums-amid-oil-crisis?traffic_source=rss",
+    "timestamp": "2026-03-22T16:00:40",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Pakistan T20 cricket league to be held in empty stadiums amid oil crisis",
+    "url": "https://www.aljazeera.com/news/2026/3/22/pakistan-super-league-matches-to-be-held-in-empty-stadiums-amid-oil-crisis?traffic_source=rss"
+  },
+  {
+    "id": "https://sofrep.com/news/war-machine-2026-movie-review/",
+    "timestamp": "2026-03-22T16:00:25",
+    "source": "SOFREP",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "War Machine (2026) Review: Brutal Ranger Training Meets Sci-Fi Mayhem",
+    "url": "https://sofrep.com/news/war-machine-2026-movie-review/"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/03/22/russias-secret-aviation-report-fighter-jet-clipped-its-own-shelter-gate-a-500-kg-bomb-fell-on-takeoff-a-gunship-came-home-with-a-printer-paper-sized-hole-nine-engine-failures-in-three-weeks/",
+    "timestamp": "2026-03-22T15:59:31",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Russia\u2019s secret aviation report: fighter jet clipped its own gate, a 500 kg bomb fell on takeoff, a gunship came home with a printer-paper-sized hole. Nine engine failures in three weeks",
+    "url": "https://euromaidanpress.com/2026/03/22/russias-secret-aviation-report-fighter-jet-clipped-its-own-shelter-gate-a-500-kg-bomb-fell-on-takeoff-a-gunship-came-home-with-a-printer-paper-sized-hole-nine-engine-failures-in-three-weeks/"
+  },
+  {
+    "id": "https://www.dw.com/en/us-trump-orders-ice-agents-to-airports-amid-budget-standoff/a-76476759?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-03-22T15:58:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "US: Trump orders ICE agents to airports amid budget standoff",
+    "url": "https://www.dw.com/en/us-trump-orders-ice-agents-to-airports-amid-budget-standoff/a-76476759?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://tass.com/world/2105375",
+    "timestamp": "2026-03-22T15:55:23",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "US diplomat says Pentagon preparing scenarios of deploying troops to Iran",
+    "url": "https://tass.com/world/2105375"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/03/22/polands-foreign-minister-opposes-presidents-trip-to-budapest-to-support-orban-campaign/",
+    "timestamp": "2026-03-22T15:43:34",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Poland\u2019s foreign minister opposes president\u2019s trip to Budapest to support Orb\u00e1n campaign",
+    "url": "https://euromaidanpress.com/2026/03/22/polands-foreign-minister-opposes-presidents-trip-to-budapest-to-support-orban-campaign/"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/3/22/iran-claims-missile-attacks-on-key-israeli-military-bases?traffic_source=rss",
+    "timestamp": "2026-03-22T15:40:46",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Iran claims missile attacks on key Israeli military bases",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/22/iran-claims-missile-attacks-on-key-israeli-military-bases?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/3/22/moment-israeli-strike-hits-bridge-in-southern-lebanon?traffic_source=rss",
+    "timestamp": "2026-03-22T15:32:31",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Moment Israeli strike hits bridge in southern Lebanon",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/22/moment-israeli-strike-hits-bridge-in-southern-lebanon?traffic_source=rss"
+  },
+  {
     "id": "https://euromaidanpress.com/2026/03/22/merz-confirms-call-with-trump-on-ukraine-iran-and-israel-plans-further-talks/",
     "timestamp": "2026-03-22T15:29:37",
     "source": "Euromaidan Press",
@@ -18,6 +118,26 @@
     "region": "global",
     "text": "Italy\u2019s justice referendum becomes key test for PM Meloni\u2019s leadership",
     "url": "https://www.france24.com/en/europe/20260322-italy-s-justice-referendum-becomes-key-test-for-pm-meloni-s-leadership"
+  },
+  {
+    "id": "https://tass.com/world/2105371",
+    "timestamp": "2026-03-22T15:25:24",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Bosnian Serb leader says plans to attend Victory Parade in Moscow",
+    "url": "https://tass.com/world/2105371"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/3/22/iranian-authorities-taunt-us-israel-eu-amid-strikes-and-assassinations?traffic_source=rss",
+    "timestamp": "2026-03-22T15:25:01",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Iranian authorities taunt US, Israel, EU amid strikes and assassinations",
+    "url": "https://www.aljazeera.com/news/2026/3/22/iranian-authorities-taunt-us-israel-eu-amid-strikes-and-assassinations?traffic_source=rss"
   },
   {
     "id": "https://www.dw.com/en/west-bank-israeli-settlers-torch-homes-beat-palestinians/a-76475669?maca=en-rss-en-all-1573-xml-mrss",
@@ -48,6 +168,26 @@
     "region": "global",
     "text": "Cold War Jitters: That Time America Lost H-Bombs in a Spanish Village",
     "url": "https://sofrep.com/military-history/palomares-nuclear-accident/"
+  },
+  {
+    "id": "https://tass.com/emergencies/2105365",
+    "timestamp": "2026-03-22T14:58:14",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Two civilians wounded in Ukraine\u2019s attack on Rylsk in Kursk Region",
+    "url": "https://tass.com/emergencies/2105365"
+  },
+  {
+    "id": "https://tass.com/world/2105363",
+    "timestamp": "2026-03-22T14:57:00",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Israel conducts another wave of attacks on military targets in Tehran \u2014 IDF",
+    "url": "https://tass.com/world/2105363"
   },
   {
     "id": "https://www.aljazeera.com/news/2026/3/22/trumps-changing-messages-on-iran-war-what-does-it-say-about-us-strategy?traffic_source=rss",
@@ -4858,145 +4998,5 @@
     "region": "ru",
     "text": "EU halves purchases of Russian pipeline gas and LNG in January",
     "url": "https://tass.com/economy/2104835"
-  },
-  {
-    "id": "https://tass.com/economy/2104833",
-    "timestamp": "2026-03-20T13:54:31",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russia ranks third by share of gas supply value to EU in January",
-    "url": "https://tass.com/economy/2104833"
-  },
-  {
-    "id": "https://tass.com/world/2104829",
-    "timestamp": "2026-03-20T13:53:00",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Contingent of 2,500 US Marines to be deployed to Middle East in coming days \u2014 Axios",
-    "url": "https://tass.com/world/2104829"
-  },
-  {
-    "id": "https://breakingdefense.com/2026/03/india-seeking-to-join-european-sixth-generation-fighter-program-reports/",
-    "timestamp": "2026-03-20T13:52:18",
-    "source": "Breaking Defense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "India seeking to join European sixth-generation fighter program: Reports",
-    "url": "https://breakingdefense.com/2026/03/india-seeking-to-join-european-sixth-generation-fighter-program-reports/"
-  },
-  {
-    "id": "https://tass.com/emergencies/2104825",
-    "timestamp": "2026-03-20T13:52:11",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Small plane crashes outside Moscow, two people reported dead",
-    "url": "https://tass.com/emergencies/2104825"
-  },
-  {
-    "id": "https://www.defensenews.com/news/your-military/2026/03/20/marines-test-cruise-control-swim-feature-on-amphibious-vehicle-prototype/",
-    "timestamp": "2026-03-20T13:51:08",
-    "source": "Defense News",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Marines test \u2018cruise control\u2019 swim feature on amphibious vehicle prototype",
-    "url": "https://www.defensenews.com/news/your-military/2026/03/20/marines-test-cruise-control-swim-feature-on-amphibious-vehicle-prototype/"
-  },
-  {
-    "id": "https://www.gov.uk/government/publications/mod-spending-over-500-on-an-epc-for-january-to-december-2026",
-    "timestamp": "2026-03-20T13:46:10",
-    "source": "UK MoD",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Transparency data: MOD: spending over \u00a3500 on an ePC for January to December 2026",
-    "url": "https://www.gov.uk/government/publications/mod-spending-over-500-on-an-epc-for-january-to-december-2026"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/3/20/who-are-the-gulfs-military-allies-and-how-are-they-helping-in-iran-war?traffic_source=rss",
-    "timestamp": "2026-03-20T13:45:18",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Who are the Gulf\u2019s military allies, and how are they helping in Iran war?",
-    "url": "https://www.aljazeera.com/news/2026/3/20/who-are-the-gulfs-military-allies-and-how-are-they-helping-in-iran-war?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/3/20/iran-video-said-to-show-us-f-35-being-hit?traffic_source=rss",
-    "timestamp": "2026-03-20T13:44:06",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Iran video said to show US F-35 being hit",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/20/iran-video-said-to-show-us-f-35-being-hit?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/tv-shows/focus/20260320-with-its-wind-farms-danish-island-of-sams%C3%B8-shows-path-forward-during-energy-crisis",
-    "timestamp": "2026-03-20T13:35:24",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "With its wind farms, Danish island of Sams\u00f8 shows path forward during energy crisis",
-    "url": "https://www.france24.com/en/tv-shows/focus/20260320-with-its-wind-farms-danish-island-of-sams%C3%B8-shows-path-forward-during-energy-crisis"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/03/20/lyman-mech-assault/",
-    "timestamp": "2026-03-20T13:35:14",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Russia\u2019s tanks are back after a year in hiding. Thursday was a massacre.",
-    "url": "https://euromaidanpress.com/2026/03/20/lyman-mech-assault/"
-  },
-  {
-    "id": "https://www.gov.uk/government/news/new-radar-systems-to-unlock-offshore-wind",
-    "timestamp": "2026-03-20T13:34:36",
-    "source": "UK MoD",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "New radar systems to unlock offshore wind",
-    "url": "https://www.gov.uk/government/news/new-radar-systems-to-unlock-offshore-wind"
-  },
-  {
-    "id": "https://www.militarytimes.com/news/your-military/2026/03/20/marine-lance-corporal-develops-10-solution-to-5600-antenna-problem/",
-    "timestamp": "2026-03-20T13:32:21",
-    "source": "Military Times",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Marine lance corporal develops $10 solution to $5,600 antenna problem",
-    "url": "https://www.militarytimes.com/news/your-military/2026/03/20/marine-lance-corporal-develops-10-solution-to-5600-antenna-problem/"
-  },
-  {
-    "id": "https://breakingdefense.com/2026/03/what-is-the-pentagons-space-data-network-and-why-does-it-matter-for-golden-dome/",
-    "timestamp": "2026-03-20T13:26:31",
-    "source": "Breaking Defense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "What is the Pentagon\u2019s \u2018Space Data Network,\u2019 and why does it matter for Golden Dome?",
-    "url": "https://breakingdefense.com/2026/03/what-is-the-pentagons-space-data-network-and-why-does-it-matter-for-golden-dome/"
-  },
-  {
-    "id": "https://www.france24.com/en/video/20260320-rio-s-favela-guides-learn-french-to-meet-surging-tourist-demand",
-    "timestamp": "2026-03-20T13:22:03",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Rio's favela guides learn French to meet surging tourist demand",
-    "url": "https://www.france24.com/en/video/20260320-rio-s-favela-guides-learn-french-to-meet-surging-tourist-demand"
   }
 ]
