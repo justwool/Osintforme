@@ -1,5 +1,45 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/c208ngv1mz7o?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-03-24T23:21:55",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Journalists at Australia's national broadcaster to strike over pay and possible use of AI",
+    "url": "https://www.bbc.com/news/articles/c208ngv1mz7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/3/24/explosion-fire-at-erbil-high-rise-amid-iranian-attacks?traffic_source=rss",
+    "timestamp": "2026-03-24T23:00:31",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Explosion, fire at Erbil high-rise amid Iranian attacks",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/24/explosion-fire-at-erbil-high-rise-amid-iranian-attacks?traffic_source=rss"
+  },
+  {
+    "id": "https://www.defensenews.com/industry/techwatch/2026/03/24/lockheed-launches-hellfire-missile-from-10-foot-cargo-container/",
+    "timestamp": "2026-03-24T22:51:03",
+    "source": "Defense News",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Lockheed launches Hellfire missile from 10-foot cargo container",
+    "url": "https://www.defensenews.com/industry/techwatch/2026/03/24/lockheed-launches-hellfire-missile-from-10-foot-cargo-container/"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/3/24/palestinian-refugees-in-lebanon-face-another-forced-displacement?traffic_source=rss",
+    "timestamp": "2026-03-24T22:39:48",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Palestinian refugees in Lebanon face another forced displacement",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/24/palestinian-refugees-in-lebanon-face-another-forced-displacement?traffic_source=rss"
+  },
+  {
     "id": "https://tass.com/world/2106525",
     "timestamp": "2026-03-24T22:34:01",
     "source": "TASS English",
@@ -4380,6 +4420,16 @@
     "url": "https://www.bbc.com/news/articles/c74787w149zo?at_medium=RSS&at_campaign=rss"
   },
   {
+    "id": "https://www.theguardian.com/us-news/2026/mar/23/canadian-flight-attendant-survives-new-york-plane-crash-laguardia",
+    "timestamp": "2026-03-24T01:09:29",
+    "source": "Guardian World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "\u2018A miracle\u2019: Canadian flight attendant ejected from plane survives New York crash",
+    "url": "https://www.theguardian.com/us-news/2026/mar/23/canadian-flight-attendant-survives-new-york-plane-crash-laguardia"
+  },
+  {
     "id": "https://tass.com/emergencies/2106015",
     "timestamp": "2026-03-24T01:04:17",
     "source": "TASS English",
@@ -4948,55 +4998,5 @@
     "region": "ru",
     "text": "Netanyahu says Trump told him about possible Iran deal",
     "url": "https://tass.com/world/2105959"
-  },
-  {
-    "id": "https://tass.com/world/2105957",
-    "timestamp": "2026-03-23T19:48:00",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Iran still mulls closing Strait of Hormuz, not knowing US next move \u2014 TV",
-    "url": "https://tass.com/world/2105957"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/3/23/air-canada-crash-at-laguardia-airport-what-happened-who-were-the-victims?traffic_source=rss",
-    "timestamp": "2026-03-23T19:44:38",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Air Canada crash at LaGuardia Airport: What happened, who were the victims?",
-    "url": "https://www.aljazeera.com/news/2026/3/23/air-canada-crash-at-laguardia-airport-what-happened-who-were-the-victims?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/3/23/tehran-residents-express-distrust-over-trumps-war-diplomacy?traffic_source=rss",
-    "timestamp": "2026-03-23T19:43:27",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Tehran residents express distrust over Trump\u2019s war diplomacy",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/23/tehran-residents-express-distrust-over-trumps-war-diplomacy?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/tv-shows/the-debate/20260323-whose-war-is-it-trump-eyes-iran-talks-as-israel-hints-at-long-campaign",
-    "timestamp": "2026-03-23T19:29:12",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Whose war is it? Trump eyes Iran talks as Israel hints at long campaign",
-    "url": "https://www.france24.com/en/tv-shows/the-debate/20260323-whose-war-is-it-trump-eyes-iran-talks-as-israel-hints-at-long-campaign"
-  },
-  {
-    "id": "https://www.defensenews.com/opinion/commentary/2026/03/23/a-web-of-sensors-how-the-us-spots-missiles-and-drones-from-iran/",
-    "timestamp": "2026-03-23T19:27:52",
-    "source": "Defense News",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "A web of sensors: How the US spots missiles and drones from Iran",
-    "url": "https://www.defensenews.com/opinion/commentary/2026/03/23/a-web-of-sensors-how-the-us-spots-missiles-and-drones-from-iran/"
   }
 ]
