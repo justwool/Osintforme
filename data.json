@@ -1,5 +1,115 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/cvg0128z41eo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-03-29T16:42:17",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Israeli police block Latin Patriarch from Palm Sunday mass in Jerusalem",
+    "url": "https://www.bbc.com/news/articles/cvg0128z41eo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://tass.com/world/2108613",
+    "timestamp": "2026-03-29T16:41:23",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Israel carries out 140 strikes on targets in western, central Iran in past day \u2014 army",
+    "url": "https://tass.com/world/2108613"
+  },
+  {
+    "id": "https://tass.com/emergencies/2108611",
+    "timestamp": "2026-03-29T16:39:15",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Drone attack leaves two civilians injured in Zaporozhye Region",
+    "url": "https://tass.com/emergencies/2108611"
+  },
+  {
+    "id": "https://tass.com/politics/2108609",
+    "timestamp": "2026-03-29T16:36:24",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russia achieves success in degrading weapons provided to Ukraine by West \u2014 analyst",
+    "url": "https://tass.com/politics/2108609"
+  },
+  {
+    "id": "https://www.france24.com/en/massive-protests-against-trump-across-us",
+    "timestamp": "2026-03-29T16:34:23",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Massive protests against Trump across US",
+    "url": "https://www.france24.com/en/massive-protests-against-trump-across-us"
+  },
+  {
+    "id": "https://www.france24.com/en/tv-shows/spotlight/20260329-mrs-la-maire-maureen-searle-becomes-the-first-foreign-born-woman-to-run-a-french-town",
+    "timestamp": "2026-03-29T16:31:22",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Mrs la maire - Maureen Searle becomes the first foreign-born woman to run a French town",
+    "url": "https://www.france24.com/en/tv-shows/spotlight/20260329-mrs-la-maire-maureen-searle-becomes-the-first-foreign-born-woman-to-run-a-french-town"
+  },
+  {
+    "id": "https://www.france24.com/en/lebanon-mourns-three-journalists-killed-in-israeli-strikes",
+    "timestamp": "2026-03-29T16:30:59",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Lebanon mourns three journalists killed in Israeli strikes",
+    "url": "https://www.france24.com/en/lebanon-mourns-three-journalists-killed-in-israeli-strikes"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/03/29/ring-fpv/",
+    "timestamp": "2026-03-29T16:10:43",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Russia put a hula hoop on its attack drone. Now it flies 50 km into Ukraine\u2019s rear.",
+    "url": "https://euromaidanpress.com/2026/03/29/ring-fpv/"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/3/29/iran-hits-industrial-zone-in-southern-israel?traffic_source=rss",
+    "timestamp": "2026-03-29T16:06:25",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Iran hits industrial zone in southern Israel",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/29/iran-hits-industrial-zone-in-southern-israel?traffic_source=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/czd74q2nqp0o?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-03-29T16:01:00",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Canada's New Democratic Party elects Avi Lewis as its leader",
+    "url": "https://www.bbc.com/news/articles/czd74q2nqp0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://sofrep.com/military-history/a1-skyraider-history/",
+    "timestamp": "2026-03-29T16:00:48",
+    "source": "SOFREP",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "The A-1 Skyraider: The Propeller-Driven Warrior That Defied the Jet Age",
+    "url": "https://sofrep.com/military-history/a1-skyraider-history/"
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cd9v234j2v7o?at_medium=RSS&at_campaign=rss",
     "timestamp": "2026-03-29T15:33:36",
     "source": "BBC World",
@@ -830,6 +940,16 @@
     "url": "https://tass.com/politics/2108537"
   },
   {
+    "id": "https://www.dw.com/en/germany-has-created-an-alternative-to-us-software-for-public-sector-agencies-but-how-far-can-it-free-itself-from-reliance-on-us-tech/a-76548879?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-03-29T07:53:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Germany has created an alternative to US software for public sector agencies. But how far can it free itself from reliance on US tech?",
+    "url": "https://www.dw.com/en/germany-has-created-an-alternative-to-us-software-for-public-sector-agencies-but-how-far-can-it-free-itself-from-reliance-on-us-tech/a-76548879?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
     "id": "https://www.dw.com/en/german-public-sector-tries-to-reduce-reliance-on-us-tech/a-76548879?maca=en-rss-en-all-1573-xml-mrss",
     "timestamp": "2026-03-29T07:53:00",
     "source": "DW World",
@@ -848,6 +968,16 @@
     "region": "mena",
     "text": "Lebanese resident stays behind with pet monkey despite evacuation orders",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/3/29/lebanese-resident-stays-behind-with-pet-monkey-despite-evacuation-orders?traffic_source=rss"
+  },
+  {
+    "id": "https://www.dw.com/en/nuclear-power-in-africa-big-dreams-bigger-hurdles/a-76561750?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-03-29T07:31:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Nuclear power in Africa: Big dreams, bigger hurdles",
+    "url": "https://www.dw.com/en/nuclear-power-in-africa-big-dreams-bigger-hurdles/a-76561750?maca=en-rss-en-all-1573-xml-mrss"
   },
   {
     "id": "https://warontherocks.com/2026/03/punish-russia-for-helping-iran-target-the-u-s-military/",
@@ -4868,135 +4998,5 @@
     "region": "global",
     "text": "Soviet famine still haunts Moldova, 80 years on",
     "url": "https://www.france24.com/en/tv-shows/revisited/20260327-soviet-famine-still-haunts-moldova-80-years-on"
-  },
-  {
-    "id": "https://tass.com/world/2108163",
-    "timestamp": "2026-03-27T15:20:08",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Vance may become 'top US negotiator' in talks with Iran \u2014 Axios",
-    "url": "https://tass.com/world/2108163"
-  },
-  {
-    "id": "https://www.defensenews.com/news/your-military/2026/03/27/us-uses-hundreds-of-tomahawk-missiles-on-iran-alarming-some-at-pentagon/",
-    "timestamp": "2026-03-27T15:19:36",
-    "source": "Defense News",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "US uses hundreds of Tomahawk missiles on Iran, alarming some at Pentagon",
-    "url": "https://www.defensenews.com/news/your-military/2026/03/27/us-uses-hundreds-of-tomahawk-missiles-on-iran-alarming-some-at-pentagon/"
-  },
-  {
-    "id": "https://www.theguardian.com/world/2026/mar/27/cuba-aid-boats-missing-en-route-mexico-our-america-convoy",
-    "timestamp": "2026-03-27T15:19:07",
-    "source": "Guardian World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Missing aid boats have safely reached Cuba, US confirms",
-    "url": "https://www.theguardian.com/world/2026/mar/27/cuba-aid-boats-missing-en-route-mexico-our-america-convoy"
-  },
-  {
-    "id": "https://www.defensenews.com/global/asia-pacific/2026/03/27/japan-sprinkles-fresh-missiles-across-its-islands-to-fend-off-would-be-attackers/",
-    "timestamp": "2026-03-27T15:17:52",
-    "source": "Defense News",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Japan sprinkles fresh missiles across its islands to fend off would-be attackers",
-    "url": "https://www.defensenews.com/global/asia-pacific/2026/03/27/japan-sprinkles-fresh-missiles-across-its-islands-to-fend-off-would-be-attackers/"
-  },
-  {
-    "id": "https://tass.com/world/2108161",
-    "timestamp": "2026-03-27T15:16:34",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Over 300 American soldiers wounded during operation against Iran \u2014 TV",
-    "url": "https://tass.com/world/2108161"
-  },
-  {
-    "id": "https://tass.com/world/2108159",
-    "timestamp": "2026-03-27T15:15:48",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "US attacks Iran on its own, now demands support from everyone \u2014 French defense ministry",
-    "url": "https://tass.com/world/2108159"
-  },
-  {
-    "id": "https://tass.com/economy/2108157",
-    "timestamp": "2026-03-27T15:14:51",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Seligdar plans to produce about 9 tons of gold in 2026",
-    "url": "https://tass.com/economy/2108157"
-  },
-  {
-    "id": "https://tass.com/politics/2108155",
-    "timestamp": "2026-03-27T15:13:07",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russia-Azeri relations develop on solid foundation of common history \u2014 Putin",
-    "url": "https://tass.com/politics/2108155"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/3/27/lebanon-faces-humanitarian-catastrophe-under-israeli-assault-un?traffic_source=rss",
-    "timestamp": "2026-03-27T15:11:46",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Lebanon faces \u2018humanitarian catastrophe\u2019 under Israeli assault: UN",
-    "url": "https://www.aljazeera.com/news/2026/3/27/lebanon-faces-humanitarian-catastrophe-under-israeli-assault-un?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/us-israeli-war-goals-not-realistic-regime-change-in-iran-can-t-be-achieved-by-airstrikes",
-    "timestamp": "2026-03-27T15:11:32",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "US, Israeli war goals 'not realistic': Regime change in Iran 'can't be achieved' by airstrikes",
-    "url": "https://www.france24.com/en/us-israeli-war-goals-not-realistic-regime-change-in-iran-can-t-be-achieved-by-airstrikes"
-  },
-  {
-    "id": "https://www.france24.com/en/economy/20260327-financial-analysts-move-to-counter-trump-middle-east-war-uncertainty-with-taco-index",
-    "timestamp": "2026-03-27T15:10:30",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Financial analysts move to counter Trump\u2019s Middle East war uncertainty with \u2018TACO\u2019 index",
-    "url": "https://www.france24.com/en/economy/20260327-financial-analysts-move-to-counter-trump-middle-east-war-uncertainty-with-taco-index"
-  },
-  {
-    "id": "https://www.france24.com/en/tv-shows/scoop/20260327-israel-tightens-media-restrictions-on-war-coverage",
-    "timestamp": "2026-03-27T15:03:55",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Israel tightens media restrictions on war coverage",
-    "url": "https://www.france24.com/en/tv-shows/scoop/20260327-israel-tightens-media-restrictions-on-war-coverage"
-  },
-  {
-    "id": "https://www.france24.com/en/video/20260327-belarusian-leader-gifts-gun-to-north-korea-s-kim-jong-un",
-    "timestamp": "2026-03-27T15:02:40",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "North Korea's Kim Jong Un gifted gun by Belarusian leader",
-    "url": "https://www.france24.com/en/video/20260327-belarusian-leader-gifts-gun-to-north-korea-s-kim-jong-un"
   }
 ]
