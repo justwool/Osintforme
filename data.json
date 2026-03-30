@@ -1,5 +1,45 @@
 [
   {
+    "id": "https://www.gov.uk/guidance/ministry-of-defence-commercial-commercial-x",
+    "timestamp": "2026-03-30T23:01:02",
+    "source": "UK MoD",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Ministry of Defence - Commercial X",
+    "url": "https://www.gov.uk/guidance/ministry-of-defence-commercial-commercial-x"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/3/30/key-moments-from-marco-rubios-interview-with-al-jazeera?traffic_source=rss",
+    "timestamp": "2026-03-30T22:33:49",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Key moments from Marco Rubio\u2019s interview with Al Jazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/key-moments-from-marco-rubios-interview-with-al-jazeera?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/inside-story/2026/3/30/is-a-peaceful-settlement-possible-in-iran-2?traffic_source=rss",
+    "timestamp": "2026-03-30T22:16:11",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Is a peaceful settlement possible in Iran?",
+    "url": "https://www.aljazeera.com/video/inside-story/2026/3/30/is-a-peaceful-settlement-possible-in-iran-2?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/3/30/us-says-trump-interested-in-asking-arab-countries-to-pay-for-war-on-iran?traffic_source=rss",
+    "timestamp": "2026-03-30T22:14:30",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "US says Trump \u2018interested\u2019 in asking Arab countries to pay for war on Iran",
+    "url": "https://www.aljazeera.com/news/2026/3/30/us-says-trump-interested-in-asking-arab-countries-to-pay-for-war-on-iran?traffic_source=rss"
+  },
+  {
     "id": "https://www.france24.com/en/middle-east/20260330-trump-threatens-to-obliterate-iran-kharg-island-oil-hub-if-no-deal-reached-usa-strait-of-hormuz",
     "timestamp": "2026-03-30T21:57:52",
     "source": "France24",
@@ -118,6 +158,16 @@
     "region": "mena",
     "text": "UN condemns killing of Indonesian peacekeepers in Lebanon",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/un-condemns-killing-of-indonesian-peacekeepers-in-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/czex10lngzjo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-03-30T21:12:29",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Gazan mother reunited with evacuated daughter after two years",
+    "url": "https://www.bbc.com/news/articles/czex10lngzjo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/cp8dkd6lnjdo?at_medium=RSS&at_campaign=rss",
@@ -1098,6 +1148,16 @@
     "region": "ua",
     "text": "Moscow Patriarchate monk in Ukraine lured underage girls with sweets, gave them alcohol so they couldn\u2019t resist",
     "url": "https://euromaidanpress.com/2026/03/30/moscow-patriarchate-monk-in-ukraine-lured-underage-girls-with-sweets-gave-them-alcohol-so-they-couldnt-resist/"
+  },
+  {
+    "id": "https://www.defenseone.com/ideas/2026/03/personnel-vetting-small-business/412498/",
+    "timestamp": "2026-03-30T16:25:52",
+    "source": "Defense One",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Don't bottleneck defense-personnel vetting with a small-business set-aside",
+    "url": "https://www.defenseone.com/ideas/2026/03/personnel-vetting-small-business/412498/"
   },
   {
     "id": "https://www.aljazeera.com/news/2026/3/30/fire-contained-after-missile-attack-on-oil-refinery-in-israels-haifa?traffic_source=rss",
@@ -4938,65 +4998,5 @@
     "region": "global",
     "text": "Germany updates: Experts say the outlook is 'not good' for a humpback whale stranded off Germany's Baltic Sea coast",
     "url": "https://www.dw.com/en/germany-updates-experts-say-the-outlook-is-not-good-for-a-humpback-whale-stranded-off-germany-s-baltic-sea-coast/live-76576299?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.dw.com/en/germany-news-prognosis-not-good-for-humpback-whale/live-76576299?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-03-29T09:26:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Germany news: Prognosis 'not good' for humpback whale",
-    "url": "https://www.dw.com/en/germany-news-prognosis-not-good-for-humpback-whale/live-76576299?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.dw.com/en/germany-news-rescuers-launch-fresh-whale-rescue-effort/live-76576299?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-03-29T09:26:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Germany news: Rescuers launch fresh whale rescue effort",
-    "url": "https://www.dw.com/en/germany-news-rescuers-launch-fresh-whale-rescue-effort/live-76576299?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/3/29/pentagon-readies-for-weeks-of-us-ground-operations-in-iran-report?traffic_source=rss",
-    "timestamp": "2026-03-29T09:15:57",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Pentagon readies for weeks of US ground operations in Iran: Report",
-    "url": "https://www.aljazeera.com/news/2026/3/29/pentagon-readies-for-weeks-of-us-ground-operations-in-iran-report?traffic_source=rss"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/03/29/russo-ukrainian-war-day-1494-ukraine-hits-russias-export-ports-for-third-time-in-five-days/",
-    "timestamp": "2026-03-29T09:15:21",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Russo-Ukrainian war, day 1494: Ukraine hits Russia\u2019s export ports for third time in five days",
-    "url": "https://euromaidanpress.com/2026/03/29/russo-ukrainian-war-day-1494-ukraine-hits-russias-export-ports-for-third-time-in-five-days/"
-  },
-  {
-    "id": "https://www.france24.com/en/new-international-olympic-committee-policy-bans-transgender-athletes",
-    "timestamp": "2026-03-29T08:57:16",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "New International Olympic Committee policy bans transgender athletes",
-    "url": "https://www.france24.com/en/new-international-olympic-committee-policy-bans-transgender-athletes"
-  },
-  {
-    "id": "https://www.france24.com/en/no-kings-rallies-draw-crowds-across-us",
-    "timestamp": "2026-03-29T08:54:13",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "'No Kings' rallies draw crowds across US",
-    "url": "https://www.france24.com/en/no-kings-rallies-draw-crowds-across-us"
   }
 ]
