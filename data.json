@@ -1,5 +1,425 @@
 [
   {
+    "id": "https://tass.com/politics/2111411",
+    "timestamp": "2026-04-03T10:48:47",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "EU may turn into very hostile military alliance for Russia, worse than NATO \u2014 Medvedev",
+    "url": "https://tass.com/politics/2111411"
+  },
+  {
+    "id": "https://tass.com/world/2111409",
+    "timestamp": "2026-04-03T10:46:13",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "US would side with Russia if it understood Donbass conflict \u2014 Ritter",
+    "url": "https://tass.com/world/2111409"
+  },
+  {
+    "id": "https://tass.com/economy/2111403",
+    "timestamp": "2026-04-03T10:38:59",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Iran's internet shutdown continues for more than 800 hours \u2014 NetBlocks",
+    "url": "https://tass.com/economy/2111403"
+  },
+  {
+    "id": "https://tass.com/society/2111405",
+    "timestamp": "2026-04-03T10:38:20",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Nearly 75% of Russians trust Putin \u2014 poll",
+    "url": "https://tass.com/society/2111405"
+  },
+  {
+    "id": "https://tass.com/world/2111399",
+    "timestamp": "2026-04-03T10:32:38",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Iran guarantees safety of Indian vessels in Strait of Hormuz \u2014 embassy",
+    "url": "https://tass.com/world/2111399"
+  },
+  {
+    "id": "https://www.france24.com/en/video/20260403-the-fight-for-mineral-data-in-drc-belgian-museum-us-mining-firm-at-odds-over-archive-maps",
+    "timestamp": "2026-04-03T10:31:53",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "The fight for mineral data in DRC: Belgian museum, US mining firm at odds over archive maps",
+    "url": "https://www.france24.com/en/video/20260403-the-fight-for-mineral-data-in-drc-belgian-museum-us-mining-firm-at-odds-over-archive-maps"
+  },
+  {
+    "id": "https://tass.com/world/2111395",
+    "timestamp": "2026-04-03T10:31:08",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Japanese government should prioritize relations with Russia amid energy crisis \u2014 expert",
+    "url": "https://tass.com/world/2111395"
+  },
+  {
+    "id": "https://www.france24.com/en/video/20260403-trump-fires-pam-bondi-as-us-attorney-general",
+    "timestamp": "2026-04-03T10:30:24",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Trump fires Pam Bondi as US attorney general",
+    "url": "https://www.france24.com/en/video/20260403-trump-fires-pam-bondi-as-us-attorney-general"
+  },
+  {
+    "id": "https://www.france24.com/en/video/20260403-storm-batters-greece-killing-one-flooding-homes-and-disrupting-travel",
+    "timestamp": "2026-04-03T10:29:21",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Storm batters Greece, killing one, flooding homes and disrupting travel",
+    "url": "https://www.france24.com/en/video/20260403-storm-batters-greece-killing-one-flooding-homes-and-disrupting-travel"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/4/3/artemis-ii-mission-fires-up-engines-in-next-step-of-moon-mission?traffic_source=rss",
+    "timestamp": "2026-04-03T10:29:00",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Artemis II mission fires up engines in next step of moon mission",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/artemis-ii-mission-fires-up-engines-in-next-step-of-moon-mission?traffic_source=rss"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/04/03/how_many_aircraft_has_the_us_lost_in_iran_war_1174506.html",
+    "timestamp": "2026-04-03T10:28:20",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "How Many Aircraft Has the U.S. Lost in Iran War?",
+    "url": "https://www.realcleardefense.com/2026/04/03/how_many_aircraft_has_the_us_lost_in_iran_war_1174506.html"
+  },
+  {
+    "id": "https://www.france24.com/en/video/20260403-weak-enforcement-blamed-for-building-collapse-that-killed-four-in-ghana",
+    "timestamp": "2026-04-03T10:27:22",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Weak enforcement blamed for building collapse that killed four in Ghana",
+    "url": "https://www.france24.com/en/video/20260403-weak-enforcement-blamed-for-building-collapse-that-killed-four-in-ghana"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/04/03/uss_gerald_r_ford_departs_croatia_after_liberty_additional_repairs_1174497.html",
+    "timestamp": "2026-04-03T10:25:52",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "USS Gerald R. Ford Departs Croatia After Liberty, Additional Repairs",
+    "url": "https://www.realcleardefense.com/2026/04/03/uss_gerald_r_ford_departs_croatia_after_liberty_additional_repairs_1174497.html"
+  },
+  {
+    "id": "https://tass.com/world/2111393",
+    "timestamp": "2026-04-03T10:24:11",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Japan should lift sanctions before sending delegation to Russia \u2014 lawmaker",
+    "url": "https://tass.com/world/2111393"
+  },
+  {
+    "id": "https://tass.com/society/2111391",
+    "timestamp": "2026-04-03T10:23:44",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Highest intensity of Ukrainian attacks in three years recorded at Zaporozhye NPP",
+    "url": "https://tass.com/society/2111391"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/04/03/irans_war_is_testing_the_rok-us_alliance_1174503.html",
+    "timestamp": "2026-04-03T10:22:21",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Iran's War Is Testing the ROK-U.S. Alliance",
+    "url": "https://www.realcleardefense.com/2026/04/03/irans_war_is_testing_the_rok-us_alliance_1174503.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/04/03/beware_pakistans_general_bearing_peace_talks_1174437.html",
+    "timestamp": "2026-04-03T10:22:14",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Beware Pakistan's General Bearing Peace Talks",
+    "url": "https://www.realcleardefense.com/2026/04/03/beware_pakistans_general_bearing_peace_talks_1174437.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/04/03/empires_rise_and_fall_will_ours_1174447.html",
+    "timestamp": "2026-04-03T10:22:14",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Empires Rise and Fall. Will Ours?",
+    "url": "https://www.realcleardefense.com/2026/04/03/empires_rise_and_fall_will_ours_1174447.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/04/03/the_changing_characterand_enduring_natureof_command_1174434.html",
+    "timestamp": "2026-04-03T10:22:13",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "The Changing Character\u2014and Enduring Nature\u2014of Command",
+    "url": "https://www.realcleardefense.com/2026/04/03/the_changing_characterand_enduring_natureof_command_1174434.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/04/03/when_generals_pray_and_popes_object_1174372.html",
+    "timestamp": "2026-04-03T10:22:12",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "When Generals Pray and Popes Object",
+    "url": "https://www.realcleardefense.com/2026/04/03/when_generals_pray_and_popes_object_1174372.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/04/03/b-52s_carrying_jdams_over_iran_as_bombers_play_growing_role_1174507.html",
+    "timestamp": "2026-04-03T10:22:11",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "B-52s Carrying JDAMs over Iran as Bombers Play Growing Role",
+    "url": "https://www.realcleardefense.com/2026/04/03/b-52s_carrying_jdams_over_iran_as_bombers_play_growing_role_1174507.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/04/03/drone_incursion_at_air_force_nuclear_bomber_base_under_investigation_1174426.html",
+    "timestamp": "2026-04-03T10:22:10",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Drone Incursion at Air Force Nuclear Bomber Base Under Investigation",
+    "url": "https://www.realcleardefense.com/2026/04/03/drone_incursion_at_air_force_nuclear_bomber_base_under_investigation_1174426.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/04/03/new_hegseth_order_lets_troops_carry_personal_firearms_on_base_1174505.html",
+    "timestamp": "2026-04-03T10:22:09",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "New Hegseth Order Lets Troops Carry Personal Firearms on Base",
+    "url": "https://www.realcleardefense.com/2026/04/03/new_hegseth_order_lets_troops_carry_personal_firearms_on_base_1174505.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/04/03/hegseth_removes_army_chief_in_latest_purge_of_militarys_top_ranks_1174499.html",
+    "timestamp": "2026-04-03T10:22:08",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Hegseth Removes Army Chief in Latest Purge of Military's Top Ranks",
+    "url": "https://www.realcleardefense.com/2026/04/03/hegseth_removes_army_chief_in_latest_purge_of_militarys_top_ranks_1174499.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/04/03/new_tech_concepts_transform_special_ops_vehicles_1174502.html",
+    "timestamp": "2026-04-03T10:22:06",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "New Tech, Concepts Transform Special Ops Vehicles",
+    "url": "https://www.realcleardefense.com/2026/04/03/new_tech_concepts_transform_special_ops_vehicles_1174502.html"
+  },
+  {
+    "id": "https://tass.com/politics/2111387",
+    "timestamp": "2026-04-03T10:19:21",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Lavrov calls for implementation of SCO\u2019s key agreements",
+    "url": "https://tass.com/politics/2111387"
+  },
+  {
+    "id": "https://www.theguardian.com/world/2026/apr/03/people-burkina-faso-should-forget-about-democracy-military-ruler-ibrahim-traore",
+    "timestamp": "2026-04-03T10:18:56",
+    "source": "Guardian World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "People of Burkina Faso should forget about democracy, says military ruler",
+    "url": "https://www.theguardian.com/world/2026/apr/03/people-burkina-faso-should-forget-about-democracy-military-ruler-ibrahim-traore"
+  },
+  {
+    "id": "https://www.france24.com/en/tv-shows/press-review/20260403-artemis-ii-one-giant-leap-for-deep-space-toiletry",
+    "timestamp": "2026-04-03T10:14:44",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Artemis II: One giant leap for deep space toiletry",
+    "url": "https://www.france24.com/en/tv-shows/press-review/20260403-artemis-ii-one-giant-leap-for-deep-space-toiletry"
+  },
+  {
+    "id": "https://tass.com/world/2111383",
+    "timestamp": "2026-04-03T10:13:09",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Myanmar\u2019s parliament elects Min Aung Hlaing as nation\u2019s president",
+    "url": "https://tass.com/world/2111383"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/04/03/kholodnyi-yar-commander-the-drone-war-is-won-at-the-contact-line-but-it-is-decided-in-the-depth/",
+    "timestamp": "2026-04-03T10:08:46",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Kholodnyi Yar commander: The drone war is won at the contact line, but it is decided in the depth",
+    "url": "https://euromaidanpress.com/2026/04/03/kholodnyi-yar-commander-the-drone-war-is-won-at-the-contact-line-but-it-is-decided-in-the-depth/"
+  },
+  {
+    "id": "https://tass.com/politics/2111379",
+    "timestamp": "2026-04-03T10:08:23",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "SCO has great potential to address Eurasian issues through dialogue \u2014 Russian top diplomat",
+    "url": "https://tass.com/politics/2111379"
+  },
+  {
+    "id": "https://tass.com/politics/2111377",
+    "timestamp": "2026-04-03T10:06:42",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russia, Sri Lanka confirm commitment to dialogue and cooperation \u2014 Russian MFA",
+    "url": "https://tass.com/politics/2111377"
+  },
+  {
+    "id": "https://www.france24.com/en/video/20260403-viktor-orb%C3%A1n-courts-voters-in-neighboring-romania-as-hungary-s-election-tightens",
+    "timestamp": "2026-04-03T10:04:41",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Viktor Orb\u00e1n courts voters in neighboring Romania as Hungary\u2019s election tightens",
+    "url": "https://www.france24.com/en/video/20260403-viktor-orb%C3%A1n-courts-voters-in-neighboring-romania-as-hungary-s-election-tightens"
+  },
+  {
+    "id": "https://www.france24.com/en/video/20260403-pain-at-the-pump-how-europe-is-tackling-rising-fuel-prices",
+    "timestamp": "2026-04-03T10:03:10",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Pain at the pump: How Europe is tackling rising fuel prices",
+    "url": "https://www.france24.com/en/video/20260403-pain-at-the-pump-how-europe-is-tackling-rising-fuel-prices"
+  },
+  {
+    "id": "https://www.france24.com/en/tv-shows/reporters/20260403-when-jail-becomes-home-japan-s-elderly-seek-refuge-behind-bars",
+    "timestamp": "2026-04-03T10:03:02",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "When jail becomes home: Japan's elderly seek refuge behind bars",
+    "url": "https://www.france24.com/en/tv-shows/reporters/20260403-when-jail-becomes-home-japan-s-elderly-seek-refuge-behind-bars"
+  },
+  {
+    "id": "https://www.france24.com/en/video/20260403-nato-members-boost-defence-spending-to-cut-reliance-on-us",
+    "timestamp": "2026-04-03T10:02:06",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "NATO members boost defence spending to cut reliance on US",
+    "url": "https://www.france24.com/en/video/20260403-nato-members-boost-defence-spending-to-cut-reliance-on-us"
+  },
+  {
+    "id": "https://tass.com/pressreview/2111251",
+    "timestamp": "2026-04-03T10:00:00",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Press review: Trump puts NATO at risk as Houthis threaten to block Bab el-Mandeb",
+    "url": "https://tass.com/pressreview/2111251"
+  },
+  {
+    "id": "https://tass.com/politics/2111367",
+    "timestamp": "2026-04-03T09:59:32",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russian air defenses intercept 84 Ukrainian drones over Kursk Region in past 24 hours",
+    "url": "https://tass.com/politics/2111367"
+  },
+  {
+    "id": "https://www.france24.com/en/europe/20260403-russia-conducts-massive-rolling-aerial-attacks-ukraine",
+    "timestamp": "2026-04-03T09:58:26",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Russia conducts massive rolling aerial attacks on Ukraine",
+    "url": "https://www.france24.com/en/europe/20260403-russia-conducts-massive-rolling-aerial-attacks-ukraine"
+  },
+  {
+    "id": "https://tass.com/politics/2111357",
+    "timestamp": "2026-04-03T09:55:30",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russia sees attempts to weaken SCO role in region, will block them \u2014 top diplomat",
+    "url": "https://tass.com/politics/2111357"
+  },
+  {
+    "id": "https://www.france24.com/en/video/20260403-us-israeli-strikes-destroy-iranian-highway-bridge",
+    "timestamp": "2026-04-03T09:47:31",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "US-Israeli strikes destroy Iranian highway bridge",
+    "url": "https://www.france24.com/en/video/20260403-us-israeli-strikes-destroy-iranian-highway-bridge"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/4/3/ten-years-since-panama-papers-what-did-they-reveal-did-anything-change?traffic_source=rss",
+    "timestamp": "2026-04-03T09:46:11",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Ten years since Panama Papers: What did they reveal, did anything change?",
+    "url": "https://www.aljazeera.com/news/2026/4/3/ten-years-since-panama-papers-what-did-they-reveal-did-anything-change?traffic_source=rss"
+  },
+  {
     "id": "https://www.france24.com/en/france/20260403-french-palestinian-mep-rima-hassan-to-be-tried-for-advocating-terrorism-over-x-post",
     "timestamp": "2026-04-03T09:24:22",
     "source": "France24",
@@ -4578,425 +4998,5 @@
     "region": "global",
     "text": "Space Force Wants More Testers, Looking at Own Test Center to Deliver Faster",
     "url": "https://www.airandspaceforces.com/space-force-more-testers-own-test-center-deliver-faster/"
-  },
-  {
-    "id": "https://tass.com/world/2110551",
-    "timestamp": "2026-04-01T21:53:14",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Oil from Russian tanker to ease fuel shortage in Cuba in coming weeks \u2014 president",
-    "url": "https://tass.com/world/2110551"
-  },
-  {
-    "id": "https://www.airandspaceforces.com/new-ea-37-electronic-attack-planes-uk-iran-speculation/",
-    "timestamp": "2026-04-01T21:46:15",
-    "source": "Air Force Mag",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "New EA-37B Electronic Attack Planes Spotted in UK, Prompting Iran Speculation",
-    "url": "https://www.airandspaceforces.com/new-ea-37-electronic-attack-planes-uk-iran-speculation/"
-  },
-  {
-    "id": "https://www.airandspaceforces.com/space-force-integrated-iran-epic-fury-saltzman/",
-    "timestamp": "2026-04-01T21:42:57",
-    "source": "Air Force Mag",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Saltzman: Space Force Guardians \u2018Integrated Throughout\u2019 Iran Ops",
-    "url": "https://www.airandspaceforces.com/space-force-integrated-iran-epic-fury-saltzman/"
-  },
-  {
-    "id": "https://www.militarytimes.com/opinion/2026/04/01/if-chaplains-are-officers-second-which-staff-corps-officers-are-next/",
-    "timestamp": "2026-04-01T21:37:23",
-    "source": "Military Times",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "If chaplains are \u2018officers second,\u2019 which staff corps officers are next?",
-    "url": "https://www.militarytimes.com/opinion/2026/04/01/if-chaplains-are-officers-second-which-staff-corps-officers-are-next/"
-  },
-  {
-    "id": "https://www.defenseone.com/technology/2026/04/launch-recovery-heres-how-space-force-backing-nasas-artemis-ii-mission/412571/",
-    "timestamp": "2026-04-01T21:31:35",
-    "source": "Defense One",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "From launch to recovery: Here\u2019s how Space Force is backing NASA\u2019s Artemis II mission",
-    "url": "https://www.defenseone.com/technology/2026/04/launch-recovery-heres-how-space-force-backing-nasas-artemis-ii-mission/412571/"
-  },
-  {
-    "id": "https://tass.com/world/2110547",
-    "timestamp": "2026-04-01T21:25:38",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Iranian supreme leader\u2019s advisor seriously injured in shelling \u2014 TV",
-    "url": "https://tass.com/world/2110547"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/4/1/nasa-moon-mission-a-contrast-to-us-war-on-iran-says-us-senator?traffic_source=rss",
-    "timestamp": "2026-04-01T21:20:21",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "NASA moon mission a \u2018contrast\u2019 to US war on Iran, says US senator",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/nasa-moon-mission-a-contrast-to-us-war-on-iran-says-us-senator?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/society/2110545",
-    "timestamp": "2026-04-01T21:18:27",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Global Fact-Checking Network launches educational project in 50 languages",
-    "url": "https://tass.com/society/2110545"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/4/1/spacex-files-to-go-public-paving-way-to-make-elon-musk-first-trillionaire?traffic_source=rss",
-    "timestamp": "2026-04-01T21:12:27",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "SpaceX files to go public, paving way to make Elon Musk first trillionaire",
-    "url": "https://www.aljazeera.com/news/2026/4/1/spacex-files-to-go-public-paving-way-to-make-elon-musk-first-trillionaire?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/tv-shows/a-propos/20260401-there-s-a-certain-romanticism-to-sending-humans-into-space",
-    "timestamp": "2026-04-01T21:12:26",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "'There's a certain romanticism to sending humans into space'",
-    "url": "https://www.france24.com/en/tv-shows/a-propos/20260401-there-s-a-certain-romanticism-to-sending-humans-into-space"
-  },
-  {
-    "id": "https://www.airandspaceforces.com/new-pentagon-report-dip-air-force-suicides-2024/",
-    "timestamp": "2026-04-01T21:11:26",
-    "source": "Air Force Mag",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "New Pentagon Report Shows Dip in Air Force Suicides in 2024, Data on Job Specialties",
-    "url": "https://www.airandspaceforces.com/new-pentagon-report-dip-air-force-suicides-2024/"
-  },
-  {
-    "id": "https://www.navalnews.com/naval-news/2026/04/av-to-deliver-isr-services-to-u-s-navy-with-jump-20-x/",
-    "timestamp": "2026-04-01T21:03:16",
-    "source": "Naval News",
-    "platform": "rss",
-    "category": "naval",
-    "region": "global",
-    "text": "AV to Deliver ISR Services to U.S. Navy with JUMP 20-X",
-    "url": "https://www.navalnews.com/naval-news/2026/04/av-to-deliver-isr-services-to-u-s-navy-with-jump-20-x/"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/4/1/smoke-and-embers-seen-over-irans-isfahan-after-strike?traffic_source=rss",
-    "timestamp": "2026-04-01T21:01:09",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Smoke and embers seen over Iran\u2019s Isfahan after strike",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/smoke-and-embers-seen-over-irans-isfahan-after-strike?traffic_source=rss"
-  },
-  {
-    "id": "https://sofrep.com/news/artemis-ii-launch-marks-nasas-return-to-deep-space-with-a-military-tested-crew/",
-    "timestamp": "2026-04-01T21:00:21",
-    "source": "SOFREP",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Artemis II Launch Marks NASA\u2019s Return to Deep Space With a Military-Tested Crew",
-    "url": "https://sofrep.com/news/artemis-ii-launch-marks-nasas-return-to-deep-space-with-a-military-tested-crew/"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/4/1/protesters-gather-to-oppose-changes-to-us-birthright-citizenship-law?traffic_source=rss",
-    "timestamp": "2026-04-01T20:58:16",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Protesters gather to oppose changes to US birthright citizenship law",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/protesters-gather-to-oppose-changes-to-us-birthright-citizenship-law?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/4/1/celebrations-erupt-as-dr-congo-ends-over-50-year-world-cup-wait?traffic_source=rss",
-    "timestamp": "2026-04-01T20:56:32",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Celebrations erupt as DR Congo ends over 50-year World Cup wait",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/celebrations-erupt-as-dr-congo-ends-over-50-year-world-cup-wait?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/politics/2110539",
-    "timestamp": "2026-04-01T20:45:25",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Putin orders Central Election Commission to pay special attention to election security",
-    "url": "https://tass.com/politics/2110539"
-  },
-  {
-    "id": "https://www.france24.com/en/americas/20260401-us-lifts-sanctions-on-venezuela-interim-leader-delcy-rodriguez",
-    "timestamp": "2026-04-01T20:44:40",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Trump administration lifts sanctions on Venezuela\u2019s interim leader",
-    "url": "https://www.france24.com/en/americas/20260401-us-lifts-sanctions-on-venezuela-interim-leader-delcy-rodriguez"
-  },
-  {
-    "id": "https://www.twz.com/uncategorized/ian-ellis-jones-has-touched-down-at-twz",
-    "timestamp": "2026-04-01T20:44:15",
-    "source": "The Drive WarZone",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Ian Ellis-Jones Has Touched Down At TWZ",
-    "url": "https://www.twz.com/uncategorized/ian-ellis-jones-has-touched-down-at-twz"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/inside-story/2026/4/1/what-are-the-consequences-of-israels-death-penalty-law-for-palestinians?traffic_source=rss",
-    "timestamp": "2026-04-01T20:42:14",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "What are the consequences of Israel\u2019s death penalty law for Palestinians?",
-    "url": "https://www.aljazeera.com/video/inside-story/2026/4/1/what-are-the-consequences-of-israels-death-penalty-law-for-palestinians?traffic_source=rss"
-  },
-  {
-    "id": "https://taskandpurpose.com/news/pentagon-suicide-report-2024/",
-    "timestamp": "2026-04-01T20:41:18",
-    "source": "Task & Purpose",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Infantry, artillery, other combat arms troops had highest suicide risk in 2024",
-    "url": "https://taskandpurpose.com/news/pentagon-suicide-report-2024/"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/4/1/which-interests-being-served-by-war-irans-pezeshkian-asks-us-public?traffic_source=rss",
-    "timestamp": "2026-04-01T20:40:31",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "\u2018Which interests being served by war?\u2019 Iran\u2019s Pezeshkian asks US public",
-    "url": "https://www.aljazeera.com/news/2026/4/1/which-interests-being-served-by-war-irans-pezeshkian-asks-us-public?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/world/2110537",
-    "timestamp": "2026-04-01T20:38:33",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Iran\u2019s actions are measured response, not start of war or aggression \u2014 Pezeshkian",
-    "url": "https://tass.com/world/2110537"
-  },
-  {
-    "id": "https://news.usni.org/2026/04/01/japan-deploys-new-hypersonic-anti-ship-missiles",
-    "timestamp": "2026-04-01T20:37:24",
-    "source": "USNI News",
-    "platform": "rss",
-    "category": "naval",
-    "region": "global",
-    "text": "Japan Deploys New Hypersonic, Anti-ship Missiles",
-    "url": "https://news.usni.org/2026/04/01/japan-deploys-new-hypersonic-anti-ship-missiles"
-  },
-  {
-    "id": "https://tass.com/sports/2110533",
-    "timestamp": "2026-04-01T20:33:02",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Ovechkin \u2018the only one\u2019 to break Gretzky\u2019s last-standing record, says Tretiak",
-    "url": "https://tass.com/sports/2110533"
-  },
-  {
-    "id": "https://www.navalnews.com/naval-news/2026/04/saab-opens-key-test-site-for-australias-hobart-class-destroyers/",
-    "timestamp": "2026-04-01T20:32:11",
-    "source": "Naval News",
-    "platform": "rss",
-    "category": "naval",
-    "region": "global",
-    "text": "Saab opens key test site for Australia\u2019s Hobart class destroyers",
-    "url": "https://www.navalnews.com/naval-news/2026/04/saab-opens-key-test-site-for-australias-hobart-class-destroyers/"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/04/01/uss_george_hw_bush_deploys_amid_iran_war_1173903.html",
-    "timestamp": "2026-04-01T20:25:16",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "USS George H.W. Bush Deploys Amid Iran War",
-    "url": "https://www.realcleardefense.com/2026/04/01/uss_george_hw_bush_deploys_amid_iran_war_1173903.html"
-  },
-  {
-    "id": "https://www.france24.com/en/south-africa-deploys-military-to-cape-town-townships-hit-by-crime",
-    "timestamp": "2026-04-01T20:23:47",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "South Africa deploys military to Cape Town townships hit by crime",
-    "url": "https://www.france24.com/en/south-africa-deploys-military-to-cape-town-townships-hit-by-crime"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/4/1/ecuador-claims-28-drop-in-homicides-amid-concerns-over-anti-crime-campaign?traffic_source=rss",
-    "timestamp": "2026-04-01T20:20:43",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Ecuador claims 28% drop in homicides amid concerns over anti-crime campaign",
-    "url": "https://www.aljazeera.com/news/2026/4/1/ecuador-claims-28-drop-in-homicides-amid-concerns-over-anti-crime-campaign?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/4/1/hits-close-to-home-us-supreme-court-hears-birthright-citizenship-case?traffic_source=rss",
-    "timestamp": "2026-04-01T20:19:38",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "\u2018Hits close to home\u2019: US Supreme Court hears birthright citizenship case",
-    "url": "https://www.aljazeera.com/news/2026/4/1/hits-close-to-home-us-supreme-court-hears-birthright-citizenship-case?traffic_source=rss"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/04/01/russo-ukrainian-war-day-1498-ukraine-crushes-russias-biggest-assault-on-sloviansk-front-of-2026/",
-    "timestamp": "2026-04-01T20:18:31",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Russo-Ukrainian war, day 1498: Ukraine crushes Russia\u2019s biggest assault on Sloviansk front of 2026",
-    "url": "https://euromaidanpress.com/2026/04/01/russo-ukrainian-war-day-1498-ukraine-crushes-russias-biggest-assault-on-sloviansk-front-of-2026/"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/4/1/burundi-says-at-least-13-killed-dozens-injured-in-military-base-blast?traffic_source=rss",
-    "timestamp": "2026-04-01T20:16:32",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Burundi says at least 13 killed, dozens injured in military base blast",
-    "url": "https://www.aljazeera.com/news/2026/4/1/burundi-says-at-least-13-killed-dozens-injured-in-military-base-blast?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/world/2110521",
-    "timestamp": "2026-04-01T20:08:58",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Trump threatens to stop arms supplies to Ukraine \u2014 FT",
-    "url": "https://tass.com/world/2110521"
-  },
-  {
-    "id": "https://news.usni.org/2026/04/01/amphibious-warship-uss-rushmore-sailing-through-strait-of-malacca",
-    "timestamp": "2026-04-01T20:08:52",
-    "source": "USNI News",
-    "platform": "rss",
-    "category": "naval",
-    "region": "global",
-    "text": "Amphibious Warship USS Rushmore Sailing Through Strait of Malacca",
-    "url": "https://news.usni.org/2026/04/01/amphibious-warship-uss-rushmore-sailing-through-strait-of-malacca"
-  },
-  {
-    "id": "https://www.france24.com/en/like-a-camping-trip-but-everything-needs-to-be-attached",
-    "timestamp": "2026-04-01T20:08:39",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "'Like a camping trip, but everything needs to be attached'",
-    "url": "https://www.france24.com/en/like-a-camping-trip-but-everything-needs-to-be-attached"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/4/1/india-begins-counting-its-population-in-historic-census?traffic_source=rss",
-    "timestamp": "2026-04-01T20:06:38",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "India begins counting its population in historic census",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/india-begins-counting-its-population-in-historic-census?traffic_source=rss"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/04/01/us-is-tripling-patriot-heads-production-under-boeing-deal-ukraine-needs-missiles-to-stop-russian-ballistics/",
-    "timestamp": "2026-04-01T20:06:33",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "US is tripling Patriot heads production under Boeing deal. Ukraine needs missiles to stop Russian ballistics",
-    "url": "https://euromaidanpress.com/2026/04/01/us-is-tripling-patriot-heads-production-under-boeing-deal-ukraine-needs-missiles-to-stop-russian-ballistics/"
-  },
-  {
-    "id": "https://www.twz.com/news-features/european-red-sea-task-force-ready-for-attacks-amid-fears-houthis-could-close-bab-el-mandeb-strait",
-    "timestamp": "2026-04-01T19:58:05",
-    "source": "The Drive WarZone",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "European Red Sea Task Force Ready For Attacks Amid Fears Houthis Could Close Bab el-Mandeb Strait",
-    "url": "https://www.twz.com/news-features/european-red-sea-task-force-ready-for-attacks-amid-fears-houthis-could-close-bab-el-mandeb-strait"
-  },
-  {
-    "id": "https://www.france24.com/en/americas/20260401-trump-attends-birthright-citizenship-hearing-at-supreme-court-in-historic-first",
-    "timestamp": "2026-04-01T19:56:10",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Trump attends birthright citizenship hearing at Supreme Court in historic first",
-    "url": "https://www.france24.com/en/americas/20260401-trump-attends-birthright-citizenship-hearing-at-supreme-court-in-historic-first"
-  },
-  {
-    "id": "https://www.france24.com/en/debunking-claims-israeli-jews-are-stealing-land-in-morocco",
-    "timestamp": "2026-04-01T19:54:03",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Debunking claims Israeli Jews are 'stealing land' in Morocco",
-    "url": "https://www.france24.com/en/debunking-claims-israeli-jews-are-stealing-land-in-morocco"
-  },
-  {
-    "id": "https://www.twz.com/space/worlds-most-secretive-737-is-supporting-nasas-historic-artemis-ii-launch",
-    "timestamp": "2026-04-01T19:53:49",
-    "source": "The Drive WarZone",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "World\u2019s Most Secretive 737 Is Supporting NASA\u2019s Historic Artemis II Launch",
-    "url": "https://www.twz.com/space/worlds-most-secretive-737-is-supporting-nasas-historic-artemis-ii-launch"
-  },
-  {
-    "id": "https://tass.com/world/2110509",
-    "timestamp": "2026-04-01T19:52:31",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "US exit from NATO to hurt Ukraine, set stage for high drama Ankara summit \u2014 newspaper",
-    "url": "https://tass.com/world/2110509"
   }
 ]
