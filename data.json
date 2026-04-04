@@ -1,5 +1,85 @@
 [
   {
+    "id": "https://tass.com/world/2111955",
+    "timestamp": "2026-04-04T20:31:07",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Zelensky says he agreed with Erdogan on new steps in security cooperation",
+    "url": "https://tass.com/world/2111955"
+  },
+  {
+    "id": "https://www.france24.com/en/asia-pacific/20260404-china-executes-french-national-convicted-in-2010-for-drug-trafficking",
+    "timestamp": "2026-04-04T20:28:05",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "China executes French national convicted in 2010 for drug trafficking",
+    "url": "https://www.france24.com/en/asia-pacific/20260404-china-executes-french-national-convicted-in-2010-for-drug-trafficking"
+  },
+  {
+    "id": "https://taskandpurpose.com/news/airman-it-fraud-al-capone/",
+    "timestamp": "2026-04-04T20:27:55",
+    "source": "Task & Purpose",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Former airman pleads guilty to defrauding Air Force of $37 million",
+    "url": "https://taskandpurpose.com/news/airman-it-fraud-al-capone/"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/4/4/trump-files-emergency-motion-to-continue-building-white-house-ballroom?traffic_source=rss",
+    "timestamp": "2026-04-04T20:17:00",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Trump files emergency motion to continue building White House ballroom",
+    "url": "https://www.aljazeera.com/news/2026/4/4/trump-files-emergency-motion-to-continue-building-white-house-ballroom?traffic_source=rss"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/04/04/kirovske-attack/",
+    "timestamp": "2026-04-04T20:15:22",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Ukraine\u2019s big boom FP-2 drones just blew up four Russian Orions inside their Crimean hangar",
+    "url": "https://euromaidanpress.com/2026/04/04/kirovske-attack/"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c0le69de645o?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-04-04T20:13:41",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Search for missing airman presents serious test for US",
+    "url": "https://www.bbc.com/news/articles/c0le69de645o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/4/4/israeli-police-arrest-antiwar-protesters-in-tel-aviv?traffic_source=rss",
+    "timestamp": "2026-04-04T20:04:21",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Israeli police arrest antiwar protesters in Tel Aviv",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/israeli-police-arrest-antiwar-protesters-in-tel-aviv?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/4/4/tehran-psychiatric-hospital-not-usable-after-us-israeli-strike?traffic_source=rss",
+    "timestamp": "2026-04-04T19:48:15",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Tehran psychiatric hospital not usable after US-Israeli strike",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/tehran-psychiatric-hospital-not-usable-after-us-israeli-strike?traffic_source=rss"
+  },
+  {
     "id": "https://tass.com/world/2111953",
     "timestamp": "2026-04-04T19:35:28",
     "source": "TASS English",
@@ -308,6 +388,16 @@
     "region": "mena",
     "text": "LIVE: Atletico Madrid vs Barcelona \u2013 La Liga",
     "url": "https://www.aljazeera.com/sports/liveblog/2026/4/4/live-atletico-madrid-vs-barcelona-la-liga?traffic_source=rss"
+  },
+  {
+    "id": "https://sofrep.com/news/the-army-is-already-adjusting-the-m7-and-the-xm8-carbine-proves-it/",
+    "timestamp": "2026-04-04T16:00:52",
+    "source": "SOFREP",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "The Army Has Been Adjusting the M7, and the XM8 Carbine Proves It",
+    "url": "https://sofrep.com/news/the-army-is-already-adjusting-the-m7-and-the-xm8-carbine-proves-it/"
   },
   {
     "id": "https://tass.com/politics/2111923",
@@ -4908,95 +4998,5 @@
     "region": "global",
     "text": "Space Force to Create Futures-Like Group on HQ Staff",
     "url": "https://www.airandspaceforces.com/space-force-to-create-futures-like-group-hq-staff/"
-  },
-  {
-    "id": "https://www.france24.com/en/technology/20260403-artemis-ii-astronauts-ignite-engines-and-head-for-lunar-flyby",
-    "timestamp": "2026-04-03T00:16:00",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Artemis II astronauts ignite engines and head for lunar flyby",
-    "url": "https://www.france24.com/en/technology/20260403-artemis-ii-astronauts-ignite-engines-and-head-for-lunar-flyby"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/4/2/trump-unveils-100-percent-tariff-on-drugs-to-push-for-pharmaceutical-deals?traffic_source=rss",
-    "timestamp": "2026-04-02T23:38:53",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Trump unveils 100-percent tariff on drugs to push for pharmaceutical deals",
-    "url": "https://www.aljazeera.com/news/2026/4/2/trump-unveils-100-percent-tariff-on-drugs-to-push-for-pharmaceutical-deals?traffic_source=rss"
-  },
-  {
-    "id": "https://www.twz.com/news-features/key-iranian-bridge-severed-by-airstrikes",
-    "timestamp": "2026-04-02T23:32:36",
-    "source": "The Drive WarZone",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Key Iranian Bridge Severed By Airstrikes (Updated)",
-    "url": "https://www.twz.com/news-features/key-iranian-bridge-severed-by-airstrikes"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c5ywqky5dd7o?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-04-02T23:16:37",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Iran war could make beer and bottled water pricier for Indians",
-    "url": "https://www.bbc.com/news/articles/c5ywqky5dd7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.militarytimes.com/news/your-military/2026/04/02/pentagon-expands-firearm-access-for-off-duty-military-members-on-base/",
-    "timestamp": "2026-04-02T23:15:39",
-    "source": "Military Times",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Pentagon expands firearm access for off-duty military members on base",
-    "url": "https://www.militarytimes.com/news/your-military/2026/04/02/pentagon-expands-firearm-access-for-off-duty-military-members-on-base/"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cq8wzkyxyyyo?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-04-02T23:11:19",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Arlo Parks: 'I got out of my head and into my body'",
-    "url": "https://www.bbc.com/news/articles/cq8wzkyxyyyo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://breakingdefense.com/2026/04/trump-to-propose-1-5-trillion-defense-budget-banking-on-350-billion-from-reconciliation/",
-    "timestamp": "2026-04-02T23:09:37",
-    "source": "Breaking Defense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Trump to propose $1.5 trillion defense budget, banking on $350 billion from reconciliation",
-    "url": "https://breakingdefense.com/2026/04/trump-to-propose-1-5-trillion-defense-budget-banking-on-350-billion-from-reconciliation/"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cn8d63v058zo?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-04-02T22:57:37",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Hegseth asks US Army's top general to step down",
-    "url": "https://www.bbc.com/news/articles/cn8d63v058zo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/4/2/us-court-orders-resentencing-for-colorado-clerk-involved-in-election-scheme?traffic_source=rss",
-    "timestamp": "2026-04-02T22:56:55",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "US court orders resentencing for Colorado clerk involved in election scheme",
-    "url": "https://www.aljazeera.com/news/2026/4/2/us-court-orders-resentencing-for-colorado-clerk-involved-in-election-scheme?traffic_source=rss"
   }
 ]
