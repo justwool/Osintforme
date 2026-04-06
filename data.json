@@ -1,5 +1,115 @@
 [
   {
+    "id": "https://tass.com/economy/2112583",
+    "timestamp": "2026-04-06T16:55:42",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russian stock market closes with growing major indices",
+    "url": "https://tass.com/economy/2112583"
+  },
+  {
+    "id": "https://tass.com/world/2112579",
+    "timestamp": "2026-04-06T16:36:02",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Zelensky has lost interest in events on frontline, according to Russian security officials",
+    "url": "https://tass.com/world/2112579"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cx2r5g7x25yo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-04-06T16:24:59",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Ladysmith Black Mambazo's 'wise elder' dies aged 77",
+    "url": "https://www.bbc.com/news/articles/cx2r5g7x25yo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://tass.com/economy/2112575",
+    "timestamp": "2026-04-06T16:20:40",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Catastrophic oil shortage inevitable \u2014 Russia\u2019s envoy",
+    "url": "https://tass.com/economy/2112575"
+  },
+  {
+    "id": "https://www.france24.com/en/europe/20260406-follow-live-artemis-ii-begins-its-final-lunar-flyby",
+    "timestamp": "2026-04-06T16:13:59",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Follow live: Artemis II begins its final lunar flyby",
+    "url": "https://www.france24.com/en/europe/20260406-follow-live-artemis-ii-begins-its-final-lunar-flyby"
+  },
+  {
+    "id": "https://www.dw.com/en/north-korea-kim-s-daughter-now-seen-as-likely-heir-south/a-76680967?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-04-06T16:09:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "North Korea: Kim's daughter now seen as likely heir \u2014 South",
+    "url": "https://www.dw.com/en/north-korea-kim-s-daughter-now-seen-as-likely-heir-south/a-76680967?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://tass.com/economy/2112571",
+    "timestamp": "2026-04-06T16:08:08",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Bank of Russia lowers dollar exchange rate to 78.73 rubles for April 7",
+    "url": "https://tass.com/economy/2112571"
+  },
+  {
+    "id": "https://tass.com/world/2112569",
+    "timestamp": "2026-04-06T16:07:40",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "US, Israel lost 11 aircraft while searching for F-15 pilots in Iran \u2014 MWM",
+    "url": "https://tass.com/world/2112569"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/4/6/gaza-camp-offers-children-a-sense-of-safety?traffic_source=rss",
+    "timestamp": "2026-04-06T16:06:46",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Gaza camp offers children a sense of safety",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/gaza-camp-offers-children-a-sense-of-safety?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/4/6/who-employee-killed-several-injured-in-israeli-attack-in-gaza-say-medics?traffic_source=rss",
+    "timestamp": "2026-04-06T15:58:34",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Israeli army fire on WHO vehicle in southern Gaza kills one, medics report",
+    "url": "https://www.aljazeera.com/news/2026/4/6/who-employee-killed-several-injured-in-israeli-attack-in-gaza-say-medics?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/politics/2112561",
+    "timestamp": "2026-04-06T15:55:40",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "West blocks attempts to investigate Kiev's crimes internationally \u2014 Russian diplomat",
+    "url": "https://tass.com/politics/2112561"
+  },
+  {
     "id": "https://news.usni.org/2026/04/06/southcom-doesnt-need-a-carrier-for-maritime-interdiction-cno-says",
     "timestamp": "2026-04-06T15:48:01",
     "source": "USNI News",
@@ -888,6 +998,16 @@
     "region": "ru",
     "text": "Pipeline sabotage aimed to disrupt gas supplies to Hungary before elections \u2014 Srbijagas",
     "url": "https://tass.com/economy/2112381"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/04/06/redefining_the_us_coast_guards_arctic_role_1174915.html",
+    "timestamp": "2026-04-06T11:32:14",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Redefining the U.S. Coast Guard's Arctic Role",
+    "url": "https://www.realcleardefense.com/2026/04/06/redefining_the_us_coast_guards_arctic_role_1174915.html"
   },
   {
     "id": "https://www.realcleardefense.com/2026/04/06/defending_global_order_against_chinas_maritime_insurgency__part_2_1174786.html",
@@ -4878,125 +4998,5 @@
     "region": "ru",
     "text": "Iran uses new air defense system to intercept hostile targets \u2014 military official",
     "url": "https://tass.com/world/2111885"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/4/4/israeli-strikes-damage-hospital-in-lebanons-tyre?traffic_source=rss",
-    "timestamp": "2026-04-04T13:07:25",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Israeli strikes damage hospital in Lebanon\u2019s Tyre; ground invasion advances",
-    "url": "https://www.aljazeera.com/news/2026/4/4/israeli-strikes-damage-hospital-in-lebanons-tyre?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/economy/2111863",
-    "timestamp": "2026-04-04T13:04:12",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Hungary, Slovakia to push EU to lift sanctions on Russian energy supplies \u2014 Hungarian PM",
-    "url": "https://tass.com/economy/2111863"
-  },
-  {
-    "id": "https://tass.com/world/2111861",
-    "timestamp": "2026-04-04T13:02:50",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "IRGC says it hits several US military sites in Kuwait, UAE, Bahrain",
-    "url": "https://tass.com/world/2111861"
-  },
-  {
-    "id": "https://sofrep.com/military-history/remembering-bataan-us-and-filipino-troops-heroic-defense-and-its-legacy/",
-    "timestamp": "2026-04-04T13:00:29",
-    "source": "SOFREP",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Remembering Bataan: US and Filipino Troops\u2019 Heroic Defense and Its Legacy",
-    "url": "https://sofrep.com/military-history/remembering-bataan-us-and-filipino-troops-heroic-defense-and-its-legacy/"
-  },
-  {
-    "id": "https://www.france24.com/en/strikes-in-lebanon-israeli-army-orders-evacuation-of-the-city-of-tyre",
-    "timestamp": "2026-04-04T12:53:46",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Strikes in Lebanon: Israeli army orders evacuation of the city of Tyre",
-    "url": "https://www.france24.com/en/strikes-in-lebanon-israeli-army-orders-evacuation-of-the-city-of-tyre"
-  },
-  {
-    "id": "https://www.france24.com/en/pakistan-announces-free-public-transport-as-energy-crisis-bites",
-    "timestamp": "2026-04-04T12:50:50",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Pakistan announces free public transport as energy crisis bites",
-    "url": "https://www.france24.com/en/pakistan-announces-free-public-transport-as-energy-crisis-bites"
-  },
-  {
-    "id": "https://www.france24.com/en/france-announces-crisis-loans-for-firms-hit-by-fuel-price-surge",
-    "timestamp": "2026-04-04T12:48:14",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "France announces crisis loans for firms hit by fuel-price surge",
-    "url": "https://www.france24.com/en/france-announces-crisis-loans-for-firms-hit-by-fuel-price-surge"
-  },
-  {
-    "id": "https://www.france24.com/en/war-in-the-middle-east-israel-expands-operations-in-lebanon",
-    "timestamp": "2026-04-04T12:44:59",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "War in the Middle East: Israel expands operations in Lebanon",
-    "url": "https://www.france24.com/en/war-in-the-middle-east-israel-expands-operations-in-lebanon"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/04/04/ukraine-hits-crimea-drone-base-one-inokhodets-uav-destroyed-three-damaged-each-unit-worth-millions/",
-    "timestamp": "2026-04-04T12:43:21",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Ukraine hits Crimea drone base: One Inokhodets UAV destroyed, three damaged \u2014 each unit worth millions",
-    "url": "https://euromaidanpress.com/2026/04/04/ukraine-hits-crimea-drone-base-one-inokhodets-uav-destroyed-three-damaged-each-unit-worth-millions/"
-  },
-  {
-    "id": "https://tass.com/world/2111859",
-    "timestamp": "2026-04-04T12:38:47",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "IRGC reports striking Israel-linked vessel in Strait of Hormuz",
-    "url": "https://tass.com/world/2111859"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/04/04/us-intel-warns-iran-wont-budge-on-hormuz/",
-    "timestamp": "2026-04-04T12:21:02",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "US intel warns Iran won\u2019t budge on Hormuz",
-    "url": "https://euromaidanpress.com/2026/04/04/us-intel-warns-iran-wont-budge-on-hormuz/"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/4/4/iaea-says-projectile-hits-near-irans-bushehr-nuclear-plant-killing-one?traffic_source=rss",
-    "timestamp": "2026-04-04T12:19:39",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Projectile hits near Iran\u2019s Bushehr nuclear plant, killing one: IAEA",
-    "url": "https://www.aljazeera.com/news/2026/4/4/iaea-says-projectile-hits-near-irans-bushehr-nuclear-plant-killing-one?traffic_source=rss"
   }
 ]
