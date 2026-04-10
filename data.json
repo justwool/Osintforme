@@ -1,5 +1,385 @@
 [
   {
+    "id": "https://tass.com/politics/2114867",
+    "timestamp": "2026-04-10T09:43:37",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Talks on Ukraine to resume once all three parties show readiness \u2014 Russian MFA",
+    "url": "https://tass.com/politics/2114867"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/04/10/ukraine-to-fix-druzhba-pipeline-this-spring-zelenskyy-says/",
+    "timestamp": "2026-04-10T09:41:41",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Ukraine to fix Druzhba pipeline this spring, Zelenskyy says",
+    "url": "https://euromaidanpress.com/2026/04/10/ukraine-to-fix-druzhba-pipeline-this-spring-zelenskyy-says/"
+  },
+  {
+    "id": "https://tass.com/world/2114863",
+    "timestamp": "2026-04-10T09:40:51",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Iran will agree to end war if its 10-point proposal is accepted, ambassador says",
+    "url": "https://tass.com/world/2114863"
+  },
+  {
+    "id": "https://tass.com/politics/2114861",
+    "timestamp": "2026-04-10T09:37:42",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Moscow stands in solidarity with government, people of Cuba \u2014 Russian Foreign Ministry",
+    "url": "https://tass.com/politics/2114861"
+  },
+  {
+    "id": "https://www.aljazeera.com/gallery/2026/4/10/six-months-into-a-us-brokered-ceasefire-gaza-remains-under-israeli-attacks?traffic_source=rss",
+    "timestamp": "2026-04-10T09:36:31",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Six months into \u2018ceasefire\u2019, Gaza suffers under persistent Israeli attacks",
+    "url": "https://www.aljazeera.com/gallery/2026/4/10/six-months-into-a-us-brokered-ceasefire-gaza-remains-under-israeli-attacks?traffic_source=rss"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/04/10/dmitriev-arrives-in-washington-as-russias-sanctions-clock-ticks-toward-april-11-reuters-reports/",
+    "timestamp": "2026-04-10T09:34:11",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Dmitriev arrives in Washington as Russia\u2019s sanctions clock ticks toward April 11, Reuters reports",
+    "url": "https://euromaidanpress.com/2026/04/10/dmitriev-arrives-in-washington-as-russias-sanctions-clock-ticks-toward-april-11-reuters-reports/"
+  },
+  {
+    "id": "https://tass.com/politics/2114857",
+    "timestamp": "2026-04-10T09:30:03",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russian forces to perform missions until systemic agreements are reached \u2014 MFA",
+    "url": "https://tass.com/politics/2114857"
+  },
+  {
+    "id": "https://www.france24.com/en/somalia-islamic-state-group-new-front-line-africa",
+    "timestamp": "2026-04-10T09:29:39",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Somalia, the Islamic State group's new front line in Africa",
+    "url": "https://www.france24.com/en/somalia-islamic-state-group-new-front-line-africa"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/04/10/satellites-alone-dont-explain-irans-nine-fold-jump-in-strike-accuracy-informnapalm-says-russian-sof-doctrine-does/",
+    "timestamp": "2026-04-10T09:23:39",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Satellites alone don\u2019t explain Iran\u2019s nine-fold jump in strike accuracy \u2014 InformNapalm says Russian SOF doctrine does",
+    "url": "https://euromaidanpress.com/2026/04/10/satellites-alone-dont-explain-irans-nine-fold-jump-in-strike-accuracy-informnapalm-says-russian-sof-doctrine-does/"
+  },
+  {
+    "id": "https://www.dw.com/en/recycling-s-next-big-thing-or-big-bluff/a-76509313?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-04-10T09:20:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Recycling's next big thing \u2014 or big bluff?",
+    "url": "https://www.dw.com/en/recycling-s-next-big-thing-or-big-bluff/a-76509313?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.france24.com/en/tv-shows/revisited/20260410-gladio-nato-secret-cold-war-operation-in-italy",
+    "timestamp": "2026-04-10T09:16:38",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Gladio: NATO\u2019s secret cold war operation in Italy",
+    "url": "https://www.france24.com/en/tv-shows/revisited/20260410-gladio-nato-secret-cold-war-operation-in-italy"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/4/10/torpedo-like-object-discovered-by-indonesian-fisherman?traffic_source=rss",
+    "timestamp": "2026-04-10T09:15:55",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Torpedo-like object discovered by Indonesian fisherman",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/torpedo-like-object-discovered-by-indonesian-fisherman?traffic_source=rss"
+  },
+  {
+    "id": "https://www.france24.com/en/tv-shows/middle-east-matters/20260410-ceasefire-holds-but-strait-of-hormuz-remains-at-a-standstill",
+    "timestamp": "2026-04-10T09:15:17",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Ceasefire holds, but Strait of Hormuz remains at a standstill",
+    "url": "https://www.france24.com/en/tv-shows/middle-east-matters/20260410-ceasefire-holds-but-strait-of-hormuz-remains-at-a-standstill"
+  },
+  {
+    "id": "https://tass.com/world/2114827",
+    "timestamp": "2026-04-10T09:13:36",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "UAE to review relations with partners due to situation around Iran",
+    "url": "https://tass.com/world/2114827"
+  },
+  {
+    "id": "https://www.theguardian.com/environment/2026/apr/10/weather-tracker-cyclone-maila-solomon-islands",
+    "timestamp": "2026-04-10T09:11:48",
+    "source": "Guardian World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Weather tracker: Cyclone Maila batters Solomon Islands with 115mph winds",
+    "url": "https://www.theguardian.com/environment/2026/apr/10/weather-tracker-cyclone-maila-solomon-islands"
+  },
+  {
+    "id": "https://www.france24.com/en/tv-shows/press-review/20260410-confusion-over-melania-trump-s-bizarrely-timed-jeffrey-epstein-disavowal",
+    "timestamp": "2026-04-10T09:08:53",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Confusion over Melania Trump's bizarrely-timed Jeffrey Epstein disavowal",
+    "url": "https://www.france24.com/en/tv-shows/press-review/20260410-confusion-over-melania-trump-s-bizarrely-timed-jeffrey-epstein-disavowal"
+  },
+  {
+    "id": "https://tass.com/world/2114825",
+    "timestamp": "2026-04-10T09:08:10",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Mojtaba Khamenei personally made decision to declare ceasefire \u2014 envoy",
+    "url": "https://tass.com/world/2114825"
+  },
+  {
+    "id": "https://www.dw.com/en/germany-news-inflation-creeps-up-as-fuel-costs-mount/live-76731144?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-04-10T09:06:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Germany news: Inflation creeps up as fuel costs mount",
+    "url": "https://www.dw.com/en/germany-news-inflation-creeps-up-as-fuel-costs-mount/live-76731144?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.dw.com/en/china-s-xi-hosts-taiwan-opposition-leader-in-beijing/a-76732364?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-04-10T08:58:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "China's Xi hosts Taiwan opposition leader in Beijing",
+    "url": "https://www.dw.com/en/china-s-xi-hosts-taiwan-opposition-leader-in-beijing/a-76732364?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.gov.uk/government/news/uk-start-up-to-supply-interceptor-missiles-to-uk-military-and-gulf-partners",
+    "timestamp": "2026-04-10T08:57:34",
+    "source": "UK MoD",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "UK start-up to supply interceptor missiles to UK military and Gulf partners",
+    "url": "https://www.gov.uk/government/news/uk-start-up-to-supply-interceptor-missiles-to-uk-military-and-gulf-partners"
+  },
+  {
+    "id": "https://tass.com/economy/2114819",
+    "timestamp": "2026-04-10T08:56:38",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Dollar exchange rate on Russian interbank market falls below 77 rubles",
+    "url": "https://tass.com/economy/2114819"
+  },
+  {
+    "id": "https://tass.com/world/2114817",
+    "timestamp": "2026-04-10T08:53:42",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Trump threatens to punish NATO countries that don\u2019t support Washington \u2014 newspaper",
+    "url": "https://tass.com/world/2114817"
+  },
+  {
+    "id": "https://tass.com/world/2114815",
+    "timestamp": "2026-04-10T08:51:05",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Ukraine receives another batch of Patriot missiles, Zelensky claims",
+    "url": "https://tass.com/world/2114815"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/04/10/ukraine-destroys-s-300v-and-drone-command-post-in-coordinated-zaporizhzhia-strike/",
+    "timestamp": "2026-04-10T08:47:28",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Ukraine destroys S-300V and drone command post in coordinated Zaporizhzhia strike",
+    "url": "https://euromaidanpress.com/2026/04/10/ukraine-destroys-s-300v-and-drone-command-post-in-coordinated-zaporizhzhia-strike/"
+  },
+  {
+    "id": "https://www.dw.com/en/zambia-is-the-us-trading-hiv-treatment-for-minerals/a-76713048?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-04-10T08:41:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Zambia: Is the US trading HIV treatment for minerals?",
+    "url": "https://www.dw.com/en/zambia-is-the-us-trading-hiv-treatment-for-minerals/a-76713048?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.dw.com/en/from-the-nile-to-the-euphrates-inside-israel-s-expansionist-ambitions/a-76711994?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-04-10T08:41:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "From the Nile to the Euphrates: Inside Israel's expansionist ambitions",
+    "url": "https://www.dw.com/en/from-the-nile-to-the-euphrates-inside-israel-s-expansionist-ambitions/a-76711994?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/04/10/from-kyivs-skies-to-the-gulf-ukraine-trades-drone-war-expertise-for-diesel-and-interceptors/",
+    "timestamp": "2026-04-10T08:34:29",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "From Kyiv\u2019s skies to the Gulf: Ukraine trades drone war expertise for diesel and interceptors",
+    "url": "https://euromaidanpress.com/2026/04/10/from-kyivs-skies-to-the-gulf-ukraine-trades-drone-war-expertise-for-diesel-and-interceptors/"
+  },
+  {
+    "id": "https://tass.com/economy/2114809",
+    "timestamp": "2026-04-10T08:31:39",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "UniCredit considers full wind-down of its Russia business",
+    "url": "https://tass.com/economy/2114809"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/4/10/djibouti-votes-as-long-time-leader-seeks-sixth-presidential-term?traffic_source=rss",
+    "timestamp": "2026-04-10T08:30:59",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Djibouti votes as long-time leader seeks sixth presidential term",
+    "url": "https://www.aljazeera.com/news/2026/4/10/djibouti-votes-as-long-time-leader-seeks-sixth-presidential-term?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/opinions/2026/4/10/iran-ceasefire-not-an-off-ramp-for-the-us-but-a-life-saving-ejection-seat?traffic_source=rss",
+    "timestamp": "2026-04-10T08:27:42",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Iran ceasefire: Not an off-ramp for the US but a life-saving ejection seat",
+    "url": "https://www.aljazeera.com/opinions/2026/4/10/iran-ceasefire-not-an-off-ramp-for-the-us-but-a-life-saving-ejection-seat?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/world/2114805",
+    "timestamp": "2026-04-10T08:25:19",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Zelensky fears US may withdraw from Ukraine talks in August",
+    "url": "https://tass.com/world/2114805"
+  },
+  {
+    "id": "https://tass.com/science/2114801",
+    "timestamp": "2026-04-10T08:21:23",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "US invites Russian Academy of Sciences to join Science20 \u2014 Russian diplomat",
+    "url": "https://tass.com/science/2114801"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/04/10/it-will-be-very-difficult-for-us-until-september-zelenskyy-on-possible-paths-for-peace-talks/",
+    "timestamp": "2026-04-10T08:20:03",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "\u201cIt will be very difficult for us until September\u201d \u2013 Zelenskyy on possible paths for peace talks",
+    "url": "https://euromaidanpress.com/2026/04/10/it-will-be-very-difficult-for-us-until-september-zelenskyy-on-possible-paths-for-peace-talks/"
+  },
+  {
+    "id": "https://tass.com/economy/2114803",
+    "timestamp": "2026-04-10T08:18:25",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Durov says WhatsApp encryption is biggest scam in history",
+    "url": "https://tass.com/economy/2114803"
+  },
+  {
+    "id": "https://tass.com/economy/2114799",
+    "timestamp": "2026-04-10T08:16:34",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Iran restores Tehran-Mashhad rail link \u2014 news agency",
+    "url": "https://tass.com/economy/2114799"
+  },
+  {
+    "id": "https://www.theguardian.com/australia-news/2026/apr/10/australia-singapore-fuel-supply-deal-agreement-albanese",
+    "timestamp": "2026-04-10T08:16:21",
+    "source": "Guardian World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Cutting fuel to Australia \u2018won\u2019t happen\u2019, says Singapore PM, as Albanese secures pledge from our largest petrol source",
+    "url": "https://www.theguardian.com/australia-news/2026/apr/10/australia-singapore-fuel-supply-deal-agreement-albanese"
+  },
+  {
+    "id": "https://tass.com/world/2114797",
+    "timestamp": "2026-04-10T08:15:46",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "US unlikely to abandon pressure on Iran until objectives are met \u2014 Turkish expert",
+    "url": "https://tass.com/world/2114797"
+  },
+  {
+    "id": "https://warontherocks.com/2026/04/the-future-soldier-loadout-smarter-gear-or-dead-weight/",
+    "timestamp": "2026-04-10T08:00:45",
+    "source": "War on the Rocks",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "The Future Soldier Loadout: Smarter Gear or Dead Weight?",
+    "url": "https://warontherocks.com/2026/04/the-future-soldier-loadout-smarter-gear-or-dead-weight/"
+  },
+  {
     "id": "https://tass.com/politics/2114789",
     "timestamp": "2026-04-10T08:00:10",
     "source": "TASS English",
@@ -18,6 +398,16 @@
     "region": "ru",
     "text": "Russian troops driving Ukrainian forces out of Khatneye, Kharkov Region \u2014 expert",
     "url": "https://tass.com/politics/2114787"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/4/10/russia-and-ukraine-agree-to-32-hour-orthodox-easter-ceasefire?traffic_source=rss",
+    "timestamp": "2026-04-10T07:54:09",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Russia and Ukraine agree to 32-hour Orthodox Easter ceasefire",
+    "url": "https://www.aljazeera.com/news/2026/4/10/russia-and-ukraine-agree-to-32-hour-orthodox-easter-ceasefire?traffic_source=rss"
   },
   {
     "id": "https://tass.com/world/2114783",
@@ -60,6 +450,16 @@
     "url": "https://www.aljazeera.com/news/2026/4/10/myanmars-coup-leader-min-aung-hlaing-sworn-in-as-president?traffic_source=rss"
   },
   {
+    "id": "https://warontherocks.com/2026/04/disperse-to-survive-the-logic-of-french-forward-deterrence/",
+    "timestamp": "2026-04-10T07:30:43",
+    "source": "War on the Rocks",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Disperse to Survive: The Logic of French Forward Deterrence",
+    "url": "https://warontherocks.com/2026/04/disperse-to-survive-the-logic-of-french-forward-deterrence/"
+  },
+  {
     "id": "https://www.france24.com/en/asia-pacific/20260410-chinese-taiwanese-will-unite-xi-tells-taiwan-opposition-leader",
     "timestamp": "2026-04-10T07:23:15",
     "source": "France24",
@@ -90,6 +490,16 @@
     "url": "https://tass.com/world/2114767"
   },
   {
+    "id": "https://euromaidanpress.com/2026/04/10/vladislav-inozemtsev-collapse-not-imminent/",
+    "timestamp": "2026-04-10T07:15:54",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Vladislav Inozemtsev: A collapse is not imminent",
+    "url": "https://euromaidanpress.com/2026/04/10/vladislav-inozemtsev-collapse-not-imminent/"
+  },
+  {
     "id": "https://euromaidanpress.com/2026/04/10/russian-economist-collapse-not-imminent-oil-sanctions-war/",
     "timestamp": "2026-04-10T07:15:54",
     "source": "Euromaidan Press",
@@ -98,6 +508,16 @@
     "region": "ua",
     "text": "Vladislav Inozemtsev: Wars cannot be won by sanctions",
     "url": "https://euromaidanpress.com/2026/04/10/russian-economist-collapse-not-imminent-oil-sanctions-war/"
+  },
+  {
+    "id": "https://warontherocks.com/2026/04/irans-other-front-the-war-over-the-internet/",
+    "timestamp": "2026-04-10T07:15:40",
+    "source": "War on the Rocks",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Iran\u2019s Other Front: The War Over the Internet",
+    "url": "https://warontherocks.com/2026/04/irans-other-front-the-war-over-the-internet/"
   },
   {
     "id": "https://www.navalnews.com/naval-news/2026/04/kongsberg-signs-waterjet-contract-for-indian-navys-next-generation-missile-vessel/",
@@ -200,6 +620,16 @@
     "url": "https://tass.com/world/2114751"
   },
   {
+    "id": "https://www.france24.com/en/culture/20260410-coachella-kicks-off-with-headliners-sabrina-carpenter-bieber-and-karol-g",
+    "timestamp": "2026-04-10T05:45:19",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Coachella kicks off with headliners Sabrina Carpenter, Bieber and Karol G",
+    "url": "https://www.france24.com/en/culture/20260410-coachella-kicks-off-with-headliners-sabrina-carpenter-bieber-and-karol-g"
+  },
+  {
     "id": "https://www.aljazeera.com/economy/2026/4/10/energy-prices-may-take-months-to-normalise-despite-ceasefire-analysts?traffic_source=rss",
     "timestamp": "2026-04-10T05:41:18",
     "source": "Al Jazeera",
@@ -218,6 +648,16 @@
     "region": "ru",
     "text": "Ukraine intensifies attacks on Kherson Region using drones made in Europe \u2014 governor",
     "url": "https://tass.com/politics/2114745"
+  },
+  {
+    "id": "https://www.theguardian.com/world/2026/apr/10/xi-jinping-cheng-li-wu-china-taiwan-meeting-bejing",
+    "timestamp": "2026-04-10T05:06:30",
+    "source": "Guardian World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Xi tells Taiwan opposition leader people on both sides of strait are Chinese in rare meeting",
+    "url": "https://www.theguardian.com/world/2026/apr/10/xi-jinping-cheng-li-wu-china-taiwan-meeting-bejing"
   },
   {
     "id": "https://www.aljazeera.com/video/newsfeed/2026/4/10/palestinian-journalist-describes-losing-prosthetic-eye-in-israeli-prison?traffic_source=rss",
@@ -4460,6 +4900,16 @@
     "url": "https://tass.com/world/2114087"
   },
   {
+    "id": "https://www.twz.com/news-features/questions-loom-over-iran-ceasefire",
+    "timestamp": "2026-04-08T23:09:59",
+    "source": "The Drive WarZone",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Questions Loom Over Iran Ceasefire",
+    "url": "https://www.twz.com/news-features/questions-loom-over-iran-ceasefire"
+  },
+  {
     "id": "https://www.twz.com/air/here-is-what-trumps-gargantuan-1-5t-defense-budget-has-in-it",
     "timestamp": "2026-04-08T23:08:01",
     "source": "The Drive WarZone",
@@ -4548,455 +4998,5 @@
     "region": "mena",
     "text": "Americans question Trump\u2019s instinct on Iran war",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/americans-question-trumps-instinct-on-iran-war?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/politics/2114079",
-    "timestamp": "2026-04-08T21:51:53",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russia ready to resume Ukraine talks soon \u2014 Foreign Ministry",
-    "url": "https://tass.com/politics/2114079"
-  },
-  {
-    "id": "https://www.france24.com/en/europe/20260408-trump-nato-rutte-us-exit-iran-war-allies-reject",
-    "timestamp": "2026-04-08T21:51:10",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Trump meets NATO\u2019s Rutte as US weighs exit after allies reject Iran war",
-    "url": "https://www.france24.com/en/europe/20260408-trump-nato-rutte-us-exit-iran-war-allies-reject"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/4/8/jd-vance-says-iran-would-be-dumb-to-let-talks-collapse-over-lebanon?traffic_source=rss",
-    "timestamp": "2026-04-08T21:50:36",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "JD Vance says Iran would be \u2018dumb\u2019 to let talks collapse over Lebanon",
-    "url": "https://www.aljazeera.com/news/2026/4/8/jd-vance-says-iran-would-be-dumb-to-let-talks-collapse-over-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/4/8/prosecutors-move-to-subpoena-tiger-woods-prescription-drug-records?traffic_source=rss",
-    "timestamp": "2026-04-08T21:50:24",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Prosecutors move to subpoena Tiger Woods\u2019 prescription drug records",
-    "url": "https://www.aljazeera.com/sports/2026/4/8/prosecutors-move-to-subpoena-tiger-woods-prescription-drug-records?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/4/8/trump-administration-says-it-is-mulling-nato-withdrawal-after-iran-war?traffic_source=rss",
-    "timestamp": "2026-04-08T21:47:23",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Trump administration signals it is mulling NATO withdrawal after Iran war",
-    "url": "https://www.aljazeera.com/news/2026/4/8/trump-administration-says-it-is-mulling-nato-withdrawal-after-iran-war?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/tv-shows/a-propos/20260408-at-least-182-killed-as-israel-strikes-central-beirut-after-saying-iran-truce-doesn-t-apply-there",
-    "timestamp": "2026-04-08T21:46:21",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "At least 182 killed as Israel strikes central Beirut after saying Iran truce doesn't apply there",
-    "url": "https://www.france24.com/en/tv-shows/a-propos/20260408-at-least-182-killed-as-israel-strikes-central-beirut-after-saying-iran-truce-doesn-t-apply-there"
-  },
-  {
-    "id": "https://news.usni.org/2026/04/08/south-korean-submarine-completes-first-leg-of-indo-pacific-voyage-to-canada",
-    "timestamp": "2026-04-08T21:46:04",
-    "source": "USNI News",
-    "platform": "rss",
-    "category": "naval",
-    "region": "global",
-    "text": "South Korean Submarine Completes First Leg of Indo-Pacific Voyage to Canada",
-    "url": "https://news.usni.org/2026/04/08/south-korean-submarine-completes-first-leg-of-indo-pacific-voyage-to-canada"
-  },
-  {
-    "id": "https://tass.com/world/2114077",
-    "timestamp": "2026-04-08T21:43:26",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "French politician sees signs of Paris preparing for war with Russia",
-    "url": "https://tass.com/world/2114077"
-  },
-  {
-    "id": "https://www.twz.com/air/eurofighter-typhoon-test-fires-laser-guided-counter-drone-rockets",
-    "timestamp": "2026-04-08T21:43:13",
-    "source": "The Drive WarZone",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Eurofighter Typhoon Test Fires Laser-Guided Counter-Drone Rockets",
-    "url": "https://www.twz.com/air/eurofighter-typhoon-test-fires-laser-guided-counter-drone-rockets"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/4/8/macron-welcomes-us-iran-ceasefire-and-urges-lebanons-inclusion?traffic_source=rss",
-    "timestamp": "2026-04-08T21:39:14",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Macron welcomes US-Iran ceasefire and urges Lebanon\u2019s inclusion",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/macron-welcomes-us-iran-ceasefire-and-urges-lebanons-inclusion?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/world/2114075",
-    "timestamp": "2026-04-08T21:33:14",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "US, Iran could jointly charge for passage through Strait of Hormuz \u2014 Trump",
-    "url": "https://tass.com/world/2114075"
-  },
-  {
-    "id": "https://www.aljazeera.com/economy/2026/4/8/trump-threatens-50-tariffs-on-countries-that-supply-iran-with-weapons?traffic_source=rss",
-    "timestamp": "2026-04-08T21:28:08",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Trump threatens 50% tariffs on countries that supply Iran with weapons",
-    "url": "https://www.aljazeera.com/economy/2026/4/8/trump-threatens-50-tariffs-on-countries-that-supply-iran-with-weapons?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/4/8/devastation-in-beirut-after-israeli-strikes-reduce-homes-to-rubble?traffic_source=rss",
-    "timestamp": "2026-04-08T21:25:57",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Devastation in Beirut after Israeli strikes reduce homes to rubble",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/devastation-in-beirut-after-israeli-strikes-reduce-homes-to-rubble?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/4/8/atletico-madrid-shock-10-man-barcelona-2-0-in-champions-league-quarterfinal?traffic_source=rss",
-    "timestamp": "2026-04-08T21:22:08",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Atletico Madrid shock 10-man Barcelona 2-0 in Champions League quarterfinal",
-    "url": "https://www.aljazeera.com/sports/2026/4/8/atletico-madrid-shock-10-man-barcelona-2-0-in-champions-league-quarterfinal?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/world/2114073",
-    "timestamp": "2026-04-08T21:21:02",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "US ready to offer Iran \u2018a lot\u2019 if it negotiates in good faith \u2014 vice president",
-    "url": "https://tass.com/world/2114073"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/4/8/what-to-know-about-israels-strikes-on-lebanon-amid-us-iran-ceasefire?traffic_source=rss",
-    "timestamp": "2026-04-08T21:20:03",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "What to know about Israel\u2019s strikes on Lebanon amid US-Iran ceasefire",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/what-to-know-about-israels-strikes-on-lebanon-amid-us-iran-ceasefire?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/pakistani-military-calling-the-shots-has-connections-with-ircg-very-good-relationship-with-trump",
-    "timestamp": "2026-04-08T21:15:47",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "'Pakistani military calling the shots: Has connections with IRCG, very good relationship with Trump'",
-    "url": "https://www.france24.com/en/pakistani-military-calling-the-shots-has-connections-with-ircg-very-good-relationship-with-trump"
-  },
-  {
-    "id": "https://tass.com/world/2114069",
-    "timestamp": "2026-04-08T21:11:56",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "US to not uphold ceasefire if Iran does not open Strait of Hormuz \u2014 vice president",
-    "url": "https://tass.com/world/2114069"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/czjwp1vjn9lo?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-04-08T21:10:14",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "He's Australia's most decorated soldier. Now he's at the centre of a historic war crimes case",
-    "url": "https://www.bbc.com/news/articles/czjwp1vjn9lo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://tass.com/world/2114067",
-    "timestamp": "2026-04-08T21:05:54",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Iran condemns attacks on Lavan, Siri Islands after declared ceasefire \u2014 president",
-    "url": "https://tass.com/world/2114067"
-  },
-  {
-    "id": "https://taskandpurpose.com/news/air-force-bonuses-2026/",
-    "timestamp": "2026-04-08T21:03:04",
-    "source": "Task & Purpose",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Air Force offers up to $50,000 annual bonuses to keep aviators in the service",
-    "url": "https://taskandpurpose.com/news/air-force-bonuses-2026/"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/inside-story/2026/4/8/trump-has-found-his-iran-off-ramp-but-at-what-cost?traffic_source=rss",
-    "timestamp": "2026-04-08T21:01:37",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Trump has found his Iran off-ramp \u2013 but at what cost?",
-    "url": "https://www.aljazeera.com/video/inside-story/2026/4/8/trump-has-found-his-iran-off-ramp-but-at-what-cost?traffic_source=rss"
-  },
-  {
-    "id": "https://sofrep.com/news/evening-brief-iran-ceasefire-cracks-hormuz-chokes-and-hegseth-declares-victory-anyway/",
-    "timestamp": "2026-04-08T21:00:40",
-    "source": "SOFREP",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Evening Brief: Iran Ceasefire Cracks, Hormuz Chokes, and Hegseth Declares Victory Anyway",
-    "url": "https://sofrep.com/news/evening-brief-iran-ceasefire-cracks-hormuz-chokes-and-hegseth-declares-victory-anyway/"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/4/8/psg-beat-liverpool-as-champions-league-defence-maintains-pace?traffic_source=rss",
-    "timestamp": "2026-04-08T20:58:15",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "PSG beat Liverpool as Champions League defence maintains pace",
-    "url": "https://www.aljazeera.com/sports/2026/4/8/psg-beat-liverpool-as-champions-league-defence-maintains-pace?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/4/8/people-are-afraid-lebanese-reeling-after-israels-devastating-attacks?traffic_source=rss",
-    "timestamp": "2026-04-08T20:57:02",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "\u2018People are afraid\u2019: Lebanese reeling after Israel\u2019s devastating attacks",
-    "url": "https://www.aljazeera.com/news/2026/4/8/people-are-afraid-lebanese-reeling-after-israels-devastating-attacks?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/world/2114065",
-    "timestamp": "2026-04-08T20:56:48",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Belgian foreign minister says he narrowly missed being hit by Israeli strike in Beirut",
-    "url": "https://tass.com/world/2114065"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-04-08T20:54:59",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "At least 182 killed across Lebanon in large wave of Israeli strikes",
-    "url": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/4/8/heinous-crime-al-jazeera-condemns-israeli-killing-of-journalist?traffic_source=rss",
-    "timestamp": "2026-04-08T20:53:32",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "\u2018Heinous crime\u2019: Al Jazeera condemns Israeli killing of journalist",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/heinous-crime-al-jazeera-condemns-israeli-killing-of-journalist?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/world/2114063",
-    "timestamp": "2026-04-08T20:52:21",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Death toll from Israeli strikes on Lebanon rises to 254 in past day, with 1,165 injured",
-    "url": "https://tass.com/world/2114063"
-  },
-  {
-    "id": "https://www.france24.com/en/energy-crisis-not-over-despite-relief-rally",
-    "timestamp": "2026-04-08T20:47:40",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Energy crisis not over despite relief rally",
-    "url": "https://www.france24.com/en/energy-crisis-not-over-despite-relief-rally"
-  },
-  {
-    "id": "https://tass.com/world/2114061",
-    "timestamp": "2026-04-08T20:44:08",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Vance says Lebanon not part of ceasefire deal with Iran",
-    "url": "https://tass.com/world/2114061"
-  },
-  {
-    "id": "https://www.militarytimes.com/news/your-military/2026/04/08/guardsman-in-dc-saves-life-of-same-person-on-separate-occasions/",
-    "timestamp": "2026-04-08T20:35:38",
-    "source": "Military Times",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Guardsman in DC saves life of same person on separate occasions",
-    "url": "https://www.militarytimes.com/news/your-military/2026/04/08/guardsman-in-dc-saves-life-of-same-person-on-separate-occasions/"
-  },
-  {
-    "id": "https://www.airandspaceforces.com/new-space-threat-report-bodyguard-satellites/",
-    "timestamp": "2026-04-08T20:27:44",
-    "source": "Air Force Mag",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "New Report Highlights Global Trend Toward \u2018Bodyguard\u2019 Satellites",
-    "url": "https://www.airandspaceforces.com/new-space-threat-report-bodyguard-satellites/"
-  },
-  {
-    "id": "https://tass.com/world/2114059",
-    "timestamp": "2026-04-08T20:27:32",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "UN calls for investigation into Israeli strikes on Lebanon after US truce with Iran",
-    "url": "https://tass.com/world/2114059"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/4/8/netanyahu-a-ceasefire-with-iran-will-not-include?traffic_source=rss",
-    "timestamp": "2026-04-08T20:24:36",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Netanyahu: A \u2018ceasefire with Iran will not include Hezbollah\u2019",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/netanyahu-a-ceasefire-with-iran-will-not-include?traffic_source=rss"
-  },
-  {
-    "id": "https://www.airandspaceforces.com/new-device-another-way-refuel-a-10-warthog/",
-    "timestamp": "2026-04-08T20:20:07",
-    "source": "Air Force Mag",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "A New Device Gives the A-10 Warthog Another Way to Refuel",
-    "url": "https://www.airandspaceforces.com/new-device-another-way-refuel-a-10-warthog/"
-  },
-  {
-    "id": "https://www.aljazeera.com/gallery/2026/4/8/nasa-releases-picture-of-earthset-shot-by-artemis-crew?traffic_source=rss",
-    "timestamp": "2026-04-08T20:19:40",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "NASA releases picture of \u2018Earthset\u2019 shot by Artemis crew",
-    "url": "https://www.aljazeera.com/gallery/2026/4/8/nasa-releases-picture-of-earthset-shot-by-artemis-crew?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/sports/2114057",
-    "timestamp": "2026-04-08T20:18:32",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Washington Capitals nominate Ovechkin for Bill Masterton Memorial Trophy",
-    "url": "https://tass.com/sports/2114057"
-  },
-  {
-    "id": "https://www.france24.com/en/strategic-djibouti-to-vote-in-presidential-election",
-    "timestamp": "2026-04-08T20:16:11",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Strategic Djibouti to vote in presidential election",
-    "url": "https://www.france24.com/en/strategic-djibouti-to-vote-in-presidential-election"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/04/08/ukraines-interceptor-drones-just-set-record-as-industry-has-crossed-threshold/",
-    "timestamp": "2026-04-08T20:11:01",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Ukraine\u2019s interceptor drones just set record, as industry has crossed threshold",
-    "url": "https://euromaidanpress.com/2026/04/08/ukraines-interceptor-drones-just-set-record-as-industry-has-crossed-threshold/"
-  },
-  {
-    "id": "https://www.france24.com/en/tv-shows/spotlight/20260408-us-iran-truce-sensitive-behind-the-scenes-conversations-paved-way-for-pakistan-brokered-ceasefire",
-    "timestamp": "2026-04-08T19:58:10",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "US-Iran truce: \u2018Sensitive behind-the-scenes conversations\u2019 paved way for Pakistan-brokered ceasefire",
-    "url": "https://www.france24.com/en/tv-shows/spotlight/20260408-us-iran-truce-sensitive-behind-the-scenes-conversations-paved-way-for-pakistan-brokered-ceasefire"
-  },
-  {
-    "id": "https://tass.com/world/2114049",
-    "timestamp": "2026-04-08T19:54:41",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Iranian parliament speaker says talks with US unreasonable amid ceasefire breaches",
-    "url": "https://tass.com/world/2114049"
-  },
-  {
-    "id": "https://tass.com/world/2114047",
-    "timestamp": "2026-04-08T19:53:34",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Netanyahu says Israel to achieve Iran goals one way or another",
-    "url": "https://tass.com/world/2114047"
-  },
-  {
-    "id": "https://www.france24.com/en/tv-shows/the-debate/20260408-can-ceasefire-hold-us-iran-truce-tested-before-talks-start",
-    "timestamp": "2026-04-08T19:48:00",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Can ceasefire hold? US-Iran truce tested before talks start",
-    "url": "https://www.france24.com/en/tv-shows/the-debate/20260408-can-ceasefire-hold-us-iran-truce-tested-before-talks-start"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/4/8/world-reacts-to-brutal-israeli-attacks-on-lebanon-amid-us-iran-ceasefire?traffic_source=rss",
-    "timestamp": "2026-04-08T19:47:57",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "World reacts to \u2018brutal\u2019 Israeli attacks on Lebanon amid US-Iran ceasefire",
-    "url": "https://www.aljazeera.com/news/2026/4/8/world-reacts-to-brutal-israeli-attacks-on-lebanon-amid-us-iran-ceasefire?traffic_source=rss"
   }
 ]
