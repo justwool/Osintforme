@@ -1,5 +1,75 @@
 [
   {
+    "id": "https://www.twz.com/air/operation-epic-fury-u-s-aircraft-losses-visualized",
+    "timestamp": "2026-04-10T18:06:34",
+    "source": "The Drive WarZone",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Operation Epic Fury U.S. Aircraft Losses Visualized",
+    "url": "https://www.twz.com/air/operation-epic-fury-u-s-aircraft-losses-visualized"
+  },
+  {
+    "id": "https://www.militarytimes.com/news/your-military/2026/04/10/sailor-reportedly-finds-dead-rat-in-finished-energy-drink/",
+    "timestamp": "2026-04-10T17:51:55",
+    "source": "Military Times",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Sailor reportedly finds dead rat in finished energy drink",
+    "url": "https://www.militarytimes.com/news/your-military/2026/04/10/sailor-reportedly-finds-dead-rat-in-finished-energy-drink/"
+  },
+  {
+    "id": "https://www.france24.com/en/middle-east/20260410-former-is-group-child-fighters-jailed-in-iraq-seek-repatriation-to-france",
+    "timestamp": "2026-04-10T17:45:50",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Former IS group child \u2018fighters\u2019 jailed in Iraq seek repatriation to France",
+    "url": "https://www.france24.com/en/middle-east/20260410-former-is-group-child-fighters-jailed-in-iraq-seek-repatriation-to-france"
+  },
+  {
+    "id": "https://www.airandspaceforces.com/air-force-mini-nuclear-reactors-buckley-malmstrom-2030/",
+    "timestamp": "2026-04-10T17:45:19",
+    "source": "Air Force Mag",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Mini Nuclear Reactors May Be Coming to Buckley, Malmstrom by 2030",
+    "url": "https://www.airandspaceforces.com/air-force-mini-nuclear-reactors-buckley-malmstrom-2030/"
+  },
+  {
+    "id": "https://taskandpurpose.com/news/army-robot-kitchen/",
+    "timestamp": "2026-04-10T17:44:54",
+    "source": "Task & Purpose",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "The Army is testing out a robotic kitchen that can cook for soldiers downrange",
+    "url": "https://taskandpurpose.com/news/army-robot-kitchen/"
+  },
+  {
+    "id": "https://news.usni.org/2026/04/10/navy-to-inactivate-attack-boat-uss-boise-after-1-6b-repair-effort",
+    "timestamp": "2026-04-10T17:36:45",
+    "source": "USNI News",
+    "platform": "rss",
+    "category": "naval",
+    "region": "global",
+    "text": "Navy to Inactivate Attack Boat USS Boise After $1.6B Repair Effort",
+    "url": "https://news.usni.org/2026/04/10/navy-to-inactivate-attack-boat-uss-boise-after-1-6b-repair-effort"
+  },
+  {
+    "id": "https://www.aljazeera.com/economy/2026/4/10/us-federal-court-hears-new-case-against-trump-tariffs?traffic_source=rss",
+    "timestamp": "2026-04-10T17:35:45",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "US federal court hears new case against Trump tariffs",
+    "url": "https://www.aljazeera.com/economy/2026/4/10/us-federal-court-hears-new-case-against-trump-tariffs?traffic_source=rss"
+  },
+  {
     "id": "https://www.twz.com/sea/navy-calls-it-quits-on-attack-submarine-uss-boises-never-ending-overhaul",
     "timestamp": "2026-04-10T17:25:10",
     "source": "The Drive WarZone",
@@ -8,6 +78,26 @@
     "region": "global",
     "text": "Navy Calls It Quits On Attack Submarine USS Boise\u2019s Never Ending Overhaul",
     "url": "https://www.twz.com/sea/navy-calls-it-quits-on-attack-submarine-uss-boises-never-ending-overhaul"
+  },
+  {
+    "id": "https://www.theguardian.com/world/2026/apr/10/concerns-about-motorbike-tourist-trail-after-death-british-teenager-orla-wates-vietnam",
+    "timestamp": "2026-04-10T17:20:20",
+    "source": "Guardian World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Concerns raised about motorbike tourist trail after death of British teenager in Vietnam",
+    "url": "https://www.theguardian.com/world/2026/apr/10/concerns-about-motorbike-tourist-trail-after-death-british-teenager-orla-wates-vietnam"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/4/10/hawaiis-kilauea-erupts-blasting-lava-sky-high?traffic_source=rss",
+    "timestamp": "2026-04-10T17:11:16",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Hawaii\u2019s Kilauea erupts, blasting lava sky-high",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/hawaiis-kilauea-erupts-blasting-lava-sky-high?traffic_source=rss"
   },
   {
     "id": "https://www.bbc.com/news/articles/czrekrzzex1o?at_medium=RSS&at_campaign=rss",
@@ -4908,95 +4998,5 @@
     "region": "global",
     "text": "Escaping survival mode: Psychologist offers guide to slowing down and reclaiming balance",
     "url": "https://www.france24.com/en/tv-shows/entre-nous/20260409-escaping-survival-mode-psychologist-offers-guide-to-slowing-down-and-reclaiming-balance"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/4/9/energy-crisis-is-the-mother-of-all-crises-turkish-energy-minister?traffic_source=rss",
-    "timestamp": "2026-04-09T12:18:31",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Global energy crisis is \u2018the mother of all crises\u2019: Turkish energy minister",
-    "url": "https://www.aljazeera.com/news/2026/4/9/energy-crisis-is-the-mother-of-all-crises-turkish-energy-minister?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/4/9/fury-vs-makhmudov-all-you-need-to-know-about-the-heavyweight-boxing-bout?traffic_source=rss",
-    "timestamp": "2026-04-09T12:09:29",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Fury vs Makhmudov: All you need to know about the heavyweight boxing bout",
-    "url": "https://www.aljazeera.com/sports/2026/4/9/fury-vs-makhmudov-all-you-need-to-know-about-the-heavyweight-boxing-bout?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/tv-shows/business/20260409-rising-oil-prices-are-we-heading-for-a-recession",
-    "timestamp": "2026-04-09T12:04:08",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Rising oil prices: Are we heading for a recession?",
-    "url": "https://www.france24.com/en/tv-shows/business/20260409-rising-oil-prices-are-we-heading-for-a-recession"
-  },
-  {
-    "id": "https://sofrep.com/news/israel-hezbollah-war-continues-despite-iran-ceasefire-as-lebanon-front-intensifies/",
-    "timestamp": "2026-04-09T12:00:12",
-    "source": "SOFREP",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Israel-Hezbollah War Continues Despite Iran Ceasefire as Lebanon Front Intensifies",
-    "url": "https://sofrep.com/news/israel-hezbollah-war-continues-despite-iran-ceasefire-as-lebanon-front-intensifies/"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/4/9/bosnian-ball-boy-who-hid-donnarummas-penalty-shootout-notes-hailed-as-hero?traffic_source=rss",
-    "timestamp": "2026-04-09T11:57:31",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Bosnian ball boy who hid Donnarumma\u2019s penalty shootout notes hailed as hero",
-    "url": "https://www.aljazeera.com/sports/2026/4/9/bosnian-ball-boy-who-hid-donnarummas-penalty-shootout-notes-hailed-as-hero?traffic_source=rss"
-  },
-  {
-    "id": "https://www.theguardian.com/world/2026/apr/09/argentina-approves-glacier-mining-bill-environment-protests-andes-mountaines-javier-milei",
-    "timestamp": "2026-04-09T11:55:33",
-    "source": "Guardian World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Argentina approves Milei\u2019s glacier mining bill amid environmental protests",
-    "url": "https://www.theguardian.com/world/2026/apr/09/argentina-approves-glacier-mining-bill-environment-protests-andes-mountaines-javier-milei"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/4/9/funeral-held-for-al-jazeeras-wishah-killed-in-israeli-strike-in-gaza?traffic_source=rss",
-    "timestamp": "2026-04-09T11:54:24",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Funeral held for Al Jazeera\u2019s Wishah killed in Israeli strike in Gaza",
-    "url": "https://www.aljazeera.com/news/2026/4/9/funeral-held-for-al-jazeeras-wishah-killed-in-israeli-strike-in-gaza?traffic_source=rss"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/04/09/trump_confounds_critics_again_1175499.html",
-    "timestamp": "2026-04-09T11:51:37",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Trump Confounds Critics Again",
-    "url": "https://www.realcleardefense.com/2026/04/09/trump_confounds_critics_again_1175499.html"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/04/09/irans_next_move_is_the_bombif_the_regime_survives_1175591.html",
-    "timestamp": "2026-04-09T11:51:36",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Iran's Next Move Is the Bomb\u2014If the Regime Survives",
-    "url": "https://www.realcleardefense.com/2026/04/09/irans_next_move_is_the_bombif_the_regime_survives_1175591.html"
   }
 ]
