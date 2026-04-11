@@ -1,5 +1,95 @@
 [
   {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/4/11/artemis-ii-astronauts-journey-back-to-earth-after-moon-mission?traffic_source=rss",
+    "timestamp": "2026-04-11T03:16:23",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Artemis II astronauts journey back to Earth after moon mission",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/artemis-ii-astronauts-journey-back-to-earth-after-moon-mission?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/economy/2026/4/11/trump-says-strait-of-hormuz-to-reopen-soon-as-us-iran-head-to-talks?traffic_source=rss",
+    "timestamp": "2026-04-11T03:06:18",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Trump says Strait of Hormuz to reopen \u2018soon\u2019 as US, Iran head to talks",
+    "url": "https://www.aljazeera.com/economy/2026/4/11/trump-says-strait-of-hormuz-to-reopen-soon-as-us-iran-head-to-talks?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/4/11/moment-artemis-ii-splashes-down-after-moon-mission?traffic_source=rss",
+    "timestamp": "2026-04-11T01:04:21",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Moment Artemis II splashes down after moon mission",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/moment-artemis-ii-splashes-down-after-moon-mission?traffic_source=rss"
+  },
+  {
+    "id": "https://www.militarytimes.com/veterans/military-history/2026/04/11/the-only-navy-seabee-awarded-the-nations-highest-award-for-valor/",
+    "timestamp": "2026-04-11T00:30:00",
+    "source": "Military Times",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "The only Navy Seabee awarded the nation\u2019s highest award for valor",
+    "url": "https://www.militarytimes.com/veterans/military-history/2026/04/11/the-only-navy-seabee-awarded-the-nations-highest-award-for-valor/"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c0q9527y41lo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-04-11T00:17:18",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Final push for votes as challenger to Hungary's Orb\u00e1n scents victory",
+    "url": "https://www.bbc.com/news/articles/c0q9527y41lo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.dw.com/en/artemis-ii-splashes-down-in-pacific-after-historic-moon-trip/live-76722861?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-04-11T00:11:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Artemis II splashes down in Pacific after historic moon trip",
+    "url": "https://www.dw.com/en/artemis-ii-splashes-down-in-pacific-after-historic-moon-trip/live-76722861?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/4/11/artemis-ii-splashdown-astronauts-return-to-earth-after-lunar-mission?traffic_source=rss",
+    "timestamp": "2026-04-11T00:08:15",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "NASA\u2019s Artemis II astronauts splash down on Earth after lunar mission",
+    "url": "https://www.aljazeera.com/news/2026/4/11/artemis-ii-splashdown-astronauts-return-to-earth-after-lunar-mission?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/liveblog/2026/4/11/iran-war-live-us-negotiators-due-to-arrive-in-pakistan-for-ceasefire-talks?traffic_source=rss",
+    "timestamp": "2026-04-11T00:00:00",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Iran war live: US negotiators due to arrive in Pakistan for ceasefire talks",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/4/11/iran-war-live-us-negotiators-due-to-arrive-in-pakistan-for-ceasefire-talks?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/4/10/israeli-strike-on-government-building-kills-lebanese-officers?traffic_source=rss",
+    "timestamp": "2026-04-10T23:55:38",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Israeli strike on government building kills Lebanese officers",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/israeli-strike-on-government-building-kills-lebanese-officers?traffic_source=rss"
+  },
+  {
     "id": "https://www.twz.com/news-features/mystery-launcher-appears-on-u-s-navy-destroyer",
     "timestamp": "2026-04-10T23:51:26",
     "source": "The Drive WarZone",
@@ -18,6 +108,16 @@
     "region": "ru",
     "text": "US leader says main demand Iran should not acquire nuclear weapon",
     "url": "https://tass.com/world/2115321"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cn9qzl12537o?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-04-10T23:46:49",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Historic Vance-Ghalibaf talks must bridge deep distrust",
+    "url": "https://www.bbc.com/news/articles/cn9qzl12537o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.defensenews.com/news/pentagon-congress/2026/04/10/the-president-who-threatened-to-end-a-civilization-is-supposed-to-guarantee-ukraines-survival/",
@@ -4898,105 +4998,5 @@
     "region": "mena",
     "text": "Al Jazeera\u2019s Mohammed Wishah, killed by Israeli strike, laid to rest",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/al-jazeeras-mohammed-wishah-killed-by-israeli-strike-laid-to-rest?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/tv-shows/arts24/20260409-almod%C3%B3var-travolta-and-bardem-lead-2026-cannes-lineup",
-    "timestamp": "2026-04-09T15:38:37",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Almod\u00f3var, Travolta and Bardem lead 2026 Cannes lineup",
-    "url": "https://www.france24.com/en/tv-shows/arts24/20260409-almod%C3%B3var-travolta-and-bardem-lead-2026-cannes-lineup"
-  },
-  {
-    "id": "https://tass.com/sports/2114559",
-    "timestamp": "2026-04-09T15:34:01",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "NHL\u2019s Washington Caps to support any career-related decision of Russia\u2019s Ovechkin",
-    "url": "https://tass.com/sports/2114559"
-  },
-  {
-    "id": "https://tass.com/science/2114541",
-    "timestamp": "2026-04-09T15:32:41",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Spektr-M space observatory to be launched in 2036 \u2014 Lebedev Physical Institute",
-    "url": "https://tass.com/science/2114541"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/04/09/moldova-signs-out-of-cis/",
-    "timestamp": "2026-04-09T15:26:13",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Moldova formally exits Russia\u2019s post-Soviet CIS as Sandu signs withdrawal decrees",
-    "url": "https://euromaidanpress.com/2026/04/09/moldova-signs-out-of-cis/"
-  },
-  {
-    "id": "https://tass.com/politics/2114555",
-    "timestamp": "2026-04-09T15:24:51",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Putin\u2019s aide highlights loss ratio as he confirms 1,000 bodies transferred to Ukraine",
-    "url": "https://tass.com/politics/2114555"
-  },
-  {
-    "id": "https://tass.com/world/2114557",
-    "timestamp": "2026-04-09T15:22:31",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Lebanon should not be allowed to become another Gaza because of Israel \u2014 Slovenian PM",
-    "url": "https://tass.com/world/2114557"
-  },
-  {
-    "id": "https://tass.com/politics/2114551",
-    "timestamp": "2026-04-09T15:20:19",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian troops strike Ukrainian army\u2019s energy infrastructure over past day \u2014 top brass",
-    "url": "https://tass.com/politics/2114551"
-  },
-  {
-    "id": "https://tass.com/economy/2114549",
-    "timestamp": "2026-04-09T15:14:08",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Sales of new German cars in Russia rise 2.5 times to 12,500 in Q1",
-    "url": "https://tass.com/economy/2114549"
-  },
-  {
-    "id": "https://tass.com/world/2114547",
-    "timestamp": "2026-04-09T15:12:36",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "German chancellor firmly criticizes Israeli strikes on Lebanon",
-    "url": "https://tass.com/world/2114547"
-  },
-  {
-    "id": "https://www.france24.com/en/video/20260409-pope-leo-xiv-learns-to-spin-basketball-with-harlem-globetrotters",
-    "timestamp": "2026-04-09T15:10:41",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "#Pope Leo XIV learns to spin #basketball with Harlem Globetrotters",
-    "url": "https://www.france24.com/en/video/20260409-pope-leo-xiv-learns-to-spin-basketball-with-harlem-globetrotters"
   }
 ]
