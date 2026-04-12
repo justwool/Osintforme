@@ -1,5 +1,85 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/cwyj8d49wzxo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-04-12T07:22:28",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "At least 30 feared dead in crush at Haitian tourist site",
+    "url": "https://www.bbc.com/news/articles/cwyj8d49wzxo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.france24.com/en/video/20260412-among-magyar-s-supporters-one-word-keeps-coming-up-hope",
+    "timestamp": "2026-04-12T07:17:44",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Among Magyar's supporters, \"one word keeps coming up: hope\"",
+    "url": "https://www.france24.com/en/video/20260412-among-magyar-s-supporters-one-word-keeps-coming-up-hope"
+  },
+  {
+    "id": "https://www.theguardian.com/world/2026/apr/12/benin-presidential-election",
+    "timestamp": "2026-04-12T07:00:11",
+    "source": "Guardian World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Benin holds presidential election four months after failed coup",
+    "url": "https://www.theguardian.com/world/2026/apr/12/benin-presidential-election"
+  },
+  {
+    "id": "https://www.aljazeera.com/sports/2026/4/12/neymar-has-to-prove-his-fitness-for-brazils-world-cup-squad-ancelotti?traffic_source=rss",
+    "timestamp": "2026-04-12T06:56:08",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Neymar has to prove his fitness for Brazil\u2019s World Cup squad: Ancelotti",
+    "url": "https://www.aljazeera.com/sports/2026/4/12/neymar-has-to-prove-his-fitness-for-brazils-world-cup-squad-ancelotti?traffic_source=rss"
+  },
+  {
+    "id": "https://www.theguardian.com/world/2026/apr/12/cyclone-vaianu-new-zealand-north-island-floods-power-outages-hundreds-evacuated",
+    "timestamp": "2026-04-12T06:41:52",
+    "source": "Guardian World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Floods, power outages and hundreds evacuated as Cyclone Vaianu lashes New Zealand\u2019s North Island",
+    "url": "https://www.theguardian.com/world/2026/apr/12/cyclone-vaianu-new-zealand-north-island-floods-power-outages-hundreds-evacuated"
+  },
+  {
+    "id": "https://www.france24.com/en/europe/20260412-more-than-500-people-arrested-at-palestine-action-rally-in-london",
+    "timestamp": "2026-04-12T06:40:02",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "More than 500 people arrested at Palestine Action rally in London",
+    "url": "https://www.france24.com/en/europe/20260412-more-than-500-people-arrested-at-palestine-action-rally-in-london"
+  },
+  {
+    "id": "https://www.aljazeera.com/sports/2026/4/12/ufc-327-ulberg-wins-light-heavyweight-belt-with-knockout-in-front-of-trump?traffic_source=rss",
+    "timestamp": "2026-04-12T06:27:30",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "UFC 327: Ulberg wins light-heavyweight belt with knockout in front of Trump",
+    "url": "https://www.aljazeera.com/sports/2026/4/12/ufc-327-ulberg-wins-light-heavyweight-belt-with-knockout-in-front-of-trump?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/4/12/hungarians-vote-as-pm-orban-faces-toughest-election-challenge-in-years?traffic_source=rss",
+    "timestamp": "2026-04-12T05:57:35",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Hungarians vote as PM Orban faces toughest election challenge in years",
+    "url": "https://www.aljazeera.com/news/2026/4/12/hungarians-vote-as-pm-orban-faces-toughest-election-challenge-in-years?traffic_source=rss"
+  },
+  {
     "id": "https://www.dw.com/en/ireland-clears-refinery-blockade-as-fuel-protests-trigger-nationwide-shortages/a-76751180?maca=en-rss-en-all-1573-xml-mrss",
     "timestamp": "2026-04-12T05:56:00",
     "source": "DW World",
@@ -8,6 +88,16 @@
     "region": "global",
     "text": "Ireland clears refinery blockade as fuel protests trigger nationwide shortages",
     "url": "https://www.dw.com/en/ireland-clears-refinery-blockade-as-fuel-protests-trigger-nationwide-shortages/a-76751180?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.france24.com/en/middle-east/20260412-middle-east-war-live-us-and-iran-fail-to-reach-deal-after-marathon-peace-talks-in-pakistan",
+    "timestamp": "2026-04-12T05:35:11",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Middle East war live: US and Iran fail to reach deal after marathon peace talks in Pakistan",
+    "url": "https://www.france24.com/en/middle-east/20260412-middle-east-war-live-us-and-iran-fail-to-reach-deal-after-marathon-peace-talks-in-pakistan"
   },
   {
     "id": "https://tass.com/world/2115611",
@@ -268,6 +358,16 @@
     "region": "mena",
     "text": "Netanyahu next to Middle East map: \u2018We strangled them and have more to do\u2019",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/netanyahu-next-to-middle-east-map-we-strangled-them-and-have-more-to?traffic_source=rss"
+  },
+  {
+    "id": "https://www.dw.com/en/us-and-iran-fail-to-agree-a-deal-after-marathon-pakistan-talks/live-76750859?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-04-12T02:06:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "US and Iran fail to agree a deal after marathon Pakistan talks",
+    "url": "https://www.dw.com/en/us-and-iran-fail-to-agree-a-deal-after-marathon-pakistan-talks/live-76750859?maca=en-rss-en-all-1573-xml-mrss"
   },
   {
     "id": "https://www.dw.com/en/us-and-iran-have-not-reached-an-agreement-vance-says/live-76750859?maca=en-rss-en-all-1573-xml-mrss",
@@ -1460,6 +1560,26 @@
     "url": "https://euromaidanpress.com/2026/04/11/hungary-election-2026-orban-magyar-ukraine/"
   },
   {
+    "id": "https://www.realcleardefense.com/2026/04/10/irans_shadow_victory_losing_battles_winning_the_war_1175852.html",
+    "timestamp": "2026-04-11T14:08:41",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Iran's Shadow Victory: Losing Battles, Winning the War",
+    "url": "https://www.realcleardefense.com/2026/04/10/irans_shadow_victory_losing_battles_winning_the_war_1175852.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/04/09/irans_next_move_is_the_bombif_the_regime_survives_1175591.html",
+    "timestamp": "2026-04-11T14:08:41",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Iran's Next Move Is the Bomb\u2014If the Regime Survives",
+    "url": "https://www.realcleardefense.com/2026/04/09/irans_next_move_is_the_bombif_the_regime_survives_1175591.html"
+  },
+  {
     "id": "https://tass.com/world/2115423",
     "timestamp": "2026-04-11T14:08:41",
     "source": "TASS English",
@@ -1468,6 +1588,16 @@
     "region": "ru",
     "text": "Trump claims US starts \u2018clearing out\u2019 Strait of Hormuz",
     "url": "https://tass.com/world/2115423"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/04/10/decapitation_is_not_enough_1175850.html",
+    "timestamp": "2026-04-11T14:08:38",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Decapitation Is Not Enough",
+    "url": "https://www.realcleardefense.com/2026/04/10/decapitation_is_not_enough_1175850.html"
   },
   {
     "id": "https://www.realcleardefense.com/2026/04/11/wars_make_or_break_presidencies_1176113.html",
@@ -4868,135 +4998,5 @@
     "region": "global",
     "text": "Germany news: Protesters block Rheinmetall arms plant",
     "url": "https://www.dw.com/en/germany-news-protesters-block-rheinmetall-arms-plant/live-76731144?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/04/10/russia-strikes-apartments-in-konotop-sloviansk-and-odesa-wounding-at-least-three-women/",
-    "timestamp": "2026-04-10T12:29:55",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Russia strikes apartments in Konotop, Sloviansk, and Odesa, wounding three women",
-    "url": "https://euromaidanpress.com/2026/04/10/russia-strikes-apartments-in-konotop-sloviansk-and-odesa-wounding-at-least-three-women/"
-  },
-  {
-    "id": "https://www.theguardian.com/world/2026/apr/10/peru-election-polls-instability",
-    "timestamp": "2026-04-10T12:28:36",
-    "source": "Guardian World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Peruvians to go to polls hoping to break cycle of instability",
-    "url": "https://www.theguardian.com/world/2026/apr/10/peru-election-polls-instability"
-  },
-  {
-    "id": "https://breakingdefense.com/2026/04/the-golden-domes-missing-layer-on-orbit-logistics-for-a-resilient-missile-defense/",
-    "timestamp": "2026-04-10T12:26:00",
-    "source": "Breaking Defense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "The Golden Dome\u2019s missing layer: On-orbit logistics for a resilient missile\u00a0defense",
-    "url": "https://breakingdefense.com/2026/04/the-golden-domes-missing-layer-on-orbit-logistics-for-a-resilient-missile-defense/"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/04/10/russia-has-no-war-goal-and-putin-is-a-punchinello-says-ex-dnr-governor-who-vowed-to-exterminate-ukrainians/",
-    "timestamp": "2026-04-10T12:24:52",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Russia has no war goal and Putin is a \u201cPunchinello,\u201d says ex-DNR \u201cgovernor\u201d who vowed to exterminate Ukrainians",
-    "url": "https://euromaidanpress.com/2026/04/10/russia-has-no-war-goal-and-putin-is-a-punchinello-says-ex-dnr-governor-who-vowed-to-exterminate-ukrainians/"
-  },
-  {
-    "id": "https://www.navalnews.com/naval-news/2026/04/landmark-u-s-budget-request-includes-65-8-billion-for-navy-shipbuilding/",
-    "timestamp": "2026-04-10T12:13:55",
-    "source": "Naval News",
-    "platform": "rss",
-    "category": "naval",
-    "region": "global",
-    "text": "Landmark U.S. budget request includes $65.8 Billion for Navy shipbuilding",
-    "url": "https://www.navalnews.com/naval-news/2026/04/landmark-u-s-budget-request-includes-65-8-billion-for-navy-shipbuilding/"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cwydvrj4vgzo?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-04-10T12:08:04",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Popular Tanzanian musician Matonya charged with rape in Kenya",
-    "url": "https://www.bbc.com/news/articles/cwydvrj4vgzo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://sofrep.com/news/jd-vances-hungary-intervention-aligns-american-power-with-moscows-objectives/",
-    "timestamp": "2026-04-10T12:00:04",
-    "source": "SOFREP",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "JD Vance\u2019s Hungary Intervention Aligns American Power With Moscow\u2019s Objectives",
-    "url": "https://sofrep.com/news/jd-vances-hungary-intervention-aligns-american-power-with-moscows-objectives/"
-  },
-  {
-    "id": "https://breakingdefense.com/2026/04/how-the-army-is-developing-its-c2-plans/",
-    "timestamp": "2026-04-10T12:00:00",
-    "source": "Breaking Defense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "How the Army is developing its C2 plans",
-    "url": "https://breakingdefense.com/2026/04/how-the-army-is-developing-its-c2-plans/"
-  },
-  {
-    "id": "https://www.dw.com/en/german-bundeswehr-says-military-aged-men-can-travel-freely/a-76738187?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-04-10T11:57:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "German Bundeswehr says military-aged men can travel freely",
-    "url": "https://www.dw.com/en/german-bundeswehr-says-military-aged-men-can-travel-freely/a-76738187?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.aljazeera.com/opinions/2026/4/10/sorry-keir-starmer-the-middle-east-does-not-listen-to-britain-any-more?traffic_source=rss",
-    "timestamp": "2026-04-10T11:53:38",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Sorry Keir Starmer, the Middle East does not listen to Britain any more",
-    "url": "https://www.aljazeera.com/opinions/2026/4/10/sorry-keir-starmer-the-middle-east-does-not-listen-to-britain-any-more?traffic_source=rss"
-  },
-  {
-    "id": "https://www.defensenews.com/global/europe/2026/04/10/uks-starmer-and-trump-discussed-military-options-for-strait-of-hormuz/",
-    "timestamp": "2026-04-10T11:49:33",
-    "source": "Defense News",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "UK\u2019s Starmer and Trump discussed military options for Strait of Hormuz",
-    "url": "https://www.defensenews.com/global/europe/2026/04/10/uks-starmer-and-trump-discussed-military-options-for-strait-of-hormuz/"
-  },
-  {
-    "id": "https://www.france24.com/en/culture/20260410-c%C3%A9eline-dion-s-concerts-set-to-give-paris-multimillion-euro-boost",
-    "timestamp": "2026-04-10T11:49:24",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "C\u00e9line Dion's concerts set to give Paris multimillion-euro boost",
-    "url": "https://www.france24.com/en/culture/20260410-c%C3%A9eline-dion-s-concerts-set-to-give-paris-multimillion-euro-boost"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/4/10/closer-to-a-break-than-ever-can-nato-survive-if-trump-pulls-the-us-out?traffic_source=rss",
-    "timestamp": "2026-04-10T11:44:10",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "\u2018Closer to a break than ever\u2019: Can NATO survive if Trump pulls the US out?",
-    "url": "https://www.aljazeera.com/news/2026/4/10/closer-to-a-break-than-ever-can-nato-survive-if-trump-pulls-the-us-out?traffic_source=rss"
   }
 ]
