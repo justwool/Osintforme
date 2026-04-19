@@ -1,5 +1,45 @@
 [
   {
+    "id": "https://tass.com/world/2119377",
+    "timestamp": "2026-04-19T22:46:29",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "US not serious about conflict settlement by posing threats to Iranian vessels \u2014 Araghchi",
+    "url": "https://tass.com/world/2119377"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cm2kgm1zpgro?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-04-19T22:06:39",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Rumen Radev looks set to win Bulgarian Parliamentary election",
+    "url": "https://www.bbc.com/news/articles/cm2kgm1zpgro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.theguardian.com/us-news/2026/apr/19/woman-arrested-la-arms-trafficking-iran-africa",
+    "timestamp": "2026-04-19T21:56:30",
+    "source": "Guardian World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Iranian American woman arrested in Los Angeles for alleged arms trafficking",
+    "url": "https://www.theguardian.com/us-news/2026/apr/19/woman-arrested-la-arms-trafficking-iran-africa"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/4/19/us-forces-attack-and-seize-iranian-ship-touska-near-strait-of-hormuz?traffic_source=rss",
+    "timestamp": "2026-04-19T21:53:29",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "US forces attack and seize Iranian ship Touska near Strait of Hormuz",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/19/us-forces-attack-and-seize-iranian-ship-touska-near-strait-of-hormuz?traffic_source=rss"
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c239500dx8ro?at_medium=RSS&at_campaign=rss",
     "timestamp": "2026-04-19T21:39:43",
     "source": "BBC World",
@@ -98,6 +138,16 @@
     "region": "ru",
     "text": "Top Lithuanian diplomat says wants to establish good relations with Belarus",
     "url": "https://tass.com/world/2119375"
+  },
+  {
+    "id": "https://www.dw.com/en/iran-war-tehran-vows-response-to-us-seizure-of-cargo-ship/live-76845923?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-04-19T20:51:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Iran war: Tehran vows response to US seizure of cargo ship",
+    "url": "https://www.dw.com/en/iran-war-tehran-vows-response-to-us-seizure-of-cargo-ship/live-76845923?maca=en-rss-en-all-1573-xml-mrss"
   },
   {
     "id": "https://www.dw.com/en/iran-war-trump-says-us-seized-iranian-flagged-cargo-ship/live-76845923?maca=en-rss-en-all-1573-xml-mrss",
@@ -4948,55 +4998,5 @@
     "region": "mena",
     "text": "Ukraine\u2019s long-range strikes prompt new Russian threat against Europe",
     "url": "https://www.aljazeera.com/features/2026/4/17/ukraines-long-range-strikes-prompt-new-russian-threat-against-europe?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/tv-shows/talking-europe/20260417-eu-moves-to-tighten-rules-on-harmful-pollutants-the-invisible-danger-of-forever-chemicals",
-    "timestamp": "2026-04-17T15:40:09",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "EU moves to tighten rules on harmful pollutants: The invisible danger of 'forever chemicals'",
-    "url": "https://www.france24.com/en/tv-shows/talking-europe/20260417-eu-moves-to-tighten-rules-on-harmful-pollutants-the-invisible-danger-of-forever-chemicals"
-  },
-  {
-    "id": "https://www.gov.uk/government/publications/iraq-fatality-investigations-public-statements",
-    "timestamp": "2026-04-17T15:35:39",
-    "source": "UK MoD",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Guidance: Iraq Fatality Investigations: public statements",
-    "url": "https://www.gov.uk/government/publications/iraq-fatality-investigations-public-statements"
-  },
-  {
-    "id": "https://www.gov.uk/government/publications/investigation-into-the-deaths-of-radhi-nama-and-mousa-ali",
-    "timestamp": "2026-04-17T15:33:33",
-    "source": "UK MoD",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Guidance: Investigation into the deaths of Radhi Nama and Mousa Ali",
-    "url": "https://www.gov.uk/government/publications/investigation-into-the-deaths-of-radhi-nama-and-mousa-ali"
-  },
-  {
-    "id": "https://www.gov.uk/government/publications/investigation-into-the-death-of-ahmed-jabbar-kareem-ali",
-    "timestamp": "2026-04-17T15:30:08",
-    "source": "UK MoD",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Guidance: Investigation into the death of Ahmed Jabbar Kareem Ali",
-    "url": "https://www.gov.uk/government/publications/investigation-into-the-death-of-ahmed-jabbar-kareem-ali"
-  },
-  {
-    "id": "https://www.france24.com/en/macron-urges-permanent-reopening-of-hormuz-strait",
-    "timestamp": "2026-04-17T15:30:08",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Macron urges permanent reopening of Hormuz Strait",
-    "url": "https://www.france24.com/en/macron-urges-permanent-reopening-of-hormuz-strait"
   }
 ]
