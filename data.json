@@ -1,5 +1,365 @@
 [
   {
+    "id": "https://tass.com/politics/2122241",
+    "timestamp": "2026-04-24T16:27:02",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Plans for nuclear exercises near Russia's borders undermine strategic stability \u2014 MP",
+    "url": "https://tass.com/politics/2122241"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-04-24T16:21:41",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "US justice department drops probe into Fed chairman Jerome Powell",
+    "url": "https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/04/24/ukraine-is-downing-shaheds-with-drones-mounted-on-a-56-year-old-an-28/",
+    "timestamp": "2026-04-24T16:17:00",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Ukraine is downing Shaheds with drones mounted on a 56-year-old An-28",
+    "url": "https://euromaidanpress.com/2026/04/24/ukraine-is-downing-shaheds-with-drones-mounted-on-a-56-year-old-an-28/"
+  },
+  {
+    "id": "https://www.dw.com/en/the-silent-power-of-memes/a-76927503?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-04-24T16:17:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "The silent power of memes",
+    "url": "https://www.dw.com/en/the-silent-power-of-memes/a-76927503?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.france24.com/en/video/20260424-lebanon-catastrophic-state-of-israeli-occupied-south",
+    "timestamp": "2026-04-24T16:14:20",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Lebanon: 'Catastrophic' state of Israeli-occupied South",
+    "url": "https://www.france24.com/en/video/20260424-lebanon-catastrophic-state-of-israeli-occupied-south"
+  },
+  {
+    "id": "https://www.theguardian.com/technology/2026/apr/24/china-chases-driverless-dream-beijing-car-show-ai",
+    "timestamp": "2026-04-24T16:08:53",
+    "source": "Guardian World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "\u2018Look, no hands\u2019: China chases the driverless dream at Beijing car show",
+    "url": "https://www.theguardian.com/technology/2026/apr/24/china-chases-driverless-dream-beijing-car-show-ai"
+  },
+  {
+    "id": "https://tass.com/politics/2122235",
+    "timestamp": "2026-04-24T16:07:11",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Lots to talk about at G20 summit in Miami, Kremlin says",
+    "url": "https://tass.com/politics/2122235"
+  },
+  {
+    "id": "https://www.aljazeera.com/economy/2026/4/24/us-justice-department-drops-criminal-probe-of-fed-chair-jerome-powell?traffic_source=rss",
+    "timestamp": "2026-04-24T16:05:09",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "US Justice Department drops criminal probe of Fed chair Jerome Powell",
+    "url": "https://www.aljazeera.com/economy/2026/4/24/us-justice-department-drops-criminal-probe-of-fed-chair-jerome-powell?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/4/24/us-has-three-aircraft-carriers-in-the-middle-east-for-first-time-since-2003?traffic_source=rss",
+    "timestamp": "2026-04-24T16:04:14",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "US has three aircraft carriers in the Middle East for first time since 2003",
+    "url": "https://www.aljazeera.com/news/2026/4/24/us-has-three-aircraft-carriers-in-the-middle-east-for-first-time-since-2003?traffic_source=rss"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/04/24/ukraine-brings-home-193-service-members-73rd-prisoner-swap/",
+    "timestamp": "2026-04-24T16:02:04",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "193 Ukrainian troops freed from Russian captivity in major prisoner exchange",
+    "url": "https://euromaidanpress.com/2026/04/24/ukraine-brings-home-193-service-members-73rd-prisoner-swap/"
+  },
+  {
+    "id": "https://www.france24.com/en/europe/20260424-fake-bbc-report-spreads-false-claim-volodymyr-zelensky-stolen-painting",
+    "timestamp": "2026-04-24T16:01:23",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Fake BBC report spreads false claim that Zelensky has a stolen painting",
+    "url": "https://www.france24.com/en/europe/20260424-fake-bbc-report-spreads-false-claim-volodymyr-zelensky-stolen-painting"
+  },
+  {
+    "id": "https://tass.com/economy/2122233",
+    "timestamp": "2026-04-24T16:01:22",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russia, Serbia set goal to reach trade turnover of 2022 in coming years \u2014 Serbian minister",
+    "url": "https://tass.com/economy/2122233"
+  },
+  {
+    "id": "https://www.defensenews.com/industry/techwatch/2026/04/24/the-us-military-wants-a-fleet-of-missile-killing-laser-drones/",
+    "timestamp": "2026-04-24T16:00:27",
+    "source": "Defense News",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "The US military wants a fleet of missile-killing laser drones",
+    "url": "https://www.defensenews.com/industry/techwatch/2026/04/24/the-us-military-wants-a-fleet-of-missile-killing-laser-drones/"
+  },
+  {
+    "id": "https://breakingdefense.com/2026/04/schrodingers-f-16s-lockheed-says-peru-is-buying-fighters-questions-remain-in-lima/",
+    "timestamp": "2026-04-24T16:00:03",
+    "source": "Breaking Defense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Lockheed limbo in Lima? Firm says Peru is buying F-16s, but questions remain",
+    "url": "https://breakingdefense.com/2026/04/schrodingers-f-16s-lockheed-says-peru-is-buying-fighters-questions-remain-in-lima/"
+  },
+  {
+    "id": "https://www.france24.com/en/video/20260424-tornado-sweeps-through-oklahoma-city",
+    "timestamp": "2026-04-24T15:59:38",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Tornado sweeps through Oklahoma City",
+    "url": "https://www.france24.com/en/video/20260424-tornado-sweeps-through-oklahoma-city"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/4/24/pm-sanchez-rebuffs-us-idea-of-suspending-spain-from-nato?traffic_source=rss",
+    "timestamp": "2026-04-24T15:58:46",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "PM Sanchez rebuffs US idea of suspending Spain from NATO",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/24/pm-sanchez-rebuffs-us-idea-of-suspending-spain-from-nato?traffic_source=rss"
+  },
+  {
+    "id": "https://www.france24.com/en/americas/20260424-sanchez-brushes-off-reported-pentagon-email-mulling-suspending-spain-s-nato-membership",
+    "timestamp": "2026-04-24T15:57:31",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Sanchez brushes off reported Pentagon email mulling suspending Spain's NATO membership",
+    "url": "https://www.france24.com/en/americas/20260424-sanchez-brushes-off-reported-pentagon-email-mulling-suspending-spain-s-nato-membership"
+  },
+  {
+    "id": "https://www.france24.com/en/video/20260424-iran-peace-talks-trump-s-unconventional-diplomacy-on-display",
+    "timestamp": "2026-04-24T15:56:36",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Iran Peace Talks: Trump's unconventional diplomacy on display",
+    "url": "https://www.france24.com/en/video/20260424-iran-peace-talks-trump-s-unconventional-diplomacy-on-display"
+  },
+  {
+    "id": "https://www.france24.com/en/tv-shows/europe-rendezvous/20260424-crossing-borders-the-eu-powers-your-mobility-part-1",
+    "timestamp": "2026-04-24T15:54:12",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Crossing borders: The EU powers your mobility (part 1)",
+    "url": "https://www.france24.com/en/tv-shows/europe-rendezvous/20260424-crossing-borders-the-eu-powers-your-mobility-part-1"
+  },
+  {
+    "id": "https://breakingdefense.com/2026/04/three-carriers-operate-in-middle-east-for-first-time-since-2003-centcom/",
+    "timestamp": "2026-04-24T15:52:28",
+    "source": "Breaking Defense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Three carriers operate in Middle East for first time since 2003: CENTCOM",
+    "url": "https://breakingdefense.com/2026/04/three-carriers-operate-in-middle-east-for-first-time-since-2003-centcom/"
+  },
+  {
+    "id": "https://taskandpurpose.com/news/new-army-air-defense-repairer-job/",
+    "timestamp": "2026-04-24T15:52:28",
+    "source": "Task & Purpose",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "The Army is creating a new job for air defense soldiers",
+    "url": "https://taskandpurpose.com/news/new-army-air-defense-repairer-job/"
+  },
+  {
+    "id": "https://www.aljazeera.com/features/longform/2026/4/24/chornobyl-at-40-settlers-and-horses-survive-russian-drones-contamination?traffic_source=rss",
+    "timestamp": "2026-04-24T15:47:27",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Chornobyl at 40: Settlers and horses survive Russian drones, contamination",
+    "url": "https://www.aljazeera.com/features/longform/2026/4/24/chornobyl-at-40-settlers-and-horses-survive-russian-drones-contamination?traffic_source=rss"
+  },
+  {
+    "id": "https://www.france24.com/en/tv-shows/europe-rendezvous/20260424-crossing-borders-the-eu-powers-your-mobility-part-2",
+    "timestamp": "2026-04-24T15:42:53",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Crossing borders: The EU powers your mobility (part 2)",
+    "url": "https://www.france24.com/en/tv-shows/europe-rendezvous/20260424-crossing-borders-the-eu-powers-your-mobility-part-2"
+  },
+  {
+    "id": "https://tass.com/world/2122225",
+    "timestamp": "2026-04-24T15:42:44",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Iran calls on SCO to develop cooperation in area of arms control",
+    "url": "https://tass.com/world/2122225"
+  },
+  {
+    "id": "https://www.aljazeera.com/opinions/2026/4/24/five-games-to-go-the-premier-leagues-unpredictable-season-turns-again?traffic_source=rss",
+    "timestamp": "2026-04-24T15:38:09",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Five games to go: The Premier League\u2019s unpredictable season turns again",
+    "url": "https://www.aljazeera.com/opinions/2026/4/24/five-games-to-go-the-premier-leagues-unpredictable-season-turns-again?traffic_source=rss"
+  },
+  {
+    "id": "https://www.defenseone.com/threats/2026/04/us-navy-ordered-shoot-and-kill-suspected-iranian-mine-laying-boats-amid-ceasefire/413093/",
+    "timestamp": "2026-04-24T15:33:06",
+    "source": "Defense One",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "US Navy ordered to \u2018shoot and kill\u2019 alleged Iranian mine-laying boats amid ceasefire",
+    "url": "https://www.defenseone.com/threats/2026/04/us-navy-ordered-shoot-and-kill-suspected-iranian-mine-laying-boats-amid-ceasefire/413093/"
+  },
+  {
+    "id": "https://www.dw.com/en/lebanon-should-be-part-of-an-iran-peace-deal-eu-s-ursula-von-der-leyen-says/a-76921103?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-04-24T15:32:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Lebanon should be part of an Iran peace deal, EU's Ursula von der Leyen says",
+    "url": "https://www.dw.com/en/lebanon-should-be-part-of-an-iran-peace-deal-eu-s-ursula-von-der-leyen-says/a-76921103?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.aljazeera.com/sports/liveblog/2026/4/24/live-real-betis-vs-real-madrid-la-liga-football-title-race-barcelona?traffic_source=rss",
+    "timestamp": "2026-04-24T15:31:11",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "LIVE: Real Betis vs Real Madrid \u2013 La Liga",
+    "url": "https://www.aljazeera.com/sports/liveblog/2026/4/24/live-real-betis-vs-real-madrid-la-liga-football-title-race-barcelona?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/sports/2122223",
+    "timestamp": "2026-04-24T15:29:35",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russian Sports Ministry backs decrease in foreign football players\u2019 quota \u2014 minister",
+    "url": "https://tass.com/sports/2122223"
+  },
+  {
+    "id": "https://www.gov.uk/government/statistics/announcements/mefloquine-larium-prescribing-in-the-uk-armed-forces-12-september-2016-to-31-march-2026",
+    "timestamp": "2026-04-24T15:28:10",
+    "source": "UK MoD",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Official Statistics: Mefloquine (Larium) prescribing in the UK armed forces: 12 September 2016 to 31 March 2026",
+    "url": "https://www.gov.uk/government/statistics/announcements/mefloquine-larium-prescribing-in-the-uk-armed-forces-12-september-2016-to-31-march-2026"
+  },
+  {
+    "id": "https://www.france24.com/en/tornado-barrels-through-oklahoma",
+    "timestamp": "2026-04-24T15:25:31",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Tornado barrels through Oklahoma",
+    "url": "https://www.france24.com/en/tornado-barrels-through-oklahoma"
+  },
+  {
+    "id": "https://tass.com/politics/2122221",
+    "timestamp": "2026-04-24T15:22:29",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Japan assures Russia that its arms exports won't find way to Ukraine \u2014 diplomat",
+    "url": "https://tass.com/politics/2122221"
+  },
+  {
+    "id": "https://www.france24.com/en/video/20260424-pirate-gangs-prowl-bangladesh-s-sundarbans-forest",
+    "timestamp": "2026-04-24T15:21:56",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Pirate gangs prowl Bangladesh's Sundarbans forest",
+    "url": "https://www.france24.com/en/video/20260424-pirate-gangs-prowl-bangladesh-s-sundarbans-forest"
+  },
+  {
+    "id": "https://tass.com/world/2122219",
+    "timestamp": "2026-04-24T15:20:35",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russia-China relations developing beautifully \u2014 Chinese defense minister",
+    "url": "https://tass.com/world/2122219"
+  },
+  {
+    "id": "https://www.defensenews.com/global/europe/2026/04/24/italy-forgoes-14-billion-deficit-spending-on-defense-amid-wobbling-economy/",
+    "timestamp": "2026-04-24T15:16:48",
+    "source": "Defense News",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Italy forgoes $14 billion deficit spending on defense amid wobbling economy",
+    "url": "https://www.defensenews.com/global/europe/2026/04/24/italy-forgoes-14-billion-deficit-spending-on-defense-amid-wobbling-economy/"
+  },
+  {
+    "id": "https://tass.com/economy/2122217",
+    "timestamp": "2026-04-24T15:14:40",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Bank of Russia uses AI technologies for analysis",
+    "url": "https://tass.com/economy/2122217"
+  },
+  {
     "id": "https://www.france24.com/en/40-years-since-the-chernobyl-disaster",
     "timestamp": "2026-04-24T15:14:39",
     "source": "France24",
@@ -8,6 +368,16 @@
     "region": "global",
     "text": "40 years since the Chernobyl disaster",
     "url": "https://www.france24.com/en/40-years-since-the-chernobyl-disaster"
+  },
+  {
+    "id": "https://tass.com/world/2122215",
+    "timestamp": "2026-04-24T15:12:47",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Iran to make no concessions in talks with US \u2014 Iranian vice president",
+    "url": "https://tass.com/world/2122215"
   },
   {
     "id": "https://www.france24.com/en/eu-leaders-discuss-iran-crisis-in-cyprus",
@@ -40,6 +410,36 @@
     "url": "https://www.france24.com/en/russia-kills-two-prisoners-in-their-home"
   },
   {
+    "id": "https://tass.com/world/2122213",
+    "timestamp": "2026-04-24T15:07:48",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Immediate EU accession for Ukraine impossible \u2014 German chancellor",
+    "url": "https://tass.com/world/2122213"
+  },
+  {
+    "id": "https://tass.com/society/2122211",
+    "timestamp": "2026-04-24T15:05:58",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russian woman caught up in Myanmar call center scam freed \u2014 human rights activist",
+    "url": "https://tass.com/society/2122211"
+  },
+  {
+    "id": "https://tass.com/economy/2122209",
+    "timestamp": "2026-04-24T15:04:26",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Conflict in Middle East remains uncertainty factor \u2014 Bank of Russia",
+    "url": "https://tass.com/economy/2122209"
+  },
+  {
     "id": "https://www.france24.com/en/tv-shows/revisited/20260424-baseball-bat-years-continue-to-haunt-eastern-germany-30-years-on",
     "timestamp": "2026-04-24T15:04:05",
     "source": "France24",
@@ -48,6 +448,16 @@
     "region": "global",
     "text": "'Baseball bat years'\u00a0continue\u00a0to\u00a0haunt eastern\u00a0Germany, 30 years on",
     "url": "https://www.france24.com/en/tv-shows/revisited/20260424-baseball-bat-years-continue-to-haunt-eastern-germany-30-years-on"
+  },
+  {
+    "id": "https://tass.com/politics/2122207",
+    "timestamp": "2026-04-24T15:03:54",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "NATO officers in Ukraine and new anti-Russian sanctions: Foreign Ministry\u2019s statements",
+    "url": "https://tass.com/politics/2122207"
   },
   {
     "id": "https://www.dw.com/en/how-iran-is-wielding-the-strait-of-hormuz-as-leverage/a-76925896?maca=en-rss-en-all-1573-xml-mrss",
@@ -80,6 +490,16 @@
     "url": "https://www.aljazeera.com/news/2026/4/24/israels-benjamin-netanyahu-says-he-received-treatment-for-prostate-cancer?traffic_source=rss"
   },
   {
+    "id": "https://tass.com/economy/2122205",
+    "timestamp": "2026-04-24T15:00:03",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Negative effect for Russia to grow from protracted conflict in Middle East",
+    "url": "https://tass.com/economy/2122205"
+  },
+  {
     "id": "https://www.aljazeera.com/news/2026/4/24/sally-rooney-greta-thunberg-back-palestine-action-before-court-date?traffic_source=rss",
     "timestamp": "2026-04-24T14:59:01",
     "source": "Al Jazeera",
@@ -88,6 +508,16 @@
     "region": "mena",
     "text": "Sally Rooney, Greta Thunberg back Palestine Action before court date",
     "url": "https://www.aljazeera.com/news/2026/4/24/sally-rooney-greta-thunberg-back-palestine-action-before-court-date?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/politics/2122203",
+    "timestamp": "2026-04-24T14:58:37",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russia reaffirms solidarity with Havana amid US escalation around Cuba \u2014 MFA",
+    "url": "https://tass.com/politics/2122203"
   },
   {
     "id": "https://www.france24.com/en/africa/20260424-french-foreign-minister-barrot-voices-concern-about-terrorist-threat-in-the-sahel",
@@ -1698,6 +2128,16 @@
     "region": "ru",
     "text": "Aoun, Netanyahu may arrive in Washington within 3 weeks \u2014 Trump",
     "url": "https://tass.com/world/2121829"
+  },
+  {
+    "id": "https://www.dw.com/en/iranian-fm-heads-to-islamabad-but-does-not-confirm-us-talks/live-76918799?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-04-24T04:58:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Iranian FM heads to Islamabad but does not confirm US talks",
+    "url": "https://www.dw.com/en/iranian-fm-heads-to-islamabad-but-does-not-confirm-us-talks/live-76918799?maca=en-rss-en-all-1573-xml-mrss"
   },
   {
     "id": "https://www.dw.com/en/israel-lebanon-to-extend-ceasefire-as-us-iran-talks-stall/live-76918799?maca=en-rss-en-all-1573-xml-mrss",
@@ -4558,445 +4998,5 @@
     "region": "ru",
     "text": "Senior Russian diplomat, Chinese envoy discuss Middle East coordination within UNSC",
     "url": "https://tass.com/politics/2121413"
-  },
-  {
-    "id": "https://www.france24.com/en/tv-shows/press-review/20260423-ai-robot-beats-elite-table-tennis-players-in-pivotal-breakthrough",
-    "timestamp": "2026-04-23T10:41:12",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "AI robot beats elite table tennis players in 'pivotal breakthrough'",
-    "url": "https://www.france24.com/en/tv-shows/press-review/20260423-ai-robot-beats-elite-table-tennis-players-in-pivotal-breakthrough"
-  },
-  {
-    "id": "https://www.navalnews.com/naval-news/2026/04/mace-to-become-u-s-navys-primary-hypersonic-strike-munition/",
-    "timestamp": "2026-04-23T10:36:16",
-    "source": "Naval News",
-    "platform": "rss",
-    "category": "naval",
-    "region": "global",
-    "text": "MACE to Become U.S. Navy\u2019s Primary Hypersonic Strike Munition",
-    "url": "https://www.navalnews.com/naval-news/2026/04/mace-to-become-u-s-navys-primary-hypersonic-strike-munition/"
-  },
-  {
-    "id": "https://tass.com/politics/2121409",
-    "timestamp": "2026-04-23T10:35:57",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Loan to Kiev is step toward European capitals' loss of sovereignty, Shoigu believes",
-    "url": "https://tass.com/politics/2121409"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/04/23/zelenskyy-only-donetsk-oblast-luhansk-oblast-appear-in-my-negotiations-no-donnyland-label/",
-    "timestamp": "2026-04-23T10:32:25",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Zelenskyy: only \u201cDonetsk oblast, Luhansk oblast\u201d appear in his negotiations, no \u201cDonnyland\u201d label",
-    "url": "https://euromaidanpress.com/2026/04/23/zelenskyy-only-donetsk-oblast-luhansk-oblast-appear-in-my-negotiations-no-donnyland-label/"
-  },
-  {
-    "id": "https://tass.com/politics/2121399",
-    "timestamp": "2026-04-23T10:31:04",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "EU seeks to put Serbia up against Russia \u2014 Kremlin spokesman",
-    "url": "https://tass.com/politics/2121399"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/4/23/lufthansa-cuts-20000-flights-as-iran-war-causes-jet-fuel-shortage?traffic_source=rss",
-    "timestamp": "2026-04-23T10:29:22",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Lufthansa cuts 20,000 flights as Iran war causes jet fuel shortage",
-    "url": "https://www.aljazeera.com/news/2026/4/23/lufthansa-cuts-20000-flights-as-iran-war-causes-jet-fuel-shortage?traffic_source=rss"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/04/23/blasting-t-55s/",
-    "timestamp": "2026-04-23T10:29:01",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Russia\u2019s 1950s tanks are massing for Zaporizhzhia. Ukrainian drones are killing them in their sheds.",
-    "url": "https://euromaidanpress.com/2026/04/23/blasting-t-55s/"
-  },
-  {
-    "id": "https://tass.com/defense/2121395",
-    "timestamp": "2026-04-23T10:28:35",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russia\u2019s Unmanned Systems to offer Malaysia localization of Supercam UAV production",
-    "url": "https://tass.com/defense/2121395"
-  },
-  {
-    "id": "https://www.dw.com/en/reza-pahlavi-calls-for-regime-change-in-iran-on-berlin-visit/a-76906351?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-04-23T10:26:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Reza Pahlavi calls for regime change in Iran on Berlin visit",
-    "url": "https://www.dw.com/en/reza-pahlavi-calls-for-regime-change-in-iran-on-berlin-visit/a-76906351?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/04/23/dutch-intelligence-russia-could-strike-nato-within-a-year-after-ukraine-war-ends/",
-    "timestamp": "2026-04-23T10:23:52",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Dutch intelligence: Russia could strike NATO within a year after Ukraine war ends",
-    "url": "https://euromaidanpress.com/2026/04/23/dutch-intelligence-russia-could-strike-nato-within-a-year-after-ukraine-war-ends/"
-  },
-  {
-    "id": "https://tass.com/politics/2121393",
-    "timestamp": "2026-04-23T10:22:16",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Kremlin praises Serbia for continuing to be guided by its national interests",
-    "url": "https://tass.com/politics/2121393"
-  },
-  {
-    "id": "https://tass.com/world/2121391",
-    "timestamp": "2026-04-23T10:20:35",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "EU may begin paying Kiev \u20ac90 bln in mid-May \u2014 French Foreign Ministry",
-    "url": "https://tass.com/world/2121391"
-  },
-  {
-    "id": "https://tass.com/world/2121389",
-    "timestamp": "2026-04-23T10:18:13",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "EU countries struggle to determine integration pattern for Ukraine \u2014 newspaper",
-    "url": "https://tass.com/world/2121389"
-  },
-  {
-    "id": "https://tass.com/politics/2121385",
-    "timestamp": "2026-04-23T10:16:06",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian ambassador to France questions creation of European analogue to NATO",
-    "url": "https://tass.com/politics/2121385"
-  },
-  {
-    "id": "https://www.dw.com/en/amnesty-international-paints-a-grim-picture-for-human-rights/a-76837070?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-04-23T10:15:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Amnesty International paints a grim picture for human rights",
-    "url": "https://www.dw.com/en/amnesty-international-paints-a-grim-picture-for-human-rights/a-76837070?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://tass.com/politics/2121387",
-    "timestamp": "2026-04-23T10:13:50",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Some 19 Russian civilians subjected daily to Ukrainian drone attacks in 2026 first quarter",
-    "url": "https://tass.com/politics/2121387"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/04/23/ugv-makers-tencore-of-ukraine-and-shark-robotics-of-france-sign-joint-venture/",
-    "timestamp": "2026-04-23T10:11:17",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "UGV makers Tencore of Ukraine and Shark Robotics of France sign joint venture",
-    "url": "https://euromaidanpress.com/2026/04/23/ugv-makers-tencore-of-ukraine-and-shark-robotics-of-france-sign-joint-venture/"
-  },
-  {
-    "id": "https://tass.com/world/2121383",
-    "timestamp": "2026-04-23T10:10:04",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russia\u2019s Su-57 fighter jet is distinguished by elegance, power \u2014 Malaysian journalist",
-    "url": "https://tass.com/world/2121383"
-  },
-  {
-    "id": "https://tass.com/politics/2121381",
-    "timestamp": "2026-04-23T10:05:27",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "France\u2019s statements run counter to Non-Proliferation Treaty \u2014 Russian envoy",
-    "url": "https://tass.com/politics/2121381"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/4/23/what-we-know-about-israel-killing-lebanese-journalist-amal-khalil?traffic_source=rss",
-    "timestamp": "2026-04-23T10:02:58",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "What we know about Israel killing Lebanese journalist Amal Khalil",
-    "url": "https://www.aljazeera.com/news/2026/4/23/what-we-know-about-israel-killing-lebanese-journalist-amal-khalil?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/world/2121379",
-    "timestamp": "2026-04-23T10:01:39",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Attacks on Iran\u2019s Caspian port threaten environment, regional trade \u2014 diplomat",
-    "url": "https://tass.com/world/2121379"
-  },
-  {
-    "id": "https://tass.com/economy/2121375",
-    "timestamp": "2026-04-23T10:01:24",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Agreement with oil companies on fuel supplies to be concluded in near future \u2014 Novak",
-    "url": "https://tass.com/economy/2121375"
-  },
-  {
-    "id": "https://tass.com/pressreview/2121291",
-    "timestamp": "2026-04-23T10:00:00",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Press review: EU backs Ukraine loan, adds Russia sanctions as France denies nukes to EU",
-    "url": "https://tass.com/pressreview/2121291"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/4/23/israeli-forces-levelling-lebanese-villages-behind-yellow?traffic_source=rss",
-    "timestamp": "2026-04-23T09:59:42",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Israeli forces levelling Lebanese villages behind \u2018yellow line\u2019",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/israeli-forces-levelling-lebanese-villages-behind-yellow?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/society/2121377",
-    "timestamp": "2026-04-23T09:59:15",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Memory of Nazi victims motivates to fight for Russia \u2014 volunteer from Ghana",
-    "url": "https://tass.com/society/2121377"
-  },
-  {
-    "id": "https://www.dw.com/en/germany-news-bavarian-police-arrest-suspected-spies/live-76905577?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-04-23T09:55:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Germany news: Bavarian police arrest suspected spies",
-    "url": "https://www.dw.com/en/germany-news-bavarian-police-arrest-suspected-spies/live-76905577?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.france24.com/en/tv-shows/business/20260423-warner-bros-shareholders-set-to-vote-on-paramount-takeover-bid",
-    "timestamp": "2026-04-23T09:54:38",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Warner Bros. shareholders set to vote on Paramount takeover bid",
-    "url": "https://www.france24.com/en/tv-shows/business/20260423-warner-bros-shareholders-set-to-vote-on-paramount-takeover-bid"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/4/23/who-is-john-phelan-the-us-navy-secretary-fired-by-pete-hegseth?traffic_source=rss",
-    "timestamp": "2026-04-23T09:49:10",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Who is John Phelan, the US Navy Secretary fired by Pete Hegseth?",
-    "url": "https://www.aljazeera.com/news/2026/4/23/who-is-john-phelan-the-us-navy-secretary-fired-by-pete-hegseth?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/features/2026/4/23/india-to-iran-how-two-wars-shaped-the-rise-of-pakistans-asim-munir?traffic_source=rss",
-    "timestamp": "2026-04-23T09:34:19",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "India to Iran: How two wars shaped the rise of Pakistan\u2019s Asim Munir",
-    "url": "https://www.aljazeera.com/features/2026/4/23/india-to-iran-how-two-wars-shaped-the-rise-of-pakistans-asim-munir?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/asia-pacific/20260423-ex-philippine-president-duterte-to-stand-trial-at-icc-over-deadly-war-on-drugs",
-    "timestamp": "2026-04-23T09:26:47",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Ex-Philippine president Duterte to stand trial at ICC over deadly \u2018war on drugs\u2019",
-    "url": "https://www.france24.com/en/asia-pacific/20260423-ex-philippine-president-duterte-to-stand-trial-at-icc-over-deadly-war-on-drugs"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/04/23/dtek-12-billion-650mw-poltava-wind-farm/",
-    "timestamp": "2026-04-23T09:22:27",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "DTEK commits \u20ac1.2 billion to 650 MW Poltava wind farm as Ukraine\u2019s grid faces next winter without buffer",
-    "url": "https://euromaidanpress.com/2026/04/23/dtek-12-billion-650mw-poltava-wind-farm/"
-  },
-  {
-    "id": "https://www.aljazeera.com/features/2026/4/23/gazas-second-front-the-battle-against-disease-carrying-rats?traffic_source=rss",
-    "timestamp": "2026-04-23T09:07:31",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Gaza\u2019s second front: The battle against disease-carrying rats",
-    "url": "https://www.aljazeera.com/features/2026/4/23/gazas-second-front-the-battle-against-disease-carrying-rats?traffic_source=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cgqkw3qk0dlo?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-04-23T09:03:50",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Two trains collide head-on in Denmark, leaving five critically hurt",
-    "url": "https://www.bbc.com/news/articles/cgqkw3qk0dlo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/video/20260423-un-leadership-hopefuls-stress-need-for-peace-and-restoring-confidence",
-    "timestamp": "2026-04-23T08:59:59",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "UN leadership hopefuls stress need for peace and restoring confidence",
-    "url": "https://www.france24.com/en/video/20260423-un-leadership-hopefuls-stress-need-for-peace-and-restoring-confidence"
-  },
-  {
-    "id": "https://www.france24.com/en/video/20260423-zelensky-to-join-eu-leaders-in-cyprus-after-90-bn-euro-loan-unblocked",
-    "timestamp": "2026-04-23T08:59:04",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Zelensky to join EU leaders in Cyprus after 90-bn-euro loan unblocked",
-    "url": "https://www.france24.com/en/video/20260423-zelensky-to-join-eu-leaders-in-cyprus-after-90-bn-euro-loan-unblocked"
-  },
-  {
-    "id": "https://www.france24.com/en/video/20260423-second-french-peacekeeper-dies-in-lebanon-after-ambush-blamed-on-hezbollah",
-    "timestamp": "2026-04-23T08:57:57",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Second French peacekeeper dies in Lebanon after ambush blamed on Hezbollah",
-    "url": "https://www.france24.com/en/video/20260423-second-french-peacekeeper-dies-in-lebanon-after-ambush-blamed-on-hezbollah"
-  },
-  {
-    "id": "https://www.france24.com/en/video/20260423-israeli-strikes-in-southern-lebanon-kill-lebanese-journalist-wound-another",
-    "timestamp": "2026-04-23T08:57:14",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Israeli strikes in southern Lebanon kill Lebanese journalist, wound another",
-    "url": "https://www.france24.com/en/video/20260423-israeli-strikes-in-southern-lebanon-kill-lebanese-journalist-wound-another"
-  },
-  {
-    "id": "https://www.france24.com/en/asia-pacific/20260423-us-accuses-china-of-intimidation-campaign-to-block-taiwan-president-africa-trip",
-    "timestamp": "2026-04-23T08:55:18",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "US accuses China of 'intimidation campaign' to block Taiwan president\u2019s Africa trip",
-    "url": "https://www.france24.com/en/asia-pacific/20260423-us-accuses-china-of-intimidation-campaign-to-block-taiwan-president-africa-trip"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/04/23/dnipro-apartment-block-in-flames-russian-overnight-strike-kills-2-injures-10-including-two-children/",
-    "timestamp": "2026-04-23T08:48:10",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Dnipro apartment block in flames: Russian overnight strike kills 2, injures 10 including two children",
-    "url": "https://euromaidanpress.com/2026/04/23/dnipro-apartment-block-in-flames-russian-overnight-strike-kills-2-injures-10-including-two-children/"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/4/23/lamine-yamals-world-cup-status-unclear-after-barcelona-injury?traffic_source=rss",
-    "timestamp": "2026-04-23T08:47:03",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Lamine Yamal\u2019s World Cup status unclear after Barcelona injury",
-    "url": "https://www.aljazeera.com/sports/2026/4/23/lamine-yamals-world-cup-status-unclear-after-barcelona-injury?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/video/20260423-french-teenager-seixas-becomes-youngest-fleche-wallonne-winner",
-    "timestamp": "2026-04-23T08:44:31",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "French teenager Seixas becomes youngest Fleche Wallonne winner",
-    "url": "https://www.france24.com/en/video/20260423-french-teenager-seixas-becomes-youngest-fleche-wallonne-winner"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/4/23/thunder-cruise-past-suns-again-but-lose-jalen-williams?traffic_source=rss",
-    "timestamp": "2026-04-23T08:43:29",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Thunder cruise past Suns again but lose Jalen Williams",
-    "url": "https://www.aljazeera.com/sports/2026/4/23/thunder-cruise-past-suns-again-but-lose-jalen-williams?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/video/20260423-new-round-of-talks-in-washington-lebanon-israel-to-discuss-truce-extension",
-    "timestamp": "2026-04-23T08:42:50",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "New round of talks in Washington: Lebanon, Israel to discuss truce extension",
-    "url": "https://www.france24.com/en/video/20260423-new-round-of-talks-in-washington-lebanon-israel-to-discuss-truce-extension"
-  },
-  {
-    "id": "https://www.france24.com/en/video/20260423-iran-tightens-control-of-hormuz-after-us-calls-off-renewed-attacks",
-    "timestamp": "2026-04-23T08:42:35",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Iran tightens control of Hormuz after US calls off renewed attacks",
-    "url": "https://www.france24.com/en/video/20260423-iran-tightens-control-of-hormuz-after-us-calls-off-renewed-attacks"
   }
 ]
