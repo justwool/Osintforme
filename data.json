@@ -1,5 +1,105 @@
 [
   {
+    "id": "https://tass.com/emergencies/2122343",
+    "timestamp": "2026-04-24T22:11:26",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Fragments of downed drone damage three apartment buildings in Kaluga",
+    "url": "https://tass.com/emergencies/2122343"
+  },
+  {
+    "id": "https://news.usni.org/2026/04/24/u-s-considering-foreign-designs-shipyards-for-new-navy-frigate-destroyer-work-in-1-85b-study",
+    "timestamp": "2026-04-24T22:02:54",
+    "source": "USNI News",
+    "platform": "rss",
+    "category": "naval",
+    "region": "global",
+    "text": "U.S. Considering Foreign Designs, Shipyards for New Navy Frigate, Destroyer Work in $1.85B Study",
+    "url": "https://news.usni.org/2026/04/24/u-s-considering-foreign-designs-shipyards-for-new-navy-frigate-destroyer-work-in-1-85b-study"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cy8103xklreo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-04-24T22:02:50",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Trump's envoys Witkoff and Kushner to fly to Pakistan for Iran talks",
+    "url": "https://www.bbc.com/news/articles/cy8103xklreo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://tass.com/world/2122341",
+    "timestamp": "2026-04-24T21:50:30",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "US deploys some 15,000 troops in Mideast with three aircraft carrier strike groups",
+    "url": "https://tass.com/world/2122341"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/4/24/israel-kills-at-least-12-palestinians-in-gaza-amid-ceasefire?traffic_source=rss",
+    "timestamp": "2026-04-24T21:42:22",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Israel kills at least 12 Palestinians in Gaza amid \u2018ceasefire\u2019",
+    "url": "https://www.aljazeera.com/news/2026/4/24/israel-kills-at-least-12-palestinians-in-gaza-amid-ceasefire?traffic_source=rss"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/04/25/russo-ukrainian-war-day-1521/",
+    "timestamp": "2026-04-24T21:41:54",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Russo-Ukrainian war, day 1521: 193 Ukrainian soldiers come home. The 73rd swap of the war.",
+    "url": "https://euromaidanpress.com/2026/04/25/russo-ukrainian-war-day-1521/"
+  },
+  {
+    "id": "https://news.usni.org/2026/04/24/middle-east-shipping-paralyzed-by-dueling-u-s-iranian-blockades-analysts-say",
+    "timestamp": "2026-04-24T21:40:17",
+    "source": "USNI News",
+    "platform": "rss",
+    "category": "naval",
+    "region": "global",
+    "text": "Middle East Shipping \u2018Paralyzed\u2019 by Dueling U.S., Iranian Blockades, Analysts Say",
+    "url": "https://news.usni.org/2026/04/24/middle-east-shipping-paralyzed-by-dueling-u-s-iranian-blockades-analysts-say"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/04/25/at-post-orban-eu-summit-zelenskyy-proposed-europe-build-integrated-air-missile-and-drone-defense/",
+    "timestamp": "2026-04-24T21:38:34",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "At post-Orb\u00e1n EU summit, Zelenskyy proposed Europe build integrated air, missile, and drone defense",
+    "url": "https://euromaidanpress.com/2026/04/25/at-post-orban-eu-summit-zelenskyy-proposed-europe-build-integrated-air-missile-and-drone-defense/"
+  },
+  {
+    "id": "https://www.aljazeera.com/sports/2026/4/24/real-madrid-stunned-at-betis-as-barcelona-have-chance-to-move-11-clear?traffic_source=rss",
+    "timestamp": "2026-04-24T21:29:59",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Real Madrid stunned at Betis as Barcelona have chance to move 11 clear",
+    "url": "https://www.aljazeera.com/sports/2026/4/24/real-madrid-stunned-at-betis-as-barcelona-have-chance-to-move-11-clear?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/world/2122339",
+    "timestamp": "2026-04-24T21:28:36",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Vice president Vance may join US delegation to talks with Iran \u2014 TV",
+    "url": "https://tass.com/world/2122339"
+  },
+  {
     "id": "https://euromaidanpress.com/2026/04/25/ukraine-expects-first-eu-accession-talks-to-open-in-weeks/",
     "timestamp": "2026-04-24T21:25:55",
     "source": "Euromaidan Press",
@@ -4898,105 +4998,5 @@
     "region": "global",
     "text": "Virginia court blocks redistricting map approved by voters in win for GOP",
     "url": "https://www.france24.com/en/americas/20260423-virginia-court-blocks-redistricting-map-approved-by-voters-in-win-for-gop"
-  },
-  {
-    "id": "https://www.france24.com/en/video/20260423-eu-approves-massive-loan-to-help-ukraine-after-hungary-lifts-its-veto",
-    "timestamp": "2026-04-23T14:01:02",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "EU approves massive loan to help Ukraine after Hungary lifts its veto",
-    "url": "https://www.france24.com/en/video/20260423-eu-approves-massive-loan-to-help-ukraine-after-hungary-lifts-its-veto"
-  },
-  {
-    "id": "https://www.france24.com/en/video/20260423-lebanon-to-seek-ceasefire-extension-in-us-hosted-talks-with-israel",
-    "timestamp": "2026-04-23T14:00:22",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Lebanon to seek ceasefire extension in US-hosted talks with Israel",
-    "url": "https://www.france24.com/en/video/20260423-lebanon-to-seek-ceasefire-extension-in-us-hosted-talks-with-israel"
-  },
-  {
-    "id": "https://www.france24.com/en/video/20260423-europe-cancels-thousands-of-flights-amid-middle-east-fuel-shock",
-    "timestamp": "2026-04-23T13:59:34",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Europe cancels thousands of flights amid Middle East fuel shock",
-    "url": "https://www.france24.com/en/video/20260423-europe-cancels-thousands-of-flights-amid-middle-east-fuel-shock"
-  },
-  {
-    "id": "https://tass.com/politics/2121559",
-    "timestamp": "2026-04-23T13:56:35",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Ukrainian saboteurs, UAV control centers destroyed in Konstantinovka \u2014 FSB",
-    "url": "https://tass.com/politics/2121559"
-  },
-  {
-    "id": "https://www.defensenews.com/opinion/2026/04/23/inside-china-artificial-intelligence-is-a-snake-eating-its-own-tail/",
-    "timestamp": "2026-04-23T13:47:42",
-    "source": "Defense News",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Inside China, artificial intelligence is a snake eating its own tail",
-    "url": "https://www.defensenews.com/opinion/2026/04/23/inside-china-artificial-intelligence-is-a-snake-eating-its-own-tail/"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/04/23/ukraine-strikes-novokuybyshevsk-petrochemical-plant/",
-    "timestamp": "2026-04-23T13:47:01",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Fire at Novokuybyshevsk: Ukraine targets the chemical inputs behind Russia\u2019s explosives production",
-    "url": "https://euromaidanpress.com/2026/04/23/ukraine-strikes-novokuybyshevsk-petrochemical-plant/"
-  },
-  {
-    "id": "https://www.dw.com/en/libya-oscillates-between-cooperation-and-illusion/a-76897066?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-04-23T13:45:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Libya oscillates between cooperation and illusion",
-    "url": "https://www.dw.com/en/libya-oscillates-between-cooperation-and-illusion/a-76897066?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://breakingdefense.com/2026/04/multi-sourcing-mosa-and-producibility-form-next-level-defense-acquisition-reform/",
-    "timestamp": "2026-04-23T13:38:43",
-    "source": "Breaking Defense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Multi-sourcing, MOSA, and producibility form next-level defense acquisition reform",
-    "url": "https://breakingdefense.com/2026/04/multi-sourcing-mosa-and-producibility-form-next-level-defense-acquisition-reform/"
-  },
-  {
-    "id": "https://tass.com/politics/2121549",
-    "timestamp": "2026-04-23T13:34:34",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Searches in Dagestan, 'Eksmo' scandal: latest Kremlin briefing",
-    "url": "https://tass.com/politics/2121549"
-  },
-  {
-    "id": "https://tass.com/world/2121553",
-    "timestamp": "2026-04-23T13:33:34",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Six ministers, deputy PM resign from Romanian government",
-    "url": "https://tass.com/world/2121553"
   }
 ]
