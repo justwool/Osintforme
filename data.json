@@ -1,5 +1,95 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/cn7871n27nlo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-04-27T06:53:54",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Pirates seize another vessel off Somali coast as threat level increased",
+    "url": "https://www.bbc.com/news/articles/cn7871n27nlo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/4/27/germany-activists-elbit-raid?traffic_source=rss",
+    "timestamp": "2026-04-27T06:36:59",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Pro-Palestine group accused of raiding Elbit factory face trial in Germany",
+    "url": "https://www.aljazeera.com/news/2026/4/27/germany-activists-elbit-raid?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/sports/2026/4/27/rockets-thrash-lebrons-lakers-wembanyama-triumphant-on-spurs-return?traffic_source=rss",
+    "timestamp": "2026-04-27T06:21:43",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Rockets thrash LeBron\u2019s Lakers; Wembanyama triumphant on Spurs\u2019 return",
+    "url": "https://www.aljazeera.com/sports/2026/4/27/rockets-thrash-lebrons-lakers-wembanyama-triumphant-on-spurs-return?traffic_source=rss"
+  },
+  {
+    "id": "https://www.france24.com/en/europe/20260427-kim-jong-un-reaffirms-north-korea-s-support-for-russia-s-sacred-ukraine-war",
+    "timestamp": "2026-04-27T05:51:14",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Kim Jong-un reaffirms North Korea's support for Russia's 'sacred' Ukraine war",
+    "url": "https://www.france24.com/en/europe/20260427-kim-jong-un-reaffirms-north-korea-s-support-for-russia-s-sacred-ukraine-war"
+  },
+  {
+    "id": "https://www.dw.com/en/iran-s-araghchi-visits-russia-as-talks-with-us-on-hold/a-76947020?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-04-27T05:48:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Iran's Araghchi visits Russia as talks with US on hold",
+    "url": "https://www.dw.com/en/iran-s-araghchi-visits-russia-as-talks-with-us-on-hold/a-76947020?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.aljazeera.com/economy/2026/4/27/taiwan-court-hands-down-jail-terms-in-tsmc-trade-secrets-case?traffic_source=rss",
+    "timestamp": "2026-04-27T05:43:30",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Taiwan court hands down jail terms in TSMC trade secrets case",
+    "url": "https://www.aljazeera.com/economy/2026/4/27/taiwan-court-hands-down-jail-terms-in-tsmc-trade-secrets-case?traffic_source=rss"
+  },
+  {
+    "id": "https://www.theguardian.com/world/2026/apr/27/bear-sightings-warning-japan",
+    "timestamp": "2026-04-27T05:42:20",
+    "source": "Guardian World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Record bear sightings in Japan cause alarm as hibernation ends",
+    "url": "https://www.theguardian.com/world/2026/apr/27/bear-sightings-warning-japan"
+  },
+  {
+    "id": "https://www.france24.com/en/tv-shows/sports/20260427-kenya-sabastian-sawe-first-man-marathon-under-two-hours",
+    "timestamp": "2026-04-27T05:23:06",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Kenya's Sabastian Sawe, first man to run a marathon in under two hours",
+    "url": "https://www.france24.com/en/tv-shows/sports/20260427-kenya-sabastian-sawe-first-man-marathon-under-two-hours"
+  },
+  {
+    "id": "https://www.aljazeera.com/economy/2026/4/27/from-australia-to-vietnam-the-iran-war-is-fuelling-demand-for-evs?traffic_source=rss",
+    "timestamp": "2026-04-27T04:46:35",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "From Australia to Vietnam, the Iran war is fuelling demand for EVs",
+    "url": "https://www.aljazeera.com/economy/2026/4/27/from-australia-to-vietnam-the-iran-war-is-fuelling-demand-for-evs?traffic_source=rss"
+  },
+  {
     "id": "https://www.theguardian.com/us-news/2026/apr/27/us-three-killed-boat-alleged-narco-eastern-pacific",
     "timestamp": "2026-04-27T03:11:41",
     "source": "Guardian World",
@@ -50,6 +140,16 @@
     "url": "https://www.aljazeera.com/economy/2026/4/27/oil-prices-rise-higher-amid-stalled-us-iran-peace-talks?traffic_source=rss"
   },
   {
+    "id": "https://www.france24.com/en/americas/20260427-elon-musk-s-lawsuit-against-openai-over-nonprofit-claims-heads-to-trial",
+    "timestamp": "2026-04-27T01:51:20",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Elon Musk\u2019s lawsuit against OpenAI over nonprofit claims heads to trial",
+    "url": "https://www.france24.com/en/americas/20260427-elon-musk-s-lawsuit-against-openai-over-nonprofit-claims-heads-to-trial"
+  },
+  {
     "id": "https://www.france24.com/en/technology/20260427-elon-musk-lawsuit-openai-trial-nonprofit-claims",
     "timestamp": "2026-04-27T01:51:20",
     "source": "France24",
@@ -58,6 +158,16 @@
     "region": "global",
     "text": "Elon Musk\u2019s lawsuit against OpenAI heads to trial over nonprofit claims",
     "url": "https://www.france24.com/en/technology/20260427-elon-musk-lawsuit-openai-trial-nonprofit-claims"
+  },
+  {
+    "id": "https://www.france24.com/en/americas/20260427-king-charles-iii-begins-four-day-us-visit-despite-shooting",
+    "timestamp": "2026-04-27T01:23:16",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "King Charles III begins US visit despite press gala shooting, transatlantic tensions",
+    "url": "https://www.france24.com/en/americas/20260427-king-charles-iii-begins-four-day-us-visit-despite-shooting"
   },
   {
     "id": "https://www.aljazeera.com/news/liveblog/2026/4/27/iran-war-live-araghchi-to-meet-putin-trump-says-tehran-can-call-for-talks?traffic_source=rss",
@@ -998,6 +1108,16 @@
     "region": "ru",
     "text": "Zelensky's attempts to become Europe's \u2018defender\u2019 will not end well \u2014 Lavrov",
     "url": "https://tass.com/politics/2122607"
+  },
+  {
+    "id": "https://www.dw.com/en/merz-sparks-debate-on-germany-s-pension-system/a-76925722?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-04-26T12:24:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Merz sparks debate on Germany's pension system",
+    "url": "https://www.dw.com/en/merz-sparks-debate-on-germany-s-pension-system/a-76925722?maca=en-rss-en-all-1573-xml-mrss"
   },
   {
     "id": "https://taskandpurpose.com/culture/navy-nfl-draft-robinson-heidenreich/",
@@ -4878,125 +4998,5 @@
     "region": "ua",
     "text": "193 Ukrainian troops freed from Russian captivity in major prisoner exchange",
     "url": "https://euromaidanpress.com/2026/04/24/ukraine-brings-home-193-service-members-73rd-prisoner-swap/"
-  },
-  {
-    "id": "https://www.france24.com/en/europe/20260424-fake-bbc-report-spreads-false-claim-volodymyr-zelensky-stolen-painting",
-    "timestamp": "2026-04-24T16:01:23",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Fake BBC report spreads false claim that Zelensky has a stolen painting",
-    "url": "https://www.france24.com/en/europe/20260424-fake-bbc-report-spreads-false-claim-volodymyr-zelensky-stolen-painting"
-  },
-  {
-    "id": "https://tass.com/economy/2122233",
-    "timestamp": "2026-04-24T16:01:22",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russia, Serbia set goal to reach trade turnover of 2022 in coming years \u2014 Serbian minister",
-    "url": "https://tass.com/economy/2122233"
-  },
-  {
-    "id": "https://www.defensenews.com/industry/techwatch/2026/04/24/the-us-military-wants-a-fleet-of-missile-killing-laser-drones/",
-    "timestamp": "2026-04-24T16:00:27",
-    "source": "Defense News",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "The US military wants a fleet of missile-killing laser drones",
-    "url": "https://www.defensenews.com/industry/techwatch/2026/04/24/the-us-military-wants-a-fleet-of-missile-killing-laser-drones/"
-  },
-  {
-    "id": "https://breakingdefense.com/2026/04/schrodingers-f-16s-lockheed-says-peru-is-buying-fighters-questions-remain-in-lima/",
-    "timestamp": "2026-04-24T16:00:03",
-    "source": "Breaking Defense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Lockheed limbo in Lima? Firm says Peru is buying F-16s, but questions remain",
-    "url": "https://breakingdefense.com/2026/04/schrodingers-f-16s-lockheed-says-peru-is-buying-fighters-questions-remain-in-lima/"
-  },
-  {
-    "id": "https://www.france24.com/en/video/20260424-tornado-sweeps-through-oklahoma-city",
-    "timestamp": "2026-04-24T15:59:38",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Tornado sweeps through Oklahoma City",
-    "url": "https://www.france24.com/en/video/20260424-tornado-sweeps-through-oklahoma-city"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/4/24/pm-sanchez-rebuffs-us-idea-of-suspending-spain-from-nato?traffic_source=rss",
-    "timestamp": "2026-04-24T15:58:46",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "PM Sanchez rebuffs US idea of suspending Spain from NATO",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/24/pm-sanchez-rebuffs-us-idea-of-suspending-spain-from-nato?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/americas/20260424-sanchez-brushes-off-reported-pentagon-email-mulling-suspending-spain-s-nato-membership",
-    "timestamp": "2026-04-24T15:57:31",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Sanchez brushes off reported Pentagon email mulling suspending Spain's NATO membership",
-    "url": "https://www.france24.com/en/americas/20260424-sanchez-brushes-off-reported-pentagon-email-mulling-suspending-spain-s-nato-membership"
-  },
-  {
-    "id": "https://www.france24.com/en/video/20260424-iran-peace-talks-trump-s-unconventional-diplomacy-on-display",
-    "timestamp": "2026-04-24T15:56:36",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Iran Peace Talks: Trump's unconventional diplomacy on display",
-    "url": "https://www.france24.com/en/video/20260424-iran-peace-talks-trump-s-unconventional-diplomacy-on-display"
-  },
-  {
-    "id": "https://www.france24.com/en/tv-shows/europe-rendezvous/20260424-crossing-borders-the-eu-powers-your-mobility-part-1",
-    "timestamp": "2026-04-24T15:54:12",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Crossing borders: The EU powers your mobility (part 1)",
-    "url": "https://www.france24.com/en/tv-shows/europe-rendezvous/20260424-crossing-borders-the-eu-powers-your-mobility-part-1"
-  },
-  {
-    "id": "https://breakingdefense.com/2026/04/three-carriers-operate-in-middle-east-for-first-time-since-2003-centcom/",
-    "timestamp": "2026-04-24T15:52:28",
-    "source": "Breaking Defense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Three carriers operate in Middle East for first time since 2003: CENTCOM",
-    "url": "https://breakingdefense.com/2026/04/three-carriers-operate-in-middle-east-for-first-time-since-2003-centcom/"
-  },
-  {
-    "id": "https://taskandpurpose.com/news/new-army-air-defense-repairer-job/",
-    "timestamp": "2026-04-24T15:52:28",
-    "source": "Task & Purpose",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "The Army is creating a new job for air defense soldiers",
-    "url": "https://taskandpurpose.com/news/new-army-air-defense-repairer-job/"
-  },
-  {
-    "id": "https://www.aljazeera.com/features/longform/2026/4/24/chornobyl-at-40-settlers-and-horses-survive-russian-drones-contamination?traffic_source=rss",
-    "timestamp": "2026-04-24T15:47:27",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Chornobyl at 40: Settlers and horses survive Russian drones, contamination",
-    "url": "https://www.aljazeera.com/features/longform/2026/4/24/chornobyl-at-40-settlers-and-horses-survive-russian-drones-contamination?traffic_source=rss"
   }
 ]
