@@ -1,5 +1,495 @@
 [
   {
+    "id": "https://www.france24.com/en/video/20260428-train-collision-in-indonesia-kills-14-injures-dozens",
+    "timestamp": "2026-04-28T09:29:36",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Train collision in Indonesia kills 14, injures dozens",
+    "url": "https://www.france24.com/en/video/20260428-train-collision-in-indonesia-kills-14-injures-dozens"
+  },
+  {
+    "id": "https://www.france24.com/en/video/20260428-britain-s-king-charles-meets-trump-in-bid-to-salvage-ties",
+    "timestamp": "2026-04-28T09:29:12",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Britain's King Charles meets Trump in bid to salvage ties",
+    "url": "https://www.france24.com/en/video/20260428-britain-s-king-charles-meets-trump-in-bid-to-salvage-ties"
+  },
+  {
+    "id": "https://www.france24.com/en/video/20260428-italian-crans-montana-victims-angered-over-swiss-hospital-bills",
+    "timestamp": "2026-04-28T09:27:00",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Italian Crans-Montana victims angered over Swiss hospital bills",
+    "url": "https://www.france24.com/en/video/20260428-italian-crans-montana-victims-angered-over-swiss-hospital-bills"
+  },
+  {
+    "id": "https://tass.com/politics/2123333",
+    "timestamp": "2026-04-28T09:25:13",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Rebel attack in Mali results in casualties among Russia\u2019s Africa Corps \u2014 diplomat",
+    "url": "https://tass.com/politics/2123333"
+  },
+  {
+    "id": "https://tass.com/economy/2123335",
+    "timestamp": "2026-04-28T09:21:25",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Internet blackout in Iran enters 60th day \u2014 NetBlocks",
+    "url": "https://tass.com/economy/2123335"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/4/28/how-iran-has-changed-and-how-it-hasnt-in-two-months-of-war?traffic_source=rss",
+    "timestamp": "2026-04-28T09:15:24",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "How Iran has changed, and how it hasn\u2019t, in two months of war",
+    "url": "https://www.aljazeera.com/news/2026/4/28/how-iran-has-changed-and-how-it-hasnt-in-two-months-of-war?traffic_source=rss"
+  },
+  {
+    "id": "https://www.france24.com/en/musk-lawsuit-against-openai-more-about-corporate-strategy-than-any-philosophical-or-ethical-moves",
+    "timestamp": "2026-04-28T09:12:16",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Musk lawsuit against OpenAI 'more about corporate strategy than any philosophical or ethical moves'",
+    "url": "https://www.france24.com/en/musk-lawsuit-against-openai-more-about-corporate-strategy-than-any-philosophical-or-ethical-moves"
+  },
+  {
+    "id": "https://www.dw.com/en/what-renault-s-new-ev-reveals-about-the-global-auto-industry/a-76823988?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-04-28T09:12:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "What Renault's new EV reveals about the global auto industry",
+    "url": "https://www.dw.com/en/what-renault-s-new-ev-reveals-about-the-global-auto-industry/a-76823988?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.aljazeera.com/sports/2026/4/28/before-world-cup-fifa-slammed-for-politicising-sport-with-trump-prize?traffic_source=rss",
+    "timestamp": "2026-04-28T09:08:41",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Before World Cup, FIFA slammed for politicising sport with Trump prize",
+    "url": "https://www.aljazeera.com/sports/2026/4/28/before-world-cup-fifa-slammed-for-politicising-sport-with-trump-prize?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/economy/2123321",
+    "timestamp": "2026-04-28T09:03:02",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Kazakhstan to reroute 260,000 tons of oil to Germany via Russia in May",
+    "url": "https://tass.com/economy/2123321"
+  },
+  {
+    "id": "https://tass.com/society/2123317",
+    "timestamp": "2026-04-28T09:00:41",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Number of Russians describing themselves as cheerful increases to 35% \u2014 pollster",
+    "url": "https://tass.com/society/2123317"
+  },
+  {
+    "id": "https://tass.com/politics/2123319",
+    "timestamp": "2026-04-28T08:59:29",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "By taking Taratutino Russian army penetrates 7 km deep into Ukrainian defenses \u2014 expert",
+    "url": "https://tass.com/politics/2123319"
+  },
+  {
+    "id": "https://tass.com/economy/2123315",
+    "timestamp": "2026-04-28T08:55:59",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "IN BRIEF: Redirection of oil supplies from Druzhba pipeline may hit Germany, Ukraine",
+    "url": "https://tass.com/economy/2123315"
+  },
+  {
+    "id": "https://tass.com/world/2123313",
+    "timestamp": "2026-04-28T08:53:13",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "First LNG tanker since start of Iran conflict passes through Strait of Hormuz \u2014 agency",
+    "url": "https://tass.com/world/2123313"
+  },
+  {
+    "id": "https://www.dw.com/en/iran-war-us-wary-of-peace-plan-postponing-nuclear-deal/live-76959714?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-04-28T08:52:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Iran war: US wary of peace plan postponing nuclear deal",
+    "url": "https://www.dw.com/en/iran-war-us-wary-of-peace-plan-postponing-nuclear-deal/live-76959714?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://tass.com/world/2123311",
+    "timestamp": "2026-04-28T08:50:08",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Iran conflict shows NATO unprepared for confrontation with Russia \u2014 newspaper",
+    "url": "https://tass.com/world/2123311"
+  },
+  {
+    "id": "https://www.aljazeera.com/sports/2026/4/28/fifa-urged-to-push-for-ice-truce-at-us-world-cup-by-human-rights-watch?traffic_source=rss",
+    "timestamp": "2026-04-28T08:47:32",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "FIFA urged to push US for \u2018ICE Truce\u2019 at World Cup by Human Rights Watch",
+    "url": "https://www.aljazeera.com/sports/2026/4/28/fifa-urged-to-push-for-ice-truce-at-us-world-cup-by-human-rights-watch?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/defense/2123305",
+    "timestamp": "2026-04-28T08:39:47",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Kalashnikov Group delivers Granat-4-E UAV surveillance system to customer",
+    "url": "https://tass.com/defense/2123305"
+  },
+  {
+    "id": "https://tass.com/politics/2123307",
+    "timestamp": "2026-04-28T08:39:24",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Putin sees West losing its dominance, giving way to new growth centers",
+    "url": "https://tass.com/politics/2123307"
+  },
+  {
+    "id": "https://tass.com/world/2123303",
+    "timestamp": "2026-04-28T08:37:12",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russia\u2019s fourth S-400 air defense system shipped to India",
+    "url": "https://tass.com/world/2123303"
+  },
+  {
+    "id": "https://www.theguardian.com/world/2026/apr/28/mexican-special-forces-arrest-top-commander-audias-flores-el-jardinero-of-powerful-cartel",
+    "timestamp": "2026-04-28T08:35:18",
+    "source": "Guardian World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Mexican special forces arrest top commander of powerful cartel",
+    "url": "https://www.theguardian.com/world/2026/apr/28/mexican-special-forces-arrest-top-commander-audias-flores-el-jardinero-of-powerful-cartel"
+  },
+  {
+    "id": "https://tass.com/society/2123301",
+    "timestamp": "2026-04-28T08:34:57",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Moldova tightens entry rules for Russians to conceal support for Ukrainian forces \u2014 expert",
+    "url": "https://tass.com/society/2123301"
+  },
+  {
+    "id": "https://www.dw.com/en/jimmy-kimmel-says-melania-trump-joke-not-call-to-assassination/a-76960074?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-04-28T08:34:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Jimmy Kimmel says Melania Trump joke not 'call to assassination'",
+    "url": "https://www.dw.com/en/jimmy-kimmel-says-melania-trump-joke-not-call-to-assassination/a-76960074?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://tass.com/economy/2123299",
+    "timestamp": "2026-04-28T08:31:38",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Alrosa reports 57 mln carats of diamond reserves in 2025",
+    "url": "https://tass.com/economy/2123299"
+  },
+  {
+    "id": "https://www.navalnews.com/naval-news/2026/04/jmdsf-sets-up-patrol-and-defense-group-with-mogami-class-vessels/",
+    "timestamp": "2026-04-28T08:27:44",
+    "source": "Naval News",
+    "platform": "rss",
+    "category": "naval",
+    "region": "global",
+    "text": "JMDSF sets up Patrol and Defense Group with Mogami-class vessels",
+    "url": "https://www.navalnews.com/naval-news/2026/04/jmdsf-sets-up-patrol-and-defense-group-with-mogami-class-vessels/"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/4/28/palestine-weekly-wrap-under-cover-of-ceasefire-israel-increases-grip?traffic_source=rss",
+    "timestamp": "2026-04-28T08:24:45",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Palestine weekly wrap: Under cover of ceasefire, Israel increases grip",
+    "url": "https://www.aljazeera.com/news/2026/4/28/palestine-weekly-wrap-under-cover-of-ceasefire-israel-increases-grip?traffic_source=rss"
+  },
+  {
+    "id": "https://www.gov.uk/government/publications/mod-contracting-purchasing-and-finance-e-procurement-system",
+    "timestamp": "2026-04-28T08:22:36",
+    "source": "UK MoD",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Guidance: MOD contracting, purchasing and finance: e-procurement system",
+    "url": "https://www.gov.uk/government/publications/mod-contracting-purchasing-and-finance-e-procurement-system"
+  },
+  {
+    "id": "https://www.aljazeera.com/features/2026/4/28/down-but-not-out-in-war-with-israel-hezbollah-shows-it-is-still-powerful?traffic_source=rss",
+    "timestamp": "2026-04-28T08:20:45",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Down but not out: In war with Israel, Hezbollah shows it is still powerful",
+    "url": "https://www.aljazeera.com/features/2026/4/28/down-but-not-out-in-war-with-israel-hezbollah-shows-it-is-still-powerful?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/society/2123293",
+    "timestamp": "2026-04-28T08:18:14",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "IAEA should raise issue of sanctions against Kiev for Zaporozhye NPP incident \u2014 expert",
+    "url": "https://tass.com/society/2123293"
+  },
+  {
+    "id": "https://www.dw.com/en/india-news-google-starts-work-on-largest-ai-hub-outside-us-in-vizag/live-76959597?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-04-28T08:11:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "India news: Google starts work on largest AI hub outside US in Vizag",
+    "url": "https://www.dw.com/en/india-news-google-starts-work-on-largest-ai-hub-outside-us-in-vizag/live-76959597?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.france24.com/en/africa/20260428-gunmen-kill-at-least-29-northeast-nigeria-after-targeting-young-people-football-pitch",
+    "timestamp": "2026-04-28T08:08:56",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Gunmen kill at least 29 in northeast Nigeria after targeting young people at football pitch",
+    "url": "https://www.france24.com/en/africa/20260428-gunmen-kill-at-least-29-northeast-nigeria-after-targeting-young-people-football-pitch"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/4/28/should-be-fired-why-the-trumps-want-jimmy-kimmel-sacked?traffic_source=rss",
+    "timestamp": "2026-04-28T08:06:29",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "\u2018Should be fired\u2019: Why the Trumps want Jimmy Kimmel sacked",
+    "url": "https://www.aljazeera.com/news/2026/4/28/should-be-fired-why-the-trumps-want-jimmy-kimmel-sacked?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/defense/2123291",
+    "timestamp": "2026-04-28T08:06:07",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russia invites over 180 foreign delegations to first international security forum",
+    "url": "https://tass.com/defense/2123291"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/4/28/trump-reviews-iranian-proposal-aimed-at-reopening-strait-of-hormuz?traffic_source=rss",
+    "timestamp": "2026-04-28T07:55:25",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Trump reviews Iranian proposal aimed at reopening Strait of Hormuz",
+    "url": "https://www.aljazeera.com/news/2026/4/28/trump-reviews-iranian-proposal-aimed-at-reopening-strait-of-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/04/28/finishing-off-russias-seaborne-oil-exports-tuapse-refinery-ablaze-again/",
+    "timestamp": "2026-04-28T07:46:00",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Finishing off Russia\u2019s seaborne oil exports: Tuapse refinery ablaze again",
+    "url": "https://euromaidanpress.com/2026/04/28/finishing-off-russias-seaborne-oil-exports-tuapse-refinery-ablaze-again/"
+  },
+  {
+    "id": "https://www.aljazeera.com/sports/2026/4/28/athletics-great-allyson-felix-aiming-to-compete-at-2028-los-angeles-games?traffic_source=rss",
+    "timestamp": "2026-04-28T07:42:16",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Athletics great Allyson Felix aiming to compete at 2028 Los Angeles Games",
+    "url": "https://www.aljazeera.com/sports/2026/4/28/athletics-great-allyson-felix-aiming-to-compete-at-2028-los-angeles-games?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/4/28/uk-to-appeal-high-court-ruling-that-granted-palestine-action-a-victory?traffic_source=rss",
+    "timestamp": "2026-04-28T07:34:57",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "UK to appeal High Court ruling that granted Palestine Action a victory",
+    "url": "https://www.aljazeera.com/news/2026/4/28/uk-to-appeal-high-court-ruling-that-granted-palestine-action-a-victory?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/4/28/ukraine-summons-israeli-ambassador-over-stolen-grain-shipments?traffic_source=rss",
+    "timestamp": "2026-04-28T07:34:11",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Ukraine summons Israeli ambassador over \u2018stolen\u2019 grain shipments",
+    "url": "https://www.aljazeera.com/news/2026/4/28/ukraine-summons-israeli-ambassador-over-stolen-grain-shipments?traffic_source=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c05d5qgprjzo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-04-28T07:32:35",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Austrian goes on trial accused of plotting attack on Taylor Swift concert",
+    "url": "https://www.bbc.com/news/articles/c05d5qgprjzo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://warontherocks.com/the-mountaintop-mirage-why-xis-military-purges-cannot-produce-the-force-he-wants/",
+    "timestamp": "2026-04-28T07:30:31",
+    "source": "War on the Rocks",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "The Mountaintop Mirage: Why Xi\u2019s Military Purges Cannot Produce the Force He Wants",
+    "url": "https://warontherocks.com/the-mountaintop-mirage-why-xis-military-purges-cannot-produce-the-force-he-wants/"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/04/28/russo-ukrainian-war-day-1524-chasiv-yar-becomes-russias-next-big-target/",
+    "timestamp": "2026-04-28T07:26:15",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Russo-Ukrainian war, day 1524: Chasiv Yar becomes Russia\u2019s next big target",
+    "url": "https://euromaidanpress.com/2026/04/28/russo-ukrainian-war-day-1524-chasiv-yar-becomes-russias-next-big-target/"
+  },
+  {
+    "id": "https://www.france24.com/en/middle-east/20260428-collective-punishment-msf-says-israel-weaponising-water-access-gaza",
+    "timestamp": "2026-04-28T07:23:11",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "'Collective punishment': MSF says Israel is weaponising water access in Gaza",
+    "url": "https://www.france24.com/en/middle-east/20260428-collective-punishment-msf-says-israel-weaponising-water-access-gaza"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cm2pn8zdxdjo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-04-28T07:17:06",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Russian superyacht sails through Strait of Hormuz despite blockade",
+    "url": "https://www.bbc.com/news/articles/cm2pn8zdxdjo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://warontherocks.com/the-strange-rise-and-fall-of-russias-crowd-sourced-defense-industry/",
+    "timestamp": "2026-04-28T07:15:50",
+    "source": "War on the Rocks",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "The Strange Rise and Fall of Russia\u2019s Crowd Sourced Defense Industry",
+    "url": "https://warontherocks.com/the-strange-rise-and-fall-of-russias-crowd-sourced-defense-industry/"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/4/28/iran-war-whats-happening-on-day-60-as-diplomacy-gathers-pace?traffic_source=rss",
+    "timestamp": "2026-04-28T07:06:02",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Iran war: What\u2019s happening on day 60 as diplomacy gathers pace?",
+    "url": "https://www.aljazeera.com/news/2026/4/28/iran-war-whats-happening-on-day-60-as-diplomacy-gathers-pace?traffic_source=rss"
+  },
+  {
+    "id": "https://www.dw.com/en/canada-s-arctic-noise-is-no-party-for-narwhals/a-76704611?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-04-28T07:01:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Canada's Arctic noise is no party for narwhals",
+    "url": "https://www.dw.com/en/canada-s-arctic-noise-is-no-party-for-narwhals/a-76704611?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.aljazeera.com/economy/2026/4/28/trump-administration-fires-all-members-of-us-national-science-board?traffic_source=rss",
+    "timestamp": "2026-04-28T06:56:04",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Trump administration fires all members of US\u2019 National Science Board",
+    "url": "https://www.aljazeera.com/economy/2026/4/28/trump-administration-fires-all-members-of-us-national-science-board?traffic_source=rss"
+  },
+  {
+    "id": "https://www.dw.com/en/mexico-special-forces-capture-cartel-leader-el-jardinero/a-76959439?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-04-28T06:44:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Mexico: Special forces capture cartel leader 'El Jardinero'",
+    "url": "https://www.dw.com/en/mexico-special-forces-capture-cartel-leader-el-jardinero/a-76959439?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/4/28/at-least-20-killed-in-colombia-highway-blast?traffic_source=rss",
+    "timestamp": "2026-04-28T06:30:58",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "At least 20 killed in Colombia highway blast",
+    "url": "https://www.aljazeera.com/news/2026/4/28/at-least-20-killed-in-colombia-highway-blast?traffic_source=rss"
+  },
+  {
     "id": "https://tass.com/society/2123249",
     "timestamp": "2026-04-28T06:13:18",
     "source": "TASS English",
@@ -18,6 +508,16 @@
     "region": "global",
     "text": "Germany news: Major raids carried out against Hells Angels",
     "url": "https://www.dw.com/en/germany-news-major-raids-carried-out-against-hells-angels/live-76959182?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/4/28/new-zealand-spy-plane-reports-possible-north-korea-sanctions-breach-at-sea?traffic_source=rss",
+    "timestamp": "2026-04-28T06:07:02",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "New Zealand spy plane reports possible North Korea sanctions breach at sea",
+    "url": "https://www.aljazeera.com/news/2026/4/28/new-zealand-spy-plane-reports-possible-north-korea-sanctions-breach-at-sea?traffic_source=rss"
   },
   {
     "id": "https://www.aljazeera.com/sports/2026/4/28/tailgating-to-be-allowed-at-boston-world-cup-matches-as-fifa-changes-stance?traffic_source=rss",
@@ -168,6 +668,16 @@
     "region": "mena",
     "text": "Suspect in press gala shooting charged with attempting to kill Trump",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/4/28/suspect-in-press-gala-shooting-charged-with-attempting-to-kill-trump?traffic_source=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c62d43vdgmmo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-04-28T03:28:48",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "IS claims responsibility for Nigeria attack that killed 29 people",
+    "url": "https://www.bbc.com/news/articles/c62d43vdgmmo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://tass.com/society/2123233",
@@ -400,6 +910,26 @@
     "url": "https://tass.com/world/2123217"
   },
   {
+    "id": "https://www.bbc.com/news/articles/cew7wez72vxo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-04-28T00:41:48",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Suspect charged with attempted assassination of Trump at Washington dinner",
+    "url": "https://www.bbc.com/news/articles/cew7wez72vxo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cje4eeyq27lo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-04-28T00:19:49",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "US political violence generates a familiar cycle - this time it's in overdrive",
+    "url": "https://www.bbc.com/news/articles/cje4eeyq27lo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.aljazeera.com/news/liveblog/2026/4/28/iran-war-live-trump-reviews-peace-plan-un-calls-for-hormuz-to-reopen?traffic_source=rss",
     "timestamp": "2026-04-28T00:00:00",
     "source": "Al Jazeera",
@@ -448,6 +978,16 @@
     "region": "mena",
     "text": "US Supreme Court reinstates Republican-favoured Texas electoral map",
     "url": "https://www.aljazeera.com/news/2026/4/27/us-supreme-court-reinstates-republican-favoured-texas-electoral-map?traffic_source=rss"
+  },
+  {
+    "id": "https://www.defenseone.com/policy/2026/04/experts-call-halt-ai-chip-exports-china-after-white-house-distillation-warning/413155/",
+    "timestamp": "2026-04-27T22:00:00",
+    "source": "Defense One",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Experts call for halt of AI chip exports to China after White House distillation warning",
+    "url": "https://www.defenseone.com/policy/2026/04/experts-call-halt-ai-chip-exports-china-after-white-house-distillation-warning/413155/"
   },
   {
     "id": "https://www.aljazeera.com/news/2026/4/27/bahrain-strips-69-people-of-citizenship-over-iran-support?traffic_source=rss",
@@ -618,6 +1158,16 @@
     "region": "global",
     "text": "Musk vs Altman: two tech mavericks go head to head in OpenAI trial",
     "url": "https://www.france24.com/en/tv-shows/business/20260427-musk-vs-altman-two-tech-mavericks-go-head-to-head-in-openai-trial"
+  },
+  {
+    "id": "https://www.defenseone.com/business/2026/04/first-protest-filed-against-armys-troubled-maps-contract/413154/",
+    "timestamp": "2026-04-27T20:31:59",
+    "source": "Defense One",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "First protest filed against the Army\u2019s troubled MAPS contract",
+    "url": "https://www.defenseone.com/business/2026/04/first-protest-filed-against-armys-troubled-maps-contract/413154/"
   },
   {
     "id": "https://www.france24.com/en/tv-shows/spotlight/20260427-mali-s-tale-of-two-insurgencies-jihadists-seek-caliphate-while-tuareg-rebels-pursue-autonomy",
@@ -4448,555 +4998,5 @@
     "region": "mena",
     "text": "Syria puts first Assad-era official on trial in Damascus",
     "url": "https://www.aljazeera.com/news/2026/4/26/syria-puts-al-assad-era-officials-on?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/politics/2122609",
-    "timestamp": "2026-04-26T12:31:49",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Europe security architecture unthinkable without Russia's interests \u2014 Kremlin",
-    "url": "https://tass.com/politics/2122609"
-  },
-  {
-    "id": "https://tass.com/politics/2122607",
-    "timestamp": "2026-04-26T12:27:22",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Zelensky's attempts to become Europe's \u2018defender\u2019 will not end well \u2014 Lavrov",
-    "url": "https://tass.com/politics/2122607"
-  },
-  {
-    "id": "https://www.dw.com/en/germany-pensions-will-fall-short-of-living-standards-merz/a-76925722?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-04-26T12:24:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Germany pensions will fall short of living standards: Merz",
-    "url": "https://www.dw.com/en/germany-pensions-will-fall-short-of-living-standards-merz/a-76925722?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.dw.com/en/merz-sparks-debate-on-germany-s-pension-system/a-76925722?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-04-26T12:24:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Merz sparks debate on Germany's pension system",
-    "url": "https://www.dw.com/en/merz-sparks-debate-on-germany-s-pension-system/a-76925722?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://taskandpurpose.com/culture/navy-nfl-draft-robinson-heidenreich/",
-    "timestamp": "2026-04-26T12:15:00",
-    "source": "Task & Purpose",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Two Navy football players picked in NFL draft",
-    "url": "https://taskandpurpose.com/culture/navy-nfl-draft-robinson-heidenreich/"
-  },
-  {
-    "id": "https://www.france24.com/en/40-years-since-chernobyl-disaster-soviet-union-s-top-down-culture-partly-to-blame",
-    "timestamp": "2026-04-26T12:04:29",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "40 years since Chernobyl disaster: Soviet Union's 'top-down culture' partly to blame",
-    "url": "https://www.france24.com/en/40-years-since-chernobyl-disaster-soviet-union-s-top-down-culture-partly-to-blame"
-  },
-  {
-    "id": "https://www.dw.com/en/germany-news-s\u00f6der-calls-for-compulsory-military-service/live-76930770?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-04-26T11:46:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Germany news: S\u00f6der calls for compulsory military service",
-    "url": "https://www.dw.com/en/germany-news-s\u00f6der-calls-for-compulsory-military-service/live-76930770?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://tass.com/sports/2122605",
-    "timestamp": "2026-04-26T11:44:39",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Kenya\u2019s Sawe sets world marathon record, becoming first to break two-hour barrier",
-    "url": "https://tass.com/sports/2122605"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/4/26/kenyas-sawe-is-worlds-first-man-to-run-a-sub-two-hour-marathon-in-london?traffic_source=rss",
-    "timestamp": "2026-04-26T11:27:52",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Sebastian Sawe breaks London marathon record with first run under two hours",
-    "url": "https://www.aljazeera.com/sports/2026/4/26/kenyas-sawe-is-worlds-first-man-to-run-a-sub-two-hour-marathon-in-london?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/4/26/timeline-trump-assassination-attempts-and-security-incidents?traffic_source=rss",
-    "timestamp": "2026-04-26T11:24:37",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Timeline: Trump assassination attempts and security incidents",
-    "url": "https://www.aljazeera.com/news/2026/4/26/timeline-trump-assassination-attempts-and-security-incidents?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/politics/2122603",
-    "timestamp": "2026-04-26T11:09:04",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Crisis in Europe worsening in all areas - Kremlin",
-    "url": "https://tass.com/politics/2122603"
-  },
-  {
-    "id": "https://www.dw.com/en/sawe-smashes-2-hour-mark-setting-record-at-london-marathon/a-76943171?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-04-26T11:07:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Sawe smashes 2-hour mark setting record at London Marathon",
-    "url": "https://www.dw.com/en/sawe-smashes-2-hour-mark-setting-record-at-london-marathon/a-76943171?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://tass.com/defense/2122601",
-    "timestamp": "2026-04-26T10:52:04",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Kiev forces lost over 1,200 personnel in special military operation zone in past 24 hours",
-    "url": "https://tass.com/defense/2122601"
-  },
-  {
-    "id": "https://tass.com/defense/2122599",
-    "timestamp": "2026-04-26T10:51:25",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian air defenses down 530 Ukrainian fixed-wing UAVs over past day",
-    "url": "https://tass.com/defense/2122599"
-  },
-  {
-    "id": "https://tass.com/defense/2122597",
-    "timestamp": "2026-04-26T10:50:17",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian forces strike Ukrainian transport, energy infrastructure over past day",
-    "url": "https://tass.com/defense/2122597"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/4/26/malis-defence-minister-sadio-camara-killed-amid-coordinated-attacks?traffic_source=rss",
-    "timestamp": "2026-04-26T10:50:12",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Mali\u2019s Defence Minister Sadio Camara killed amid coordinated attacks",
-    "url": "https://www.aljazeera.com/news/2026/4/26/malis-defence-minister-sadio-camara-killed-amid-coordinated-attacks?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/4/26/what-we-know-about-the-suspected-assassination-attempt-on-donald-trump?traffic_source=rss",
-    "timestamp": "2026-04-26T10:50:04",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "What we know about the suspected \u2018assassination attempt\u2019 on Donald Trump",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/what-we-know-about-the-suspected-assassination-attempt-on-donald-trump?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/sport/20260426-london-marathon-kenya-s-sabastian-sawe-sets-world-record-men-s-time-of-under-2-hours",
-    "timestamp": "2026-04-26T10:45:21",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "London Marathon: Kenya's Sabastian Sawe sets world-record men\u2019s time of under 2 hours",
-    "url": "https://www.france24.com/en/sport/20260426-london-marathon-kenya-s-sabastian-sawe-sets-world-record-men-s-time-of-under-2-hours"
-  },
-  {
-    "id": "https://www.dw.com/en/mali-fighting-continues-as-tuareg-separatists-claim-kidal/a-76942012?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-04-26T10:42:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Mali: Fighting continues as Tuareg separatists claim Kidal",
-    "url": "https://www.dw.com/en/mali-fighting-continues-as-tuareg-separatists-claim-kidal/a-76942012?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/4/26/israeli-attacks-kill-at-least-four-palestinians-in-gaza?traffic_source=rss",
-    "timestamp": "2026-04-26T10:20:31",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "At least four people killed in Israeli attacks in Gaza despite \u2018ceasefire\u2019",
-    "url": "https://www.aljazeera.com/news/2026/4/26/israeli-attacks-kill-at-least-four-palestinians-in-gaza?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/4/26/israel-destroys-solar-panels-in-south-lebanon?traffic_source=rss",
-    "timestamp": "2026-04-26T10:17:53",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Israel destroys solar panels in south Lebanon",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/israel-destroys-solar-panels-in-south-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/deadly-israeli-strikes-hit-lebanon-despite-ceasefire-extension",
-    "timestamp": "2026-04-26T10:07:18",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Deadly Israeli strikes hit Lebanon despite ceasefire extension",
-    "url": "https://www.france24.com/en/deadly-israeli-strikes-hit-lebanon-despite-ceasefire-extension"
-  },
-  {
-    "id": "https://tass.com/politics/2122595",
-    "timestamp": "2026-04-26T10:01:14",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russia is integral part of Europe, cannot be its main threat \u2014 Kremlin",
-    "url": "https://tass.com/politics/2122595"
-  },
-  {
-    "id": "https://www.dw.com/en/queer-as-folk-the-gay-scandal-that-shook-the-german-empire/a-76940939?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-04-26T09:46:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Queer as folk: The gay scandal that shook the German Empire",
-    "url": "https://www.dw.com/en/queer-as-folk-the-gay-scandal-that-shook-the-german-empire/a-76940939?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.france24.com/en/bus-blast-in-colombia-kills-13-amid-rising-violence",
-    "timestamp": "2026-04-26T09:45:26",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Bus blast in Colombia kills 13 amid rising violence",
-    "url": "https://www.france24.com/en/bus-blast-in-colombia-kills-13-amid-rising-violence"
-  },
-  {
-    "id": "https://www.aljazeera.com/features/2026/4/26/yemens-landmine-crisis-endures-despite-truce-and-de-mining-efforts?traffic_source=rss",
-    "timestamp": "2026-04-26T09:43:42",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Yemen\u2019s landmine crisis endures despite truce and de-mining efforts",
-    "url": "https://www.aljazeera.com/features/2026/4/26/yemens-landmine-crisis-endures-despite-truce-and-de-mining-efforts?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/what-we-know-about-the-suspect-in-white-house-press-dinner-shooting",
-    "timestamp": "2026-04-26T09:41:36",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "What we know about the suspect in White House press dinner shooting",
-    "url": "https://www.france24.com/en/what-we-know-about-the-suspect-in-white-house-press-dinner-shooting"
-  },
-  {
-    "id": "https://tass.com/politics/2122593",
-    "timestamp": "2026-04-26T09:41:14",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Putin thanks North Korean soldiers for their participation in Kursk Region combat",
-    "url": "https://tass.com/politics/2122593"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/4/26/raghu-rai-legendary-indian-photographer-dies-at-83?traffic_source=rss",
-    "timestamp": "2026-04-26T09:37:04",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Raghu Rai, legendary Indian photographer, dies at 83",
-    "url": "https://www.aljazeera.com/news/2026/4/26/raghu-rai-legendary-indian-photographer-dies-at-83?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/oink-off-in-estonia-pig-contest-highlights-farming-struggles",
-    "timestamp": "2026-04-26T09:20:05",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Oink-Off in Estonia: Pig contest highlights farming struggles",
-    "url": "https://www.france24.com/en/oink-off-in-estonia-pig-contest-highlights-farming-struggles"
-  },
-  {
-    "id": "https://www.france24.com/en/armed-groups-claim-attacks-across-mali",
-    "timestamp": "2026-04-26T09:18:05",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Armed groups claim attacks across Mali",
-    "url": "https://www.france24.com/en/armed-groups-claim-attacks-across-mali"
-  },
-  {
-    "id": "https://www.france24.com/en/us-iran-talks-in-doubt-after-trump-scraps-pakistan-visit",
-    "timestamp": "2026-04-26T09:16:35",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "US-Iran talks in doubt after Trump scraps Pakistan visit",
-    "url": "https://www.france24.com/en/us-iran-talks-in-doubt-after-trump-scraps-pakistan-visit"
-  },
-  {
-    "id": "https://www.france24.com/en/americas/20260426-live-trump-shooting-white-house-correspondents-dinner",
-    "timestamp": "2026-04-26T09:12:00",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "\ud83d\udd34 Live: France's Macron says shooter attack at Trump media dinner 'unacceptable'",
-    "url": "https://www.france24.com/en/americas/20260426-live-trump-shooting-white-house-correspondents-dinner"
-  },
-  {
-    "id": "https://www.france24.com/en/ukraine-marks-40th-anniversary-of-the-chernobyl-nuclear-plant-disaster",
-    "timestamp": "2026-04-26T09:10:08",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Ukraine marks 40th anniversary of the Chernobyl\u00a0nuclear plant disaster",
-    "url": "https://www.france24.com/en/ukraine-marks-40th-anniversary-of-the-chernobyl-nuclear-plant-disaster"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/4/26/who-is-the-suspected-correspondent-dinner-shooter-cole-tomas-allen?traffic_source=rss",
-    "timestamp": "2026-04-26T09:08:56",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "What to know about Cole Allen, alleged WH correspondents\u2019 dinner shooter",
-    "url": "https://www.aljazeera.com/news/2026/4/26/who-is-the-suspected-correspondent-dinner-shooter-cole-tomas-allen?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/a-look-at-previous-attempts-on-president-trump-s-life",
-    "timestamp": "2026-04-26T09:04:46",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "A look at previous attempts on President Trump's life",
-    "url": "https://www.france24.com/en/a-look-at-previous-attempts-on-president-trump-s-life"
-  },
-  {
-    "id": "https://www.france24.com/en/la-teacher-suspect-for-white-house-press-dinner-shooting",
-    "timestamp": "2026-04-26T09:02:19",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "LA teacher suspect for White House press dinner shooting",
-    "url": "https://www.france24.com/en/la-teacher-suspect-for-white-house-press-dinner-shooting"
-  },
-  {
-    "id": "https://www.france24.com/en/choas-at-white-house-correspondents-dinner-as-shots-ring-out",
-    "timestamp": "2026-04-26T08:56:13",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Choas at White House Correspondents' Dinner as shots ring out",
-    "url": "https://www.france24.com/en/choas-at-white-house-correspondents-dinner-as-shots-ring-out"
-  },
-  {
-    "id": "https://www.aljazeera.com/gallery/2026/4/26/survivors-return-to-chernobyl-40-years-after-devastating-explosion?traffic_source=rss",
-    "timestamp": "2026-04-26T08:52:51",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Chornobyl\u2019s surviving \u2018liquidators\u2019 return 40 years after nuclear disaster",
-    "url": "https://www.aljazeera.com/gallery/2026/4/26/survivors-return-to-chernobyl-40-years-after-devastating-explosion?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/4/26/russian-strikes-kill-at-least-five-civilians-across-ukraine?traffic_source=rss",
-    "timestamp": "2026-04-26T08:41:17",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Russian attacks on Ukraine kill at least five, damage ship in port",
-    "url": "https://www.aljazeera.com/news/2026/4/26/russian-strikes-kill-at-least-five-civilians-across-ukraine?traffic_source=rss"
-  },
-  {
-    "id": "https://www.dw.com/en/india-news-modi-targets-tmc-in-bengal-rally/live-76939808?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-04-26T08:11:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "India news: Modi targets TMC in Bengal rally",
-    "url": "https://www.dw.com/en/india-news-modi-targets-tmc-in-bengal-rally/live-76939808?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.dw.com/en/india-news-modi-wishes-trump-safety-after-shooting-incident/live-76939808?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-04-26T08:11:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "India news: Modi wishes Trump safety after shooting incident",
-    "url": "https://www.dw.com/en/india-news-modi-wishes-trump-safety-after-shooting-incident/live-76939808?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/4/26/aljamain-sterling-calls-for-featherweight-title-shot-after-ufc-116-win?traffic_source=rss",
-    "timestamp": "2026-04-26T08:07:46",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Aljamain Sterling calls for featherweight title shot after UFC 116 win",
-    "url": "https://www.aljazeera.com/sports/2026/4/26/aljamain-sterling-calls-for-featherweight-title-shot-after-ufc-116-win?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/world/2122583",
-    "timestamp": "2026-04-26T07:58:34",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "FACTBOX: What is known about shooting at reception attended by US President",
-    "url": "https://tass.com/world/2122583"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/by-the-numbers-3/2026/4/26/how-american-taxpayers-fund-trumps-wars-3?traffic_source=rss",
-    "timestamp": "2026-04-26T07:57:42",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "How American taxpayers fund Trump\u2019s wars",
-    "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/4/26/how-american-taxpayers-fund-trumps-wars-3?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/4/26/world-reacts-to-shooting-at-white-house-correspondents-dinner?traffic_source=rss",
-    "timestamp": "2026-04-26T07:57:13",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "World reacts to shooting at White House correspondents\u2019 dinner",
-    "url": "https://www.aljazeera.com/news/2026/4/26/world-reacts-to-shooting-at-white-house-correspondents-dinner?traffic_source=rss"
-  },
-  {
-    "id": "https://www.dw.com/en/is-germany-s-pension-system-still-secure/a-76925722?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-04-26T07:54:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Is Germany's pension system still secure?",
-    "url": "https://www.dw.com/en/is-germany-s-pension-system-still-secure/a-76925722?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.france24.com/en/africa/20260426-new-fighting-erupts-in-north-mali-s-kidal-as-army-clashes-with-rebels",
-    "timestamp": "2026-04-26T07:52:33",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "New fighting erupts in northern Mali's Kidal as army clashes with Tuareg rebels",
-    "url": "https://www.france24.com/en/africa/20260426-new-fighting-erupts-in-north-mali-s-kidal-as-army-clashes-with-rebels"
-  },
-  {
-    "id": "https://www.france24.com/en/live-news/20260426-new-fighting-in-mali-s-kidal-between-army-and-rebels",
-    "timestamp": "2026-04-26T07:52:33",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "New fighting in Mali's Kidal between army and rebels",
-    "url": "https://www.france24.com/en/live-news/20260426-new-fighting-in-mali-s-kidal-between-army-and-rebels"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/4/26/anthony-edwards-injures-knee-in-timberwolves-game-4-win-against-nuggets?traffic_source=rss",
-    "timestamp": "2026-04-26T07:42:38",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Anthony Edwards injures knee in Timberwolves\u2019 Game 4 win against Nuggets",
-    "url": "https://www.aljazeera.com/sports/2026/4/26/anthony-edwards-injures-knee-in-timberwolves-game-4-win-against-nuggets?traffic_source=rss"
-  },
-  {
-    "id": "https://www.dw.com/en/iran-war-peace-talks-on-hold-what-s-next/live-76939472?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-04-26T07:40:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Iran war: Peace talks on hold, what's next?",
-    "url": "https://www.dw.com/en/iran-war-peace-talks-on-hold-what-s-next/live-76939472?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.france24.com/en/americas/20260426-what-we-know-about-the-shooting-at-trump-s-dinner-with-white-house-journalists",
-    "timestamp": "2026-04-26T07:33:17",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "What we know about the shooting at Trump's dinner with White House journalists",
-    "url": "https://www.france24.com/en/americas/20260426-what-we-know-about-the-shooting-at-trump-s-dinner-with-white-house-journalists"
-  },
-  {
-    "id": "https://www.navalnews.com/naval-news/2026/04/u-s-navy-commissions-26th-virginia-class-submarine-uss-idaho-ssn-799/",
-    "timestamp": "2026-04-26T07:28:06",
-    "source": "Naval News",
-    "platform": "rss",
-    "category": "naval",
-    "region": "global",
-    "text": "U.S. Navy Commissions 26th Virginia-class Submarine \u2013 USS Idaho (SSN 799)",
-    "url": "https://www.navalnews.com/naval-news/2026/04/u-s-navy-commissions-26th-virginia-class-submarine-uss-idaho-ssn-799/"
-  },
-  {
-    "id": "https://www.aljazeera.com/opinions/2026/4/26/we-can-make-sure-another-chornobyl-disaster-does-not-happen-here-is-how?traffic_source=rss",
-    "timestamp": "2026-04-26T07:16:05",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "We can make sure another Chornobyl disaster does not happen, here is how",
-    "url": "https://www.aljazeera.com/opinions/2026/4/26/we-can-make-sure-another-chornobyl-disaster-does-not-happen-here-is-how?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/4/26/washington-shooting-is-trump-safe-what-we-know-so-far?traffic_source=rss",
-    "timestamp": "2026-04-26T07:15:12",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Washington shooting: Is Trump safe? What we know so far",
-    "url": "https://www.aljazeera.com/news/2026/4/26/washington-shooting-is-trump-safe-what-we-know-so-far?traffic_source=rss"
   }
 ]
