@@ -1,5 +1,115 @@
 [
   {
+    "id": "https://www.dw.com/en/taiwan-s-president-visits-eswatini-despite-china-s-objection/a-77019778?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-05-02T14:53:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Taiwan's president visits Eswatini despite China's objection",
+    "url": "https://www.dw.com/en/taiwan-s-president-visits-eswatini-despite-china-s-objection/a-77019778?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.france24.com/en/pentagon-partners-with-seven-ai-firms",
+    "timestamp": "2026-05-02T14:38:41",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Pentagon partners with seven AI firms",
+    "url": "https://www.france24.com/en/pentagon-partners-with-seven-ai-firms"
+  },
+  {
+    "id": "https://www.france24.com/en/berlin-urges-stronger-european-defence",
+    "timestamp": "2026-05-02T14:37:33",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Berlin urges stronger European defence",
+    "url": "https://www.france24.com/en/berlin-urges-stronger-european-defence"
+  },
+  {
+    "id": "https://www.france24.com/en/mali-probes-soldiers-working-with-rebels",
+    "timestamp": "2026-05-02T14:27:05",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Mali probes soldiers working with rebels",
+    "url": "https://www.france24.com/en/mali-probes-soldiers-working-with-rebels"
+  },
+  {
+    "id": "https://www.france24.com/en/nato-in-talks-with-us-over-troops-cuts",
+    "timestamp": "2026-05-02T14:25:43",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Nato in talks with US over troops cuts",
+    "url": "https://www.france24.com/en/nato-in-talks-with-us-over-troops-cuts"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/5/2/israels-two-tier-policing-and-the-crime-epidemic-in-palestinian-towns?traffic_source=rss",
+    "timestamp": "2026-05-02T14:23:45",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Israel\u2019s \u2018two-tier\u2019 policing and the crime epidemic in Palestinian towns",
+    "url": "https://www.aljazeera.com/news/2026/5/2/israels-two-tier-policing-and-the-crime-epidemic-in-palestinian-towns?traffic_source=rss"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/05/02/zelenskyy-reported-unusual-activity-along-the-border-with-belarus/",
+    "timestamp": "2026-05-02T14:21:31",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Zelenskyy reported \u201cunusual activity\u201d along the border with Belarus",
+    "url": "https://euromaidanpress.com/2026/05/02/zelenskyy-reported-unusual-activity-along-the-border-with-belarus/"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c3v2l2qq9qlo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-05-02T14:18:14",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "US threatens shipping firms with sanctions if they pay Iran tolls",
+    "url": "https://www.bbc.com/news/articles/c3v2l2qq9qlo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://tass.com/society/2125557",
+    "timestamp": "2026-05-02T14:01:46",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Drone downed over industrial site in northwest Russia\u2019s Vologda region \u2014 governor",
+    "url": "https://tass.com/society/2125557"
+  },
+  {
+    "id": "https://tass.com/economy/2125555",
+    "timestamp": "2026-05-02T13:55:03",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russia\u2019s GDP by PPP ranked 4th largest globally due to agriculture, chemicals \u2014 expert",
+    "url": "https://tass.com/economy/2125555"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/05/02/russian-drones-strike-kharkiv-for-second-consecutive-day-damaging-four-gas-stations-and-an-apartment-block/",
+    "timestamp": "2026-05-02T13:46:40",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Russian drones strike Kharkiv for second consecutive day, damaging four gas stations and an apartment block",
+    "url": "https://euromaidanpress.com/2026/05/02/russian-drones-strike-kharkiv-for-second-consecutive-day-damaging-four-gas-stations-and-an-apartment-block/"
+  },
+  {
     "id": "https://euromaidanpress.com/2026/05/02/pentagon-tells-uk-poland-baltics-weapons-deliveries-delayed-how-it-affects-ukraines-arsenal/",
     "timestamp": "2026-05-02T13:34:49",
     "source": "Euromaidan Press",
@@ -8,6 +118,26 @@
     "region": "ua",
     "text": "Pentagon tells UK, Poland, Baltics: weapons deliveries delayed \u2014 how it affects Ukraine\u2019s arsenal",
     "url": "https://euromaidanpress.com/2026/05/02/pentagon-tells-uk-poland-baltics-weapons-deliveries-delayed-how-it-affects-ukraines-arsenal/"
+  },
+  {
+    "id": "https://www.aljazeera.com/sports/liveblog/2026/5/2/live-arsenal-vs-fulham-premier-league?traffic_source=rss",
+    "timestamp": "2026-05-02T13:32:09",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "LIVE: Arsenal vs Fulham \u2013 Premier League",
+    "url": "https://www.aljazeera.com/sports/liveblog/2026/5/2/live-arsenal-vs-fulham-premier-league?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/the-listening-post/2026/5/2/the-united-states-of-conspiracy?traffic_source=rss",
+    "timestamp": "2026-05-02T13:29:35",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "The United States of Conspiracy",
+    "url": "https://www.aljazeera.com/video/the-listening-post/2026/5/2/the-united-states-of-conspiracy?traffic_source=rss"
   },
   {
     "id": "https://euromaidanpress.com/2026/05/02/zelenskyy-and-fico-hold-phone-call-exchange-visit-invitations-to-kyiv-and-bratislava/",
@@ -4868,135 +4998,5 @@
     "region": "global",
     "text": "Kosovo to hold snap elections in June",
     "url": "https://www.dw.com/en/kosovo-to-hold-snap-elections-in-june/a-77003278?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.dw.com/en/us-house-passes-dhs-funding-bill-to-end-partial-shutdown/a-77005913?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-04-30T19:01:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "US: House passes DHS funding bill to end partial shutdown",
-    "url": "https://www.dw.com/en/us-house-passes-dhs-funding-bill-to-end-partial-shutdown/a-77005913?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/4/30/piracy-rises-off-somalia-as-us-israeli-war-on-iran-diverts-naval-forces?traffic_source=rss",
-    "timestamp": "2026-04-30T18:59:13",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Piracy rises off Somalia as US-Israeli war on Iran diverts naval forces",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/piracy-rises-off-somalia-as-us-israeli-war-on-iran-diverts-naval-forces?traffic_source=rss"
-  },
-  {
-    "id": "https://www.militarytimes.com/news/your-navy/2026/04/30/navy-rolls-out-updates-for-working-uniform-and-service-dress-blues/",
-    "timestamp": "2026-04-30T18:56:17",
-    "source": "Military Times",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Navy rolls out updates for working uniform and service dress blues",
-    "url": "https://www.militarytimes.com/news/your-navy/2026/04/30/navy-rolls-out-updates-for-working-uniform-and-service-dress-blues/"
-  },
-  {
-    "id": "https://www.twz.com/air/air-force-wants-to-axe-its-e-11a-bacn-communications-jets",
-    "timestamp": "2026-04-30T18:54:34",
-    "source": "The Drive WarZone",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Air Force Wants To Axe Its E-11A BACN Communications Jets",
-    "url": "https://www.twz.com/air/air-force-wants-to-axe-its-e-11a-bacn-communications-jets"
-  },
-  {
-    "id": "https://breakingdefense.com/2026/04/russias-windfall-from-the-iran-war-is-temporary-ukraines-isnt/",
-    "timestamp": "2026-04-30T18:54:27",
-    "source": "Breaking Defense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Russia\u2019s windfall from the Iran war is temporary. Ukraine\u2019s isn\u2019t.",
-    "url": "https://breakingdefense.com/2026/04/russias-windfall-from-the-iran-war-is-temporary-ukraines-isnt/"
-  },
-  {
-    "id": "https://www.france24.com/en/world-s-largest-sailing-yacht-christened-in-saint-nazaire-shipyards",
-    "timestamp": "2026-04-30T18:50:46",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "World's largest sailing yacht christened in Saint Nazaire shipyards",
-    "url": "https://www.france24.com/en/world-s-largest-sailing-yacht-christened-in-saint-nazaire-shipyards"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/04/30/ukraines-april-strikes-pushed-russias-refinery-output-to-its-lowest-level-since-december-2009/",
-    "timestamp": "2026-04-30T18:50:08",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Ukraine\u2019s April strikes pushed Russia\u2019s refinery output to its lowest level since December 2009",
-    "url": "https://euromaidanpress.com/2026/04/30/ukraines-april-strikes-pushed-russias-refinery-output-to-its-lowest-level-since-december-2009/"
-  },
-  {
-    "id": "https://www.twz.com/sea/marine-amphibious-combat-vehicles-to-get-missile-swatting-active-protection-systems",
-    "timestamp": "2026-04-30T18:47:57",
-    "source": "The Drive WarZone",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Marine Amphibious Combat Vehicles To Get Missile-Swatting Active Protection Systems",
-    "url": "https://www.twz.com/sea/marine-amphibious-combat-vehicles-to-get-missile-swatting-active-protection-systems"
-  },
-  {
-    "id": "https://www.defensenews.com/news/your-military/2026/04/30/romania-enters-us-counter-drone-marketplace/",
-    "timestamp": "2026-04-30T18:44:01",
-    "source": "Defense News",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Romania enters US counter-drone marketplace",
-    "url": "https://www.defensenews.com/news/your-military/2026/04/30/romania-enters-us-counter-drone-marketplace/"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/4/30/lebanese-girl-mourns-paramedic-father-killed-in-israeli-strike?traffic_source=rss",
-    "timestamp": "2026-04-30T18:38:56",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Lebanese girl mourns paramedic father killed in Israeli strike",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/lebanese-girl-mourns-paramedic-father-killed-in-israeli-strike?traffic_source=rss"
-  },
-  {
-    "id": "https://www.dw.com/en/how-serbia-s-government-dominates-the-country-s-media/a-77004243?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-04-30T18:33:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "How Serbia's government dominates the country's media",
-    "url": "https://www.dw.com/en/how-serbia-s-government-dominates-the-country-s-media/a-77004243?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/04/30/octopus-interceptor-goes-to-serial-production-8000-units-ordered-to-counter-russias-shahed-strikes/",
-    "timestamp": "2026-04-30T18:30:55",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "\u201cOctopus\u201d interceptor goes to serial production: 8,000 units ordered to counter Russia\u2019s Shahed strikes",
-    "url": "https://euromaidanpress.com/2026/04/30/octopus-interceptor-goes-to-serial-production-8000-units-ordered-to-counter-russias-shahed-strikes/"
-  },
-  {
-    "id": "https://tass.com/economy/2125203",
-    "timestamp": "2026-04-30T18:27:00",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Lebanon requires $7 bln to restore areas destroyed by war \u2014 minister",
-    "url": "https://tass.com/economy/2125203"
   }
 ]
