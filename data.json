@@ -1,5 +1,55 @@
 [
   {
+    "id": "https://tass.com/world/2127535",
+    "timestamp": "2026-05-06T22:33:34",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Lebanon\u2019s death toll from Israeli strikes reaches 2,715 \u2014 Health Ministry",
+    "url": "https://tass.com/world/2127535"
+  },
+  {
+    "id": "https://tass.com/world/2127531",
+    "timestamp": "2026-05-06T22:29:46",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Iran ready to provide assistance to commercial vessels in Strait of Hormuz \u2014 authorities",
+    "url": "https://tass.com/world/2127531"
+  },
+  {
+    "id": "https://www.france24.com/en/europe/20260506-russia-warns-foreign-diplomats-to-leave-kyiv-in-case-of-strike",
+    "timestamp": "2026-05-06T22:29:46",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Russia warns foreign diplomats to leave Kyiv in case of strike",
+    "url": "https://www.france24.com/en/europe/20260506-russia-warns-foreign-diplomats-to-leave-kyiv-in-case-of-strike"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/5/6/argentina-investigates-link-to-deadly-hantavirus-outbreak-on-cruise-ship?traffic_source=rss",
+    "timestamp": "2026-05-06T22:12:05",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Argentina investigates link to deadly hantavirus outbreak on cruise ship",
+    "url": "https://www.aljazeera.com/news/2026/5/6/argentina-investigates-link-to-deadly-hantavirus-outbreak-on-cruise-ship?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/5/6/in-rare-push-us-lawmakers-demand-transparency-on-israel-nuclear-capability?traffic_source=rss",
+    "timestamp": "2026-05-06T22:05:28",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "In rare push, US lawmakers demand transparency on Israel nuclear capability",
+    "url": "https://www.aljazeera.com/news/2026/5/6/in-rare-push-us-lawmakers-demand-transparency-on-israel-nuclear-capability?traffic_source=rss"
+  },
+  {
     "id": "https://tass.com/sports/2127529",
     "timestamp": "2026-05-06T21:38:24",
     "source": "TASS English",
@@ -38,6 +88,16 @@
     "region": "ru",
     "text": "German foreign minister presents six-point plan to reform European Union",
     "url": "https://tass.com/world/2127521"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-05-06T21:27:59",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Iran considering US proposal to end war, official says",
+    "url": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.aljazeera.com/economy/2026/5/6/spacex-backs-anthropic-with-data-centre-deal-amidst-musks-openai-lawsuit?traffic_source=rss",
@@ -268,6 +328,16 @@
     "region": "global",
     "text": "Space Force boosts contract ceiling for Andromeda space monitoring sats to $6.2B",
     "url": "https://breakingdefense.com/2026/05/space-force-boosts-contract-ceiling-for-andromeda-space-monitoring-sats-to-6-2b/"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-05-06T19:58:04",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Israel strikes Beirut for first time since Hezbollah ceasefire",
+    "url": "https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.france24.com/en/video/20260506-armenia-eu-isn-t-poking-the-bear-enforcing-ties-with-russian-allied-yerevan",
@@ -678,6 +748,16 @@
     "region": "global",
     "text": "Cahill Nominated to Lead Naval Surface Force, Cash Nominated as Navy\u2019s Top Chaplain",
     "url": "https://news.usni.org/2026/05/06/cahill-nominated-to-lead-naval-surface-force-cash-nominated-as-navys-top-chaplain"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cvgzp74rvj5o?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-05-06T17:32:04",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Trump's hopes for an Iran peace deal come with caveats",
+    "url": "https://www.bbc.com/news/articles/cvgzp74rvj5o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://warontherocks.com/how-much-longer-can-russia-last-in-the-war/",
@@ -4918,85 +4998,5 @@
     "region": "global",
     "text": "What is Hantavirus?",
     "url": "https://www.dw.com/en/what-is-hantavirus/a-77047777?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://tass.com/economy/2126671",
-    "timestamp": "2026-05-05T12:02:15",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Global oil reserves in storage approaching eight-year low \u2014 Goldman Sachs",
-    "url": "https://tass.com/economy/2126671"
-  },
-  {
-    "id": "https://tass.com/world/2126667",
-    "timestamp": "2026-05-05T11:57:32",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Romanian parliament passes vote of no-confidence to government",
-    "url": "https://tass.com/world/2126667"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/doha-debates/2026/5/5/has-social-justice-become-the-new-religion-of-the-west?traffic_source=rss",
-    "timestamp": "2026-05-05T11:55:15",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Has social justice become the new religion of the West?",
-    "url": "https://www.aljazeera.com/video/doha-debates/2026/5/5/has-social-justice-become-the-new-religion-of-the-west?traffic_source=rss"
-  },
-  {
-    "id": "https://www.defensenews.com/global/europe/2026/05/05/german-defense-minister-laments-long-range-strike-gap-caused-by-planned-us-drawdown/",
-    "timestamp": "2026-05-05T11:53:25",
-    "source": "Defense News",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "German defense minister laments long-range strike \u2018gap\u2019 caused by planned US drawdown",
-    "url": "https://www.defensenews.com/global/europe/2026/05/05/german-defense-minister-laments-long-range-strike-gap-caused-by-planned-us-drawdown/"
-  },
-  {
-    "id": "https://tass.com/world/2126663",
-    "timestamp": "2026-05-05T11:52:40",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Conflict with Iran to last for two to three more weeks \u2014 Trump",
-    "url": "https://tass.com/world/2126663"
-  },
-  {
-    "id": "https://www.dw.com/en/romania-s-government-collapses-after-prime-minister-ilie-bolojan-loses-confidence-vote/a-77047950?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-05-05T11:48:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Romania's government collapses after Prime Minister Ilie Bolojan loses confidence vote",
-    "url": "https://www.dw.com/en/romania-s-government-collapses-after-prime-minister-ilie-bolojan-loses-confidence-vote/a-77047950?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.france24.com/en/europe/20260505-romania-s-pro-eu-coalition-government-collapses-after-prime-minister-loses-no-confidence-vote",
-    "timestamp": "2026-05-05T11:47:07",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Romania's pro-EU coalition government collapses after prime minister loses no-confidence vote",
-    "url": "https://www.france24.com/en/europe/20260505-romania-s-pro-eu-coalition-government-collapses-after-prime-minister-loses-no-confidence-vote"
-  },
-  {
-    "id": "https://www.france24.com/en/tv-shows/perspective/20260505-nollywoodweek-film-festival-s-co-founder-serge-noukou%C3%A9-on-its-13th-edition",
-    "timestamp": "2026-05-05T11:45:02",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "NollywoodWeek Film Festival co-founder Serge Noukou\u00e9 on its 13th edition",
-    "url": "https://www.france24.com/en/tv-shows/perspective/20260505-nollywoodweek-film-festival-s-co-founder-serge-noukou%C3%A9-on-its-13th-edition"
   }
 ]
