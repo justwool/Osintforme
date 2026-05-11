@@ -1,5 +1,495 @@
 [
   {
+    "id": "https://tass.com/world/2129397",
+    "timestamp": "2026-05-11T09:47:25",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Hungary has no plans to send weapons, soldiers to Ukraine \u2014 future foreign minister",
+    "url": "https://tass.com/world/2129397"
+  },
+  {
+    "id": "https://www.dw.com/en/hantavirus-evacuated-passengers-begin-returning-home/live-77063670?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-05-11T09:47:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Hantavirus: Evacuated passengers begin returning home",
+    "url": "https://www.dw.com/en/hantavirus-evacuated-passengers-begin-returning-home/live-77063670?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cdjp9vzxlz7o?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-05-11T09:44:29",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Police find body believed to be of fugitive Australian shooter",
+    "url": "https://www.bbc.com/news/articles/cdjp9vzxlz7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.dw.com/en/nazi-looted-artwork-surfaces-with-dutch-collaborator-s-heirs/a-77115569?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-05-11T09:38:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Nazi-looted artwork surfaces with Dutch collaborator's heirs",
+    "url": "https://www.dw.com/en/nazi-looted-artwork-surfaces-with-dutch-collaborator-s-heirs/a-77115569?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cqlp21q4yq4o?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-05-11T09:28:53",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Philippine VP Sara Duterte impeached for a second time",
+    "url": "https://www.bbc.com/news/articles/cqlp21q4yq4o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/5/11/narendra-modi-urges-indians-to-conserve-fuel-amid-war-on-iran?traffic_source=rss",
+    "timestamp": "2026-05-11T09:26:43",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Narendra Modi urges Indians to conserve fuel amid war on Iran",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/narendra-modi-urges-indians-to-conserve-fuel-amid-war-on-iran?traffic_source=rss"
+  },
+  {
+    "id": "https://www.gov.uk/government/statistics/announcements/uk-armed-forces-biannual-diversity-statistics-april-2026",
+    "timestamp": "2026-05-11T09:24:57",
+    "source": "UK MoD",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Accredited official statistics: UK armed forces biannual diversity statistics: April 2026",
+    "url": "https://www.gov.uk/government/statistics/announcements/uk-armed-forces-biannual-diversity-statistics-april-2026"
+  },
+  {
+    "id": "https://www.gov.uk/government/statistics/announcements/mod-sponsored-cadet-forces-statistics-2026",
+    "timestamp": "2026-05-11T09:24:24",
+    "source": "UK MoD",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Accredited official statistics: MOD sponsored cadet forces statistics: 2026",
+    "url": "https://www.gov.uk/government/statistics/announcements/mod-sponsored-cadet-forces-statistics-2026"
+  },
+  {
+    "id": "https://www.dw.com/en/somali-piracy-adds-new-strain-to-global-shipping-and-trade-routes/a-77047750?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-05-11T09:19:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Somali piracy adds new strain to global shipping and trade routes",
+    "url": "https://www.dw.com/en/somali-piracy-adds-new-strain-to-global-shipping-and-trade-routes/a-77047750?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/5/11/thailands-former-pm-thaksin-shinawatra-released-from-jail?traffic_source=rss",
+    "timestamp": "2026-05-11T09:18:26",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Thailand\u2019s former PM Thaksin Shinawatra released from jail",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/thailands-former-pm-thaksin-shinawatra-released-from-jail?traffic_source=rss"
+  },
+  {
+    "id": "https://breakingdefense.com/2026/05/latvian-defense-minister-resigns-following-lagging-response-to-drone-incursions/",
+    "timestamp": "2026-05-11T09:14:13",
+    "source": "Breaking Defense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Latvian Defense Minister resigns, following lagging response to drone incursions",
+    "url": "https://breakingdefense.com/2026/05/latvian-defense-minister-resigns-following-lagging-response-to-drone-incursions/"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-05-11T09:11:12",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "US and French nationals test positive for hantavirus after leaving ship",
+    "url": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://tass.com/world/2129395",
+    "timestamp": "2026-05-11T08:54:13",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Iran demands unfreezing of assets, vessel safety in Strait of Hormuz from US \u2014 MFA",
+    "url": "https://tass.com/world/2129395"
+  },
+  {
+    "id": "https://www.gov.uk/government/statistics/announcements/quarterly-service-personnel-statistics-1-april-2026",
+    "timestamp": "2026-05-11T08:43:01",
+    "source": "UK MoD",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Accredited official statistics: Quarterly Service Personnel Statistics: 1 April 2026",
+    "url": "https://www.gov.uk/government/statistics/announcements/quarterly-service-personnel-statistics-1-april-2026"
+  },
+  {
+    "id": "https://www.aljazeera.com/opinions/2026/5/11/the-global-sumud-flotilla-is-sailing-on-here-is-why?traffic_source=rss",
+    "timestamp": "2026-05-11T08:40:03",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "The Global Sumud Flotilla is sailing on, here is why",
+    "url": "https://www.aljazeera.com/opinions/2026/5/11/the-global-sumud-flotilla-is-sailing-on-here-is-why?traffic_source=rss"
+  },
+  {
+    "id": "https://www.dw.com/en/germany-s-business-community-is-frustrated-and-disillusioned/a-77097307?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-05-11T08:37:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Germany's business community is frustrated and disillusioned",
+    "url": "https://www.dw.com/en/germany-s-business-community-is-frustrated-and-disillusioned/a-77097307?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.navalnews.com/naval-news/2026/05/italian-navy-in-the-pacific-with-mpcs-bande-nere-to-test-ballistic-missile-defence/",
+    "timestamp": "2026-05-11T08:32:28",
+    "source": "Naval News",
+    "platform": "rss",
+    "category": "naval",
+    "region": "global",
+    "text": "Italian Navy in the Pacific with MPCS Bande Nere to test ballistic missile defence",
+    "url": "https://www.navalnews.com/naval-news/2026/05/italian-navy-in-the-pacific-with-mpcs-bande-nere-to-test-ballistic-missile-defence/"
+  },
+  {
+    "id": "https://www.defenseone.com/technology/2026/05/us-investors-warm-ukrainian-defense-startups-export-laws-slow-cooperation/413446/",
+    "timestamp": "2026-05-11T08:31:38",
+    "source": "Defense One",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "US investors warm to Ukrainian defense startups\u2014but export laws slow cooperation",
+    "url": "https://www.defenseone.com/technology/2026/05/us-investors-warm-ukrainian-defense-startups-export-laws-slow-cooperation/413446/"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/5/11/mexicans-demand-justice-for-missing-people-on-mothers-day?traffic_source=rss",
+    "timestamp": "2026-05-11T08:23:11",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Mexicans demand justice for missing people on Mother\u2019s Day",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/mexicans-demand-justice-for-missing-people-on-mothers-day?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/world/2129393",
+    "timestamp": "2026-05-11T08:23:04",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Stubb agrees EU must start dialogue with Russia, but mediator still unknown",
+    "url": "https://tass.com/world/2129393"
+  },
+  {
+    "id": "https://www.theguardian.com/environment/2026/may/11/weather-tracker-us-mexico-heatwave-floods-south-africa",
+    "timestamp": "2026-05-11T08:18:29",
+    "source": "Guardian World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Weather tracker: US and Mexico brace for heatwave as deadly floods hit South Africa",
+    "url": "https://www.theguardian.com/environment/2026/may/11/weather-tracker-us-mexico-heatwave-floods-south-africa"
+  },
+  {
+    "id": "https://www.aljazeera.com/economy/2026/5/11/iran-war-day-73-trump-and-tehran-clash-over-latest-peace-proposals?traffic_source=rss",
+    "timestamp": "2026-05-11T08:16:37",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Iran war day 73: Trump and Tehran clash over latest peace proposals",
+    "url": "https://www.aljazeera.com/economy/2026/5/11/iran-war-day-73-trump-and-tehran-clash-over-latest-peace-proposals?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/world/2129391",
+    "timestamp": "2026-05-11T08:11:47",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Kallas believes that Russia's influence in Europe is growing again",
+    "url": "https://tass.com/world/2129391"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/upfront/2026/5/11/is-the-vatican-standing-up-to-trump?traffic_source=rss",
+    "timestamp": "2026-05-11T08:11:45",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Is the Vatican standing up to Trump?",
+    "url": "https://www.aljazeera.com/video/upfront/2026/5/11/is-the-vatican-standing-up-to-trump?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/upfront/2026/5/11/ex-israeli-pm-hezbollah-is-the-enemy-of-lebanon-and-must-be-disarmed?traffic_source=rss",
+    "timestamp": "2026-05-11T08:09:40",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Ex-Israeli PM: Hezbollah is the enemy of Lebanon and must be disarmed",
+    "url": "https://www.aljazeera.com/video/upfront/2026/5/11/ex-israeli-pm-hezbollah-is-the-enemy-of-lebanon-and-must-be-disarmed?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/sports/2026/5/11/spains-nico-williams-sustains-hamstring-injury-before-world-cup?traffic_source=rss",
+    "timestamp": "2026-05-11T08:09:15",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Spain\u2019s Nico Williams sustains hamstring injury before World Cup",
+    "url": "https://www.aljazeera.com/sports/2026/5/11/spains-nico-williams-sustains-hamstring-injury-before-world-cup?traffic_source=rss"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/05/11/ukrainian-officer-russian-frontline-assaults-now-rare-as-60-70-of-infiltrators-die-before-reaching-ukrainian-lines/",
+    "timestamp": "2026-05-11T08:01:00",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Ukrainian officer: Russian frontline assaults now rare as 60-70% of infiltrators die before reaching Ukrainian lines",
+    "url": "https://euromaidanpress.com/2026/05/11/ukrainian-officer-russian-frontline-assaults-now-rare-as-60-70-of-infiltrators-die-before-reaching-ukrainian-lines/"
+  },
+  {
+    "id": "https://www.gov.uk/government/publications/accompanied-established-long-term-relationships-overseas-pilot-evaluation",
+    "timestamp": "2026-05-11T08:00:02",
+    "source": "UK MoD",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Research: Accompanied Established Long-Term Relationships Overseas Pilot Evaluation",
+    "url": "https://www.gov.uk/government/publications/accompanied-established-long-term-relationships-overseas-pilot-evaluation"
+  },
+  {
+    "id": "https://tass.com/society/2129389",
+    "timestamp": "2026-05-11T07:56:59",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "US evacuee from cruise ship tests positive for Hantavirus",
+    "url": "https://tass.com/society/2129389"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/5/11/gaza-filmmakers-slam-bbc-after-shelved-documentary-wins-bafta?traffic_source=rss",
+    "timestamp": "2026-05-11T07:46:43",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Gaza filmmakers slam BBC after shelved documentary wins Bafta",
+    "url": "https://www.aljazeera.com/news/2026/5/11/gaza-filmmakers-slam-bbc-after-shelved-documentary-wins-bafta?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/world/2129387",
+    "timestamp": "2026-05-11T07:43:20",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "First tranche of Europe\u2019s \u20ac90 billion to be issued to Ukraine next week \u2014 EU commissioner",
+    "url": "https://tass.com/world/2129387"
+  },
+  {
+    "id": "https://warontherocks.com/ankaras-crossroads-rearmament-risk-and-the-prospect-of-war-with-israel/",
+    "timestamp": "2026-05-11T07:30:56",
+    "source": "War on the Rocks",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Ankara\u2019s Crossroads: Rearmament, Risk, and the Prospect of War with Israel",
+    "url": "https://warontherocks.com/ankaras-crossroads-rearmament-risk-and-the-prospect-of-war-with-israel/"
+  },
+  {
+    "id": "https://warontherocks.com/conflict-casevac-and-the-golden-hour-in-the-age-of-persistent-surveillance/",
+    "timestamp": "2026-05-11T07:15:54",
+    "source": "War on the Rocks",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Conflict, CASEVAC, and the Golden Hour in the Age of Persistent Surveillance",
+    "url": "https://warontherocks.com/conflict-casevac-and-the-golden-hour-in-the-age-of-persistent-surveillance/"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c8r8e2ne1v6o?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-05-11T07:13:41",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Modi urges Indians to work from home and limit foreign travel as Iran war continues",
+    "url": "https://www.bbc.com/news/articles/c8r8e2ne1v6o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/5/11/fans-celebrate-as-barcelona-clinches-laliga-title?traffic_source=rss",
+    "timestamp": "2026-05-11T07:13:37",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Fans celebrate as Barcelona clinches LaLiga title",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/fans-celebrate-as-barcelona-clinches-laliga-title?traffic_source=rss"
+  },
+  {
+    "id": "https://www.navalnews.com/naval-news/2026/05/major-contract-amendment-of-advanced-rhib-capability-for-german-navy-f126-frigate-programme/",
+    "timestamp": "2026-05-11T07:12:31",
+    "source": "Naval News",
+    "platform": "rss",
+    "category": "naval",
+    "region": "global",
+    "text": "Major Contract Amendment of Advanced RHIB Capability for German Navy F126 Frigate Programme",
+    "url": "https://www.navalnews.com/naval-news/2026/05/major-contract-amendment-of-advanced-rhib-capability-for-german-navy-f126-frigate-programme/"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/5/11/uks-keir-starmer-faces-likely-challenge-following-labours-election-defeat?traffic_source=rss",
+    "timestamp": "2026-05-11T07:12:28",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "UK\u2019s Keir Starmer battles for political survival after election defeat",
+    "url": "https://www.aljazeera.com/news/2026/5/11/uks-keir-starmer-faces-likely-challenge-following-labours-election-defeat?traffic_source=rss"
+  },
+  {
+    "id": "https://www.dw.com/en/why-is-hollywood-missing-from-cannes/a-77056586?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-05-11T06:58:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Why is Hollywood missing from Cannes?",
+    "url": "https://www.dw.com/en/why-is-hollywood-missing-from-cannes/a-77056586?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/5/11/philippine-congress-poised-to-impeach-vice-president-sara-duterte?traffic_source=rss",
+    "timestamp": "2026-05-11T06:51:23",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Power tussle grips Philippine Congress amid move to impeach VP Sara Duterte",
+    "url": "https://www.aljazeera.com/news/2026/5/11/philippine-congress-poised-to-impeach-vice-president-sara-duterte?traffic_source=rss"
+  },
+  {
+    "id": "https://www.france24.com/en/health/20260511-french-evacuee-from-hantavirus-hit-ship-tests-positive-health-minister-says",
+    "timestamp": "2026-05-11T06:45:27",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "French evacuee from hantavirus-hit ship tests positive, health minister says",
+    "url": "https://www.france24.com/en/health/20260511-french-evacuee-from-hantavirus-hit-ship-tests-positive-health-minister-says"
+  },
+  {
+    "id": "https://tass.com/world/2129383",
+    "timestamp": "2026-05-11T06:42:18",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "EU foreign ministers expect to adopt new sanctions against Russia on May 11 \u2014 Kallas",
+    "url": "https://tass.com/world/2129383"
+  },
+  {
+    "id": "https://www.aljazeera.com/sports/2026/5/11/timberwolves-win-tie-playoff-series-after-spurs-wembanyama-is-ejected?traffic_source=rss",
+    "timestamp": "2026-05-11T06:27:37",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Timberwolves win, tie playoff series after Spurs\u2019 Wembanyama ejected",
+    "url": "https://www.aljazeera.com/sports/2026/5/11/timberwolves-win-tie-playoff-series-after-spurs-wembanyama-is-ejected?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/opinions/2026/5/11/things-are-not-going-so-well-for-russia?traffic_source=rss",
+    "timestamp": "2026-05-11T06:17:55",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Things are not going so well for Russia",
+    "url": "https://www.aljazeera.com/opinions/2026/5/11/things-are-not-going-so-well-for-russia?traffic_source=rss"
+  },
+  {
+    "id": "https://www.gov.uk/government/publications/regulatory-article-ra-3261-aerodrome-service",
+    "timestamp": "2026-05-11T06:17:03",
+    "source": "UK MoD",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Regulation: Regulatory Article (RA) 3261: aerodrome service",
+    "url": "https://www.gov.uk/government/publications/regulatory-article-ra-3261-aerodrome-service"
+  },
+  {
+    "id": "https://tass.com/world/2129381",
+    "timestamp": "2026-05-11T06:13:28",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "German defense minister arrives on unannounced visit to Ukraine \u2014 DPA",
+    "url": "https://tass.com/world/2129381"
+  },
+  {
+    "id": "https://www.france24.com/en/africa/20260511-watch-live-macron-seeks-reset-of-french-relations-with-africa-at-kenya-summit-opening",
+    "timestamp": "2026-05-11T05:57:46",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Watch live: Macron meets young entrepreneurs at Africa Forward summit",
+    "url": "https://www.france24.com/en/africa/20260511-watch-live-macron-seeks-reset-of-french-relations-with-africa-at-kenya-summit-opening"
+  },
+  {
+    "id": "https://www.dw.com/en/germany-news-defense-minister-pistorius-arrives-in-kyiv/live-77114178?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-05-11T05:57:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Germany news: Defense minister Pistorius arrives in Kyiv",
+    "url": "https://www.dw.com/en/germany-news-defense-minister-pistorius-arrives-in-kyiv/live-77114178?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.france24.com/en/tv-shows/sports/20260511-ligue-1-psg-close-in-on-title-as-they-defeat-brest-at-home",
+    "timestamp": "2026-05-11T05:53:27",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Ligue 1: PSG close in on title as they defeat Brest at home",
+    "url": "https://www.france24.com/en/tv-shows/sports/20260511-ligue-1-psg-close-in-on-title-as-they-defeat-brest-at-home"
+  },
+  {
+    "id": "https://tass.com/politics/2129379",
+    "timestamp": "2026-05-11T05:39:35",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "US cannot take enriched uranium from Iran without its consent \u2014 Russian MP",
+    "url": "https://tass.com/politics/2129379"
+  },
+  {
     "id": "https://www.aljazeera.com/video/newsfeed/2026/5/11/aje-onl-nf_tv-pkg_trump-rejects-iran-response-110526?traffic_source=rss",
     "timestamp": "2026-05-11T04:58:03",
     "source": "Al Jazeera",
@@ -998,6 +1488,16 @@
     "region": "mena",
     "text": "\u2018Ukraine has momentum in war with Russia\u2019",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/ukraine-has-momentum-in-war-with?traffic_source=rss"
+  },
+  {
+    "id": "https://www.dw.com/en/france-turns-to-africa-for-strategic-partnerships/a-77098131?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-05-10T13:17:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "France turns to Africa for strategic partnerships",
+    "url": "https://www.dw.com/en/france-turns-to-africa-for-strategic-partnerships/a-77098131?maca=en-rss-en-all-1573-xml-mrss"
   },
   {
     "id": "https://www.dw.com/en/africa-summit-in-kenya-france-seeks-new-partners/a-77098131?maca=en-rss-en-all-1573-xml-mrss",
@@ -4498,505 +4998,5 @@
     "region": "global",
     "text": "Hegseth aims to cut through the bureaucracy with \u2018Deal Team Six\u2019",
     "url": "https://www.defensenews.com/news/pentagon-congress/2026/05/08/hegseth-aims-to-cut-through-the-bureaucracy-with-deal-team-six/"
-  },
-  {
-    "id": "https://tass.com/politics/2128675",
-    "timestamp": "2026-05-08T19:15:01",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russia accepts Trump\u2019s initiative on ceasefire with Ukraine for May 9-11 \u2014 Kremlin",
-    "url": "https://tass.com/politics/2128675"
-  },
-  {
-    "id": "https://www.france24.com/en/europe/20260508-starmer-says-he-won-t-quit-after-local-elections-deliver-drubbing",
-    "timestamp": "2026-05-08T19:11:17",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "British PM Starmer says he won't quit after local elections drubbing",
-    "url": "https://www.france24.com/en/europe/20260508-starmer-says-he-won-t-quit-after-local-elections-deliver-drubbing"
-  },
-  {
-    "id": "https://www.france24.com/en/live-news/20260508-uk-pm-starmer-vows-to-fight-on-after-local-polls-drubbing",
-    "timestamp": "2026-05-08T19:11:17",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "UK PM Starmer vows to fight on after local polls drubbing",
-    "url": "https://www.france24.com/en/live-news/20260508-uk-pm-starmer-vows-to-fight-on-after-local-polls-drubbing"
-  },
-  {
-    "id": "https://breakingdefense.com/2026/05/poland-becomes-first-nation-to-sign-eu-safe-loans-expects-billions-for-defense/",
-    "timestamp": "2026-05-08T18:56:15",
-    "source": "Breaking Defense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Poland becomes first nation to sign EU SAFE loans, expects billions for defense",
-    "url": "https://breakingdefense.com/2026/05/poland-becomes-first-nation-to-sign-eu-safe-loans-expects-billions-for-defense/"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/5/8/protests-in-the-canary-islands-as-virus-stricken-ship-heads-for-port?traffic_source=rss",
-    "timestamp": "2026-05-08T18:56:11",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Protests in the Canary Islands as virus-stricken ship heads for port",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/protests-in-the-canary-islands-as-virus-stricken-ship-heads-for-port?traffic_source=rss"
-  },
-  {
-    "id": "https://www.militarytimes.com/news/your-army/2026/05/08/makeshift-tourniquets-saved-soldiers-life-after-arkansas-training-accident/",
-    "timestamp": "2026-05-08T18:54:05",
-    "source": "Military Times",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Makeshift tourniquets saved soldier\u2019s life after Arkansas training accident",
-    "url": "https://www.militarytimes.com/news/your-army/2026/05/08/makeshift-tourniquets-saved-soldiers-life-after-arkansas-training-accident/"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/5/8/libyas-largest-oil-refinery-halts-operations-during-fighting?traffic_source=rss",
-    "timestamp": "2026-05-08T18:47:02",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Libya\u2019s largest oil refinery halts operations during fighting",
-    "url": "https://www.aljazeera.com/news/2026/5/8/libyas-largest-oil-refinery-halts-operations-during-fighting?traffic_source=rss"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/05/08/t-72am/",
-    "timestamp": "2026-05-08T18:46:57",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Russia\u2019s T-72AM is a very old tank with a fresh coat of paint. Expect it to stay parked like other tanks.",
-    "url": "https://euromaidanpress.com/2026/05/08/t-72am/"
-  },
-  {
-    "id": "https://taskandpurpose.com/news/pentagon-ufo-files-2026/",
-    "timestamp": "2026-05-08T18:44:24",
-    "source": "Task & Purpose",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "New Pentagon UFO files include reports from moon landings",
-    "url": "https://taskandpurpose.com/news/pentagon-ufo-files-2026/"
-  },
-  {
-    "id": "https://flashpoint.io/blog/inside-the-2026-cyber-threat-landscape-data-driven-security-priorities/",
-    "timestamp": "2026-05-08T18:36:00",
-    "source": "Flashpoint",
-    "platform": "rss",
-    "category": "alerts",
-    "region": "global",
-    "text": "Inside the 2026 Cyber Threat Landscape: Data-Driven Security Priorities",
-    "url": "https://flashpoint.io/blog/inside-the-2026-cyber-threat-landscape-data-driven-security-priorities/"
-  },
-  {
-    "id": "https://tass.com/politics/2128667",
-    "timestamp": "2026-05-08T18:30:47",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Putin holds meeting with Lukashenko in Kremlin",
-    "url": "https://tass.com/politics/2128667"
-  },
-  {
-    "id": "https://www.twz.com/nuclear/what-is-behind-turkeys-pursuit-of-an-icbm",
-    "timestamp": "2026-05-08T18:27:32",
-    "source": "The Drive WarZone",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "What Is Behind Turkey\u2019s Pursuit Of An ICBM?",
-    "url": "https://www.twz.com/nuclear/what-is-behind-turkeys-pursuit-of-an-icbm"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/05/07/the_end_of_khomeinism_and_the_future_of_shiism_1181274.html",
-    "timestamp": "2026-05-08T18:25:31",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "The End of Khomeinism and the Future of Shiism",
-    "url": "https://www.realcleardefense.com/2026/05/07/the_end_of_khomeinism_and_the_future_of_shiism_1181274.html"
-  },
-  {
-    "id": "https://tass.com/world/2128665",
-    "timestamp": "2026-05-08T18:24:06",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Iranian MP warns US of military response to its naval blockade of Iran",
-    "url": "https://tass.com/world/2128665"
-  },
-  {
-    "id": "https://www.dw.com/en/trump-announces-3-day-ceasefire-between-ukraine-and-russia/live-77091251?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-05-08T18:24:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Trump announces 3-day ceasefire between Ukraine and Russia",
-    "url": "https://www.dw.com/en/trump-announces-3-day-ceasefire-between-ukraine-and-russia/live-77091251?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://tass.com/politics/2128663",
-    "timestamp": "2026-05-08T18:23:54",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Talks on Ukraine should not be 'screen' for Kiev, Russian Foreign Ministry says",
-    "url": "https://tass.com/politics/2128663"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/5/8/four-convicted-in-us-related-to-killing-of-haitian-president-jovenel-moise?traffic_source=rss",
-    "timestamp": "2026-05-08T18:22:31",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Four convicted in US related to killing of Haitian President Jovenel Moise",
-    "url": "https://www.aljazeera.com/news/2026/5/8/four-convicted-in-us-related-to-killing-of-haitian-president-jovenel-moise?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/tv-shows/the-world-this-week/20260508-one-page-peace-plan-for-iran-starmer-s-sinking-ship-musk-v-altman",
-    "timestamp": "2026-05-08T18:22:19",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "One Page Peace Plan for Iran? Starmer\u2019s Sinking Ship, Musk V Altman",
-    "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260508-one-page-peace-plan-for-iran-starmer-s-sinking-ship-musk-v-altman"
-  },
-  {
-    "id": "https://www.airandspaceforces.com/missile-defense-agency-counter-hypersonic-test-2027/",
-    "timestamp": "2026-05-08T18:20:14",
-    "source": "Air Force Mag",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Missile Defense Agency Plans Counter-Hypersonic Test in Fiscal 2027",
-    "url": "https://www.airandspaceforces.com/missile-defense-agency-counter-hypersonic-test-2027/"
-  },
-  {
-    "id": "https://www.france24.com/en/tv-shows/spotlight/20260508-labour-suffers-losses-across-the-uk-as-reform-surges-starmer-s-survival-depends-on-improvement",
-    "timestamp": "2026-05-08T18:20:05",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Labour suffers losses across the UK as Reform surges: \u201cStarmer\u2019s survival depends on improvement\u201d",
-    "url": "https://www.france24.com/en/tv-shows/spotlight/20260508-labour-suffers-losses-across-the-uk-as-reform-surges-starmer-s-survival-depends-on-improvement"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/5/8/trump-announces-three-day-ceasefire-in-russia-ukraine-war?traffic_source=rss",
-    "timestamp": "2026-05-08T18:15:46",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Trump announces three-day ceasefire in Russia-Ukraine war",
-    "url": "https://www.aljazeera.com/news/2026/5/8/trump-announces-three-day-ceasefire-in-russia-ukraine-war?traffic_source=rss"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/05/08/tryzub-laser/",
-    "timestamp": "2026-05-08T18:14:34",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Ukraine\u2019s new AI-powered laser \u201cTryzub\u201d can burn holes in Shaheds from 5 km away",
-    "url": "https://euromaidanpress.com/2026/05/08/tryzub-laser/"
-  },
-  {
-    "id": "https://www.france24.com/en/europe/20260508-trump-announces-three-day-ceasefire-between-ukraine-and-russia",
-    "timestamp": "2026-05-08T18:10:31",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Trump announces three-day ceasefire between Ukraine and Russia",
-    "url": "https://www.france24.com/en/europe/20260508-trump-announces-three-day-ceasefire-between-ukraine-and-russia"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/05/07/the_strategic_importance_of_critical_maritime_infrastructure_1181275.html",
-    "timestamp": "2026-05-08T18:08:29",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "The Strategic Importance of Critical Maritime Infrastructure",
-    "url": "https://www.realcleardefense.com/2026/05/07/the_strategic_importance_of_critical_maritime_infrastructure_1181275.html"
-  },
-  {
-    "id": "https://www.aljazeera.com/economy/2026/5/8/asean-summit-iran-war?traffic_source=rss",
-    "timestamp": "2026-05-08T18:07:49",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "ASEAN leaders adopt measures to ease economic pain caused by Iran war",
-    "url": "https://www.aljazeera.com/economy/2026/5/8/asean-summit-iran-war?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/economy/2128653",
-    "timestamp": "2026-05-08T17:57:24",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Air traffic in southern Russia will be restored within 2-3 days \u2014 deputy prime minister",
-    "url": "https://tass.com/economy/2128653"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cx217expnvvo?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-05-08T17:53:25",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Greece examines mystery naval drone found in Ionian Sea",
-    "url": "https://www.bbc.com/news/articles/cx217expnvvo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.dw.com/en/us-pentagon-releases-trove-of-classified-ufo-files/a-77100163?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-05-08T17:53:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "US: Pentagon releases trove of classified UFO files",
-    "url": "https://www.dw.com/en/us-pentagon-releases-trove-of-classified-ufo-files/a-77100163?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://tass.com/economy/2128647",
-    "timestamp": "2026-05-08T17:45:55",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "What to know about Russian assets income transfer to Kiev by Euroclear",
-    "url": "https://tass.com/economy/2128647"
-  },
-  {
-    "id": "https://tass.com/economy/2128645",
-    "timestamp": "2026-05-08T17:40:40",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian stock market ends week with declines in major indices",
-    "url": "https://tass.com/economy/2128645"
-  },
-  {
-    "id": "https://taskandpurpose.com/news/air-force-andrews-fuel-leak/",
-    "timestamp": "2026-05-08T17:39:01",
-    "source": "Task & Purpose",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Joint Base Andrews leaked jet fuel for weeks before officials noticed",
-    "url": "https://taskandpurpose.com/news/air-force-andrews-fuel-leak/"
-  },
-  {
-    "id": "https://tass.com/politics/2128643",
-    "timestamp": "2026-05-08T17:37:57",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Putin reveals how he and Trump discussed countries' joint victory in World War II",
-    "url": "https://tass.com/politics/2128643"
-  },
-  {
-    "id": "https://www.theguardian.com/world/2026/may/08/venezuela-enriched-uranium-trump",
-    "timestamp": "2026-05-08T17:32:27",
-    "source": "Guardian World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Frustrated by Iran, Trump at last seizes enriched uranium \u2013 but from Venezuela",
-    "url": "https://www.theguardian.com/world/2026/may/08/venezuela-enriched-uranium-trump"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/5/8/olympic-waterpolo-coach-players-resign-over-belittling-and-lack-of-respect?traffic_source=rss",
-    "timestamp": "2026-05-08T17:29:22",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Olympic water polo resignations cite lack of respect, belittling behaviour",
-    "url": "https://www.aljazeera.com/sports/2026/5/8/olympic-waterpolo-coach-players-resign-over-belittling-and-lack-of-respect?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/5/8/how-and-when-can-arsenal-or-man-city-win-the-premier-league?traffic_source=rss",
-    "timestamp": "2026-05-08T17:27:25",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "How and when can Arsenal or Man City win the Premier League?",
-    "url": "https://www.aljazeera.com/sports/2026/5/8/how-and-when-can-arsenal-or-man-city-win-the-premier-league?traffic_source=rss"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/05/08/eu-loan-fuels-major-ukraine-defence-expansion/",
-    "timestamp": "2026-05-08T17:22:32",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "EU loan fuels major Ukraine defence expansion, with 1.56 trillion UAH earmarked for military spending in 2026 budget",
-    "url": "https://euromaidanpress.com/2026/05/08/eu-loan-fuels-major-ukraine-defence-expansion/"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/5/8/more-than-a-dozen-reported-killed-in-israeli-attacks-on-south-lebanon?traffic_source=rss",
-    "timestamp": "2026-05-08T17:18:33",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "More than a dozen reported killed in Israeli attacks on south Lebanon",
-    "url": "https://www.aljazeera.com/news/2026/5/8/more-than-a-dozen-reported-killed-in-israeli-attacks-on-south-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "https://www.twz.com/news-features/the-newly-released-government-ufo-archives-will-leave-you-shrugging",
-    "timestamp": "2026-05-08T17:15:57",
-    "source": "The Drive WarZone",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "The Newly Released Government UFO Archives Will Leave You Shrugging",
-    "url": "https://www.twz.com/news-features/the-newly-released-government-ufo-archives-will-leave-you-shrugging"
-  },
-  {
-    "id": "https://tass.com/world/2128625",
-    "timestamp": "2026-05-08T17:03:19",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Death toll from Israeli attacks on Lebanon nears 2,760 \u2014 Health Ministry",
-    "url": "https://tass.com/world/2128625"
-  },
-  {
-    "id": "https://tass.com/world/2128623",
-    "timestamp": "2026-05-08T17:00:43",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Europe distorts history, lacks respect for WWII events \u2014 Slovakia\u2019s Fico",
-    "url": "https://tass.com/world/2128623"
-  },
-  {
-    "id": "https://tass.com/world/2128621",
-    "timestamp": "2026-05-08T16:58:03",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Fico to discuss Russia-Slovakia relations with Putin",
-    "url": "https://tass.com/world/2128621"
-  },
-  {
-    "id": "https://tass.com/economy/2128619",
-    "timestamp": "2026-05-08T16:55:53",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russia plans to ship key equipment for Iran's Bushehr NPP in 2027 \u2014 Rosatom",
-    "url": "https://tass.com/economy/2128619"
-  },
-  {
-    "id": "https://tass.com/world/2128617",
-    "timestamp": "2026-05-08T16:52:52",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "US to factor in allies\u2019 steps on Iran when deciding on troop numbers in Europe \u2014 Rubio",
-    "url": "https://tass.com/world/2128617"
-  },
-  {
-    "id": "https://www.militarytimes.com/news/your-military/2026/05/08/b-1-returns-to-flight-after-restoration-surviving-the-boneyard/",
-    "timestamp": "2026-05-08T16:44:27",
-    "source": "Military Times",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "B-1 returns to flight after restoration, surviving the \u2018boneyard\u2019",
-    "url": "https://www.militarytimes.com/news/your-military/2026/05/08/b-1-returns-to-flight-after-restoration-surviving-the-boneyard/"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/the-take-2/2026/5/8/aje-onl-tt_rr_pal_shireeninvest_av_v1-080526?traffic_source=rss",
-    "timestamp": "2026-05-08T16:36:08",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Justice for Shireen: The American investigation",
-    "url": "https://www.aljazeera.com/video/the-take-2/2026/5/8/aje-onl-tt_rr_pal_shireeninvest_av_v1-080526?traffic_source=rss"
-  },
-  {
-    "id": "https://breakingdefense.com/2026/05/turkish-air-force-contracts-its-first-batch-of-indigenous-kaan-jets/",
-    "timestamp": "2026-05-08T16:34:53",
-    "source": "Breaking Defense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Turkish air force contracts its first batch of indigenous KAAN jets",
-    "url": "https://breakingdefense.com/2026/05/turkish-air-force-contracts-its-first-batch-of-indigenous-kaan-jets/"
-  },
-  {
-    "id": "https://tass.com/world/2128615",
-    "timestamp": "2026-05-08T16:30:01",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Slovakia\u2019s Fico believes conflict in Ukraine is nearing its end",
-    "url": "https://tass.com/world/2128615"
-  },
-  {
-    "id": "https://www.france24.com/en/france/20260508-french-couple-on-hantavirus-cruise-ship-says-no-panic-onboard",
-    "timestamp": "2026-05-08T16:29:11",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "French couple on hantavirus cruise ship says \u2018no panic onboard\u2019",
-    "url": "https://www.france24.com/en/france/20260508-french-couple-on-hantavirus-cruise-ship-says-no-panic-onboard"
-  },
-  {
-    "id": "https://tass.com/world/2128613",
-    "timestamp": "2026-05-08T16:28:29",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "US strikes in Strait of Hormuz not part of Operation Epic Fury \u2014 Rubio",
-    "url": "https://tass.com/world/2128613"
-  },
-  {
-    "id": "https://www.defensenews.com/news/your-navy/2026/05/08/us-forces-disable-iranian-flagged-tankers-trying-to-cross-blockade/",
-    "timestamp": "2026-05-08T16:28:20",
-    "source": "Defense News",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "US forces disable Iranian-flagged tankers trying to cross blockade",
-    "url": "https://www.defensenews.com/news/your-navy/2026/05/08/us-forces-disable-iranian-flagged-tankers-trying-to-cross-blockade/"
   }
 ]
