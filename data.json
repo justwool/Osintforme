@@ -1,5 +1,185 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/c87qrwyyrn2o?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-05-23T03:55:55",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Rubio visits India to sell energy as Iran oil shock persists",
+    "url": "https://www.bbc.com/news/articles/c87qrwyyrn2o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c62d65y16nno?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-05-23T03:53:20",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "SpaceX launches massive Starship V3 rocket on test flight",
+    "url": "https://www.bbc.com/news/articles/c62d65y16nno?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://tass.com/science/2135439",
+    "timestamp": "2026-05-23T03:50:12",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Starship prototype rocket launched on its 12th test flight",
+    "url": "https://tass.com/science/2135439"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/5/23/some-fear-us-philippines-war-games-are-drawing-conflict-closer-to-home?traffic_source=rss",
+    "timestamp": "2026-05-23T03:19:47",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Some fear US-Philippines war games are drawing conflict closer to home",
+    "url": "https://www.aljazeera.com/news/2026/5/23/some-fear-us-philippines-war-games-are-drawing-conflict-closer-to-home?traffic_source=rss"
+  },
+  {
+    "id": "https://www.dw.com/en/china-at-least-8-dead-dozens-trapped-in-coal-mine-blast/a-77270811?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-05-23T03:17:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "China: At least 8 dead, dozens trapped in coal mine blast",
+    "url": "https://www.dw.com/en/china-at-least-8-dead-dozens-trapped-in-coal-mine-blast/a-77270811?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://tass.com/world/2135437",
+    "timestamp": "2026-05-23T03:02:05",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Pentagon, US intelligence community preparing for strikes on Iran this weekend \u2014 CBS",
+    "url": "https://tass.com/world/2135437"
+  },
+  {
+    "id": "https://tass.com/world/2135435",
+    "timestamp": "2026-05-23T02:47:09",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Brazil proposes US convene UNSC members in Washington to discuss organization\u2019s reform",
+    "url": "https://tass.com/world/2135435"
+  },
+  {
+    "id": "https://tass.com/world/2135433",
+    "timestamp": "2026-05-23T02:32:34",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "US leader leans toward resuming strikes on Iran \u2014 Axios",
+    "url": "https://tass.com/world/2135433"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-05-23T01:59:08",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "More than 40,000 Californians evacuated due to chemical tank leak",
+    "url": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://tass.com/politics/2135429",
+    "timestamp": "2026-05-23T01:58:00",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Nebenzya responds to doubts about attack on Starobelsk voiced by Denmark\u2019s envoy",
+    "url": "https://tass.com/politics/2135429"
+  },
+  {
+    "id": "https://www.dw.com/en/spacex-launches-biggest-starship-rocket-yet-in-test-flight/a-77270730?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-05-23T01:18:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "SpaceX launches biggest Starship rocket yet in test flight",
+    "url": "https://www.dw.com/en/spacex-launches-biggest-starship-rocket-yet-in-test-flight/a-77270730?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://tass.com/world/2135427",
+    "timestamp": "2026-05-23T00:55:24",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "China expresses concern over attack on Starobelsk college \u2014 envoy to UN",
+    "url": "https://tass.com/world/2135427"
+  },
+  {
+    "id": "https://tass.com/world/2135425",
+    "timestamp": "2026-05-23T00:47:47",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "NPT Review Conference fails to agree on final document \u2014 chairman",
+    "url": "https://tass.com/world/2135425"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/5/23/ebola-outbreak-disrupts-life-along-the-drc-uganda-border?traffic_source=rss",
+    "timestamp": "2026-05-23T00:46:34",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Ebola outbreak disrupts life along the DRC-Uganda border",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/ebola-outbreak-disrupts-life-along-the-drc-uganda-border?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/emergencies/2135423",
+    "timestamp": "2026-05-23T00:31:19",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Fire breaks out at oil depot in Novorossiysk due to falling UAV debris",
+    "url": "https://tass.com/emergencies/2135423"
+  },
+  {
+    "id": "https://tass.com/world/2135421",
+    "timestamp": "2026-05-23T00:26:45",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "UN agrees with Russia, dialogue on state of affairs globally absolutely necessary",
+    "url": "https://tass.com/world/2135421"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/liveblog/2026/5/23/iran-war-live-tehran-says-diplomacy-continues-but-no-deal-yet-with-us?traffic_source=rss",
+    "timestamp": "2026-05-23T00:00:00",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Iran war live: Tehran says diplomacy continues but no deal yet with US",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/5/23/iran-war-live-tehran-says-diplomacy-continues-but-no-deal-yet-with-us?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/world/2135419",
+    "timestamp": "2026-05-22T23:40:51",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Sixteen people hurt in explosion on barge in New York \u2014 TV",
+    "url": "https://tass.com/world/2135419"
+  },
+  {
     "id": "https://www.dw.com/en/eu-mexico-sign-expanded-trade-deal/a-77270446?maca=en-rss-en-all-1573-xml-mrss",
     "timestamp": "2026-05-22T23:37:00",
     "source": "DW World",
@@ -8,6 +188,16 @@
     "region": "global",
     "text": "EU, Mexico sign expanded trade deal",
     "url": "https://www.dw.com/en/eu-mexico-sign-expanded-trade-deal/a-77270446?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c4g0410gnv5o?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-05-22T23:07:55",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Race for French presidency sees ex-PM Philippe as early favourite to beat populists",
+    "url": "https://www.bbc.com/news/articles/c4g0410gnv5o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.twz.com/news-features/bunker-talk-memorial-day-weekend-edition-3",
@@ -48,6 +238,26 @@
     "region": "global",
     "text": "Navy green lights seven MUSV marketplace submissions to advance to prototype phase",
     "url": "https://breakingdefense.com/2026/05/navy-green-lights-seven-musv-marketplace-submissions-to-advance-to-prototype-phase/"
+  },
+  {
+    "id": "https://www.france24.com/en/video/20260522-hope-can-help-you-find-your-way-through-the-fog-ang%C3%A9lique-kidjo-unveils-new-album",
+    "timestamp": "2026-05-22T22:33:21",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Hope can help you 'find your way through the fog', Ang\u00e9lique Kidjo unveils new album",
+    "url": "https://www.france24.com/en/video/20260522-hope-can-help-you-find-your-way-through-the-fog-ang%C3%A9lique-kidjo-unveils-new-album"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cn8pzzlyy66o?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-05-22T22:32:12",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "US government releases UFO sighting reports - 'Orbs swarming in all directions'",
+    "url": "https://www.bbc.com/news/articles/cn8pzzlyy66o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.aljazeera.com/video/newsfeed/2026/5/22/israeli-blockade-traps-would-be-hajj-pilgrim-in-gaza?traffic_source=rss",
@@ -4788,215 +4998,5 @@
     "region": "ru",
     "text": "Moscow to protect Transnistrian Russians, respond to use of its assets to fund Kiev \u2014 MFA",
     "url": "https://tass.com/politics/2134637"
-  },
-  {
-    "id": "https://www.france24.com/en/video/20260521-paris-jr-turns-oldest-bridge-into-monumental-cavern",
-    "timestamp": "2026-05-21T14:40:54",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Paris: JR turns oldest bridge into 'monumental' cavern",
-    "url": "https://www.france24.com/en/video/20260521-paris-jr-turns-oldest-bridge-into-monumental-cavern"
-  },
-  {
-    "id": "https://tass.com/politics/2134631",
-    "timestamp": "2026-05-21T14:40:53",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Kremlin comments on readiness for talks with Europe, Power of Siberia 2 gas pipeline",
-    "url": "https://tass.com/politics/2134631"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/05/21/atesh-says-it-burned-locomotive-in-saint-petersburg/",
-    "timestamp": "2026-05-21T14:38:16",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Partisans burned locomotive in Saint Petersburg, disrupting key rail routes in Russia\u2019s northwestern logistics network, ATESH claims",
-    "url": "https://euromaidanpress.com/2026/05/21/atesh-says-it-burned-locomotive-in-saint-petersburg/"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cq5py64gvwzo?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-05-21T14:37:29",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Iran steps up claim to control Strait of Hormuz",
-    "url": "https://www.bbc.com/news/articles/cq5py64gvwzo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/tv-shows/the-observers/20260521-mexican-mother-finds-remains-son-missing-seven-years",
-    "timestamp": "2026-05-21T14:34:36",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Mexican mother finds remains of son missing for seven years",
-    "url": "https://www.france24.com/en/tv-shows/the-observers/20260521-mexican-mother-finds-remains-son-missing-seven-years"
-  },
-  {
-    "id": "https://tass.com/politics/2134621",
-    "timestamp": "2026-05-21T14:32:18",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "West to sacrifice Baltic states, Finland, Poland, Romania after Ukraine \u2014 diplomat",
-    "url": "https://tass.com/politics/2134621"
-  },
-  {
-    "id": "https://www.dw.com/en/czechia-uproar-over-sudeten-german-gathering-in-brno/a-77209816?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-05-21T14:32:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Czechia: Uproar over Sudeten German gathering in Brno",
-    "url": "https://www.dw.com/en/czechia-uproar-over-sudeten-german-gathering-in-brno/a-77209816?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.gov.uk/government/publications/lulworth-firing-notice",
-    "timestamp": "2026-05-21T14:29:05",
-    "source": "UK MoD",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Guidance: Lulworth firing times",
-    "url": "https://www.gov.uk/government/publications/lulworth-firing-notice"
-  },
-  {
-    "id": "https://tass.com/world/2134617",
-    "timestamp": "2026-05-21T14:28:02",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Iranian army ready to respond to any aggression, commander says",
-    "url": "https://tass.com/world/2134617"
-  },
-  {
-    "id": "https://tass.com/science/2134607",
-    "timestamp": "2026-05-21T14:21:06",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Second launch of Soyuz-5 carrier rocket set for 2027",
-    "url": "https://tass.com/science/2134607"
-  },
-  {
-    "id": "https://tass.com/economy/2134597",
-    "timestamp": "2026-05-21T14:17:29",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russia\u2019s grain exports to reach 80 mln tons by 2030 \u2014 ministry",
-    "url": "https://tass.com/economy/2134597"
-  },
-  {
-    "id": "https://www.dw.com/en/kevin-warsh-trump-s-man-at-the-fed-or-independent-voice/a-77248236?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-05-21T14:15:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Kevin Warsh: Trump's man at the Fed or independent voice?",
-    "url": "https://www.dw.com/en/kevin-warsh-trump-s-man-at-the-fed-or-independent-voice/a-77248236?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.france24.com/en/tv-shows/entre-nous/20260521-cannes-canal-bollor%C3%A9-blacklists-is-france-s-cultural-diversity-under-threat",
-    "timestamp": "2026-05-21T14:07:36",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Cannes, Canal+, Bollor\u00e9, blacklists: Is France's cultural diversity under threat?",
-    "url": "https://www.france24.com/en/tv-shows/entre-nous/20260521-cannes-canal-bollor%C3%A9-blacklists-is-france-s-cultural-diversity-under-threat"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/5/21/germany-make-neuer-first-choice-world-cup-keeper-to-cap-retirement-u-turn?traffic_source=rss",
-    "timestamp": "2026-05-21T14:06:40",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Germany make Neuer first-choice World Cup keeper to cap retirement U-turn",
-    "url": "https://www.aljazeera.com/sports/2026/5/21/germany-make-neuer-first-choice-world-cup-keeper-to-cap-retirement-u-turn?traffic_source=rss"
-  },
-  {
-    "id": "https://www.militarytimes.com/news/your-military/2026/05/21/why-is-it-taking-so-long-to-identify-americas-unknown-fallen-heroes/",
-    "timestamp": "2026-05-21T14:05:21",
-    "source": "Military Times",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Why is it taking so long to identify America\u2019s unknown fallen heroes?",
-    "url": "https://www.militarytimes.com/news/your-military/2026/05/21/why-is-it-taking-so-long-to-identify-americas-unknown-fallen-heroes/"
-  },
-  {
-    "id": "https://www.france24.com/en/middle-east/20260521-france-condemns-israel-37-french-nationals-deported-over-gaza-flotilla",
-    "timestamp": "2026-05-21T13:59:24",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "France condemns Israel as it deports 37 French nationals over Gaza flotilla",
-    "url": "https://www.france24.com/en/middle-east/20260521-france-condemns-israel-37-french-nationals-deported-over-gaza-flotilla"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/05/21/balloon-launched-drone/",
-    "timestamp": "2026-05-21T13:58:25",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Ukraine is lofting its AI drones 8,000 meters up\u2014then letting them glide into Russia",
-    "url": "https://euromaidanpress.com/2026/05/21/balloon-launched-drone/"
-  },
-  {
-    "id": "https://news.usni.org/2026/05/21/gao-report-on-suicide-prevention-across-the-defense-department",
-    "timestamp": "2026-05-21T13:49:50",
-    "source": "USNI News",
-    "platform": "rss",
-    "category": "naval",
-    "region": "global",
-    "text": "GAO Report on Suicide Prevention Across the Defense Department",
-    "url": "https://news.usni.org/2026/05/21/gao-report-on-suicide-prevention-across-the-defense-department"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/the-take-2/2026/5/21/aje-onl-tt_gbr_starmercoup_av_v2-200526?traffic_source=rss",
-    "timestamp": "2026-05-21T13:48:47",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "The implosion of Keir Starmer\u2019s Labour",
-    "url": "https://www.aljazeera.com/video/the-take-2/2026/5/21/aje-onl-tt_gbr_starmercoup_av_v2-200526?traffic_source=rss"
-  },
-  {
-    "id": "https://www.dw.com/en/turkey-dw-s-alican-uludag-released-but-trial-continues/a-77247916?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-05-21T13:45:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Turkey: DW's Alican Uludag released, but trial continues",
-    "url": "https://www.dw.com/en/turkey-dw-s-alican-uludag-released-but-trial-continues/a-77247916?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/5/21/sadio-mane-kalidou-koulibaly-star-picks-in-senegals-world-cup-squad?traffic_source=rss",
-    "timestamp": "2026-05-21T13:43:21",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Sadio Mane, Kalidou Koulibaly star picks in Senegal\u2019s World Cup squad",
-    "url": "https://www.aljazeera.com/sports/2026/5/21/sadio-mane-kalidou-koulibaly-star-picks-in-senegals-world-cup-squad?traffic_source=rss"
   }
 ]
