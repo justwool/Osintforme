@@ -1,5 +1,215 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-05-24T03:59:51",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Suspect killed after opening fire on Secret Service near White House",
+    "url": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.dw.com/en/missiles-hit-kyiv-after-russia-vows-retaliation/a-77277443?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-05-24T03:59:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Missiles hit Kyiv after Russia vows retaliation",
+    "url": "https://www.dw.com/en/missiles-hit-kyiv-after-russia-vows-retaliation/a-77277443?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://tass.com/world/2135731",
+    "timestamp": "2026-05-24T03:52:25",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Draft US-Iran memorandum stipulates 60-day ceasefire extension \u2014 Axios",
+    "url": "https://tass.com/world/2135731"
+  },
+  {
+    "id": "https://tass.com/emergencies/2135717",
+    "timestamp": "2026-05-24T03:25:22",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "One wounded in Ukrainian shelling attacks on DPR in past day",
+    "url": "https://tass.com/emergencies/2135717"
+  },
+  {
+    "id": "https://tass.com/world/2135715",
+    "timestamp": "2026-05-24T03:12:15",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Former Prince Andrew under investigation for inappropriate behavior \u2014 newspaper",
+    "url": "https://tass.com/world/2135715"
+  },
+  {
+    "id": "https://tass.com/world/2135713",
+    "timestamp": "2026-05-24T02:46:12",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Slovakian premier urges Russia-EU dialogue on Ukraine for peace in Europe",
+    "url": "https://tass.com/world/2135713"
+  },
+  {
+    "id": "https://tass.com/world/2135711",
+    "timestamp": "2026-05-24T02:20:08",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Armenia interested in preserving, developing cooperation with Russia \u2014 top diplomat",
+    "url": "https://tass.com/world/2135711"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/5/24/iranian-sources-lay-out-iran-us-deal-details?traffic_source=rss",
+    "timestamp": "2026-05-24T02:16:42",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Iranian sources lay out Iran-US deal details",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/iranian-sources-lay-out-iran-us-deal-details?traffic_source=rss"
+  },
+  {
+    "id": "https://www.france24.com/en/europe/20260524-russian-ballistic-missile-attack-hits-kyiv-after-moscow-vows-retaliation",
+    "timestamp": "2026-05-24T02:15:44",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Russian ballistic missile attack hits Kyiv after Moscow vows retaliation",
+    "url": "https://www.france24.com/en/europe/20260524-russian-ballistic-missile-attack-hits-kyiv-after-moscow-vows-retaliation"
+  },
+  {
+    "id": "https://tass.com/emergencies/2135709",
+    "timestamp": "2026-05-24T02:10:35",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "NBC News publishes name of suspected White House shooter",
+    "url": "https://tass.com/emergencies/2135709"
+  },
+  {
+    "id": "https://tass.com/world/2135707",
+    "timestamp": "2026-05-24T02:04:06",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Israeli warplanes attack Lebanon\u2019s southern districts, 17 killed \u2014 rescuers",
+    "url": "https://tass.com/world/2135707"
+  },
+  {
+    "id": "https://www.france24.com/en/americas/20260524-gunman-killed-by-secret-service-after-shooting-near-white-house",
+    "timestamp": "2026-05-24T01:58:19",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Gunman killed by Secret Service after shooting near White House",
+    "url": "https://www.france24.com/en/americas/20260524-gunman-killed-by-secret-service-after-shooting-near-white-house"
+  },
+  {
+    "id": "https://www.dw.com/en/iran-war-donald-trump-says-deal-largely-negotiated/live-77276381?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-05-24T01:51:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Iran war: Donald Trump says deal 'largely negotiated'",
+    "url": "https://www.dw.com/en/iran-war-donald-trump-says-deal-largely-negotiated/live-77276381?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://tass.com/politics/2135703",
+    "timestamp": "2026-05-24T01:21:05",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Ten people remain in hospitals after deadly drone attack on college dorm in LPR",
+    "url": "https://tass.com/politics/2135703"
+  },
+  {
+    "id": "https://www.dw.com/en/us-suspect-dies-after-gunfire-near-white-house/a-77276529?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-05-24T01:11:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "US: Suspect dies after gunfire near White House",
+    "url": "https://www.dw.com/en/us-suspect-dies-after-gunfire-near-white-house/a-77276529?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://tass.com/world/2135701",
+    "timestamp": "2026-05-24T00:59:12",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Islamic leaders urge Trump to end war with Iran \u2014 journalist",
+    "url": "https://tass.com/world/2135701"
+  },
+  {
+    "id": "https://tass.com/world/2135699",
+    "timestamp": "2026-05-24T00:51:43",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Clashes with police in Belgrade over, 23 detained",
+    "url": "https://tass.com/world/2135699"
+  },
+  {
+    "id": "https://tass.com/emergencies/2135693",
+    "timestamp": "2026-05-23T23:54:13",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "At least three series of explosions heard in Ukraine\u2019s Kiev",
+    "url": "https://tass.com/emergencies/2135693"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cvgz05jyrrpo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-05-23T23:34:33",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate",
+    "url": "https://www.bbc.com/news/articles/cvgz05jyrrpo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/ce8pn63q771o?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-05-23T23:24:03",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "I survived a missile strike in the Strait of Hormuz, but my friend has not been found",
+    "url": "https://www.bbc.com/news/articles/ce8pn63q771o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://tass.com/world/2135679",
+    "timestamp": "2026-05-23T23:15:14",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Trump, other officials unharmed during White House shooting",
+    "url": "https://tass.com/world/2135679"
+  },
+  {
     "id": "https://www.dw.com/en/us-white-house-locked-down-after-shots-fired/a-77276529?maca=en-rss-en-all-1573-xml-mrss",
     "timestamp": "2026-05-23T22:57:00",
     "source": "DW World",
@@ -18,6 +228,16 @@
     "region": "mena",
     "text": "US police responding to reports of shots fired near White House",
     "url": "https://www.aljazeera.com/news/2026/5/23/us-police-responding-to-reports-of-shots-fired-near-white-house?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/emergencies/2135657",
+    "timestamp": "2026-05-23T22:40:13",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Gunfire heard near White House in Washington \u2014 NewsNation",
+    "url": "https://tass.com/emergencies/2135657"
   },
   {
     "id": "https://euromaidanpress.com/2026/05/24/breaking-russia-reportedly-struck-kyiv-oblast-with-oreshnik-intercontinental-ballistic-missile/",
@@ -4778,225 +4998,5 @@
     "region": "mena",
     "text": "US deepens European uncertainty with deployment of 5,000 troops to Poland",
     "url": "https://www.aljazeera.com/news/2026/5/22/us-deepens-european-uncertainty-with-deployment-of-5000-troops-to-poland?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/features/2026/5/22/lebanons-economy-struggles-under-renewed-war-and-global-fuel-crisis?traffic_source=rss",
-    "timestamp": "2026-05-22T08:49:07",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Lebanon\u2019s economy struggles under renewed war and global fuel crisis",
-    "url": "https://www.aljazeera.com/features/2026/5/22/lebanons-economy-struggles-under-renewed-war-and-global-fuel-crisis?traffic_source=rss"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/05/22/ukraines-fm-sybiha-informs-nato-allies-of-growing-belarus-threats-at-helsingborg-meeting/",
-    "timestamp": "2026-05-22T08:37:41",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Ukraine\u2019s FM Sybiha informs NATO allies of growing Belarus threats at Helsingborg meeting",
-    "url": "https://euromaidanpress.com/2026/05/22/ukraines-fm-sybiha-informs-nato-allies-of-growing-belarus-threats-at-helsingborg-meeting/"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cz02g4vg5r5o?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-05-22T08:23:45",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Italian island party attended by Mick Jagger shut down by police",
-    "url": "https://www.bbc.com/news/articles/cz02g4vg5r5o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/05/22/russias-4th-largest-oil-refinery-in-kstovo-halts-its-main-crude-unit-after-20-may-attack/",
-    "timestamp": "2026-05-22T08:15:53",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Russia\u2019s 4th-largest oil refinery in Kstovo halts its main crude unit after 20 May attack",
-    "url": "https://euromaidanpress.com/2026/05/22/russias-4th-largest-oil-refinery-in-kstovo-halts-its-main-crude-unit-after-20-may-attack/"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/05/22/ukrainian-drone-strike-halts-norsis-main-crude-unit-reuters-reports/",
-    "timestamp": "2026-05-22T08:15:38",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Ukrainian drone strike halts NORSI\u2019s main crude unit, Reuters reports",
-    "url": "https://euromaidanpress.com/2026/05/22/ukrainian-drone-strike-halts-norsis-main-crude-unit-reuters-reports/"
-  },
-  {
-    "id": "https://breakingdefense.com/2026/05/sovereignty-cant-be-vibecoded-why-europe-must-physically-build-to-ensure-resilience/",
-    "timestamp": "2026-05-22T08:10:00",
-    "source": "Breaking Defense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Sovereignty can\u2019t be vibecoded: Why Europe must physically build to ensure resilience",
-    "url": "https://breakingdefense.com/2026/05/sovereignty-cant-be-vibecoded-why-europe-must-physically-build-to-ensure-resilience/"
-  },
-  {
-    "id": "https://www.theguardian.com/environment/2026/may/22/slow-moving-bands-heavy-rain-flooding-landslides-china",
-    "timestamp": "2026-05-22T08:04:33",
-    "source": "Guardian World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Weather tracker: Heavy rain triggers flooding and landslides in parts of China",
-    "url": "https://www.theguardian.com/environment/2026/may/22/slow-moving-bands-heavy-rain-flooding-landslides-china"
-  },
-  {
-    "id": "https://warontherocks.com/cogs-of-war/inside-ukraines-battlefield-innovation-loop/",
-    "timestamp": "2026-05-22T08:00:24",
-    "source": "War on the Rocks",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Inside Ukraine\u2019s Battlefield Innovation Loop",
-    "url": "https://warontherocks.com/cogs-of-war/inside-ukraines-battlefield-innovation-loop/"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cp8p1l7gp1po?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-05-22T07:56:53",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Africa summit in India postponed over Ebola outbreak fears",
-    "url": "https://www.bbc.com/news/articles/cp8p1l7gp1po?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://tass.com/politics/2134879",
-    "timestamp": "2026-05-22T07:55:01",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian high-explosive bomb strikes eliminate large Ukrainian UAV group in Zaporozhye",
-    "url": "https://tass.com/politics/2134879"
-  },
-  {
-    "id": "https://tass.com/politics/2134883",
-    "timestamp": "2026-05-22T07:53:58",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Eight injured in Ukrainian attack on Starobelsk hospitalized \u2014 Health Ministry",
-    "url": "https://tass.com/politics/2134883"
-  },
-  {
-    "id": "https://tass.com/economy/2134881",
-    "timestamp": "2026-05-22T07:51:46",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "EU will not return to Russian oil and gas purchases under any circumstances",
-    "url": "https://tass.com/economy/2134881"
-  },
-  {
-    "id": "https://tass.com/economy/2134877",
-    "timestamp": "2026-05-22T07:43:39",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Gas injection into Europe\u2019s storage facilities at historic low for May",
-    "url": "https://tass.com/economy/2134877"
-  },
-  {
-    "id": "https://www.dw.com/en/iran-war-israeli-strike-kills-two-in-southern-lebanon/live-77258282?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-05-22T07:43:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Iran war: Israeli strike kills two in southern Lebanon",
-    "url": "https://www.dw.com/en/iran-war-israeli-strike-kills-two-in-southern-lebanon/live-77258282?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://tass.com/society/2134875",
-    "timestamp": "2026-05-22T07:42:51",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russia sees 78 foiled terrorist attacks in 2026 \u2014 FSB",
-    "url": "https://tass.com/society/2134875"
-  },
-  {
-    "id": "https://tass.com/politics/2134873",
-    "timestamp": "2026-05-22T07:38:39",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Battlegroup Center\u2019s air surveillance crews repel massive Ukrainian UAV attack attempt",
-    "url": "https://tass.com/politics/2134873"
-  },
-  {
-    "id": "https://warontherocks.com/the-pentagon-still-cannot-manage-cyber-talent-at-scale-heres-the-fix/",
-    "timestamp": "2026-05-22T07:30:14",
-    "source": "War on the Rocks",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "The Pentagon Still Cannot Manage Cyber Talent at Scale. Here\u2019s the Fix.",
-    "url": "https://warontherocks.com/the-pentagon-still-cannot-manage-cyber-talent-at-scale-heres-the-fix/"
-  },
-  {
-    "id": "https://www.france24.com/en/culture/20260522-late-show-host-colbert-bows-out-with-a-little-help-from-paul-mccartney-trump-exults",
-    "timestamp": "2026-05-22T07:29:08",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "'Late Show' host Colbert bows out with a little help from Paul McCartney, Trump exults",
-    "url": "https://www.france24.com/en/culture/20260522-late-show-host-colbert-bows-out-with-a-little-help-from-paul-mccartney-trump-exults"
-  },
-  {
-    "id": "https://tass.com/economy/2134869",
-    "timestamp": "2026-05-22T07:27:56",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian stock market rebounds after decline",
-    "url": "https://tass.com/economy/2134869"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/5/22/us-raises-threat-of-military-action-against-cuba?traffic_source=rss",
-    "timestamp": "2026-05-22T07:22:58",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "US raises threat of military action against Cuba",
-    "url": "https://www.aljazeera.com/news/2026/5/22/us-raises-threat-of-military-action-against-cuba?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/5/22/japans-world-cup-2026-team-preview-players-to-watch-group-squad?traffic_source=rss",
-    "timestamp": "2026-05-22T07:19:39",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Japan\u2019s World Cup 2026 team preview: Players to watch, group, squad",
-    "url": "https://www.aljazeera.com/sports/2026/5/22/japans-world-cup-2026-team-preview-players-to-watch-group-squad?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/world/2134865",
-    "timestamp": "2026-05-22T07:17:14",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Industry leaders talked Trump out of signing AI executive order \u2014 WP",
-    "url": "https://tass.com/world/2134865"
   }
 ]
