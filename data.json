@@ -1,5 +1,335 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/cp3p62xddq4o?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-05-28T04:30:00",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Oil prices jump after US launches new attacks on Iran",
+    "url": "https://www.bbc.com/news/articles/cp3p62xddq4o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://tass.com/world/2137633",
+    "timestamp": "2026-05-28T04:05:19",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "US Congresswoman Luna slams Zelensky for holding out on peace deal",
+    "url": "https://tass.com/world/2137633"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c87q2w0w0jvo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-05-28T04:01:17",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Australia charges woman who returned from Syria with joining Islamic State",
+    "url": "https://www.bbc.com/news/articles/c87q2w0w0jvo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://tass.com/politics/2137631",
+    "timestamp": "2026-05-28T03:34:51",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Ukraine\u2019s information space totally monopolized by Kiev regime \u2014 Russian Foreign Ministry",
+    "url": "https://tass.com/politics/2137631"
+  },
+  {
+    "id": "https://www.france24.com/en/middle-east/20260528-middle-east-war-live-us-carries-out-strikes-in-iran-targeting-military-site",
+    "timestamp": "2026-05-28T03:34:46",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "US carries out strikes in Iran as Revolutionary Guards target US airbase",
+    "url": "https://www.france24.com/en/middle-east/20260528-middle-east-war-live-us-carries-out-strikes-in-iran-targeting-military-site"
+  },
+  {
+    "id": "https://tass.com/world/2137629",
+    "timestamp": "2026-05-28T03:14:46",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Sweden to supply several Jas 39 C/D Gripen fighter jets to Ukraine \u2014 media",
+    "url": "https://tass.com/world/2137629"
+  },
+  {
+    "id": "https://www.dw.com/en/doj-launches-criminal-probe-into-e-jean-carroll-reports/a-77321436?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-05-28T03:13:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "DOJ launches criminal probe into E. Jean Carroll \u2014 reports",
+    "url": "https://www.dw.com/en/doj-launches-criminal-probe-into-e-jean-carroll-reports/a-77321436?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://tass.com/world/2137627",
+    "timestamp": "2026-05-28T03:07:59",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "European countries\u2019 approach to talks with Russia changing \u2014 media",
+    "url": "https://tass.com/world/2137627"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-05-28T02:58:27",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "US strikes Iran targets for second time in three days",
+    "url": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://tass.com/politics/2137625",
+    "timestamp": "2026-05-28T02:53:26",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Fighting against Russian language becomes sort of national sport in Ukraine \u2014 Russian MFA",
+    "url": "https://tass.com/politics/2137625"
+  },
+  {
+    "id": "https://www.france24.com/en/middle-east/20260528-israel-declares-new-combat-zone-in-southern-lebanon-and-orders-evacuations",
+    "timestamp": "2026-05-28T02:52:24",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Israel declares new 'combat zone' in southern Lebanon and orders evacuations",
+    "url": "https://www.france24.com/en/middle-east/20260528-israel-declares-new-combat-zone-in-southern-lebanon-and-orders-evacuations"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c3w2yl3p97qo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-05-28T02:47:19",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Australia sues US giant 3M over 'forever chemicals' in firefighting foam",
+    "url": "https://www.bbc.com/news/articles/c3w2yl3p97qo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://tass.com/world/2137623",
+    "timestamp": "2026-05-28T02:27:48",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Ukraine\u2019s former PM says West was behind attack on Starobelsk college",
+    "url": "https://tass.com/world/2137623"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/5/28/google-employee-charged-with-insider-trading-over-polymarket-bets?traffic_source=rss",
+    "timestamp": "2026-05-28T02:25:28",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Google employee charged with insider trading over Polymarket bets",
+    "url": "https://www.aljazeera.com/news/2026/5/28/google-employee-charged-with-insider-trading-over-polymarket-bets?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/5/28/aid-cuts-and-climate-change-drive-deadly-malaria-surge-in-zimbabwe?traffic_source=rss",
+    "timestamp": "2026-05-28T02:18:55",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Aid cuts and climate change drive deadly malaria surge in Zimbabwe",
+    "url": "https://www.aljazeera.com/news/2026/5/28/aid-cuts-and-climate-change-drive-deadly-malaria-surge-in-zimbabwe?traffic_source=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c052yv259jvo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-05-28T02:14:19",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Google worker charged with using internal data to make $1.2m on bets",
+    "url": "https://www.bbc.com/news/articles/c052yv259jvo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://tass.com/defense/2137621",
+    "timestamp": "2026-05-28T02:08:23",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russian forces begin establishing buffer zone in Kharkov Region \u2014 expert",
+    "url": "https://tass.com/defense/2137621"
+  },
+  {
+    "id": "https://www.dw.com/en/iran-war-us-defensive-strikes-target-drones-port-city-command-center/live-77321432?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-05-28T02:05:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Iran war: US 'defensive' strikes target drones, port city command center",
+    "url": "https://www.dw.com/en/iran-war-us-defensive-strikes-target-drones-port-city-command-center/live-77321432?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://tass.com/world/2137619",
+    "timestamp": "2026-05-28T01:59:32",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Republic of Srpska may hold referendum on EU integration due to EU\u2019s steps \u2014 Dodik",
+    "url": "https://tass.com/world/2137619"
+  },
+  {
+    "id": "https://www.dw.com/en/brazil-to-revive-highway-project-through-amazon-amid-concerns/a-77321412?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-05-28T01:59:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Brazil to revive highway project through Amazon amid concerns",
+    "url": "https://www.dw.com/en/brazil-to-revive-highway-project-through-amazon-amid-concerns/a-77321412?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.airandspaceforces.com/house-panel-space-force-acquisition-eliminating-sda-rco/",
+    "timestamp": "2026-05-28T01:55:46",
+    "source": "Air Force Mag",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "House Panel Proposes Eliminating SDA, Space RCO",
+    "url": "https://www.airandspaceforces.com/house-panel-space-force-acquisition-eliminating-sda-rco/"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/5/28/parisians-defy-swimming-ban-to-cool-off-as-record-heat-hits-europe?traffic_source=rss",
+    "timestamp": "2026-05-28T01:51:17",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Parisians defy swimming ban to cool off as record heat hits Europe",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/parisians-defy-swimming-ban-to-cool-off-as-record-heat-hits-europe?traffic_source=rss"
+  },
+  {
+    "id": "https://www.airandspaceforces.com/us-strikes-drone-site-iran-says-broader-ceasefire-still-place/",
+    "timestamp": "2026-05-28T01:38:59",
+    "source": "Air Force Mag",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "US Strikes Drone Site in Iran, Says Ceasefire Still in Place",
+    "url": "https://www.airandspaceforces.com/us-strikes-drone-site-iran-says-broader-ceasefire-still-place/"
+  },
+  {
+    "id": "https://www.france24.com/en/technology/20260528-ai-leaders-soften-warnings-on-job-losses-as-industry-reassesses-impact",
+    "timestamp": "2026-05-28T01:38:49",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "AI leaders soften warnings on job losses as industry reassesses impact",
+    "url": "https://www.france24.com/en/technology/20260528-ai-leaders-soften-warnings-on-job-losses-as-industry-reassesses-impact"
+  },
+  {
+    "id": "https://tass.com/world/2137617",
+    "timestamp": "2026-05-28T01:04:26",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "US hits another drug boat in Eastern Pacific, killing two \u2014 Pentagon",
+    "url": "https://tass.com/world/2137617"
+  },
+  {
+    "id": "https://tass.com/world/2137615",
+    "timestamp": "2026-05-28T00:51:17",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "US military shots down 4 Iranian drones, hits drone launching site \u2014 media",
+    "url": "https://tass.com/world/2137615"
+  },
+  {
+    "id": "https://tass.com/world/2137613",
+    "timestamp": "2026-05-28T00:45:34",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Trump says supports Pashinyan at parliamentary elections in Armenia",
+    "url": "https://tass.com/world/2137613"
+  },
+  {
+    "id": "https://www.militarytimes.com/breaking-news/2026/05/28/us-carries-out-new-strikes-in-iran-against-military-site-official-says/",
+    "timestamp": "2026-05-28T00:40:49",
+    "source": "Military Times",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "US carries out new strikes in Iran against military site, official says",
+    "url": "https://www.militarytimes.com/breaking-news/2026/05/28/us-carries-out-new-strikes-in-iran-against-military-site-official-says/"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/5/28/uganda-closes-border-with-drc-in-an-effort-to-contain-ebola-outbreak?traffic_source=rss",
+    "timestamp": "2026-05-28T00:15:51",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Uganda closes border with DRC in an effort to contain Ebola outbreak",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/uganda-closes-border-with-drc-in-an-effort-to-contain-ebola-outbreak?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/world/2137611",
+    "timestamp": "2026-05-28T00:08:18",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "US hits military facility in Iran \u2014 agency",
+    "url": "https://tass.com/world/2137611"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/5/28/us-returns-palestinian-rights-expert-francesca-albanese-to-sanctions-list?traffic_source=rss",
+    "timestamp": "2026-05-28T00:03:18",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "US returns Palestinian rights expert Francesca Albanese to sanctions list",
+    "url": "https://www.aljazeera.com/news/2026/5/28/us-returns-palestinian-rights-expert-francesca-albanese-to-sanctions-list?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/liveblog/2026/5/28/iran-war-live-israel-orders-mass-forced-displacement-for-all-south-lebanon?traffic_source=rss",
+    "timestamp": "2026-05-28T00:00:00",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Iran war live: US strikes Iranian site; Kuwait targeted by missiles, drones",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/5/28/iran-war-live-israel-orders-mass-forced-displacement-for-all-south-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/politics/2137609",
+    "timestamp": "2026-05-27T23:59:23",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Putin to continue state visit to Kazakhstan, take part in EAEU events",
+    "url": "https://tass.com/politics/2137609"
+  },
+  {
     "id": "https://www.dw.com/en/concerns-grow-over-conditions-at-ice-facility-in-new-jersey/a-77321018?maca=en-rss-en-all-1573-xml-mrss",
     "timestamp": "2026-05-27T23:56:00",
     "source": "DW World",
@@ -20,6 +350,16 @@
     "url": "https://www.aljazeera.com/news/2026/5/27/jill-biden-worried-husband-joe-was-having-a-stroke-during-2024-us-debate?traffic_source=rss"
   },
   {
+    "id": "https://tass.com/politics/2137607",
+    "timestamp": "2026-05-27T23:28:34",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Twenty-two shelling attacks by Ukrainian troops reported in DPR in past day",
+    "url": "https://tass.com/politics/2137607"
+  },
+  {
     "id": "https://www.aljazeera.com/video/newsfeed/2026/5/27/bolivias-president-warns-time-is-running-out-amid-protest-crisis?traffic_source=rss",
     "timestamp": "2026-05-27T23:24:57",
     "source": "Al Jazeera",
@@ -28,6 +368,16 @@
     "region": "mena",
     "text": "Bolivia\u2019s president warns \u2018time is running out\u2019 amid protest crisis",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/bolivias-president-warns-time-is-running-out-amid-protest-crisis?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/politics/2137605",
+    "timestamp": "2026-05-27T23:22:41",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Ukrainian special services interfere into work of mass media in Ukraine \u2014 Russian MFA",
+    "url": "https://tass.com/politics/2137605"
   },
   {
     "id": "https://tass.com/politics/2137601",
@@ -4648,355 +4998,5 @@
     "region": "ru",
     "text": "Belarus holding logistics command and staff exercise from May 26-28",
     "url": "https://tass.com/defense/2136775"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/05/26/russias-new-kyiv-strike-threat-is-posturing-for-the-victory-day-humiliation-not-retaliation-isw/",
-    "timestamp": "2026-05-26T13:02:00",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Russia\u2019s new Kyiv strike threat is posturing for the Victory Day humiliation, not retaliation\u2014ISW",
-    "url": "https://euromaidanpress.com/2026/05/26/russias-new-kyiv-strike-threat-is-posturing-for-the-victory-day-humiliation-not-retaliation-isw/"
-  },
-  {
-    "id": "https://tass.com/world/2136755",
-    "timestamp": "2026-05-26T12:59:40",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "CIS secretary general speaks on Ukraine\u2019s membership, positions of Armenia, Moldova",
-    "url": "https://tass.com/world/2136755"
-  },
-  {
-    "id": "https://tass.com/economy/2136759",
-    "timestamp": "2026-05-26T12:58:27",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Expert says export potential of Russian difficult oil extraction technology totals $11 bln",
-    "url": "https://tass.com/economy/2136759"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/5/26/french-open-sabelenka-storms-to-opening-win-against-bouzas-maneiro?traffic_source=rss",
-    "timestamp": "2026-05-26T12:57:05",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "French Open: Sabelenka storms to opening win against Bouzas Maneiro",
-    "url": "https://www.aljazeera.com/sports/2026/5/26/french-open-sabelenka-storms-to-opening-win-against-bouzas-maneiro?traffic_source=rss"
-  },
-  {
-    "id": "https://www.defensenews.com/global/asia-pacific/2026/05/26/india-boosts-drone-warfare-capability-with-compact-missile/",
-    "timestamp": "2026-05-26T12:56:11",
-    "source": "Defense News",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "India boosts drone warfare capability with compact missile",
-    "url": "https://www.defensenews.com/global/asia-pacific/2026/05/26/india-boosts-drone-warfare-capability-with-compact-missile/"
-  },
-  {
-    "id": "https://tass.com/defense/2136751",
-    "timestamp": "2026-05-26T12:53:52",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Rosoboronexport puts defense innovations on display at Moscow Region security forum",
-    "url": "https://tass.com/defense/2136751"
-  },
-  {
-    "id": "https://www.france24.com/en/europe/20260526-train-and-school-minibus-collide-belgium-killing-four",
-    "timestamp": "2026-05-26T12:48:22",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Train and school minibus collide in Belgium, killing four",
-    "url": "https://www.france24.com/en/europe/20260526-train-and-school-minibus-collide-belgium-killing-four"
-  },
-  {
-    "id": "https://tass.com/sports/2136741",
-    "timestamp": "2026-05-26T12:47:16",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russia to compete at European Rhythmic Gymnastics Championship under own colors, anthem",
-    "url": "https://tass.com/sports/2136741"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-05-26T12:44:57",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Eleven killed in Lebanon village as Israel intensifies strikes",
-    "url": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/5/26/senegal-lawmakers-elect-ousted-pm-sonko-as-new-parliament-speaker?traffic_source=rss",
-    "timestamp": "2026-05-26T12:44:56",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Senegal lawmakers elect ousted PM Sonko as new parliament speaker",
-    "url": "https://www.aljazeera.com/news/2026/5/26/senegal-lawmakers-elect-ousted-pm-sonko-as-new-parliament-speaker?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/tv-shows/spotlight/20260526-pope-leo-takes-aim-at-ai-in-encyclical",
-    "timestamp": "2026-05-26T12:42:51",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Pope Leo takes aim at AI in encyclical",
-    "url": "https://www.france24.com/en/tv-shows/spotlight/20260526-pope-leo-takes-aim-at-ai-in-encyclical"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/5/26/congolese-protesters-accuse-eu-of-complicity-in-drc-violence?traffic_source=rss",
-    "timestamp": "2026-05-26T12:39:31",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Congolese protesters accuse EU of complicity in DRC violence",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/congolese-protesters-accuse-eu-of-complicity-in-drc-violence?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/5/26/israeli-air-attacks-kill-seven-palestinians-in-gaza?traffic_source=rss",
-    "timestamp": "2026-05-26T12:34:20",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Israeli air attacks kill seven Palestinians in Gaza",
-    "url": "https://www.aljazeera.com/news/2026/5/26/israeli-air-attacks-kill-seven-palestinians-in-gaza?traffic_source=rss"
-  },
-  {
-    "id": "https://www.gov.uk/guidance/help-for-veterans-diagnosed-with-diffuse-mesothelioma",
-    "timestamp": "2026-05-26T12:34:09",
-    "source": "UK MoD",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Help for veterans diagnosed with diffuse mesothelioma",
-    "url": "https://www.gov.uk/guidance/help-for-veterans-diagnosed-with-diffuse-mesothelioma"
-  },
-  {
-    "id": "https://tass.com/society/2136719",
-    "timestamp": "2026-05-26T12:29:16",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Court fines DeviantArt $48,900 for refusal to delete banned information",
-    "url": "https://tass.com/society/2136719"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c70vvd17rg7o?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-05-26T12:29:14",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Four killed as school minibus collides with train in Belgium",
-    "url": "https://www.bbc.com/news/articles/c70vvd17rg7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://taskandpurpose.com/tech-tactics/glider-drones-green-berets-trojan-footprint/",
-    "timestamp": "2026-05-26T12:28:00",
-    "source": "Task & Purpose",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Green Berets tested glider drones for supply drops during a massive special operations exercise",
-    "url": "https://taskandpurpose.com/tech-tactics/glider-drones-green-berets-trojan-footprint/"
-  },
-  {
-    "id": "https://www.france24.com/en/tv-shows/france-in-focus/20260526-teens-and-screens-the-smartphone-trap",
-    "timestamp": "2026-05-26T12:27:24",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Teens and screens: The smartphone trap",
-    "url": "https://www.france24.com/en/tv-shows/france-in-focus/20260526-teens-and-screens-the-smartphone-trap"
-  },
-  {
-    "id": "https://www.france24.com/en/bolivian-president-slashes-salary-by-50-to-calm-protests",
-    "timestamp": "2026-05-26T12:24:55",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Bolivian president slashes salary by 50% to calm protests",
-    "url": "https://www.france24.com/en/bolivian-president-slashes-salary-by-50-to-calm-protests"
-  },
-  {
-    "id": "https://www.france24.com/en/manchester-city-says-goodbye-to-manager-pep-guardiola",
-    "timestamp": "2026-05-26T12:24:44",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Manchester City says goodbye to manager Pep Guardiola",
-    "url": "https://www.france24.com/en/manchester-city-says-goodbye-to-manager-pep-guardiola"
-  },
-  {
-    "id": "https://tass.com/politics/2136717",
-    "timestamp": "2026-05-26T12:21:40",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian troops liberate two communities in Sumy Region over past day \u2014 top brass",
-    "url": "https://tass.com/politics/2136717"
-  },
-  {
-    "id": "https://tass.com/politics/2136715",
-    "timestamp": "2026-05-26T12:18:37",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "IN BRIEF: What is known about phone call between Russia, US top diplomats",
-    "url": "https://tass.com/politics/2136715"
-  },
-  {
-    "id": "https://www.dw.com/en/marco-rubio-s-india-visit-signals-effort-to-steady-ties/a-77297978?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-05-26T12:17:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Marco Rubio's India visit signals effort to steady ties",
-    "url": "https://www.dw.com/en/marco-rubio-s-india-visit-signals-effort-to-steady-ties/a-77297978?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://breakingdefense.com/2026/05/despite-peak-hype-orbital-data-centers-for-ai-not-yet-ready-for-natsec-prime-time/",
-    "timestamp": "2026-05-26T12:15:00",
-    "source": "Breaking Defense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Despite \u2018peak hype,\u2019 orbital data centers for AI not yet ready for NatSec prime time",
-    "url": "https://breakingdefense.com/2026/05/despite-peak-hype-orbital-data-centers-for-ai-not-yet-ready-for-natsec-prime-time/"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/5/26/united-spain-first-as-barcelona-top-absent-real-madrid-in-world-cup-squad?traffic_source=rss",
-    "timestamp": "2026-05-26T12:12:42",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "\u2018United\u2019 Spain first as Barcelona top absent Real Madrid in World Cup squad",
-    "url": "https://www.aljazeera.com/sports/2026/5/26/united-spain-first-as-barcelona-top-absent-real-madrid-in-world-cup-squad?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/world/2136713",
-    "timestamp": "2026-05-26T12:06:40",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Iran to restore Internet access during 24 hours \u2014 news agency",
-    "url": "https://tass.com/world/2136713"
-  },
-  {
-    "id": "https://tass.com/defense/2136711",
-    "timestamp": "2026-05-26T12:06:24",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian military to hold training course for Lao special forces \u2014 Defense Ministry",
-    "url": "https://tass.com/defense/2136711"
-  },
-  {
-    "id": "https://tass.com/economy/2136707",
-    "timestamp": "2026-05-26T12:02:40",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "UVZ Group unveils prototype of Vityaz lightweight all-terrain vehicle",
-    "url": "https://tass.com/economy/2136707"
-  },
-  {
-    "id": "https://www.dw.com/en/how-jazz-became-an-act-of-defiance-in-nazi-germany/a-77143547?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-05-26T12:02:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "How jazz became an act of defiance in Nazi Germany",
-    "url": "https://www.dw.com/en/how-jazz-became-an-act-of-defiance-in-nazi-germany/a-77143547?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://tass.com/politics/2136709",
-    "timestamp": "2026-05-26T11:59:20",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Deployment of Oreshnik missiles in Belarus strengthens deterrent effect \u2014 Shoigu",
-    "url": "https://tass.com/politics/2136709"
-  },
-  {
-    "id": "https://tass.com/economy/2136705",
-    "timestamp": "2026-05-26T11:58:12",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Rosatom to fulfill all obligations to supply spare parts, fuel for Bushehr NPP",
-    "url": "https://tass.com/economy/2136705"
-  },
-  {
-    "id": "https://www.dw.com/en/putin-offers-debt-relief-to-new-recruits-for-ukraine-war/a-77292937?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-05-26T11:58:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Putin offers debt relief to new recruits for Ukraine war",
-    "url": "https://www.dw.com/en/putin-offers-debt-relief-to-new-recruits-for-ukraine-war/a-77292937?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://tass.com/economy/2136703",
-    "timestamp": "2026-05-26T11:53:19",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Hainan launches modernization of urban commerce and consumer hubs",
-    "url": "https://tass.com/economy/2136703"
-  },
-  {
-    "id": "https://www.france24.com/en/tv-shows/down-to-earth/20260526-count-the-dead-bugs-on-your-windshield-and-contribute-to-science",
-    "timestamp": "2026-05-26T11:41:33",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Count the dead bugs on your windshield and contribute to science",
-    "url": "https://www.france24.com/en/tv-shows/down-to-earth/20260526-count-the-dead-bugs-on-your-windshield-and-contribute-to-science"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/5/26/libyan-forces-detain-gaza-land-convoy-activists-at-sirte-checkpoint?traffic_source=rss",
-    "timestamp": "2026-05-26T11:37:07",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Libyan forces detain Gaza land convoy activists at Sirte checkpoint",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/libyan-forces-detain-gaza-land-convoy-activists-at-sirte-checkpoint?traffic_source=rss"
   }
 ]
