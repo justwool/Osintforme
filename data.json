@@ -1,5 +1,95 @@
 [
   {
+    "id": "https://tass.com/sports/2139137",
+    "timestamp": "2026-05-30T23:57:51",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "326 people detained in France during disorders after PSG victory",
+    "url": "https://tass.com/sports/2139137"
+  },
+  {
+    "id": "https://tass.com/society/2139135",
+    "timestamp": "2026-05-30T23:27:46",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Presidential election to be held in Colombia",
+    "url": "https://tass.com/society/2139135"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cddpl33v247o?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-05-30T23:17:26",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "How Putin became master of the image",
+    "url": "https://www.bbc.com/news/articles/cddpl33v247o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.dw.com/en/trump-says-he-ll-replace-artists-who-backed-out-of-concert-with-himself/a-77360698?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-05-30T22:53:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Trump says he'll replace artists who backed out of concert with himself",
+    "url": "https://www.dw.com/en/trump-says-he-ll-replace-artists-who-backed-out-of-concert-with-himself/a-77360698?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://news.usni.org/2026/05/30/shangri-la-hegseth-calls-on-western-pacific-allies-to-maintain-military-strength-we-need-partners-not-protectorates",
+    "timestamp": "2026-05-30T22:39:28",
+    "source": "USNI News",
+    "platform": "rss",
+    "category": "naval",
+    "region": "global",
+    "text": "Shangri-La: Hegseth Calls on Western Pacific Allies to Maintain Military Strength, \u2018We Need Partners, Not Protectorates\u2019",
+    "url": "https://news.usni.org/2026/05/30/shangri-la-hegseth-calls-on-western-pacific-allies-to-maintain-military-strength-we-need-partners-not-protectorates"
+  },
+  {
+    "id": "https://tass.com/world/2139129",
+    "timestamp": "2026-05-30T22:35:13",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Death toll in Lebanon from Israeli attacks reaches 3,371 \u2014 Health Ministry",
+    "url": "https://tass.com/world/2139129"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/5/30/us-congress-advances-american-israeli-military-integration-plan?traffic_source=rss",
+    "timestamp": "2026-05-30T22:28:09",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "US Congress advances American-Israeli military integration plan",
+    "url": "https://www.aljazeera.com/news/2026/5/30/us-congress-advances-american-israeli-military-integration-plan?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/economy/2139131",
+    "timestamp": "2026-05-30T22:25:51",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "US company tested android robots in combat area in Ukraine \u2014 TV",
+    "url": "https://tass.com/economy/2139131"
+  },
+  {
+    "id": "https://www.theguardian.com/australia-news/2026/may/31/richard-marles-defence-summit-singapore-china-transparency-pete-hegseth",
+    "timestamp": "2026-05-30T22:10:04",
+    "source": "Guardian World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "New Aukus drone subs to protect critical undersea cables as Marles warns: \u2018seabed is a battlefield\u2019",
+    "url": "https://www.theguardian.com/australia-news/2026/may/31/richard-marles-defence-summit-singapore-china-transparency-pete-hegseth"
+  },
+  {
     "id": "https://www.france24.com/en/video/20260530-champions-league-final-psg-s-players-and-fans-kept-on-believing",
     "timestamp": "2026-05-30T22:05:32",
     "source": "France24",
@@ -30,6 +120,16 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/al-jazeera-exclusive-interview-with-rebel-farc-faction-in-colombia?traffic_source=rss"
   },
   {
+    "id": "https://tass.com/world/2139125",
+    "timestamp": "2026-05-30T21:39:49",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "IAEA informed about drone attack against Zaporozhye plant",
+    "url": "https://tass.com/world/2139125"
+  },
+  {
     "id": "https://www.aljazeera.com/video/newsfeed/2026/5/30/lebanese-army-overly-stretched-to-fight-off-latest-israeli-invasion?traffic_source=rss",
     "timestamp": "2026-05-30T21:36:42",
     "source": "Al Jazeera",
@@ -38,6 +138,16 @@
     "region": "mena",
     "text": "Lebanese army \u2018overly stretched\u2019 to fight off latest Israeli invasion",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/lebanese-army-overly-stretched-to-fight-off-latest-israeli-invasion?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/world/2139123",
+    "timestamp": "2026-05-30T21:33:08",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "IAEA Director General expressed concerns in view of drone attack against nuclear plant",
+    "url": "https://tass.com/world/2139123"
   },
   {
     "id": "https://www.dw.com/en/psg-s-team-of-talents-retain-champions-league-title/a-77360206?maca=en-rss-en-all-1573-xml-mrss",
@@ -58,6 +168,16 @@
     "region": "mena",
     "text": "PSG beat Arsenal to win back-to-back Champions League titles after shootout",
     "url": "https://www.aljazeera.com/sports/2026/5/30/psg-beat-arsenal-to-win-back-to-back-champions-league-titles-after-shootout?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/politics/2139119",
+    "timestamp": "2026-05-30T20:58:21",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Zaporozhye NPP strike site is just few meters from reactor \u2014 official",
+    "url": "https://tass.com/politics/2139119"
   },
   {
     "id": "https://www.bbc.com/news/articles/c794g80lw74o?at_medium=RSS&at_campaign=rss",
@@ -88,6 +208,16 @@
     "region": "mena",
     "text": "Women bear the brunt of DRC\u2019s Ebola outbreak",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/women-bear-the-brunt-of-drcs-ebola-outbreak?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/sports/2139117",
+    "timestamp": "2026-05-30T20:25:54",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Dmitry Bivol defends two world boxing titles",
+    "url": "https://tass.com/sports/2139117"
   },
   {
     "id": "https://www.aljazeera.com/video/newsfeed/2026/5/30/putin-says-drone-that-crashed-in-romania-likely-ukrainian?traffic_source=rss",
@@ -4868,135 +4998,5 @@
     "region": "ru",
     "text": "Only Russia to manage Zaporozhye NPP \u2014 facility\u2019s director",
     "url": "https://tass.com/economy/2138291"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/5/29/us-treasury-secretary-confirms-plans-for-banknote-featuring-trumps-face?traffic_source=rss",
-    "timestamp": "2026-05-29T02:13:18",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "US Treasury secretary confirms plans for banknote featuring Trump\u2019s face",
-    "url": "https://www.aljazeera.com/news/2026/5/29/us-treasury-secretary-confirms-plans-for-banknote-featuring-trumps-face?traffic_source=rss"
-  },
-  {
-    "id": "https://www.dw.com/en/romania-russian-drone-strikes-galati-apartment-building/a-77338487?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-05-29T02:12:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Romania: Russian drone strikes Galati apartment building",
-    "url": "https://www.dw.com/en/romania-russian-drone-strikes-galati-apartment-building/a-77338487?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.theguardian.com/world/2026/may/29/who-chief-tedros-adhanom-ghebreyesus-drc-ebola-outbreak-epidemic",
-    "timestamp": "2026-05-29T02:10:11",
-    "source": "Guardian World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "WHO chief arrives in DRC promising Ebola outbreak \u2018can be stopped\u2019",
-    "url": "https://www.theguardian.com/world/2026/may/29/who-chief-tedros-adhanom-ghebreyesus-drc-ebola-outbreak-epidemic"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c1m215npjp2o?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-05-29T02:01:44",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Italy restores lucky testicles on bull mosaic worn down by tourists",
-    "url": "https://www.bbc.com/news/articles/c1m215npjp2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://tass.com/world/2138289",
-    "timestamp": "2026-05-29T01:45:01",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "US to do everything possible to bring Raul Castro to country \u2014 Justice Department",
-    "url": "https://tass.com/world/2138289"
-  },
-  {
-    "id": "https://www.france24.com/en/middle-east/20260529-middle-east-war-live-vance-says-us-and-iran-close-to-agreement-as-ceasefire-deal-reported",
-    "timestamp": "2026-05-29T01:39:31",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Middle East war live: Vance says US and Iran close to agreement as ceasefire deal reported",
-    "url": "https://www.france24.com/en/middle-east/20260529-middle-east-war-live-vance-says-us-and-iran-close-to-agreement-as-ceasefire-deal-reported"
-  },
-  {
-    "id": "https://www.france24.com/en/americas/20260529-us-designates-brazilian-crime-groups-as-terrorist-organisations",
-    "timestamp": "2026-05-29T01:17:47",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "US designates Brazilian crime groups as terrorist organisations",
-    "url": "https://www.france24.com/en/americas/20260529-us-designates-brazilian-crime-groups-as-terrorist-organisations"
-  },
-  {
-    "id": "https://tass.com/world/2138287",
-    "timestamp": "2026-05-29T01:13:25",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Israeli troops advancing on medieval Beaufort Castle in southern Lebanon \u2014 TV",
-    "url": "https://tass.com/world/2138287"
-  },
-  {
-    "id": "https://tass.com/world/2138285",
-    "timestamp": "2026-05-29T00:47:00",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Italian media mum on Rome's connection to drones that struck Starobelsk \u2014 journalist",
-    "url": "https://tass.com/world/2138285"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/5/29/us-to-designate-two-brazilian-gangs-as-terrorist-organisations?traffic_source=rss",
-    "timestamp": "2026-05-29T00:12:42",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "US to designate two Brazilian gangs as \u2018terrorist\u2019 organisations",
-    "url": "https://www.aljazeera.com/news/2026/5/29/us-to-designate-two-brazilian-gangs-as-terrorist-organisations?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/world/2138281",
-    "timestamp": "2026-05-29T00:02:00",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "US believes ceasefire with Iran remains in place \u2014 JD Vance",
-    "url": "https://tass.com/world/2138281"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/liveblog/2026/5/29/iran-war-live-tehran-trump-yet-to-comment-on-60-day-truce-extension-plan?traffic_source=rss",
-    "timestamp": "2026-05-29T00:00:00",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Iran war live: Tehran, Trump yet to comment on 60-day truce extension plan",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/5/29/iran-war-live-tehran-trump-yet-to-comment-on-60-day-truce-extension-plan?traffic_source=rss"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c172yyvp55do?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-05-28T23:56:50",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Survival before safety for Delhi's poor as temperatures hit 45C",
-    "url": "https://www.bbc.com/news/articles/c172yyvp55do?at_medium=RSS&at_campaign=rss"
   }
 ]
