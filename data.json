@@ -1,5 +1,65 @@
 [
   {
+    "id": "https://www.dw.com/en/mexico-mayor-shot-dead-in-oaxaca-state/a-77539742?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-06-13T23:01:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Mexico: Mayor shot dead in Oaxaca state",
+    "url": "https://www.dw.com/en/mexico-mayor-shot-dead-in-oaxaca-state/a-77539742?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://tass.com/world/2146125",
+    "timestamp": "2026-06-13T22:32:01",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "US to crack down on \u2018birth tourism\u2019 to country \u2014 State Department",
+    "url": "https://tass.com/world/2146125"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c5yz7gj4x3yo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-06-13T22:17:08",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Ticketmaster says Knicks fans won't be locked out of game after last-minute panic",
+    "url": "https://www.bbc.com/news/articles/c5yz7gj4x3yo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cpq3dnr5vlzo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-06-13T22:05:24",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Vincent's parents 'never say he's good enough' - so he turned to a middle-aged couple online",
+    "url": "https://www.bbc.com/news/articles/cpq3dnr5vlzo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://tass.com/economy/2146123",
+    "timestamp": "2026-06-13T22:00:00",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Issue with Power of Siberia 2 gas pipeline to be solved soon \u2014 envoy",
+    "url": "https://tass.com/economy/2146123"
+  },
+  {
+    "id": "https://www.dw.com/en/belfast-thousands-denounce-violence-at-anti-racism-rally/a-77539568?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-06-13T21:59:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Belfast: Thousands denounce violence at anti-racism rally",
+    "url": "https://www.dw.com/en/belfast-thousands-denounce-violence-at-anti-racism-rally/a-77539568?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
     "id": "https://www.france24.com/en/middle-east/20260613-middle-east-live-dozens-protest-peace-deal-outside-iran-foreign-ministry",
     "timestamp": "2026-06-13T21:44:18",
     "source": "France24",
@@ -20,6 +80,26 @@
     "url": "https://www.france24.com/en/sport/20260613-brazil-morocco-live-world-cup-2026-first-heavyweight-clash-in-group-stage"
   },
   {
+    "id": "https://tass.com/emergencies/2146119",
+    "timestamp": "2026-06-13T21:36:01",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Kherson Region suffers full power outage due to incident",
+    "url": "https://tass.com/emergencies/2146119"
+  },
+  {
+    "id": "https://www.aljazeera.com/sports/2026/6/13/qatar-net-dramatic-late-goal-to-draw-world-cup-opener-against-switzerland?traffic_source=rss",
+    "timestamp": "2026-06-13T21:29:10",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Qatar net late against Switzerland to secure historic first World Cup point",
+    "url": "https://www.aljazeera.com/sports/2026/6/13/qatar-net-dramatic-late-goal-to-draw-world-cup-opener-against-switzerland?traffic_source=rss"
+  },
+  {
     "id": "https://tass.com/sports/2146115",
     "timestamp": "2026-06-13T21:28:47",
     "source": "TASS English",
@@ -28,6 +108,16 @@
     "region": "ru",
     "text": "Swiss, Qatari national teams end FIFA World Cup match with a draw",
     "url": "https://tass.com/sports/2146115"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/6/13/thousands-mourn-thai-princess-as-body-taken-to-lie-in-state-in-bangkok?traffic_source=rss",
+    "timestamp": "2026-06-13T21:20:58",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Thousands mourn Thai princess as body taken to lie in state in Bangkok",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/thousands-mourn-thai-princess-as-body-taken-to-lie-in-state-in-bangkok?traffic_source=rss"
   },
   {
     "id": "https://www.france24.com/en/sport/20260613-world-cup-2026-qatar-stuns-switzerland-with-late-equaliser",
@@ -4908,95 +4998,5 @@
     "region": "global",
     "text": "'Acknowledging rights and needs of Israelis and Palestinians: Shared path towards a secure future'",
     "url": "https://www.france24.com/en/tv-shows/spotlight/20260612-acknowledging-rights-and-needs-of-israelis-and-palestinians-shared-path-towards-a-safer-future"
-  },
-  {
-    "id": "https://tass.com/politics/2145779",
-    "timestamp": "2026-06-12T05:02:02",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russia still waits for US to appoint its ambassador to Moscow \u2014 Ambassador Darchiev",
-    "url": "https://tass.com/politics/2145779"
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cewpwjr9rj4o?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-06-12T05:01:48",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "'They destroyed the future': Palestinian anger at rise in Israeli demolitions in East Jerusalem",
-    "url": "https://www.bbc.com/news/articles/cewpwjr9rj4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/6/12/south-korea-vs-czechia-world-cup-2026-oh-hyeon-gyu-hwang-in-beom?traffic_source=rss",
-    "timestamp": "2026-06-12T04:52:50",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "South Korea stage late comeback to beat Czechia on World Cup opening day",
-    "url": "https://www.aljazeera.com/sports/2026/6/12/south-korea-vs-czechia-world-cup-2026-oh-hyeon-gyu-hwang-in-beom?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/politics/2145775",
-    "timestamp": "2026-06-12T04:48:32",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russia-US relations hit bottom but were restored later \u2014 Ambassador Darchiev",
-    "url": "https://tass.com/politics/2145775"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/6/12/peruvian-police-dress-as-world-cup-mascots-to-fool-suspected-drug-dealer?traffic_source=rss",
-    "timestamp": "2026-06-12T04:48:04",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Peruvian police dress as World Cup mascots to fool suspected drug dealer",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/peruvian-police-dress-as-world-cup-mascots-to-fool-suspected-drug-dealer?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/6/12/iran-weighs-proposed-deal-but-remains-wary-of-us-intentions?traffic_source=rss",
-    "timestamp": "2026-06-12T04:45:50",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Iran weighs proposed deal but remains wary of US intentions",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/iran-weighs-proposed-deal-but-remains-wary-of-us-intentions?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/asia-pacific/20260612-south-korea-sentences-ex-president-yoon-to-30-years-over-north-korea-drone-incident",
-    "timestamp": "2026-06-12T04:33:12",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "South Korea sentences ex-president Yoon to 30 years over North Korea drone incident",
-    "url": "https://www.france24.com/en/asia-pacific/20260612-south-korea-sentences-ex-president-yoon-to-30-years-over-north-korea-drone-incident"
-  },
-  {
-    "id": "https://www.france24.com/en/sport/20260612-south-korea-defeat-czech-republic-to-make-strong-world-cup-start",
-    "timestamp": "2026-06-12T04:15:15",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "South Korea defeat Czech Republic to make strong World Cup start",
-    "url": "https://www.france24.com/en/sport/20260612-south-korea-defeat-czech-republic-to-make-strong-world-cup-start"
-  },
-  {
-    "id": "https://www.dw.com/en/south-korea-ex-president-yoon-gets-30-years-for-sending-drones-into-north-korea/a-77516214?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-06-12T03:57:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "South Korea: Ex-President Yoon gets 30 years for sending drones into North Korea",
-    "url": "https://www.dw.com/en/south-korea-ex-president-yoon-gets-30-years-for-sending-drones-into-north-korea/a-77516214?maca=en-rss-en-all-1573-xml-mrss"
   }
 ]
