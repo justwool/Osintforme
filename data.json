@@ -1,5 +1,75 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-06-13T18:03:51",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "US-Iran deal scheduled to be signed on Sunday, says Trump",
+    "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://tass.com/world/2146095",
+    "timestamp": "2026-06-13T17:56:32",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Number of victims of Israeli strikes on Lebanon increases to 3,756 \u2014 Health Ministry",
+    "url": "https://tass.com/world/2146095"
+  },
+  {
+    "id": "https://www.dw.com/en/nigeria-abducted-former-general-dies-in-captivity/a-77538322?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-06-13T17:36:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Nigeria: Abducted former general dies in captivity",
+    "url": "https://www.dw.com/en/nigeria-abducted-former-general-dies-in-captivity/a-77538322?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.aljazeera.com/sports/liveblog/2026/6/13/live-qatar-vs-switzerland-world-cup-2026?traffic_source=rss",
+    "timestamp": "2026-06-13T17:31:36",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Qatar vs Switzerland live \u2013 World Cup 2026",
+    "url": "https://www.aljazeera.com/sports/liveblog/2026/6/13/live-qatar-vs-switzerland-world-cup-2026?traffic_source=rss"
+  },
+  {
+    "id": "https://www.france24.com/en/france/20260613-macron-to-meet-trump-at-the-palace-of-versailles-after-g7-summit-in-france",
+    "timestamp": "2026-06-13T17:24:24",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Macron to meet Trump at the Palace of Versailles after G7 summit in France",
+    "url": "https://www.france24.com/en/france/20260613-macron-to-meet-trump-at-the-palace-of-versailles-after-g7-summit-in-france"
+  },
+  {
+    "id": "https://www.dw.com/en/gold-rush-atmosphere-at-berlin-s-military-air-trade-show/a-77538303?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-06-13T17:21:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Gold rush atmosphere at Berlin's military air trade show",
+    "url": "https://www.dw.com/en/gold-rush-atmosphere-at-berlin-s-military-air-trade-show/a-77538303?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/6/13/gaza-pet-owners-struggle-to-keep-animals-healthy-amid-vet-crisis?traffic_source=rss",
+    "timestamp": "2026-06-13T17:10:49",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Gaza pet owners struggle to keep animals healthy amid vet crisis",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/gaza-pet-owners-struggle-to-keep-animals-healthy-amid-vet-crisis?traffic_source=rss"
+  },
+  {
     "id": "https://tass.com/world/2146079",
     "timestamp": "2026-06-13T16:55:00",
     "source": "TASS English",
@@ -890,6 +960,16 @@
     "url": "https://www.aljazeera.com/news/2026/6/13/us-orders-anthropic-to-disable-ai-models-for-all-foreign-nationals?traffic_source=rss"
   },
   {
+    "id": "https://www.dw.com/en/iran-war-trump-says-deal-with-iran-to-be-signed-on-sunday/live-77535647?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-06-13T09:27:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Iran war: Trump says deal with Iran to be signed on Sunday",
+    "url": "https://www.dw.com/en/iran-war-trump-says-deal-with-iran-to-be-signed-on-sunday/live-77535647?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
     "id": "https://www.dw.com/en/iran-war-pakistan-pm-says-peace-deal-expected-in-24-hours/live-77535647?maca=en-rss-en-all-1573-xml-mrss",
     "timestamp": "2026-06-13T09:27:00",
     "source": "DW World",
@@ -1168,6 +1248,16 @@
     "region": "mena",
     "text": "\u2018A dream come true\u2019: Fans revel as US win World Cup opener on home soil",
     "url": "https://www.aljazeera.com/sports/2026/6/13/dream-come-true-world-cup-fever-ignites-los-angeles-as-usa-beat-paraguay?traffic_source=rss"
+  },
+  {
+    "id": "https://www.dw.com/en/mercenaries-and-high-profile-defectors-abound-in-sudan-war/a-77530527?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-06-13T06:13:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Mercenaries and high-profile defectors abound in Sudan war",
+    "url": "https://www.dw.com/en/mercenaries-and-high-profile-defectors-abound-in-sudan-war/a-77530527?maca=en-rss-en-all-1573-xml-mrss"
   },
   {
     "id": "https://www.dw.com/en/sudan-war-uae-denies-supporting-rsf-and-colombian-recruits/a-77530527?maca=en-rss-en-all-1573-xml-mrss",
@@ -4908,95 +4998,5 @@
     "region": "global",
     "text": "Why the economics make this the craziest World Cup ever",
     "url": "https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/video/20260611-world-cup-2026-mexican-fans-celebrate-first-win",
-    "timestamp": "2026-06-11T23:00:30",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "World Cup 2026: Mexican fans celebrate first win",
-    "url": "https://www.france24.com/en/video/20260611-world-cup-2026-mexican-fans-celebrate-first-win"
-  },
-  {
-    "id": "https://www.aljazeera.com/economy/2026/6/11/musks-1-8-trillion-spacex-ipo-could-be-highly-undesirable-for-some?traffic_source=rss",
-    "timestamp": "2026-06-11T23:00:16",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Musk\u2019s $1.8 trillion SpaceX IPO could be \u2018highly undesirable\u2019 for some",
-    "url": "https://www.aljazeera.com/economy/2026/6/11/musks-1-8-trillion-spacex-ipo-could-be-highly-undesirable-for-some?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/sports/2145751",
-    "timestamp": "2026-06-11T22:57:10",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Mexico defeats South Africa 2-0 in 2026 FIFA World Cup inaugural match",
-    "url": "https://tass.com/sports/2145751"
-  },
-  {
-    "id": "https://news.usni.org/2026/06/11/taiwan-tests-himars-missiles-on-islands-west-coast-in-major-live-fire-drills",
-    "timestamp": "2026-06-11T22:21:54",
-    "source": "USNI News",
-    "platform": "rss",
-    "category": "naval",
-    "region": "global",
-    "text": "Taiwan Tests HIMARS Missiles on Island\u2019s West Coast in Major Live-fire Drills",
-    "url": "https://news.usni.org/2026/06/11/taiwan-tests-himars-missiles-on-islands-west-coast-in-major-live-fire-drills"
-  },
-  {
-    "id": "https://tass.com/defense/2145749",
-    "timestamp": "2026-06-11T22:18:56",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Kiev troops bombard Donetsk People\u2019s Republic ten times over past day",
-    "url": "https://tass.com/defense/2145749"
-  },
-  {
-    "id": "https://news.usni.org/2026/06/11/u-s-disables-3-tankers-as-part-of-iranian-blockade-3-mariners-killed-in-tuesday-strike",
-    "timestamp": "2026-06-11T22:13:36",
-    "source": "USNI News",
-    "platform": "rss",
-    "category": "naval",
-    "region": "global",
-    "text": "U.S. Disables 3 Tankers As Part of Iranian Blockade, 3 Mariners Killed in Tuesday Strike",
-    "url": "https://news.usni.org/2026/06/11/u-s-disables-3-tankers-as-part-of-iranian-blockade-3-mariners-killed-in-tuesday-strike"
-  },
-  {
-    "id": "https://tass.com/world/2145745",
-    "timestamp": "2026-06-11T22:00:59",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Trump cannot imagine US-Iran would not sign settlement",
-    "url": "https://tass.com/world/2145745"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/6/11/us-lawmakers-press-israel-to-let-cancer-patients-out-of-gaza-for-treatment?traffic_source=rss",
-    "timestamp": "2026-06-11T21:49:27",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "US lawmakers press Israel to let cancer patients out of Gaza for treatment",
-    "url": "https://www.aljazeera.com/news/2026/6/11/us-lawmakers-press-israel-to-let-cancer-patients-out-of-gaza-for-treatment?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/middle-east/20260611-trump-says-iran-peace-deal-is-near-after-threatening-new-strikes",
-    "timestamp": "2026-06-11T21:47:25",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Trump says Iran peace deal is near after threatening new strikes",
-    "url": "https://www.france24.com/en/middle-east/20260611-trump-says-iran-peace-deal-is-near-after-threatening-new-strikes"
   }
 ]
