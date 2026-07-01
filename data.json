@@ -1,5 +1,415 @@
 [
   {
+    "id": "https://news.usni.org/2026/07/01/u-s-partners-wrap-exercise-valiant-shield",
+    "timestamp": "2026-07-01T19:18:45",
+    "source": "USNI News",
+    "platform": "rss",
+    "category": "naval",
+    "region": "global",
+    "text": "U.S., Partners Wrap Exercise Valiant Shield",
+    "url": "https://news.usni.org/2026/07/01/u-s-partners-wrap-exercise-valiant-shield"
+  },
+  {
+    "id": "https://www.dw.com/en/how-cryptocurrencies-are-changing-global-politics/a-77789664?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-07-01T19:17:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "How cryptocurrencies are changing global politics",
+    "url": "https://www.dw.com/en/how-cryptocurrencies-are-changing-global-politics/a-77789664?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.france24.com/en/raids-in-europe-over-alleged-far-right-embezzlement-eu-prosecutors",
+    "timestamp": "2026-07-01T19:16:05",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Raids in Europe over alleged far-right embezzlement: EU prosecutors",
+    "url": "https://www.france24.com/en/raids-in-europe-over-alleged-far-right-embezzlement-eu-prosecutors"
+  },
+  {
+    "id": "https://www.dw.com/en/2-arrested-after-apparent-empire-state-building-proposal/a-77792914?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-07-01T19:11:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "2 arrested after apparent Empire State Building proposal",
+    "url": "https://www.dw.com/en/2-arrested-after-apparent-empire-state-building-proposal/a-77792914?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.france24.com/en/americas/20260701-venezuela-death-toll-rises-to-2-295-seven-days-of-national-mourning-declared",
+    "timestamp": "2026-07-01T19:04:02",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "\ud83d\udd34 Venezuela death toll rises to 2,295, seven days of national mourning declared",
+    "url": "https://www.france24.com/en/americas/20260701-venezuela-death-toll-rises-to-2-295-seven-days-of-national-mourning-declared"
+  },
+  {
+    "id": "https://tass.com/society/2154167",
+    "timestamp": "2026-07-01T19:03:18",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Venezuela declares seven-day national mourning for earthquake victims",
+    "url": "https://tass.com/society/2154167"
+  },
+  {
+    "id": "https://www.twz.com/air/new-su-57-weapons-configuration-points-to-drone-and-cruise-missile-defense-mission",
+    "timestamp": "2026-07-01T18:53:30",
+    "source": "The Drive WarZone",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "New Su-57 Weapons Configuration Points To Drone And Cruise Missile Defense Mission",
+    "url": "https://www.twz.com/air/new-su-57-weapons-configuration-points-to-drone-and-cruise-missile-defense-mission"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c3eywl0eq29o?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-07-01T18:52:22",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Greek politician's mother dies of wounds after arson attack",
+    "url": "https://www.bbc.co.uk/news/articles/c3eywl0eq29o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/07/01/ukraine-says-it-has-donetsk-airport-under-fire-control-satellite-images-show-russia-building-there-anyway/",
+    "timestamp": "2026-07-01T18:51:53",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Ukraine says it has Donetsk airport under \u201cfire control.\u201d Satellite images show Russia building there anyway",
+    "url": "https://euromaidanpress.com/2026/07/01/ukraine-says-it-has-donetsk-airport-under-fire-control-satellite-images-show-russia-building-there-anyway/"
+  },
+  {
+    "id": "https://tass.com/society/2154163",
+    "timestamp": "2026-07-01T18:49:20",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "EEF participants may visit Russia without visas from August 28 to September 6",
+    "url": "https://tass.com/society/2154163"
+  },
+  {
+    "id": "https://www.france24.com/en/everybody-s-profiting-trump-defends-1-4-bn-crypto-earnings",
+    "timestamp": "2026-07-01T18:47:07",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "'Everybody's profiting': Trump defends $1.4 bn crypto earnings",
+    "url": "https://www.france24.com/en/everybody-s-profiting-trump-defends-1-4-bn-crypto-earnings"
+  },
+  {
+    "id": "https://www.militarytimes.com/pay-benefits/2026/07/01/heres-where-the-services-stand-in-cutting-pcs-moves/",
+    "timestamp": "2026-07-01T18:47:00",
+    "source": "Military Times",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Here\u2019s where the services stand in cutting PCS moves",
+    "url": "https://www.militarytimes.com/pay-benefits/2026/07/01/heres-where-the-services-stand-in-cutting-pcs-moves/"
+  },
+  {
+    "id": "https://www.theguardian.com/us-news/2026/jul/01/trump-usmca-trade-treaty",
+    "timestamp": "2026-07-01T18:46:54",
+    "source": "Guardian World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Trump refuses to renew US-Canada-Mexico trade pact he once championed",
+    "url": "https://www.theguardian.com/us-news/2026/jul/01/trump-usmca-trade-treaty"
+  },
+  {
+    "id": "https://www.aljazeera.com/features/longform/2026/7/1/as-venezuela-responds-to-earthquake-devastation-volunteers-take-charge?traffic_source=rss",
+    "timestamp": "2026-07-01T18:42:31",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "As Venezuela responds to earthquake devastation, volunteers take charge",
+    "url": "https://www.aljazeera.com/features/longform/2026/7/1/as-venezuela-responds-to-earthquake-devastation-volunteers-take-charge?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/economy/2154161",
+    "timestamp": "2026-07-01T18:42:28",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Oil shipments through Strait of Hormuz rise to 10 mln barrels per day \u2014 media",
+    "url": "https://tass.com/economy/2154161"
+  },
+  {
+    "id": "https://tass.com/politics/2154157",
+    "timestamp": "2026-07-01T18:37:20",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Transfer of Kiev\u2019s military firms to West turns inhabitants into 'human shield' \u2014 diplomat",
+    "url": "https://tass.com/politics/2154157"
+  },
+  {
+    "id": "https://tass.com/world/2154155",
+    "timestamp": "2026-07-01T18:35:40",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "France\u2019s National Assembly approves hike in military budget",
+    "url": "https://tass.com/world/2154155"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/1/one-week-on-from-venezuelas-deadly-earthquakes?traffic_source=rss",
+    "timestamp": "2026-07-01T18:35:39",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "One week on from Venezuela\u2019s deadly earthquakes",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/one-week-on-from-venezuelas-deadly-earthquakes?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/sports/2154153",
+    "timestamp": "2026-07-01T18:33:05",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "England advances to World Cup round of 16",
+    "url": "https://tass.com/sports/2154153"
+  },
+  {
+    "id": "https://www.aljazeera.com/sports/2026/7/1/kane-double-fires-england-to-comeback-win-over-dr-congo-at-world-cup-2026?traffic_source=rss",
+    "timestamp": "2026-07-01T18:23:52",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Kane double fires England to comeback win over DR Congo at World Cup 2026",
+    "url": "https://www.aljazeera.com/sports/2026/7/1/kane-double-fires-england-to-comeback-win-over-dr-congo-at-world-cup-2026?traffic_source=rss"
+  },
+  {
+    "id": "https://www.france24.com/en/tv-shows/the-debate/20260701-iran-after-khamenei-what-direction-after-supreme-leader-s-funeral",
+    "timestamp": "2026-07-01T18:22:37",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Iran after Khamenei: What direction after Supreme Leader's funeral?",
+    "url": "https://www.france24.com/en/tv-shows/the-debate/20260701-iran-after-khamenei-what-direction-after-supreme-leader-s-funeral"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c33yjk0ldkdo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-07-01T18:19:32",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Ukrainian charged in Germany over Nord Stream blasts",
+    "url": "https://www.bbc.co.uk/news/articles/c33yjk0ldkdo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://taskandpurpose.com/news/navy-heliciopter-crash-2026/",
+    "timestamp": "2026-07-01T18:14:51",
+    "source": "Task & Purpose",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Search underway for missing crew member after helicopter crashes in Arabian Sea",
+    "url": "https://taskandpurpose.com/news/navy-heliciopter-crash-2026/"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/07/01/ukraine-opened-a-criminal-case-over-25-non-combat-deaths-at-its-largest-assault-regiment-serving-soldiers-response-was-to-call-reporter-media-killer/",
+    "timestamp": "2026-07-01T18:14:42",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Ukraine opened a criminal case over 25 non-combat deaths at its largest assault regiment. Serving soldier\u2019s response was to call reporter \u201cmedia killer\u201d",
+    "url": "https://euromaidanpress.com/2026/07/01/ukraine-opened-a-criminal-case-over-25-non-combat-deaths-at-its-largest-assault-regiment-serving-soldiers-response-was-to-call-reporter-media-killer/"
+  },
+  {
+    "id": "https://tass.com/society/2154149",
+    "timestamp": "2026-07-01T18:09:26",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "TASS launches French-language TASS Africa Telegram channel",
+    "url": "https://tass.com/society/2154149"
+  },
+  {
+    "id": "https://www.militarytimes.com/veterans/2026/07/01/va-uses-hundreds-of-ai-systems-veterans-may-not-know-when-theyre-involved/",
+    "timestamp": "2026-07-01T18:09:21",
+    "source": "Military Times",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "VA uses hundreds of AI systems. Veterans may not know when they\u2019re involved.",
+    "url": "https://www.militarytimes.com/veterans/2026/07/01/va-uses-hundreds-of-ai-systems-veterans-may-not-know-when-theyre-involved/"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/1/how-ai-is-being-weaponised-against-indias-muslim-women?traffic_source=rss",
+    "timestamp": "2026-07-01T18:06:32",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "How AI is being weaponised against India\u2019s Muslim women",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/how-ai-is-being-weaponised-against-indias-muslim-women?traffic_source=rss"
+  },
+  {
+    "id": "https://www.france24.com/en/sport/20260701-world-cup-2026-england-survive-dr-congo-scare-as-kane-s-late-double-sinks-heroic-mpasi",
+    "timestamp": "2026-07-01T18:06:08",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "World Cup 2026: England survive DR Congo scare as Kane\u2019s late double sinks heroic Mpasi",
+    "url": "https://www.france24.com/en/sport/20260701-world-cup-2026-england-survive-dr-congo-scare-as-kane-s-late-double-sinks-heroic-mpasi"
+  },
+  {
+    "id": "https://tass.com/world/2154147",
+    "timestamp": "2026-07-01T18:04:07",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Kiev announces mechanism of controlled weapons export",
+    "url": "https://tass.com/world/2154147"
+  },
+  {
+    "id": "https://news.usni.org/2026/07/01/sailor-missing-after-helo-assigned-to-uss-george-h-w-bush-ditches-in-arabian-sea",
+    "timestamp": "2026-07-01T17:59:42",
+    "source": "USNI News",
+    "platform": "rss",
+    "category": "naval",
+    "region": "global",
+    "text": "Sailor Missing After Helo Assigned to USS George H.W. Bush Ditches in Arabian Sea",
+    "url": "https://news.usni.org/2026/07/01/sailor-missing-after-helo-assigned-to-uss-george-h-w-bush-ditches-in-arabian-sea"
+  },
+  {
+    "id": "https://www.aljazeera.com/economy/2026/7/1/us-says-it-wont-agree-to-renew-usmca?traffic_source=rss",
+    "timestamp": "2026-07-01T17:59:05",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "US says it won\u2019t agree to renew USMCA",
+    "url": "https://www.aljazeera.com/economy/2026/7/1/us-says-it-wont-agree-to-renew-usmca?traffic_source=rss"
+  },
+  {
+    "id": "https://www.defenseone.com/business/2026/07/defense-business-brief-radar-makers-answer-drone-boom-armys-private-capital-appetite-one-lawmakers-caution-contractors/414570/",
+    "timestamp": "2026-07-01T17:55:23",
+    "source": "Defense One",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Defense Business Brief: A radar-maker\u2019s answer to the drone boom; the Army\u2019s private capital appetite; One lawmaker\u2019s caution for contractors",
+    "url": "https://www.defenseone.com/business/2026/07/defense-business-brief-radar-makers-answer-drone-boom-armys-private-capital-appetite-one-lawmakers-caution-contractors/414570/"
+  },
+  {
+    "id": "https://tass.com/emergencies/2154143",
+    "timestamp": "2026-07-01T17:55:11",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Ukrainian drone with explosives crashes in Turkey\u2019s Trabzon Province \u2014 newspaper",
+    "url": "https://tass.com/emergencies/2154143"
+  },
+  {
+    "id": "https://tass.com/world/2154141",
+    "timestamp": "2026-07-01T17:52:54",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Germany accuses suspect in Nord Streams bombings of war crime \u2014 TV",
+    "url": "https://tass.com/world/2154141"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/1/three-dead-after-massive-world-cup-celebrations-in-mexico-city?traffic_source=rss",
+    "timestamp": "2026-07-01T17:45:52",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Three dead after massive World Cup celebrations in Mexico City",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/three-dead-after-massive-world-cup-celebrations-in-mexico-city?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/politics/2154139",
+    "timestamp": "2026-07-01T17:45:46",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Lavrov, Red Cross head sum up work on verifying data on crimes in Kiev \u2014 MFA",
+    "url": "https://tass.com/politics/2154139"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/1/world-cup-2026-faith-and-football?traffic_source=rss",
+    "timestamp": "2026-07-01T17:42:09",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "World Cup 2026: Faith and football",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/world-cup-2026-faith-and-football?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/inside-story/2026/7/1/can-sudans-rapid-support-forces-take-control-of-el-obeid?traffic_source=rss",
+    "timestamp": "2026-07-01T17:39:02",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Can Sudan\u2019s Rapid Support Forces take control of el-Obeid?",
+    "url": "https://www.aljazeera.com/video/inside-story/2026/7/1/can-sudans-rapid-support-forces-take-control-of-el-obeid?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/7/1/psychological-toll-mounts-as-lebanese-villages-erased-by-israels-war?traffic_source=rss",
+    "timestamp": "2026-07-01T17:36:09",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Psychological toll mounts as Lebanese villages erased by Israel\u2019s war",
+    "url": "https://www.aljazeera.com/news/2026/7/1/psychological-toll-mounts-as-lebanese-villages-erased-by-israels-war?traffic_source=rss"
+  },
+  {
+    "id": "https://www.militarytimes.com/news/your-navy/2026/07/01/us-navy-aviator-missing-after-helicopter-makes-emergency-landing-in-arabian-sea/",
+    "timestamp": "2026-07-01T17:34:55",
+    "source": "Military Times",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "US Navy aviator missing after helicopter makes emergency landing in Arabian Sea",
+    "url": "https://www.militarytimes.com/news/your-navy/2026/07/01/us-navy-aviator-missing-after-helicopter-makes-emergency-landing-in-arabian-sea/"
+  },
+  {
+    "id": "https://www.defensenews.com/news/pentagon-congress/2026/07/01/pentagons-push-to-field-weapons-faster-risks-outrunning-its-own-oversight-watchdog-finds/",
+    "timestamp": "2026-07-01T17:34:53",
+    "source": "Defense News",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Pentagon\u2019s push to field weapons faster risks outrunning its own oversight, watchdog finds",
+    "url": "https://www.defensenews.com/news/pentagon-congress/2026/07/01/pentagons-push-to-field-weapons-faster-risks-outrunning-its-own-oversight-watchdog-finds/"
+  },
+  {
     "id": "https://warontherocks.com/from-shin-bet-to-mossad-netanyahu-reshapes-israeli-intelligence/",
     "timestamp": "2026-07-01T17:30:40",
     "source": "War on the Rocks",
@@ -4588,415 +4998,5 @@
     "region": "global",
     "text": "U.S. Marines Use Commercial\u00a0Ferries to Haul Anti-ship Missiles Across the Philippines",
     "url": "https://news.usni.org/2026/06/30/u-s-marines-use-commercial-ferries-to-haul-anti-ship-missiles-across-the-philippines"
-  },
-  {
-    "id": "https://tass.com/world/2153671",
-    "timestamp": "2026-06-30T15:59:48",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Top Cuban diplomat points to lack of progress in talks with US",
-    "url": "https://tass.com/world/2153671"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/6/30/heavy-rainfall-kills-dozens-in-ghana-ivory-coast?traffic_source=rss",
-    "timestamp": "2026-06-30T15:54:52",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Heavy rainfall kills dozens in Ghana, Ivory Coast",
-    "url": "https://www.aljazeera.com/news/2026/6/30/heavy-rainfall-kills-dozens-in-ghana-ivory-coast?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/politics/2153669",
-    "timestamp": "2026-06-30T15:52:26",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Kiev's sponsors refuse to respond to deaths of children in Russia in airstrikes \u2014 MP",
-    "url": "https://tass.com/politics/2153669"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/liveblog/2026/6/30/ivory-coast-vs-norway-live-fifa-world-cup-2026?traffic_source=rss",
-    "timestamp": "2026-06-30T15:51:21",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Ivory Coast vs Norway LIVE: FIFA World Cup 2026",
-    "url": "https://www.aljazeera.com/sports/liveblog/2026/6/30/ivory-coast-vs-norway-live-fifa-world-cup-2026?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/economy/2153667",
-    "timestamp": "2026-06-30T15:43:52",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Lukoil refinery in Bulgaria granted right to buy oil from Swiss counterparties",
-    "url": "https://tass.com/economy/2153667"
-  },
-  {
-    "id": "https://taskandpurpose.com/news/navy-juneau-sunk-2026/",
-    "timestamp": "2026-06-30T15:33:57",
-    "source": "Task & Purpose",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "This is the moment the Navy\u2019s USS Juneau was sunk in the name of training",
-    "url": "https://taskandpurpose.com/news/navy-juneau-sunk-2026/"
-  },
-  {
-    "id": "https://www.defensenews.com/industry/techwatch/2026/06/30/socom-is-seeking-a-long-range-kamikaze-drone/",
-    "timestamp": "2026-06-30T15:33:27",
-    "source": "Defense News",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "SOCOM is seeking a long-range kamikaze drone",
-    "url": "https://www.defensenews.com/industry/techwatch/2026/06/30/socom-is-seeking-a-long-range-kamikaze-drone/"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/6/30/scotus-rules-against-trumps-order-limiting-birthright-citizenship?traffic_source=rss",
-    "timestamp": "2026-06-30T15:25:09",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "SCOTUS rules against Trump\u2019s order limiting birthright citizenship",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/scotus-rules-against-trumps-order-limiting-birthright-citizenship?traffic_source=rss"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/06/30/germany-spent-years-weaning-itself-off-russian-energy-afds-weidel-wants-to-turn-back-after-more-than-decade-of-russia-killing-ukrainians/",
-    "timestamp": "2026-06-30T15:24:35",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Germany spent years weaning itself off Russian energy. AfD\u2019s Weidel wants to turn back after more than decade of Russia killing Ukrainians",
-    "url": "https://euromaidanpress.com/2026/06/30/germany-spent-years-weaning-itself-off-russian-energy-afds-weidel-wants-to-turn-back-after-more-than-decade-of-russia-killing-ukrainians/"
-  },
-  {
-    "id": "https://breakingdefense.com/2026/06/how-ukraines-military-is-adapting-after-four-years-of-war-with-russia/",
-    "timestamp": "2026-06-30T15:21:44",
-    "source": "Breaking Defense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "How Ukraine\u2019s military is adapting after four years of war with Russia",
-    "url": "https://breakingdefense.com/2026/06/how-ukraines-military-is-adapting-after-four-years-of-war-with-russia/"
-  },
-  {
-    "id": "https://www.france24.com/en/tv-shows/arts24/20260630-photographer-daniel-malikyar-from-la-subculture-to-remote-afghanistan",
-    "timestamp": "2026-06-30T15:15:45",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Photographer Daniel Malikyar: From LA subculture to remote Afghanistan",
-    "url": "https://www.france24.com/en/tv-shows/arts24/20260630-photographer-daniel-malikyar-from-la-subculture-to-remote-afghanistan"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cj40x888d9go?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-06-30T15:15:09",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "US Supreme Court upholds bans on transgender women in female school and college sports",
-    "url": "https://www.bbc.co.uk/news/articles/cj40x888d9go?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://tass.com/world/2153653",
-    "timestamp": "2026-06-30T15:13:47",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Head of Lebanese parliament vows to unite opponents of agreement with Israel",
-    "url": "https://tass.com/world/2153653"
-  },
-  {
-    "id": "https://tass.com/economy/2153659",
-    "timestamp": "2026-06-30T15:13:41",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian labor market cooling down \u2014 economy minister",
-    "url": "https://tass.com/economy/2153659"
-  },
-  {
-    "id": "https://tass.com/economy/2153655",
-    "timestamp": "2026-06-30T15:11:44",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "India extends customs duty exemption on petrochemical imports until July 15",
-    "url": "https://tass.com/economy/2153655"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/6/30/monaco-prosecutors-say-no-terror-evidence-after-blast-suspect-at-large?traffic_source=rss",
-    "timestamp": "2026-06-30T15:06:12",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Monaco prosecutors say no \u2018terror\u2019 evidence after blast, suspect at large",
-    "url": "https://www.aljazeera.com/news/2026/6/30/monaco-prosecutors-say-no-terror-evidence-after-blast-suspect-at-large?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/world/2153651",
-    "timestamp": "2026-06-30T15:05:23",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Cuba requests UNGA meeting on July 7 over need to end US blockade \u2014 top diplomat",
-    "url": "https://tass.com/world/2153651"
-  },
-  {
-    "id": "https://tass.com/economy/2153649",
-    "timestamp": "2026-06-30T15:03:46",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "VTB may again consider opening of bank in Iran \u2014 CEO",
-    "url": "https://tass.com/economy/2153649"
-  },
-  {
-    "id": "https://www.france24.com/en/video/20260630-venezuela-la-guaira-still-in-shock-five-days-after-devastating-earthquakes",
-    "timestamp": "2026-06-30T15:00:48",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Venezuela: La Guaira still in shock five days after devastating earthquakes",
-    "url": "https://www.france24.com/en/video/20260630-venezuela-la-guaira-still-in-shock-five-days-after-devastating-earthquakes"
-  },
-  {
-    "id": "https://www.france24.com/en/americas/20260630-us-supreme-court-rejects-trump-s-attempt-to-restrict-birthright-citizenship",
-    "timestamp": "2026-06-30T14:58:06",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "US Supreme Court rejects Trump's attempt to restrict birthright citizenship",
-    "url": "https://www.france24.com/en/americas/20260630-us-supreme-court-rejects-trump-s-attempt-to-restrict-birthright-citizenship"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/6/30/iran-to-hold-talks-with-qatar-on-mou-deal-with-us-frozen-assets?traffic_source=rss",
-    "timestamp": "2026-06-30T14:57:21",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Iran to hold talks with Qatar on MoU deal with US, frozen assets",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/iran-to-hold-talks-with-qatar-on-mou-deal-with-us-frozen-assets?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/world/2153645",
-    "timestamp": "2026-06-30T14:56:57",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "US to spend $4 bln to upgrade military bases in UK \u2014 media",
-    "url": "https://tass.com/world/2153645"
-  },
-  {
-    "id": "https://www.defensenews.com/global/europe/2026/06/30/latvia-and-ukraine-to-open-drone-factory-right-on-baltic-nations-border-with-russia/",
-    "timestamp": "2026-06-30T14:55:30",
-    "source": "Defense News",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Latvia and Ukraine to open drone factory right on Baltic nation\u2019s border with Russia",
-    "url": "https://www.defensenews.com/global/europe/2026/06/30/latvia-and-ukraine-to-open-drone-factory-right-on-baltic-nations-border-with-russia/"
-  },
-  {
-    "id": "https://tass.com/economy/2153643",
-    "timestamp": "2026-06-30T14:51:11",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Indians working in Russia estimated at more than 70,000 \u2014 diplomat",
-    "url": "https://tass.com/economy/2153643"
-  },
-  {
-    "id": "https://www.gov.uk/government/speeches/defence-investment-plan-oral-statement",
-    "timestamp": "2026-06-30T14:48:43",
-    "source": "UK MoD",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Defence Investment Plan - Oral Statement",
-    "url": "https://www.gov.uk/government/speeches/defence-investment-plan-oral-statement"
-  },
-  {
-    "id": "https://www.militarytimes.com/news/your-military/2026/06/30/inside-the-marine-corps-call-of-duty-training-experiment/",
-    "timestamp": "2026-06-30T14:48:27",
-    "source": "Military Times",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Inside the Marine Corps\u2019 Call of Duty training experiment",
-    "url": "https://www.militarytimes.com/news/your-military/2026/06/30/inside-the-marine-corps-call-of-duty-training-experiment/"
-  },
-  {
-    "id": "https://tass.com/world/2153639",
-    "timestamp": "2026-06-30T14:42:39",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Israeli army eliminates Islamic Jihad commander involved in hostage-taking",
-    "url": "https://tass.com/world/2153639"
-  },
-  {
-    "id": "https://tass.com/emergencies/2153637",
-    "timestamp": "2026-06-30T14:40:30",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Forest fires engulf 69 acres in Sevastopol following Ukrainian UAVs\u2019 downing",
-    "url": "https://tass.com/emergencies/2153637"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/6/30/us-supreme-court-rules-against-trump-order-to-end-birthright-citizenship?traffic_source=rss",
-    "timestamp": "2026-06-30T14:40:17",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "US Supreme Court rules against Trump order to end birthright citizenship",
-    "url": "https://www.aljazeera.com/news/2026/6/30/us-supreme-court-rules-against-trump-order-to-end-birthright-citizenship?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/politics/2153553",
-    "timestamp": "2026-06-30T14:40:04",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian troops liberate three communities in Ukraine operation over past day \u2014 top brass",
-    "url": "https://tass.com/politics/2153553"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/videos/c9w2nprzq5ro?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-06-30T14:37:54",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Supreme Court's birthright ruling is major blow to Trump",
-    "url": "https://www.bbc.co.uk/news/videos/c9w2nprzq5ro?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.dw.com/en/us-top-court-backs-birthright-citizenship-in-rebuke-to-trump/a-77774454?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-06-30T14:37:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "US top court backs birthright citizenship in rebuke to Trump",
-    "url": "https://www.dw.com/en/us-top-court-backs-birthright-citizenship-in-rebuke-to-trump/a-77774454?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cgl352xjgngo?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-06-30T14:35:03",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Senegalese MPs move to clip presidential powers as tensions mount",
-    "url": "https://www.bbc.co.uk/news/articles/cgl352xjgngo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://tass.com/world/2153633",
-    "timestamp": "2026-06-30T14:31:41",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Czech government party wants to strip Zelensky of country's highest order",
-    "url": "https://tass.com/world/2153633"
-  },
-  {
-    "id": "https://breakingdefense.com/2026/06/overland-ai-nets-marine-corps-autonomous-ground-vehicle-contract/",
-    "timestamp": "2026-06-30T14:30:48",
-    "source": "Breaking Defense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Overland AI nets Marine Corps autonomous ground vehicle contract",
-    "url": "https://breakingdefense.com/2026/06/overland-ai-nets-marine-corps-autonomous-ground-vehicle-contract/"
-  },
-  {
-    "id": "https://tass.com/world/2153635",
-    "timestamp": "2026-06-30T14:29:52",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Militants from Sudan attack city in CAR, Russian specialists carry out airstrike",
-    "url": "https://tass.com/world/2153635"
-  },
-  {
-    "id": "https://tass.com/economy/2153631",
-    "timestamp": "2026-06-30T14:28:37",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "At least 15% of Russia's cargo traffic could shift to inland waterways by 2035",
-    "url": "https://tass.com/economy/2153631"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/6/30/world-cup-2026-what-are-the-extra-time-and-penalty-shootout-rules?traffic_source=rss",
-    "timestamp": "2026-06-30T14:22:38",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "World Cup 2026: What are the extra-time and penalty shootout rules?",
-    "url": "https://www.aljazeera.com/sports/2026/6/30/world-cup-2026-what-are-the-extra-time-and-penalty-shootout-rules?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/defense/2153629",
-    "timestamp": "2026-06-30T14:22:02",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian forces strike Ukrainian army positions by FAB bombs in Zaporozhye, Sumy areas",
-    "url": "https://tass.com/defense/2153629"
-  },
-  {
-    "id": "https://tass.com/world/2153627",
-    "timestamp": "2026-06-30T14:20:44",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Ukrainian MFA verifying citizenship of businessman injured in Monaco explosion",
-    "url": "https://tass.com/world/2153627"
-  },
-  {
-    "id": "https://www.france24.com/en/americas/20260630-us-supreme-court-upholds-ban-on-transgender-athletes-in-women-s-school-sports",
-    "timestamp": "2026-06-30T14:16:38",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "\ud83d\udd34 US Supreme Court upholds transgender sports bans",
-    "url": "https://www.france24.com/en/americas/20260630-us-supreme-court-upholds-ban-on-transgender-athletes-in-women-s-school-sports"
   }
 ]
