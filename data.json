@@ -1,5 +1,315 @@
 [
   {
+    "id": "https://www.france24.com/en/video/20260704-mali-government-says-rebels-attacking-northern-towns",
+    "timestamp": "2026-07-04T13:18:56",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Mali government says rebels attacking northern towns",
+    "url": "https://www.france24.com/en/video/20260704-mali-government-says-rebels-attacking-northern-towns"
+  },
+  {
+    "id": "https://www.france24.com/en/iran-holds-funeral-for-ali-khamenei-attendees-hardline-factions-of-society-specialist-says",
+    "timestamp": "2026-07-04T13:15:42",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Iran holds funeral for Ali Khamenei: Attendees 'hardline factions' of society, specialist says",
+    "url": "https://www.france24.com/en/iran-holds-funeral-for-ali-khamenei-attendees-hardline-factions-of-society-specialist-says"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-07-04T13:13:52",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Ukraine hits major oil terminal in Russia's St Petersburg",
+    "url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://tass.com/emergencies/2155667",
+    "timestamp": "2026-07-04T13:03:52",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Istanbul-Mineralnye Vody flight declares emergency after takeoff",
+    "url": "https://tass.com/emergencies/2155667"
+  },
+  {
+    "id": "https://www.france24.com/en/pop-star-taylor-swift-marries-travis-kelce-at-madison-square-garden",
+    "timestamp": "2026-07-04T13:02:44",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Pop star Taylor Swift marries Travis Kelce at Madison Square Garden",
+    "url": "https://www.france24.com/en/pop-star-taylor-swift-marries-travis-kelce-at-madison-square-garden"
+  },
+  {
+    "id": "https://tass.com/politics/2155665",
+    "timestamp": "2026-07-04T12:55:44",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Putin\u2019s military appearance signals determination to 'finish off neo-Nazi threat' \u2014 MFA",
+    "url": "https://tass.com/politics/2155665"
+  },
+  {
+    "id": "https://www.france24.com/en/tour-de-france-kicks-off-in-barcelona",
+    "timestamp": "2026-07-04T12:44:07",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Tour de France kicks off in Barcelona",
+    "url": "https://www.france24.com/en/tour-de-france-kicks-off-in-barcelona"
+  },
+  {
+    "id": "https://www.aljazeera.com/features/longform/2026/7/4/why-closure-matters-at-the-end-of-life?traffic_source=rss",
+    "timestamp": "2026-07-04T12:41:19",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Why closure matters at the end of life",
+    "url": "https://www.aljazeera.com/features/longform/2026/7/4/why-closure-matters-at-the-end-of-life?traffic_source=rss"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/07/04/the_war_came_home_to_the_urals_1192626.html",
+    "timestamp": "2026-07-04T12:38:13",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "The War Came Home to the Urals",
+    "url": "https://www.realcleardefense.com/2026/07/04/the_war_came_home_to_the_urals_1192626.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/07/04/russia_hamas_and_china_three_reasons_turkey_shouldnt_get_the_f-35_1192392.html",
+    "timestamp": "2026-07-04T12:38:13",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Russia, Hamas, and China: Three Reasons Turkey Shouldn't Get the F-35",
+    "url": "https://www.realcleardefense.com/2026/07/04/russia_hamas_and_china_three_reasons_turkey_shouldnt_get_the_f-35_1192392.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/07/04/iran_begins_khameneis_funeral_in_show_of_defiance_against_the_us_1192617.html",
+    "timestamp": "2026-07-04T12:38:12",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Iran Begins Khamenei's Funeral in Show of Defiance Against the U.S.",
+    "url": "https://www.realcleardefense.com/2026/07/04/iran_begins_khameneis_funeral_in_show_of_defiance_against_the_us_1192617.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/07/04/dow_continues_to_struggle_with_key_weapons_development_timelines_1192623.html",
+    "timestamp": "2026-07-04T12:38:11",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "DoW Continues To 'Struggle' With Key Weapons Development Timelines",
+    "url": "https://www.realcleardefense.com/2026/07/04/dow_continues_to_struggle_with_key_weapons_development_timelines_1192623.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/07/04/the_outer_crescent_vs_the_asian_rimland_1192619.html",
+    "timestamp": "2026-07-04T12:38:11",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "The Outer Crescent vs. the Asian Rimland",
+    "url": "https://www.realcleardefense.com/2026/07/04/the_outer_crescent_vs_the_asian_rimland_1192619.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/07/04/15_trillion_pentagon_budget_benefits_top_contractors_1192615.html",
+    "timestamp": "2026-07-04T12:38:10",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "$1.5 Trillion Pentagon Budget Benefits Top Contractors",
+    "url": "https://www.realcleardefense.com/2026/07/04/15_trillion_pentagon_budget_benefits_top_contractors_1192615.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/07/04/why_is_the_va_turning_its_back_on_those_who_served_1192622.html",
+    "timestamp": "2026-07-04T12:38:10",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Why Is the VA Turning Its Back on Those Who Served?",
+    "url": "https://www.realcleardefense.com/2026/07/04/why_is_the_va_turning_its_back_on_those_who_served_1192622.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/07/04/us_navy_eyes_cps_deployment_from_new_vls_1192620.html",
+    "timestamp": "2026-07-04T12:38:09",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "U.S. Navy Eyes CPS Deployment from New VLS",
+    "url": "https://www.realcleardefense.com/2026/07/04/us_navy_eyes_cps_deployment_from_new_vls_1192620.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/07/04/medal_of_honor_recipient_says_veterans_never_stop_serving_1192627.html",
+    "timestamp": "2026-07-04T12:38:08",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Medal of Honor Recipient Says Veterans Never Stop Serving",
+    "url": "https://www.realcleardefense.com/2026/07/04/medal_of_honor_recipient_says_veterans_never_stop_serving_1192627.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/07/04/uss_nimitz_an_aircraft_carriers_final_journey_1192618.html",
+    "timestamp": "2026-07-04T12:38:08",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "USS Nimitz: An Aircraft Carrier's Final Journey",
+    "url": "https://www.realcleardefense.com/2026/07/04/uss_nimitz_an_aircraft_carriers_final_journey_1192618.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/07/04/general_washington_and_the_other_declaration_of_1776_1192541.html",
+    "timestamp": "2026-07-04T12:38:07",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "General Washington And The Other Declaration of 1776",
+    "url": "https://www.realcleardefense.com/2026/07/04/general_washington_and_the_other_declaration_of_1776_1192541.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/07/04/the_massive_aerial_armada_that_is_about_to_fly_over_the_capital_1192624.html",
+    "timestamp": "2026-07-04T12:38:06",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "The Massive Aerial Armada That Is About To Fly Over the Capital",
+    "url": "https://www.realcleardefense.com/2026/07/04/the_massive_aerial_armada_that_is_about_to_fly_over_the_capital_1192624.html"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/4/nabatieh-recovery-begins-amid-ongoing-southern-lebanon-tensions?traffic_source=rss",
+    "timestamp": "2026-07-04T12:31:20",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Nabatieh recovery begins amid ongoing southern Lebanon tensions",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/nabatieh-recovery-begins-amid-ongoing-southern-lebanon-tensions?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/emergencies/2155663",
+    "timestamp": "2026-07-04T12:30:25",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Number of injured in Ukrainian strike on Tokmak market rises to 21",
+    "url": "https://tass.com/emergencies/2155663"
+  },
+  {
+    "id": "https://tass.com/world/2155661",
+    "timestamp": "2026-07-04T12:30:11",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "EU seeks US-backed appointment of Bosnia high representative bypassing UN, Russia",
+    "url": "https://tass.com/world/2155661"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/7/4/pope-urges-protection-integration-of-migrants-on-visit-to-island-frontier?traffic_source=rss",
+    "timestamp": "2026-07-04T12:17:29",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Pope Leo urges migrant protection, integration on visit to Lampedusa",
+    "url": "https://www.aljazeera.com/news/2026/7/4/pope-urges-protection-integration-of-migrants-on-visit-to-island-frontier?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/4/firefighters-race-to-contain-flames-in-northeastern-spain?traffic_source=rss",
+    "timestamp": "2026-07-04T12:09:27",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Firefighters race to contain flames in northeastern Spain",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/firefighters-race-to-contain-flames-in-northeastern-spain?traffic_source=rss"
+  },
+  {
+    "id": "https://www.france24.com/en/tv-shows/world-cup-debrief/20260704-world-cup-2026-cape-verde-miss-out-on-greatest-upset",
+    "timestamp": "2026-07-04T12:01:27",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "World Cup 2026 : Cape Verde miss out on greatest upset",
+    "url": "https://www.france24.com/en/tv-shows/world-cup-debrief/20260704-world-cup-2026-cape-verde-miss-out-on-greatest-upset"
+  },
+  {
+    "id": "https://taskandpurpose.com/news/dc-airshow-4th-of-july/",
+    "timestamp": "2026-07-04T12:00:00",
+    "source": "Task & Purpose",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Dozens of jets, bombers and helicopters will fly over DC today",
+    "url": "https://taskandpurpose.com/news/dc-airshow-4th-of-july/"
+  },
+  {
+    "id": "https://www.france24.com/en/sport/20260704-rennie-expresses-relief-as-all-blacks-edge-narrow-win-over-france",
+    "timestamp": "2026-07-04T11:59:09",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "New Zealand's Rennie expresses 'relief' as All Blacks edge narrow win over France",
+    "url": "https://www.france24.com/en/sport/20260704-rennie-expresses-relief-as-all-blacks-edge-narrow-win-over-france"
+  },
+  {
+    "id": "https://www.france24.com/en/zelensky-denies-russian-capture-of-key-eastern-city",
+    "timestamp": "2026-07-04T11:53:03",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Zelensky denies Russian capture of key eastern city",
+    "url": "https://www.france24.com/en/zelensky-denies-russian-capture-of-key-eastern-city"
+  },
+  {
+    "id": "https://www.france24.com/en/trump-speech-at-mount-rushmore-making-it-clear-who-s-in-and-who-s-out-expert-says",
+    "timestamp": "2026-07-04T11:48:19",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Trump speech at Mount Rushmore: Making it clear 'who's in and who's out', expert says",
+    "url": "https://www.france24.com/en/trump-speech-at-mount-rushmore-making-it-clear-who-s-in-and-who-s-out-expert-says"
+  },
+  {
+    "id": "https://www.theguardian.com/football/2026/jul/04/how-the-1986-mexico-world-cup-almost-cancelled-after-earthquake-1986",
+    "timestamp": "2026-07-04T11:40:31",
+    "source": "Guardian World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "How the 1986 Mexico World Cup was almost cancelled after a devastating earthquake",
+    "url": "https://www.theguardian.com/football/2026/jul/04/how-the-1986-mexico-world-cup-almost-cancelled-after-earthquake-1986"
+  },
+  {
     "id": "https://tass.com/politics/2155659",
     "timestamp": "2026-07-04T11:31:38",
     "source": "TASS English",
@@ -28,6 +338,16 @@
     "region": "global",
     "text": "\u2018The situation is terrible\u2019: aid workers on life in Sudanese city pummelled by drone strikes",
     "url": "https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes"
+  },
+  {
+    "id": "https://www.aljazeera.com/sports/2026/7/4/england-mexico-fifa-world-cup-azteca-kickoff-altitude-weather-explained?traffic_source=rss",
+    "timestamp": "2026-07-04T11:27:18",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "England vs Mexico at Azteca: Kickoff, altitude and weather explained",
+    "url": "https://www.aljazeera.com/sports/2026/7/4/england-mexico-fifa-world-cup-azteca-kickoff-altitude-weather-explained?traffic_source=rss"
   },
   {
     "id": "https://www.bbc.co.uk/news/articles/c5yz83n7q5no?at_medium=RSS&at_campaign=rss",
@@ -4678,325 +4998,5 @@
     "region": "mena",
     "text": "Trump administration indicts Olympic athlete for Reflecting Pool vandalism",
     "url": "https://www.aljazeera.com/news/2026/7/2/trump-administration-indicts-olympic-athlete-for-reflecting-pool-vandalism?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/2/will-the-end-of-tps-for-haitians-mean-a-caregiving-crisis-in-us?traffic_source=rss",
-    "timestamp": "2026-07-02T23:26:38",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Will the end of TPS for Haitians mean a caregiving crisis in US?",
-    "url": "https://www.aljazeera.com/news/2026/7/2/will-the-end-of-tps-for-haitians-mean-a-caregiving-crisis-in-us?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/iranians-have-succeeded-in-making-the-strait-of-hormuz-the-primary-issue-rather-than-their-nuclear-programme",
-    "timestamp": "2026-07-02T23:19:38",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "'Iranians succeeded in making Strait of Hormuz primary issue rather than their nuclear programme'",
-    "url": "https://www.france24.com/en/iranians-have-succeeded-in-making-the-strait-of-hormuz-the-primary-issue-rather-than-their-nuclear-programme"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-07-02T23:15:22",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns",
-    "url": "https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cx2vpz2qee5o?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-07-02T23:14:29",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "How the American Dream has survived 250 years, but only just",
-    "url": "https://www.bbc.co.uk/news/articles/cx2vpz2qee5o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://tass.com/world/2154781",
-    "timestamp": "2026-07-02T23:05:33",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Dutch Advisory Council on International Affairs recommends sending military to Ukraine",
-    "url": "https://tass.com/world/2154781"
-  },
-  {
-    "id": "https://www.france24.com/en/sport/20260702-portugal-croatia-live-ronaldo-and-modric-s-round-of-32-battle",
-    "timestamp": "2026-07-02T22:50:05",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Portugal-Croatia live: Ronaldo and Modric's round of 32 battle",
-    "url": "https://www.france24.com/en/sport/20260702-portugal-croatia-live-ronaldo-and-modric-s-round-of-32-battle"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/2/portugal-fans-gather-ahead-of-ronaldo-modric-clash?traffic_source=rss",
-    "timestamp": "2026-07-02T22:49:24",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Portugal fans gather ahead of Ronaldo-Modric clash",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/portugal-fans-gather-ahead-of-ronaldo-modric-clash?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/emergencies/2154779",
-    "timestamp": "2026-07-02T22:46:59",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Investigators establish Monaco bomber identity \u2014 AFP",
-    "url": "https://tass.com/emergencies/2154779"
-  },
-  {
-    "id": "https://www.twz.com/nuclear/navys-new-doomsday-plane-delayed-as-watchdog-says-developmental-concerns-are-now-realities",
-    "timestamp": "2026-07-02T22:36:32",
-    "source": "The Drive WarZone",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Navy\u2019s New \u2018Doomsday Plane\u2019 Delayed As Watchdog Says Developmental Concerns Are Now Realities",
-    "url": "https://www.twz.com/nuclear/navys-new-doomsday-plane-delayed-as-watchdog-says-developmental-concerns-are-now-realities"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/7/2/senegals-world-cup-agony-nation-left-rueing-last-gasp-collapse?traffic_source=rss",
-    "timestamp": "2026-07-02T22:24:23",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Senegal\u2019s World Cup agony: Nation left rueing last-gasp collapse",
-    "url": "https://www.aljazeera.com/sports/2026/7/2/senegals-world-cup-agony-nation-left-rueing-last-gasp-collapse?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/emergencies/2154777",
-    "timestamp": "2026-07-02T22:16:47",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Death toll in Damascus explosion rises to nine \u2014 Health Ministry",
-    "url": "https://tass.com/emergencies/2154777"
-  },
-  {
-    "id": "https://www.twz.com/air/russia-highly-likely-behind-drone-incursions-over-u-s-bases-in-england-report-concludes",
-    "timestamp": "2026-07-02T22:10:22",
-    "source": "The Drive WarZone",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Russia \u201cHighly Likely\u201d Behind Drone Incursions Over U.S. Bases In England Report Concludes",
-    "url": "https://www.twz.com/air/russia-highly-likely-behind-drone-incursions-over-u-s-bases-in-england-report-concludes"
-  },
-  {
-    "id": "https://tass.com/economy/2154775",
-    "timestamp": "2026-07-02T22:01:53",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian government permits sales of Euro-3 fuel in Russia until year-end",
-    "url": "https://tass.com/economy/2154775"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c1mykzj15xno?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-07-02T22:00:11",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "A mayor in Japan announced her maternity leave - and got the whole country talking",
-    "url": "https://www.bbc.co.uk/news/articles/c1mykzj15xno?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://tass.com/emergencies/2154773",
-    "timestamp": "2026-07-02T21:54:47",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Monaco blast probably perpetrated by Ukrainian woman residing in Germany \u2014 newspaper",
-    "url": "https://tass.com/emergencies/2154773"
-  },
-  {
-    "id": "https://www.france24.com/en/africa/20260702-dr-congo-ebola-outbreak-tops-400-deaths-as-virus-reaches-major-city",
-    "timestamp": "2026-07-02T21:51:57",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "DR Congo Ebola outbreak tops 400 deaths as virus reaches major city",
-    "url": "https://www.france24.com/en/africa/20260702-dr-congo-ebola-outbreak-tops-400-deaths-as-virus-reaches-major-city"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/7/2/oyarzabal-scores-two-goals-as-spain-dominates-austria-in-world-cup-knockout?traffic_source=rss",
-    "timestamp": "2026-07-02T21:45:42",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Oyarzabal scores two goals as Spain dominates Austria in World Cup knockout",
-    "url": "https://www.aljazeera.com/sports/2026/7/2/oyarzabal-scores-two-goals-as-spain-dominates-austria-in-world-cup-knockout?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/tv-shows/business/20260702-german-reforms-google-s-final-defeat-and-a-20m-swift-wedding",
-    "timestamp": "2026-07-02T21:38:17",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "German reforms, Google's final defeat, and a $20M Swift wedding?",
-    "url": "https://www.france24.com/en/tv-shows/business/20260702-german-reforms-google-s-final-defeat-and-a-20m-swift-wedding"
-  },
-  {
-    "id": "https://tass.com/sports/2154771",
-    "timestamp": "2026-07-02T21:29:41",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Spain defeats Austria in its first World Cup playoff victory in 16 years",
-    "url": "https://tass.com/sports/2154771"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c75ykve4zzxo?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-07-02T21:21:36",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Ebola treatments trial begins in the Democratic Republic of Congo",
-    "url": "https://www.bbc.co.uk/news/articles/c75ykve4zzxo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://tass.com/politics/2154769",
-    "timestamp": "2026-07-02T21:12:21",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Three in serious condition after drone strike on bus in Lugansk People\u2019s Republic",
-    "url": "https://tass.com/politics/2154769"
-  },
-  {
-    "id": "https://tass.com/world/2154767",
-    "timestamp": "2026-07-02T21:06:19",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Finland takes side in Ukrainian conflict, to which has no relation \u2014 politician",
-    "url": "https://tass.com/world/2154767"
-  },
-  {
-    "id": "https://www.airandspaceforces.com/photos-f-15ex-flies-with-cca-drone-pacific/",
-    "timestamp": "2026-07-02T21:06:03",
-    "source": "Air Force Mag",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "PHOTOS: F-15EX Flies with CCA Drone in the Pacific",
-    "url": "https://www.airandspaceforces.com/photos-f-15ex-flies-with-cca-drone-pacific/"
-  },
-  {
-    "id": "https://www.airandspaceforces.com/guardians-airmen-ai-battle-management-experiment/",
-    "timestamp": "2026-07-02T21:05:00",
-    "source": "Air Force Mag",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Guardians, Airmen Use AI in Experiment to Supercharge Battle Management",
-    "url": "https://www.airandspaceforces.com/guardians-airmen-ai-battle-management-experiment/"
-  },
-  {
-    "id": "https://www.france24.com/en/sport/20260702-world-cup-2026-spain-cruise-into-last-16-with-win-over-austria",
-    "timestamp": "2026-07-02T21:03:06",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "World Cup 2026: Spain cruise into last 16 with win over Austria",
-    "url": "https://www.france24.com/en/sport/20260702-world-cup-2026-spain-cruise-into-last-16-with-win-over-austria"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/inside-story/2026/7/2/could-water-become-a-flashpoint-between-islamabad-and-new-delhi?traffic_source=rss",
-    "timestamp": "2026-07-02T21:01:30",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Could water become a flashpoint between Islamabad and New Delhi?",
-    "url": "https://www.aljazeera.com/video/inside-story/2026/7/2/could-water-become-a-flashpoint-between-islamabad-and-new-delhi?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/2/who-declares-cruise-linked-hantavirus-outbreak-officially-over?traffic_source=rss",
-    "timestamp": "2026-07-02T20:50:03",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "WHO declares cruise-linked hantavirus outbreak officially over",
-    "url": "https://www.aljazeera.com/news/2026/7/2/who-declares-cruise-linked-hantavirus-outbreak-officially-over?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/politics/2154763",
-    "timestamp": "2026-07-02T20:49:27",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russia says EAEU shares its concern about Armenia's rapprochement with EU",
-    "url": "https://tass.com/politics/2154763"
-  },
-  {
-    "id": "https://tass.com/politics/2154759",
-    "timestamp": "2026-07-02T20:41:59",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Finland on list of targets for Russian nuclear weapons \u2014 Medvedev",
-    "url": "https://tass.com/politics/2154759"
-  },
-  {
-    "id": "https://www.france24.com/en/world-cup-les-bleus-back-in-training-ahead-clash-with-paraguay",
-    "timestamp": "2026-07-02T20:41:10",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "World Cup: \"Les Bleus\" back in training ahead clash with Paraguay",
-    "url": "https://www.france24.com/en/world-cup-les-bleus-back-in-training-ahead-clash-with-paraguay"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/07/02/russo-ukrainian-war-day-1590/",
-    "timestamp": "2026-07-02T20:38:31",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Russo-Ukrainian war, day 1590: Russia\u2019s largest attack on Kyiv in months kills 25 \u2014 a record 52,500 shelter underground",
-    "url": "https://euromaidanpress.com/2026/07/02/russo-ukrainian-war-day-1590/"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c2ky3p9jlveo?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-07-02T20:34:52",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Former Olympian indicted for allegedly vandalising Washington Reflecting Pool",
-    "url": "https://www.bbc.co.uk/news/articles/c2ky3p9jlveo?at_medium=RSS&at_campaign=rss"
   }
 ]
