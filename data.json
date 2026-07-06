@@ -1,5 +1,365 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-07-06T06:00:27",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "At least 10 killed in second Russian strikes on Kyiv in a week",
+    "url": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://tass.com/politics/2156037",
+    "timestamp": "2026-07-06T05:44:24",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Polish authorities supplying weapons to followers of their ancestors' killers \u2014 MFA",
+    "url": "https://tass.com/politics/2156037"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/6/haaland-inspired-norway-stun-brazil-in-historic-world-cup-knockout-win?traffic_source=rss",
+    "timestamp": "2026-07-06T05:35:46",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Haaland inspired Norway stun Brazil in historic World Cup knockout win",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/haaland-inspired-norway-stun-brazil-in-historic-world-cup-knockout-win?traffic_source=rss"
+  },
+  {
+    "id": "https://www.navalnews.com/naval-news/2026/07/india-and-japan-to-co-develop-naval-radio-antenna-based-on-unicorn/",
+    "timestamp": "2026-07-06T05:28:00",
+    "source": "Naval News",
+    "platform": "rss",
+    "category": "naval",
+    "region": "global",
+    "text": "India and Japan to Co-develop Naval Radio Antenna Based on UNICORN",
+    "url": "https://www.navalnews.com/naval-news/2026/07/india-and-japan-to-co-develop-naval-radio-antenna-based-on-unicorn/"
+  },
+  {
+    "id": "https://tass.com/world/2156033",
+    "timestamp": "2026-07-06T05:14:16",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Pashinyan visits Russia for first time since Armenia's elections",
+    "url": "https://tass.com/world/2156033"
+  },
+  {
+    "id": "https://www.france24.com/en/tv-shows/sports/20260706-world-cup-erling-haaland-leads-the-way-as-norway-knock-out-brazil",
+    "timestamp": "2026-07-06T05:13:14",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "World Cup: Erling Haaland leads the way as Norway knock out Brazil",
+    "url": "https://www.france24.com/en/tv-shows/sports/20260706-world-cup-erling-haaland-leads-the-way-as-norway-knock-out-brazil"
+  },
+  {
+    "id": "https://www.aljazeera.com/sports/2026/7/6/haaland-rewrites-history-by-carrying-norway-into-world-cup-quarterfinals?traffic_source=rss",
+    "timestamp": "2026-07-06T05:08:21",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Haaland rewrites history by carrying Norway into World Cup quarterfinals",
+    "url": "https://www.aljazeera.com/sports/2026/7/6/haaland-rewrites-history-by-carrying-norway-into-world-cup-quarterfinals?traffic_source=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c9922x87nj8o?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-07-06T05:04:28",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "'I ate ketchup and cheese,' says Venezuelan girl trapped under quake rubble for 32 hours",
+    "url": "https://www.bbc.co.uk/news/articles/c9922x87nj8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://tass.com/society/2156025",
+    "timestamp": "2026-07-06T04:56:12",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "PM Mishustin to address Innoprom, meet with EAEU prime ministers",
+    "url": "https://tass.com/society/2156025"
+  },
+  {
+    "id": "https://tass.com/economy/2156019",
+    "timestamp": "2026-07-06T04:32:46",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "More than 850 organizations to take part in Innoprom exhibition",
+    "url": "https://tass.com/economy/2156019"
+  },
+  {
+    "id": "https://tass.com/defense/2156017",
+    "timestamp": "2026-07-06T04:24:53",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russian forces strike defense, energy facilities in Kiev, military airfields",
+    "url": "https://tass.com/defense/2156017"
+  },
+  {
+    "id": "https://tass.com/sports/2156011",
+    "timestamp": "2026-07-06T04:16:15",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "England beat Mexico to reach World Cup quarterfinals",
+    "url": "https://tass.com/sports/2156011"
+  },
+  {
+    "id": "https://www.aljazeera.com/sports/2026/7/6/which-teams-are-in-the-world-cup-quarterfinals-and-whats-the-schedule?traffic_source=rss",
+    "timestamp": "2026-07-06T04:03:19",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Which teams are in the World Cup quarterfinals, and what\u2019s the schedule?",
+    "url": "https://www.aljazeera.com/sports/2026/7/6/which-teams-are-in-the-world-cup-quarterfinals-and-whats-the-schedule?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/politics/2156009",
+    "timestamp": "2026-07-06T04:03:02",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russian troops evacuating residents from Konstantinovka",
+    "url": "https://tass.com/politics/2156009"
+  },
+  {
+    "id": "https://tass.com/defense/2156007",
+    "timestamp": "2026-07-06T03:51:58",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russia-China Joint Sea-2026 drills open in Qingdao",
+    "url": "https://tass.com/defense/2156007"
+  },
+  {
+    "id": "https://www.aljazeera.com/sports/2026/7/6/bellingham-inspires-ten-man-england-in-3-2-last-16-thriller-against-mexico?traffic_source=rss",
+    "timestamp": "2026-07-06T03:13:51",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Bellingham inspires 10-man England to beat Mexico 3-2 in last-16 thriller",
+    "url": "https://www.aljazeera.com/sports/2026/7/6/bellingham-inspires-ten-man-england-in-3-2-last-16-thriller-against-mexico?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/defense/2156003",
+    "timestamp": "2026-07-06T03:13:21",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russia\u2019s West battlegroup destroys 35 fixed-wing drones, 111 heavy UAVs",
+    "url": "https://tass.com/defense/2156003"
+  },
+  {
+    "id": "https://www.dw.com/en/australia-fiji-sign-defense-pact-to-counter-china-in-pacific/a-77842223?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-07-06T03:11:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Australia, Fiji sign defense pact to counter China in Pacific",
+    "url": "https://www.dw.com/en/australia-fiji-sign-defense-pact-to-counter-china-in-pacific/a-77842223?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://tass.com/defense/2156001",
+    "timestamp": "2026-07-06T03:10:38",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russia\u2019s West battlegroup disrupts Ukrainian troop rotation near Krasny Liman",
+    "url": "https://tass.com/defense/2156001"
+  },
+  {
+    "id": "https://www.france24.com/en/sport/20260706-world-cup-2026-ten-man-england-battle-past-co-hosts-mexico-in-azteca-thriller",
+    "timestamp": "2026-07-06T03:08:49",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "World Cup 2026: Ten-man England battle past co-hosts Mexico in Azteca thriller",
+    "url": "https://www.france24.com/en/sport/20260706-world-cup-2026-ten-man-england-battle-past-co-hosts-mexico-in-azteca-thriller"
+  },
+  {
+    "id": "https://tass.com/defense/2155999",
+    "timestamp": "2026-07-06T03:06:44",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russia\u2019s Center battlegroup drone operators destroy Ukrainian ground robotic systems",
+    "url": "https://tass.com/defense/2155999"
+  },
+  {
+    "id": "https://www.aljazeera.com/economy/2026/7/6/opec-countries-say-they-will-expand-monthly-oil-production?traffic_source=rss",
+    "timestamp": "2026-07-06T03:04:06",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "OPEC+ countries say they will expand monthly oil production",
+    "url": "https://www.aljazeera.com/economy/2026/7/6/opec-countries-say-they-will-expand-monthly-oil-production?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/defense/2155997",
+    "timestamp": "2026-07-06T03:01:58",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russia\u2019s South battlegroup drone units destroy five Ukrainian ground robotic systems",
+    "url": "https://tass.com/defense/2155997"
+  },
+  {
+    "id": "https://www.france24.com/en/europe/20260706-live-russia-launches-deadly-barrage-on-kyiv-region-on-eve-of-nato-summit",
+    "timestamp": "2026-07-06T02:48:05",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Live: Russian missile attack on Kyiv region kills at least ten",
+    "url": "https://www.france24.com/en/europe/20260706-live-russia-launches-deadly-barrage-on-kyiv-region-on-eve-of-nato-summit"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/6/sports-stadium-becomes-home-for-victims-of-the-venezuela-earthquakes?traffic_source=rss",
+    "timestamp": "2026-07-06T02:27:07",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Sports stadium becomes home for victims of the Venezuela earthquakes",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/sports-stadium-becomes-home-for-victims-of-the-venezuela-earthquakes?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/society/2155995",
+    "timestamp": "2026-07-06T02:26:32",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Mass farewell procession for Khamenei to begin early Monday in Tehran",
+    "url": "https://tass.com/society/2155995"
+  },
+  {
+    "id": "https://www.aljazeera.com/sports/2026/7/6/ronaldos-last-world-cup-we-will-see-says-portugal-star-before-spain-clash?traffic_source=rss",
+    "timestamp": "2026-07-06T02:13:37",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Ronaldo\u2019s last World Cup? We will see, says Portugal star before Spain clash",
+    "url": "https://www.aljazeera.com/sports/2026/7/6/ronaldos-last-world-cup-we-will-see-says-portugal-star-before-spain-clash?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/7/6/us-sanctions-target-rwandan-firms-linked-to-conflict-minerals-funding-m23?traffic_source=rss",
+    "timestamp": "2026-07-06T02:10:37",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "How conflict minerals fuel war in eastern DR Congo amid US sanctions",
+    "url": "https://www.aljazeera.com/news/2026/7/6/us-sanctions-target-rwandan-firms-linked-to-conflict-minerals-funding-m23?traffic_source=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cr477en6w3go?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-07-06T01:46:29",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Australian PM apologises for 'inappropriate' comments about Kylie Minogue",
+    "url": "https://www.bbc.co.uk/news/articles/cr477en6w3go?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.dw.com/en/ukraine-several-killed-in-renewed-attacks-on-kyiv/a-77841452?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-07-06T01:46:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Ukraine: Several killed in renewed attacks on Kyiv",
+    "url": "https://www.dw.com/en/ukraine-several-killed-in-renewed-attacks-on-kyiv/a-77841452?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://tass.com/sports/2155993",
+    "timestamp": "2026-07-06T01:42:13",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Neymar announces retirement from Brazil national team",
+    "url": "https://tass.com/sports/2155993"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/6/aje-onl-nf_mali-rebels-claim-to-have-shot-down-russian-helicop-050726?traffic_source=rss",
+    "timestamp": "2026-07-06T01:35:17",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Tuareg fighters claim to have shot down a Russian helicopter in Mali",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/aje-onl-nf_mali-rebels-claim-to-have-shot-down-russian-helicop-050726?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/sports/2155991",
+    "timestamp": "2026-07-06T01:31:29",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Haaland draws level with Messi, Mbappe atop World Cup scoring chart",
+    "url": "https://tass.com/sports/2155991"
+  },
+  {
+    "id": "https://www.defenseone.com/threats/2026/07/iran-war-supplemental-deepens-fy27-budget-uncertainty/414588/",
+    "timestamp": "2026-07-06T01:27:12",
+    "source": "Defense One",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Iran War supplemental deepens FY27 budget uncertainty",
+    "url": "https://www.defenseone.com/threats/2026/07/iran-war-supplemental-deepens-fy27-budget-uncertainty/414588/"
+  },
+  {
+    "id": "https://www.aljazeera.com/sports/2026/7/6/neymar-quits-international-football-after-brazils-world-cup-knockout-loss?traffic_source=rss",
+    "timestamp": "2026-07-06T01:04:38",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Neymar quits international football after Brazil\u2019s World Cup knockout loss",
+    "url": "https://www.aljazeera.com/sports/2026/7/6/neymar-quits-international-football-after-brazils-world-cup-knockout-loss?traffic_source=rss"
+  },
+  {
+    "id": "https://www.france24.com/en/sport/20260706-neymar-calls-time-on-brazil-career-after-world-cup-elimination",
+    "timestamp": "2026-07-06T00:39:09",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Neymar calls time on Brazil career after World Cup defeat to Norway",
+    "url": "https://www.france24.com/en/sport/20260706-neymar-calls-time-on-brazil-career-after-world-cup-elimination"
+  },
+  {
     "id": "https://tass.com/emergencies/2155987",
     "timestamp": "2026-07-06T00:30:00",
     "source": "TASS English",
@@ -18,6 +378,16 @@
     "region": "mena",
     "text": "Belgium \u2018astonished\u2019 at FIFA\u2019s U-turn on Balogun red card for USA match",
     "url": "https://www.aljazeera.com/sports/2026/7/6/belgium-astonished-at-fifas-u-turn-on-balogun-red-card-for-usa-match?traffic_source=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cy4e1lzwgvxo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-07-06T00:02:29",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Bangladesh courts China even as ties with India improve",
+    "url": "https://www.bbc.co.uk/news/articles/cy4e1lzwgvxo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.aljazeera.com/news/liveblog/2026/7/6/iran-war-live-tehran-set-for-khameneis-procession-israel-bombs-lebanon?traffic_source=rss",
@@ -4628,375 +4998,5 @@
     "region": "mena",
     "text": "Mamdani calls for unity on America\u2019s 250th birthday",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/mamdani-calls-for-unity-on-americas-250th-birthday?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/economy/2026/7/3/us-heatwave-raises-alarms-over-ai-data-centre-energy-demands?traffic_source=rss",
-    "timestamp": "2026-07-03T19:48:44",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "US heatwave raises alarms over AI data centre energy demands",
-    "url": "https://www.aljazeera.com/economy/2026/7/3/us-heatwave-raises-alarms-over-ai-data-centre-energy-demands?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/sport/20260703-england-mexico-world-cup-match-could-be-moved-earlier-due-to-storm-risk",
-    "timestamp": "2026-07-03T19:48:38",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "England-Mexico World Cup match could be moved earlier due to storm risk",
-    "url": "https://www.france24.com/en/sport/20260703-england-mexico-world-cup-match-could-be-moved-earlier-due-to-storm-risk"
-  },
-  {
-    "id": "https://tass.com/world/2155233",
-    "timestamp": "2026-07-03T19:31:59",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Iran shows journalists UNESCO-listed palace damaged by US, Israeli strike",
-    "url": "https://tass.com/world/2155233"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/07/03/crimea-occupation-officials-ordered-to-evacuate-documents-atesh/",
-    "timestamp": "2026-07-03T19:29:47",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Crimea occupation officials pack up as some reportedly flee to Russia on state fuel as Ukrainian strikes intensify, ATESH claims",
-    "url": "https://euromaidanpress.com/2026/07/03/crimea-occupation-officials-ordered-to-evacuate-documents-atesh/"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/3/lebanon-israel-deal-betrays-victims-of-war-crimes-rights-groups-say?traffic_source=rss",
-    "timestamp": "2026-07-03T19:27:15",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Lebanon-Israel deal betrays \u2018victims of war crimes\u2019, rights groups say",
-    "url": "https://www.aljazeera.com/news/2026/7/3/lebanon-israel-deal-betrays-victims-of-war-crimes-rights-groups-say?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/world/2155229",
-    "timestamp": "2026-07-03T19:26:18",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Pilgrims from across Iran gather in Tehran to pay last respects to late supreme leader",
-    "url": "https://tass.com/world/2155229"
-  },
-  {
-    "id": "https://tass.com/society/2155227",
-    "timestamp": "2026-07-03T19:25:18",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian schoolboy only contestant able to crack cryptography problem at Olympiad",
-    "url": "https://tass.com/society/2155227"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/3/settlers-attack-activists-palestinians-trying-to-access-their-land?traffic_source=rss",
-    "timestamp": "2026-07-03T19:13:39",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Settlers attack activists, Palestinians trying to access their land",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/settlers-attack-activists-palestinians-trying-to-access-their-land?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/defense/2155225",
-    "timestamp": "2026-07-03T19:05:48",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Air defenses down 188 Ukrainian drones over Russian regions in 12 hours",
-    "url": "https://tass.com/defense/2155225"
-  },
-  {
-    "id": "https://www.dw.com/en/lyra-mckee-3-men-acquitted-of-killing-n-irish-journalist/a-77825712?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-07-03T18:58:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Lyra McKee: 3 men acquitted of killing N. Irish journalist",
-    "url": "https://www.dw.com/en/lyra-mckee-3-men-acquitted-of-killing-n-irish-journalist/a-77825712?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/3/saudi-deputy-foreign-minister-pays-respects-at-khamenei-funeral?traffic_source=rss",
-    "timestamp": "2026-07-03T18:54:27",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Saudi deputy foreign minister pays respects at Khamenei funeral",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/saudi-deputy-foreign-minister-pays-respects-at-khamenei-funeral?traffic_source=rss"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/07/03/russia-falls-back/",
-    "timestamp": "2026-07-03T18:49:58",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Russia lost ground for a second straight month in June. CSIS says it has lost the initiative too",
-    "url": "https://euromaidanpress.com/2026/07/03/russia-falls-back/"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/liveblog/2026/7/3/live-argentina-vs-cape-verde-fifa-world-cup-2026?traffic_source=rss",
-    "timestamp": "2026-07-03T18:47:05",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "LIVE: Argentina vs Cape Verde \u2013 FIFA World Cup 2026",
-    "url": "https://www.aljazeera.com/sports/liveblog/2026/7/3/live-argentina-vs-cape-verde-fifa-world-cup-2026?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/economy/2155221",
-    "timestamp": "2026-07-03T18:46:36",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "TASS to hold two sessions at Innoprom exhibition",
-    "url": "https://tass.com/economy/2155221"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/3/iran-begins-week-of-funeral-ceremonies-for-slain-supreme-leader-khamenei?traffic_source=rss",
-    "timestamp": "2026-07-03T18:39:31",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Iran begins week of funeral ceremonies for slain Supreme Leader Khamenei",
-    "url": "https://www.aljazeera.com/news/2026/7/3/iran-begins-week-of-funeral-ceremonies-for-slain-supreme-leader-khamenei?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/3/israeli-settlers-intensify-attacks-in-west-bank-targeting-water-supplies?traffic_source=rss",
-    "timestamp": "2026-07-03T18:34:40",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Israeli settlers intensify attacks in West Bank, targeting water supplies",
-    "url": "https://www.aljazeera.com/news/2026/7/3/israeli-settlers-intensify-attacks-in-west-bank-targeting-water-supplies?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/3/ukrainian-woman-identified-as-main-suspect-in-monaco-bombing?traffic_source=rss",
-    "timestamp": "2026-07-03T18:31:21",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Ukrainian woman identified as main suspect in Monaco bombing",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/ukrainian-woman-identified-as-main-suspect-in-monaco-bombing?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/3/pope-leo-mamdani-send-pro-immigrant-message-for-uss-250th-anniversary?traffic_source=rss",
-    "timestamp": "2026-07-03T18:30:40",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Pope Leo, Mamdani send pro-immigrant message for US\u2019s 250th anniversary",
-    "url": "https://www.aljazeera.com/news/2026/7/3/pope-leo-mamdani-send-pro-immigrant-message-for-uss-250th-anniversary?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/3/what-to-know-about-taylor-swift-and-travis-kelces-wedding-in-nyc?traffic_source=rss",
-    "timestamp": "2026-07-03T18:26:18",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "What to know about Taylor Swift and Travis Kelce\u2019s wedding in NYC",
-    "url": "https://www.aljazeera.com/news/2026/7/3/what-to-know-about-taylor-swift-and-travis-kelces-wedding-in-nyc?traffic_source=rss"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/07/03/five-more-dead-dolphins-wash-up-in-odesa-oblast-park-63-since-late-may/",
-    "timestamp": "2026-07-03T18:24:11",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Russia\u2019s war keeps killing dolphins: Five more dead dolphins wash up in Odesa Oblast park \u2013 63 since late May",
-    "url": "https://euromaidanpress.com/2026/07/03/five-more-dead-dolphins-wash-up-in-odesa-oblast-park-63-since-late-may/"
-  },
-  {
-    "id": "https://www.dw.com/en/maltese-tycoon-faces-trial-over-caruana-galizia-murder/a-77823553?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-07-03T18:20:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Maltese tycoon faces trial over Caruana Galizia murder",
-    "url": "https://www.dw.com/en/maltese-tycoon-faces-trial-over-caruana-galizia-murder/a-77823553?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.france24.com/en/tv-shows/the-world-this-week/20260703-putin-the-drowning-man-syndrome-sudan",
-    "timestamp": "2026-07-03T18:18:01",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Putin & The \u2018Drowning Man Syndrome\u2019 Sudan",
-    "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260703-putin-the-drowning-man-syndrome-sudan"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/3/keiko-fujimori-officially-declared-winner-of-peru-presidential-race?traffic_source=rss",
-    "timestamp": "2026-07-03T18:14:45",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Keiko Fujimori officially declared winner of Peru presidential race",
-    "url": "https://www.aljazeera.com/news/2026/7/3/keiko-fujimori-officially-declared-winner-of-peru-presidential-race?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/features/2026/7/3/israel-prevents-exiled-palestinian-detainees-from-reuniting-with-their-families?traffic_source=rss",
-    "timestamp": "2026-07-03T18:13:53",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Israel prevents exiled Palestinian detainees from reuniting with their families",
-    "url": "https://www.aljazeera.com/features/2026/7/3/israel-prevents-exiled-palestinian-detainees-from-reuniting-with-their-families?traffic_source=rss"
-  },
-  {
-    "id": "https://www.dw.com/en/pope-leo-defends-us-immigrant-history-at-250th-anniversary/a-77825299?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-07-03T18:13:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Pope Leo defends US immigrant history at 250th anniversary",
-    "url": "https://www.dw.com/en/pope-leo-defends-us-immigrant-history-at-250th-anniversary/a-77825299?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://tass.com/politics/2155215",
-    "timestamp": "2026-07-03T18:12:32",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian Navy must guarantee critical damage to enemy \u2014 Maritime Board chief",
-    "url": "https://tass.com/politics/2155215"
-  },
-  {
-    "id": "https://taskandpurpose.com/news/navy-beats-recruiting-goal-2026/",
-    "timestamp": "2026-07-03T18:11:37",
-    "source": "Task & Purpose",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Navy reaches its recruiting goal 3 months early",
-    "url": "https://taskandpurpose.com/news/navy-beats-recruiting-goal-2026/"
-  },
-  {
-    "id": "https://tass.com/economy/2155213",
-    "timestamp": "2026-07-03T18:11:08",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian Railways ready to develop grain transportation to Iran \u2014 CEO",
-    "url": "https://tass.com/economy/2155213"
-  },
-  {
-    "id": "https://tass.com/world/2155211",
-    "timestamp": "2026-07-03T18:08:50",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Houthis claim missile strikes on Saudi aircraft over Yemen",
-    "url": "https://tass.com/world/2155211"
-  },
-  {
-    "id": "https://tass.com/world/2155209",
-    "timestamp": "2026-07-03T18:05:30",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Hungary greenlights another cluster in Ukraine's EU accession talks",
-    "url": "https://tass.com/world/2155209"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/07/03/georgias-only-oil-refinery-to-stop-processing-russian-crude-from-august/",
-    "timestamp": "2026-07-03T18:01:17",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Georgia\u2019s only oil refinery to stop processing Russian crude from August, company says",
-    "url": "https://euromaidanpress.com/2026/07/03/georgias-only-oil-refinery-to-stop-processing-russian-crude-from-august/"
-  },
-  {
-    "id": "https://www.twz.com/space/this-is-the-massive-aerial-armada-that-is-about-to-fly-over-the-capital",
-    "timestamp": "2026-07-03T18:00:12",
-    "source": "The Drive WarZone",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "This Is The Massive Aerial Armada That Is About To Fly Over The Capital",
-    "url": "https://www.twz.com/space/this-is-the-massive-aerial-armada-that-is-about-to-fly-over-the-capital"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/3/pakistan-bus-crash-kills-40?traffic_source=rss",
-    "timestamp": "2026-07-03T17:44:02",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Pakistan bus crash kills 40",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/pakistan-bus-crash-kills-40?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/3/world-leaders-pay-tribute-to-irans-late-leader-khamenei-in-tehran?traffic_source=rss",
-    "timestamp": "2026-07-03T17:35:22",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "World leaders pay tribute to Iran\u2019s late leader Khamenei in Tehran",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/world-leaders-pay-tribute-to-irans-late-leader-khamenei-in-tehran?traffic_source=rss"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/07/03/ukraine-reports-1150-increase-in-deep-strikes/",
-    "timestamp": "2026-07-03T17:31:24",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "\u201cNo longer a peaceful rear\u201d: Ukraine reports 1,150% increase in deep strikes as drones continue hitting Russia\u2019s war machine far from the front lines",
-    "url": "https://euromaidanpress.com/2026/07/03/ukraine-reports-1150-increase-in-deep-strikes/"
-  },
-  {
-    "id": "https://www.dw.com/en/nato-summit-european-members-and-canada-pledge-long-term-ukraine-aid/a-77825447?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-07-03T17:29:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "NATO summit: European members and Canada pledge long-term Ukraine aid",
-    "url": "https://www.dw.com/en/nato-summit-european-members-and-canada-pledge-long-term-ukraine-aid/a-77825447?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://tass.com/world/2155205",
-    "timestamp": "2026-07-03T17:26:35",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Over 4,300 killed in Israeli strikes since March 2 Lebanon escalation \u2014 health ministry",
-    "url": "https://tass.com/world/2155205"
   }
 ]
