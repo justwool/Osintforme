@@ -1,5 +1,235 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-07-08T21:40:40",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "US launches new wave of strikes against Iran after promising to 'hit them hard'",
+    "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/sports/2026/7/8/france-lose-appeal-against-olises-yellow-card-in-paraguay-world-cup-clash?traffic_source=rss",
+    "timestamp": "2026-07-08T21:16:20",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "France lose appeal against Olise\u2019s yellow card in Paraguay World Cup clash",
+    "url": "https://www.aljazeera.com/sports/2026/7/8/france-lose-appeal-against-olises-yellow-card-in-paraguay-world-cup-clash?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/8/deadly-strikes-in-gaza-leave-5-dead-children-wounded?traffic_source=rss",
+    "timestamp": "2026-07-08T21:12:50",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Deadly strikes in Gaza leave 5 dead, children wounded",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/deadly-strikes-in-gaza-leave-5-dead-children-wounded?traffic_source=rss"
+  },
+  {
+    "id": "https://taskandpurpose.com/news/sailors-must-shave-1-year/",
+    "timestamp": "2026-07-08T21:10:18",
+    "source": "Task & Purpose",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Navy imposes 1-year limit on medical shaving waivers",
+    "url": "https://taskandpurpose.com/news/sailors-must-shave-1-year/"
+  },
+  {
+    "id": "https://www.france24.com/en/tv-shows/a-propos/20260708-us-says-it-s-carrying-out-more-strikes-after-iran-s-attacks-in-strait-of-hormuz",
+    "timestamp": "2026-07-08T21:08:07",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "US says it's carrying out more strikes after Iran\u2019s attacks in Strait of Hormuz",
+    "url": "https://www.france24.com/en/tv-shows/a-propos/20260708-us-says-it-s-carrying-out-more-strikes-after-iran-s-attacks-in-strait-of-hormuz"
+  },
+  {
+    "id": "https://www.france24.com/en/tv-shows/truth-or-fake/20260708-egypt-files-fifa-complaint-as-argentina-rigged-world-cup-claims-go-viral",
+    "timestamp": "2026-07-08T21:07:19",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Egypt files FIFA complaint as Argentina \u2018rigged\u2019 World Cup claims go viral",
+    "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20260708-egypt-files-fifa-complaint-as-argentina-rigged-world-cup-claims-go-viral"
+  },
+  {
+    "id": "https://www.defenseone.com/defense-systems/2026/07/how-ukraine-won-first-great-robot-war/414658/",
+    "timestamp": "2026-07-08T21:02:31",
+    "source": "Defense One",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "How Ukraine won the first great robot war",
+    "url": "https://www.defenseone.com/defense-systems/2026/07/how-ukraine-won-first-great-robot-war/414658/"
+  },
+  {
+    "id": "https://www.dw.com/en/iran-war-us-launches-second-wave-of-strikes-in-24-hours/live-77882459?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-07-08T20:52:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Iran war: US launches second wave of strikes in 24 hours",
+    "url": "https://www.dw.com/en/iran-war-us-launches-second-wave-of-strikes-in-24-hours/live-77882459?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/7/8/former-rebel-turned-government-ally-proposes-a-path-to-peace-for-sudan?traffic_source=rss",
+    "timestamp": "2026-07-08T20:49:15",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Former rebel turned government ally proposes a path to peace for Sudan",
+    "url": "https://www.aljazeera.com/news/2026/7/8/former-rebel-turned-government-ally-proposes-a-path-to-peace-for-sudan?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/8/trump-departs-nato-summit-on-older-air-force-one?traffic_source=rss",
+    "timestamp": "2026-07-08T20:46:40",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Trump departs NATO summit on older Air Force One",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/trump-departs-nato-summit-on-older-air-force-one?traffic_source=rss"
+  },
+  {
+    "id": "https://www.militarytimes.com/news/your-military/2026/07/08/air-force-major-restricted-to-dc-base-under-investigation-after-uniformed-protest/",
+    "timestamp": "2026-07-08T20:46:12",
+    "source": "Military Times",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Air Force major restricted to DC base, under investigation after uniformed protest",
+    "url": "https://www.militarytimes.com/news/your-military/2026/07/08/air-force-major-restricted-to-dc-base-under-investigation-after-uniformed-protest/"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/7/8/democrat-rahm-emanuel-tells-israel-to-no-longer-expect-unconditional-us-aid?traffic_source=rss",
+    "timestamp": "2026-07-08T20:40:53",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Democrat Rahm Emanuel tells Israel to no longer expect unconditional US aid",
+    "url": "https://www.aljazeera.com/news/2026/7/8/democrat-rahm-emanuel-tells-israel-to-no-longer-expect-unconditional-us-aid?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/7/8/us-says-conducting-new-wave-of-strikes-on-iran-as-ceasefire-falters-2?traffic_source=rss",
+    "timestamp": "2026-07-08T20:40:14",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "US says conducting new wave of strikes on Iran as ceasefire falters",
+    "url": "https://www.aljazeera.com/news/2026/7/8/us-says-conducting-new-wave-of-strikes-on-iran-as-ceasefire-falters-2?traffic_source=rss"
+  },
+  {
+    "id": "https://news.usni.org/2026/07/08/canada-selects-german-firm-to-build-12-attack-boats-for-royal-canadian-navy",
+    "timestamp": "2026-07-08T20:40:10",
+    "source": "USNI News",
+    "platform": "rss",
+    "category": "naval",
+    "region": "global",
+    "text": "Canada Selects German Firm to Build 12 Attack Boats for Royal Canadian Navy",
+    "url": "https://news.usni.org/2026/07/08/canada-selects-german-firm-to-build-12-attack-boats-for-royal-canadian-navy"
+  },
+  {
+    "id": "https://www.france24.com/en/tv-shows/business/20260708-imf-lowers-2026-global-growth-forecast-to-3-but-projects-rebound-in-2027",
+    "timestamp": "2026-07-08T20:38:27",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "IMF lowers 2026 global growth forecast to 3% but projects rebound in 2027",
+    "url": "https://www.france24.com/en/tv-shows/business/20260708-imf-lowers-2026-global-growth-forecast-to-3-but-projects-rebound-in-2027"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/07/08/russo-ukrainian-war-day-1596-trump-promised-ukraine-license-for-patriot-missile-production/",
+    "timestamp": "2026-07-08T20:38:16",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Russo-Ukrainian war, day 1596: Trump promised Ukraine license for Patriot missile production",
+    "url": "https://euromaidanpress.com/2026/07/08/russo-ukrainian-war-day-1596-trump-promised-ukraine-license-for-patriot-missile-production/"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/8/venezuelan-fashion-designer-swaps-dresses-for-body-bags?traffic_source=rss",
+    "timestamp": "2026-07-08T20:34:39",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Venezuelan fashion designer swaps dresses for body bags",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/venezuelan-fashion-designer-swaps-dresses-for-body-bags?traffic_source=rss"
+  },
+  {
+    "id": "https://www.france24.com/en/nigeria-probes-fictitious-presidential-agency",
+    "timestamp": "2026-07-08T20:34:35",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Nigeria probes fictitious 'presidential' agency",
+    "url": "https://www.france24.com/en/nigeria-probes-fictitious-presidential-agency"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/07/08/russia-has-found-way-to-jam-starlink-and-take-down-ukraines-drones/",
+    "timestamp": "2026-07-08T20:28:22",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Russia has found way to jam Starlink and take down Ukraine\u2019s drones",
+    "url": "https://euromaidanpress.com/2026/07/08/russia-has-found-way-to-jam-starlink-and-take-down-ukraines-drones/"
+  },
+  {
+    "id": "https://www.aljazeera.com/economy/2026/7/8/us-summer-travel-slumps-under-rising-fares-and-fuel-expenses?traffic_source=rss",
+    "timestamp": "2026-07-08T20:15:05",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "US summer travel slumps under rising fares and fuel expenses",
+    "url": "https://www.aljazeera.com/economy/2026/7/8/us-summer-travel-slumps-under-rising-fares-and-fuel-expenses?traffic_source=rss"
+  },
+  {
+    "id": "https://www.militarytimes.com/news/your-military/2026/07/08/army-medic-convicted-of-desertion-after-3-years-on-the-run-in-the-uk/",
+    "timestamp": "2026-07-08T20:13:45",
+    "source": "Military Times",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Army medic convicted of desertion after 3 years on the run in the UK",
+    "url": "https://www.militarytimes.com/news/your-military/2026/07/08/army-medic-convicted-of-desertion-after-3-years-on-the-run-in-the-uk/"
+  },
+  {
+    "id": "https://www.twz.com/air/trump-unexpectedly-swaps-new-air-force-one-jet-for-old-in-sudden-trip-to-british-base",
+    "timestamp": "2026-07-08T20:10:43",
+    "source": "The Drive WarZone",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Trump Unexpectedly Swaps New Air Force One Jet For Old In Sudden Trip To British Base",
+    "url": "https://www.twz.com/air/trump-unexpectedly-swaps-new-air-force-one-jet-for-old-in-sudden-trip-to-british-base"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/8/marine-le-pen-cleared-to-run-in-frances-2027-presidential-election?traffic_source=rss",
+    "timestamp": "2026-07-08T20:06:38",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Marine Le Pen cleared to run in France\u2019s 2027 Presidential election",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/marine-le-pen-cleared-to-run-in-frances-2027-presidential-election?traffic_source=rss"
+  },
+  {
     "id": "https://euromaidanpress.com/2026/07/08/kyiv-marked-this-basement-official-shelter-it-didnt-save-people-inside-and-authorities-wont-say-why-no-new-ones-are-built/",
     "timestamp": "2026-07-08T20:01:46",
     "source": "Euromaidan Press",
@@ -4768,235 +4998,5 @@
     "region": "global",
     "text": "UK SME chosen to run Kyiv Business Centre",
     "url": "https://www.gov.uk/government/news/uk-sme-chosen-to-run-kyiv-business-centre"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cy8dmelnjk7o?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-07-07T16:25:59",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Ghana halts visit by South African president amid row over anti-migrant protests",
-    "url": "https://www.bbc.co.uk/news/articles/cy8dmelnjk7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.twz.com/air/nato-picks-saab-globaleye-to-replace-aging-e-3-awacs-fleet",
-    "timestamp": "2026-07-07T16:23:36",
-    "source": "The Drive WarZone",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "NATO Picks Saab GlobalEye To Replace Aging E-3 AWACS Fleet",
-    "url": "https://www.twz.com/air/nato-picks-saab-globaleye-to-replace-aging-e-3-awacs-fleet"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/07/07/ukraine-says-drones-hit-russian-fuel-tankers-supplying-occupied-crimea/",
-    "timestamp": "2026-07-07T16:21:40",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Ukraine\u2019s drones are sinking Crimea\u2019s fuel lifeline, hitting 12 Russian tankers in 2 days",
-    "url": "https://euromaidanpress.com/2026/07/07/ukraine-says-drones-hit-russian-fuel-tankers-supplying-occupied-crimea/"
-  },
-  {
-    "id": "https://www.gov.uk/government/news/uk-assumes-crucial-nato-command-as-european-allies-step-up-leadership-within-the-alliance",
-    "timestamp": "2026-07-07T16:20:00",
-    "source": "UK MoD",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "UK assumes crucial NATO command as European allies step up leadership within the alliance",
-    "url": "https://www.gov.uk/government/news/uk-assumes-crucial-nato-command-as-european-allies-step-up-leadership-within-the-alliance"
-  },
-  {
-    "id": "https://taskandpurpose.com/news/air-force-bear-alaska/",
-    "timestamp": "2026-07-07T16:15:39",
-    "source": "Task & Purpose",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Does a bear shop at the commissary? One did at this Alaska military base.",
-    "url": "https://taskandpurpose.com/news/air-force-bear-alaska/"
-  },
-  {
-    "id": "https://www.france24.com/en/video/20260707-marine-le-pen-convicted-in-appeal-trial-eligible-to-run-in-2027",
-    "timestamp": "2026-07-07T16:12:13",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Behind the scenes: Marine Le Pen's appeal verdict",
-    "url": "https://www.france24.com/en/video/20260707-marine-le-pen-convicted-in-appeal-trial-eligible-to-run-in-2027"
-  },
-  {
-    "id": "https://www.france24.com/en/video/20260707-china-rare-tornadoes-tear-through-central-cities",
-    "timestamp": "2026-07-07T16:11:37",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "China: Rare tornadoes tear through central cities",
-    "url": "https://www.france24.com/en/video/20260707-china-rare-tornadoes-tear-through-central-cities"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/7/trump-says-will-lift-sanctions-on-turkiye-consider-selling-f-35s?traffic_source=rss",
-    "timestamp": "2026-07-07T16:11:34",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Trump says will lift sanctions on Turkiye, \u2018consider\u2019 selling F-35s",
-    "url": "https://www.aljazeera.com/news/2026/7/7/trump-says-will-lift-sanctions-on-turkiye-consider-selling-f-35s?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/sport/20260707-mads-pedersen-wins-fourth-stage-of-tour-de-france-as-torstein-traeen-takes-yellow-jersey",
-    "timestamp": "2026-07-07T16:11:16",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Mads Pedersen wins fourth stage of Tour de France as Torstein Traeen takes yellow jersey",
-    "url": "https://www.france24.com/en/sport/20260707-mads-pedersen-wins-fourth-stage-of-tour-de-france-as-torstein-traeen-takes-yellow-jersey"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c07yy3pgrlmo?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-07-07T16:10:14",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Lawyer says detained Gaza doctor was severely beaten in Israeli jail",
-    "url": "https://www.bbc.co.uk/news/articles/c07yy3pgrlmo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://breakingdefense.com/2026/07/why-the-pentagon-wants-a-new-drone-chief-plus-gcap-moves-ahead/",
-    "timestamp": "2026-07-07T16:10:00",
-    "source": "Breaking Defense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Why the Pentagon wants a new drone chief, plus GCAP moves ahead",
-    "url": "https://breakingdefense.com/2026/07/why-the-pentagon-wants-a-new-drone-chief-plus-gcap-moves-ahead/"
-  },
-  {
-    "id": "https://www.france24.com/en/syria-s-reconstruction-and-economic-policy-will-rely-on-europe-and-turkey",
-    "timestamp": "2026-07-07T16:06:20",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Syria's reconstruction and economic policy will rely on Europe and Turkey",
-    "url": "https://www.france24.com/en/syria-s-reconstruction-and-economic-policy-will-rely-on-europe-and-turkey"
-  },
-  {
-    "id": "https://www.aljazeera.com/opinions/2026/7/7/christians-are-not-united-for-israel?traffic_source=rss",
-    "timestamp": "2026-07-07T16:06:09",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Christians are not united for Israel",
-    "url": "https://www.aljazeera.com/opinions/2026/7/7/christians-are-not-united-for-israel?traffic_source=rss"
-  },
-  {
-    "id": "https://www.militarytimes.com/news/your-military/2026/07/07/marine-corps-creates-new-small-drone-training-unit/",
-    "timestamp": "2026-07-07T15:53:43",
-    "source": "Military Times",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Marine Corps creates new small drone training unit",
-    "url": "https://www.militarytimes.com/news/your-military/2026/07/07/marine-corps-creates-new-small-drone-training-unit/"
-  },
-  {
-    "id": "https://tass.com/world/2156981",
-    "timestamp": "2026-07-07T15:41:27",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Trump says Turkey\u2019s purchase of S-400 systems from Russia no problem for F-35 sales",
-    "url": "https://tass.com/world/2156981"
-  },
-  {
-    "id": "https://www.france24.com/en/at-nato-summit-trump-berates-european-allies-while-pleasing-turkish-host",
-    "timestamp": "2026-07-07T15:36:56",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "At Nato summit, Trump berates European allies while pleasing Turkish host",
-    "url": "https://www.france24.com/en/at-nato-summit-trump-berates-european-allies-while-pleasing-turkish-host"
-  },
-  {
-    "id": "https://www.defensenews.com/space/2026/07/07/eight-nato-allies-launch-halo-satellite-constellation-initiative/",
-    "timestamp": "2026-07-07T15:30:56",
-    "source": "Defense News",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Eight NATO allies launch HALO satellite constellation initiative",
-    "url": "https://www.defensenews.com/space/2026/07/07/eight-nato-allies-launch-halo-satellite-constellation-initiative/"
-  },
-  {
-    "id": "https://www.france24.com/en/the-party-of-white-collar-crime-french-mps-react-to-le-pen-s-conviction",
-    "timestamp": "2026-07-07T15:30:33",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "'The party of white-collar crime': French MPs react to Le Pen's conviction",
-    "url": "https://www.france24.com/en/the-party-of-white-collar-crime-french-mps-react-to-le-pen-s-conviction"
-  },
-  {
-    "id": "https://www.france24.com/en/how-france-s-far-right-national-rally-dediabolised-over-the-years",
-    "timestamp": "2026-07-07T15:29:58",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "How France's far right National Rally 'dediabolised' over the years",
-    "url": "https://www.france24.com/en/how-france-s-far-right-national-rally-dediabolised-over-the-years"
-  },
-  {
-    "id": "https://www.militarytimes.com/news/your-military/2026/07/07/marines-recognized-for-response-during-north-carolina-nightclub-shooting/",
-    "timestamp": "2026-07-07T15:29:20",
-    "source": "Military Times",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Marines recognized for response during North Carolina nightclub shooting",
-    "url": "https://www.militarytimes.com/news/your-military/2026/07/07/marines-recognized-for-response-during-north-carolina-nightclub-shooting/"
-  },
-  {
-    "id": "https://www.france24.com/en/optimistic-tone-of-macron-s-visit-doesn-t-hide-precariousness-of-syria-s-security",
-    "timestamp": "2026-07-07T15:24:28",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Optimistic tone of Macron's visit doesn't hide precariousness of Syria's security",
-    "url": "https://www.france24.com/en/optimistic-tone-of-macron-s-visit-doesn-t-hide-precariousness-of-syria-s-security"
-  },
-  {
-    "id": "https://tass.com/world/2156977",
-    "timestamp": "2026-07-07T15:24:04",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "US to lift sanctions against Turkey \u2014 Trump",
-    "url": "https://tass.com/world/2156977"
-  },
-  {
-    "id": "https://tass.com/politics/2156975",
-    "timestamp": "2026-07-07T15:23:29",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian rights commissioner, defense ministry establish status of 91 servicemen in June",
-    "url": "https://tass.com/politics/2156975"
   }
 ]
