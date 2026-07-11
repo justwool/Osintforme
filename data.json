@@ -1,5 +1,105 @@
 [
   {
+    "id": "https://www.france24.com/en/sport/20260711-south-africa-2026-world-cup-midfielder-jayden-adams-dies-at-25",
+    "timestamp": "2026-07-11T15:00:42",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "South Africa 2026 World Cup midfielder Jayden Adams dies at 25",
+    "url": "https://www.france24.com/en/sport/20260711-south-africa-2026-world-cup-midfielder-jayden-adams-dies-at-25"
+  },
+  {
+    "id": "https://www.france24.com/en/video/20260711-11-wounded-in-overnight-russian-missile-and-drone-strikes-on-kyiv",
+    "timestamp": "2026-07-11T14:54:06",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "11 wounded in overnight Russian missile and drone strikes on Kyiv",
+    "url": "https://www.france24.com/en/video/20260711-11-wounded-in-overnight-russian-missile-and-drone-strikes-on-kyiv"
+  },
+  {
+    "id": "https://tass.com/politics/2159005",
+    "timestamp": "2026-07-11T14:50:45",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russian MP calls Dutch desecration of Soviet war memorial attempt to erase history",
+    "url": "https://tass.com/politics/2159005"
+  },
+  {
+    "id": "https://www.france24.com/en/video/20260711-climate-change-the-gender-cost-of-a-hotter-planet",
+    "timestamp": "2026-07-11T14:33:47",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Climate change: Women paying the price of a hotter planet",
+    "url": "https://www.france24.com/en/video/20260711-climate-change-the-gender-cost-of-a-hotter-planet"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/7/11/uk-police-free-suspect-in-ex-mp-ann-widdecombe-murder-investigation?traffic_source=rss",
+    "timestamp": "2026-07-11T14:25:14",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "UK police free suspect in ex-MP Ann Widdecombe murder investigation",
+    "url": "https://www.aljazeera.com/news/2026/7/11/uk-police-free-suspect-in-ex-mp-ann-widdecombe-murder-investigation?traffic_source=rss"
+  },
+  {
+    "id": "https://www.france24.com/en/video/20260711-wildfires-in-spain-kills-12-we-are-not-prepared-enough",
+    "timestamp": "2026-07-11T14:23:27",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Wildfires in Spain kills 12: 'We are not prepared enough'",
+    "url": "https://www.france24.com/en/video/20260711-wildfires-in-spain-kills-12-we-are-not-prepared-enough"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cly9lnjlp1eo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-07-11T14:19:34",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "More than 40 kidnapped children and teachers freed after Nigerian army operation",
+    "url": "https://www.bbc.co.uk/news/articles/cly9lnjlp1eo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://tass.com/world/2159003",
+    "timestamp": "2026-07-11T14:16:33",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Ukrainian expert dismisses US pledge about Patriot missile license as `marketing move\u2019",
+    "url": "https://tass.com/world/2159003"
+  },
+  {
+    "id": "https://www.dw.com/en/vietnam-indian-tourists-killed-in-boat-capsize/a-77916717?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-07-11T13:49:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Vietnam: Indian tourists killed in boat capsize",
+    "url": "https://www.dw.com/en/vietnam-indian-tourists-killed-in-boat-capsize/a-77916717?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://tass.com/world/2159001",
+    "timestamp": "2026-07-11T13:44:39",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Baltic states deny claims about letting Kiev use their skies for attacks against Russia",
+    "url": "https://tass.com/world/2159001"
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cn8qwj611qxo?at_medium=RSS&at_campaign=rss",
     "timestamp": "2026-07-11T13:35:09",
     "source": "BBC World",
@@ -8,6 +108,16 @@
     "region": "global",
     "text": "Landmark US housing bill becomes law despite Trump protest",
     "url": "https://www.bbc.co.uk/news/articles/cn8qwj611qxo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.france24.com/en/live-news/20260711-our-land-our-sky-west-bank-palestinians-fly-kites-in-defiance-of-israeli-settlers",
+    "timestamp": "2026-07-11T13:33:14",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "'Our land, our sky:' West Bank Palestinians fly kites in defiance of Israeli settlers",
+    "url": "https://www.france24.com/en/live-news/20260711-our-land-our-sky-west-bank-palestinians-fly-kites-in-defiance-of-israeli-settlers"
   },
   {
     "id": "https://www.dw.com/en/germany-left-wing-group-says-it-is-behind-railway-sabotage/a-77916758?maca=en-rss-en-all-1573-xml-mrss",
@@ -38,6 +148,16 @@
     "region": "global",
     "text": "LRASM and JASSM Production to Triple Under New US Air Force Contract",
     "url": "https://www.navalnews.com/naval-news/2026/07/lrasm-and-jassm-production-to-triple-under-new-us-air-force-contract/"
+  },
+  {
+    "id": "https://www.france24.com/en/video/20260711-france-wildfires-1-500-evacuated-from-campsites-near-perpignan",
+    "timestamp": "2026-07-11T13:19:31",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "France - Wildfires: 1,500 evacuated from campsites near Perpignan",
+    "url": "https://www.france24.com/en/video/20260711-france-wildfires-1-500-evacuated-from-campsites-near-perpignan"
   },
   {
     "id": "https://www.aljazeera.com/features/2026/7/11/power-cuts-plunge-gaza-hospitals-into-darkness-as-israels-attacks-persist?traffic_source=rss",
@@ -328,6 +448,16 @@
     "region": "ru",
     "text": "Iran plans to stay away from talks until US position changes \u2014 agency",
     "url": "https://tass.com/world/2158987"
+  },
+  {
+    "id": "https://www.france24.com/en/europe/20260711-firefighters-gain-upper-hand-on-horrific-spain-wildfire-that-killed-at-least-12",
+    "timestamp": "2026-07-11T10:39:12",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Firefighters gain upper hand on 'horrific' Spain wildfires that killed at least 12",
+    "url": "https://www.france24.com/en/europe/20260711-firefighters-gain-upper-hand-on-horrific-spain-wildfire-that-killed-at-least-12"
   },
   {
     "id": "https://tass.com/defense/2158985",
@@ -4868,135 +4998,5 @@
     "region": "ru",
     "text": "Chinese embassy to US expects Kiev to view Beijing\u2019s role in Ukraine context objectively",
     "url": "https://tass.com/world/2158425"
-  },
-  {
-    "id": "https://www.france24.com/en/video/20260710-world-cup-2026-demb%C3%A9l%C3%A9-happy-to-play-in-third-consecutive-world-cup-semi-final",
-    "timestamp": "2026-07-10T00:11:13",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "World Cup 2026: Demb\u00e9l\u00e9 happy to play in third consecutive World Cup semi final",
-    "url": "https://www.france24.com/en/video/20260710-world-cup-2026-demb%C3%A9l%C3%A9-happy-to-play-in-third-consecutive-world-cup-semi-final"
-  },
-  {
-    "id": "https://tass.com/economy/2158423",
-    "timestamp": "2026-07-10T00:07:59",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Organizers announce Eastern Economic Forum\u2019s theme for 2026",
-    "url": "https://tass.com/economy/2158423"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/10/china-expands-anti-sanctions-toolkit-raising-risks-for-foreign-firms?traffic_source=rss",
-    "timestamp": "2026-07-10T00:04:52",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "China expands anti-sanctions toolkit, raising risks for foreign firms",
-    "url": "https://www.aljazeera.com/news/2026/7/10/china-expands-anti-sanctions-toolkit-raising-risks-for-foreign-firms?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/liveblog/2026/7/10/iran-war-live-fresh-attacks-on-iran-as-us-says-talks-still-on?traffic_source=rss",
-    "timestamp": "2026-07-10T00:00:00",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Iran war live: New attacks on Iran as US says talks still on",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/7/10/iran-war-live-fresh-attacks-on-iran-as-us-says-talks-still-on?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/middle-east/20260709-live-iran-buries-khamenei-after-new-fighting-with-us-erupts",
-    "timestamp": "2026-07-09T23:59:26",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Live: Iran buries Khamenei after new fighting with US erupts",
-    "url": "https://www.france24.com/en/middle-east/20260709-live-iran-buries-khamenei-after-new-fighting-with-us-erupts"
-  },
-  {
-    "id": "https://tass.com/world/2158421",
-    "timestamp": "2026-07-09T23:52:12",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Technical talks between US, Iran continue \u2014 Reuters",
-    "url": "https://tass.com/world/2158421"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/9/venezuela-earthquakes-toll-rises-to-3889-as-risk-of-disease-grows?traffic_source=rss",
-    "timestamp": "2026-07-09T23:25:50",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Venezuela earthquakes toll rises to 3,889 as risk of disease grows",
-    "url": "https://www.aljazeera.com/news/2026/7/9/venezuela-earthquakes-toll-rises-to-3889-as-risk-of-disease-grows?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/9/new-mexico-accuses-us-justice-department-of-impeding-epstein-investigation?traffic_source=rss",
-    "timestamp": "2026-07-09T23:25:48",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "New Mexico accuses US Justice Department of impeding Epstein investigation",
-    "url": "https://www.aljazeera.com/news/2026/7/9/new-mexico-accuses-us-justice-department-of-impeding-epstein-investigation?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/emergencies/2158419",
-    "timestamp": "2026-07-09T23:20:59",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Death toll from Venezuela earth quake climbs to 3,889",
-    "url": "https://tass.com/emergencies/2158419"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-07-09T23:18:18",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Huge crowds in Mashhad as Iran's late supreme leader is buried",
-    "url": "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cj3g6n64z4mo?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-07-09T23:07:47",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "All the best looks from Paris Haute Couture Week 2026",
-    "url": "https://www.bbc.co.uk/news/articles/cj3g6n64z4mo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://tass.com/politics/2158417",
-    "timestamp": "2026-07-09T23:02:40",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Diplomat reveals number of Russian civilian casualties from past week\u2019s attacks by Ukraine",
-    "url": "https://tass.com/politics/2158417"
-  },
-  {
-    "id": "https://www.gov.uk/government/news/new-training-guide-launched-to-revolutionise-health-of-servicewomen",
-    "timestamp": "2026-07-09T23:01:05",
-    "source": "UK MoD",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "New training guide\u00a0launched to revolutionise\u00a0health of\u00a0servicewomen",
-    "url": "https://www.gov.uk/government/news/new-training-guide-launched-to-revolutionise-health-of-servicewomen"
   }
 ]
