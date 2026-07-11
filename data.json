@@ -1,5 +1,55 @@
 [
   {
+    "id": "https://tass.com/emergencies/2159041",
+    "timestamp": "2026-07-11T21:22:46",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Teen in critical condition after drone attack in Belgorod Region",
+    "url": "https://tass.com/emergencies/2159041"
+  },
+  {
+    "id": "https://tass.com/world/2159039",
+    "timestamp": "2026-07-11T21:04:19",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "No US officials attending consultations on Iran in Oman \u2014 CBS",
+    "url": "https://tass.com/world/2159039"
+  },
+  {
+    "id": "https://taskandpurpose.com/news/air-national-guard-parachute-rescue-700-miles/",
+    "timestamp": "2026-07-11T20:51:13",
+    "source": "Task & Purpose",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Pararescue team parachutes in 700 miles out at sea to save a fisherman\u2019s life",
+    "url": "https://taskandpurpose.com/news/air-national-guard-parachute-rescue-700-miles/"
+  },
+  {
+    "id": "https://tass.com/politics/2159035",
+    "timestamp": "2026-07-11T20:33:46",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Nine civilians injured in Ukrainian attack on passenger bus in DPR \u2014 governor",
+    "url": "https://tass.com/politics/2159035"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/11/uk-police-investigate-murder-of-politician-ann-widdecombe?traffic_source=rss",
+    "timestamp": "2026-07-11T20:29:40",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "UK police investigate murder of politician Ann Widdecombe",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/uk-police-investigate-murder-of-politician-ann-widdecombe?traffic_source=rss"
+  },
+  {
     "id": "https://tass.com/world/2159033",
     "timestamp": "2026-07-11T20:19:53",
     "source": "TASS English",
@@ -18,6 +68,16 @@
     "region": "global",
     "text": "Ukraine Claims Scores Of Russian Ships Struck In Sea Of Azov",
     "url": "https://www.twz.com/news-features/ukraine-claims-scores-of-russian-ships-struck-in-sea-of-azov"
+  },
+  {
+    "id": "https://www.france24.com/en/sport/20260711-norway-england-live-haaland-s-vikings-seek-to-shock-the-three-lions",
+    "timestamp": "2026-07-11T20:16:38",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Norway-England live: Haaland's Vikings seek to shock Three Lions",
+    "url": "https://www.france24.com/en/sport/20260711-norway-england-live-haaland-s-vikings-seek-to-shock-the-three-lions"
   },
   {
     "id": "https://www.aljazeera.com/video/inside-story/2026/7/11/whats-behind-pakistans-mass-deportation-of-afghans?traffic_source=rss",
@@ -3670,6 +3730,16 @@
     "url": "https://tass.com/politics/2158745"
   },
   {
+    "id": "https://taskandpurpose.com/news/hegseth-fix-apache-pilots-suspended/",
+    "timestamp": "2026-07-10T13:07:29",
+    "source": "Task & Purpose",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Suspensions lifted for 8 Army helicopter pilots after Hegseth weighs in",
+    "url": "https://taskandpurpose.com/news/hegseth-fix-apache-pilots-suspended/"
+  },
+  {
     "id": "https://www.france24.com/en/asia-pacific/20260710-17th-century-king-new-anti-muslim-symbol-india-hindu-nationalists",
     "timestamp": "2026-07-10T13:05:43",
     "source": "France24",
@@ -4928,75 +4998,5 @@
     "region": "global",
     "text": "Germany: Bundestag to vote on health care savings",
     "url": "https://www.dw.com/en/germany-bundestag-to-vote-on-health-care-savings/live-77899497?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.aljazeera.com/economy/2026/7/10/south-koreas-sk-hynix-raises-26-5bn-in-record-breaking-us-ipo?traffic_source=rss",
-    "timestamp": "2026-07-10T07:02:05",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "South Korea\u2019s SK Hynix raises $26.5bn in record-breaking US IPO",
-    "url": "https://www.aljazeera.com/economy/2026/7/10/south-koreas-sk-hynix-raises-26-5bn-in-record-breaking-us-ipo?traffic_source=rss"
-  },
-  {
-    "id": "https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco",
-    "timestamp": "2026-07-10T07:00:14",
-    "source": "Guardian World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Developing countries spend more repaying foreign debt than on education, UN reveals",
-    "url": "https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco"
-  },
-  {
-    "id": "https://tass.com/economy/2158469",
-    "timestamp": "2026-07-10T06:55:39",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russia's oat exports up more than 50% in 1H",
-    "url": "https://tass.com/economy/2158469"
-  },
-  {
-    "id": "https://tass.com/world/2158467",
-    "timestamp": "2026-07-10T06:54:34",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Over 40 million people attend farewell ceremonies for Khamenei in Iran \u2014 TV",
-    "url": "https://tass.com/world/2158467"
-  },
-  {
-    "id": "https://www.dw.com/en/india-news-prime-minister-modi-embarks-on-maiden-trip-to-new-zealand/live-77899386?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-07-10T06:50:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "India news: Prime Minister Modi embarks on maiden trip to New Zealand",
-    "url": "https://www.dw.com/en/india-news-prime-minister-modi-embarks-on-maiden-trip-to-new-zealand/live-77899386?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://tass.com/politics/2158465",
-    "timestamp": "2026-07-10T06:48:49",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Oil refinery fire, evacuations in Taganrog, 376 UAVs target Russia: new attacks",
-    "url": "https://tass.com/politics/2158465"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cm2rmmx86pdo?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-07-10T06:44:21",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "China lands reusable rocket for first time, state media says",
-    "url": "https://www.bbc.co.uk/news/articles/cm2rmmx86pdo?at_medium=RSS&at_campaign=rss"
   }
 ]
