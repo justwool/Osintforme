@@ -1,5 +1,435 @@
 [
   {
+    "id": "https://www.dw.com/en/germany-news-coalition-has-found-its-footing-merz-says/live-77965417?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-07-15T11:59:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Germany news: Coalition has 'found its footing,' Merz says",
+    "url": "https://www.dw.com/en/germany-news-coalition-has-found-its-footing-merz-says/live-77965417?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://tass.com/society/2160579",
+    "timestamp": "2026-07-15T11:52:50",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "More than 75% of Germans doubt Bundeswehr may become strongest army in Europe",
+    "url": "https://tass.com/society/2160579"
+  },
+  {
+    "id": "https://tass.com/politics/2160577",
+    "timestamp": "2026-07-15T11:50:01",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russian troops advance northeast of Svyatogorsk in DPR \u2014 expert",
+    "url": "https://tass.com/politics/2160577"
+  },
+  {
+    "id": "https://tass.com/economy/2160575",
+    "timestamp": "2026-07-15T11:47:19",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russia sets up framework to accelerate adoption of local technologies \u2014 expert",
+    "url": "https://tass.com/economy/2160575"
+  },
+  {
+    "id": "https://www.theguardian.com/world/2026/jul/15/venezuela-interim-government-opposition-talks-democracy-maria-corina-machado",
+    "timestamp": "2026-07-15T11:46:23",
+    "source": "Guardian World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Venezuela\u2019s interim government and opposition to begin formal talks",
+    "url": "https://www.theguardian.com/world/2026/jul/15/venezuela-interim-government-opposition-talks-democracy-maria-corina-machado"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c1kykx3vnyyo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-07-15T11:44:28",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Italy's Meloni suffers surprise setback in close vote on electoral reform",
+    "url": "https://www.bbc.co.uk/news/articles/c1kykx3vnyyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cx2w2k3vklgo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-07-15T11:43:15",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Sierra Leone drops treason charge against ex-president over attempted coup",
+    "url": "https://www.bbc.co.uk/news/articles/cx2w2k3vklgo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/7/15/why-has-lindsey-grahams-sister-inherited-his-senate-seat-after-his-death?traffic_source=rss",
+    "timestamp": "2026-07-15T11:39:48",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Why has Lindsey Graham\u2019s sister inherited his Senate seat after his death?",
+    "url": "https://www.aljazeera.com/news/2026/7/15/why-has-lindsey-grahams-sister-inherited-his-senate-seat-after-his-death?traffic_source=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c1dydw0r246o?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-07-15T11:38:37",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Heatwave prompts Italy's delivery riders to strike for extra rights",
+    "url": "https://www.bbc.co.uk/news/articles/c1dydw0r246o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/7/15/cycle-of-chaos-israel-killing-gaza-civil-officials-to-derail-its-future?traffic_source=rss",
+    "timestamp": "2026-07-15T11:36:32",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "\u2018Cycle of chaos\u2019: Israel killing Gaza civil officials to derail its future",
+    "url": "https://www.aljazeera.com/news/2026/7/15/cycle-of-chaos-israel-killing-gaza-civil-officials-to-derail-its-future?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/7/15/could-the-us-take-control-of-irans-southern-islands?traffic_source=rss",
+    "timestamp": "2026-07-15T11:35:28",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Could the US take control of Iran\u2019s southern islands?",
+    "url": "https://www.aljazeera.com/news/2026/7/15/could-the-us-take-control-of-irans-southern-islands?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/emergencies/2160573",
+    "timestamp": "2026-07-15T11:35:21",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Death toll from Bangkok pub fire rises to 32 \u2014 newspaper",
+    "url": "https://tass.com/emergencies/2160573"
+  },
+  {
+    "id": "https://tass.com/politics/2160571",
+    "timestamp": "2026-07-15T11:35:13",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Consulate general investigates detention of Russians in Istanbul's Hagia Sophia mosque",
+    "url": "https://tass.com/politics/2160571"
+  },
+  {
+    "id": "https://tass.com/defense/2160569",
+    "timestamp": "2026-07-15T11:34:07",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russia creating wheeled heavy-duty robot named after esteemed WWII general",
+    "url": "https://tass.com/defense/2160569"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/15/what-are-the-israeli-withdrawal-pilot-zones-in-southern-lebanon?traffic_source=rss",
+    "timestamp": "2026-07-15T11:23:21",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "What are the Israeli withdrawal \u2018pilot zones\u2019 in southern Lebanon?",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/what-are-the-israeli-withdrawal-pilot-zones-in-southern-lebanon?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/world/2160563",
+    "timestamp": "2026-07-15T11:20:56",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Taiwan maneuvers mere saber-rattling \u2014 China's Taiwan Affairs Office",
+    "url": "https://tass.com/world/2160563"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/07/15/20000-confirmed-hits-make-general-cherry-ukraines-top-fpv-drone-maker/",
+    "timestamp": "2026-07-15T11:18:54",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "20,000 confirmed hits make General Cherry Ukraine\u2019s top FPV drone maker",
+    "url": "https://euromaidanpress.com/2026/07/15/20000-confirmed-hits-make-general-cherry-ukraines-top-fpv-drone-maker/"
+  },
+  {
+    "id": "https://www.gov.uk/government/publications/british-sign-language-5-year-plan-ministry-of-defence",
+    "timestamp": "2026-07-15T11:14:28",
+    "source": "UK MoD",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Policy paper: British Sign Language (BSL) 5-year plan: Ministry of Defence",
+    "url": "https://www.gov.uk/government/publications/british-sign-language-5-year-plan-ministry-of-defence"
+  },
+  {
+    "id": "https://www.france24.com/en/video/20260715-ice-suspends-traffic-stop-operations-after-second-fatal-shooting",
+    "timestamp": "2026-07-15T11:12:29",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "#ICE suspends traffic stop operations after second fatal #shooting",
+    "url": "https://www.france24.com/en/video/20260715-ice-suspends-traffic-stop-operations-after-second-fatal-shooting"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-07-15T11:08:59",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Iran threatens to block more trade routes as US launches fresh strikes",
+    "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.france24.com/en/tv-shows/focus/20260715-haiti-trapped-by-violence-humanitarian-aid-deliveries-struggle-to-reach-local-population",
+    "timestamp": "2026-07-15T11:02:24",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Haiti trapped by violence: Humanitarian aid deliveries struggle to reach local population",
+    "url": "https://www.france24.com/en/tv-shows/focus/20260715-haiti-trapped-by-violence-humanitarian-aid-deliveries-struggle-to-reach-local-population"
+  },
+  {
+    "id": "https://www.france24.com/en/sport/20260715-world-cup-golden-era-ends-for-deschamps-france-as-midas-touch-deserts-les-bleus",
+    "timestamp": "2026-07-15T11:02:00",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Golden era ends for Deschamps\u2019 France as Midas touch deserts Les Bleus",
+    "url": "https://www.france24.com/en/sport/20260715-world-cup-golden-era-ends-for-deschamps-france-as-midas-touch-deserts-les-bleus"
+  },
+  {
+    "id": "https://www.france24.com/en/tv-shows/spotlight/20260715-amid-democratic-backsliding-will-nato-raise-concerns-over-turkey-s-crackdown-on-opposition",
+    "timestamp": "2026-07-15T10:59:49",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Amid democratic backsliding, Will NATO 'raise concerns' over Turkey's crackdown on opposition?",
+    "url": "https://www.france24.com/en/tv-shows/spotlight/20260715-amid-democratic-backsliding-will-nato-raise-concerns-over-turkey-s-crackdown-on-opposition"
+  },
+  {
+    "id": "https://www.aljazeera.com/sports/2026/7/15/cody-bellinger-stars-at-mlb-all-star-game-wins-mvp-award?traffic_source=rss",
+    "timestamp": "2026-07-15T10:57:21",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Cody Bellinger stars at MLB All-Star game, wins MVP award",
+    "url": "https://www.aljazeera.com/sports/2026/7/15/cody-bellinger-stars-at-mlb-all-star-game-wins-mvp-award?traffic_source=rss"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/07/15/the-azov-sea-wasnt-enough-ukraines-drones-followed-russias-oil-fleet-into-the-black-sea/",
+    "timestamp": "2026-07-15T10:55:56",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "The Azov Sea wasn\u2019t enough\u2014Ukraine\u2019s drones followed Russia\u2019s oil fleet into the Black Sea",
+    "url": "https://euromaidanpress.com/2026/07/15/the-azov-sea-wasnt-enough-ukraines-drones-followed-russias-oil-fleet-into-the-black-sea/"
+  },
+  {
+    "id": "https://www.dw.com/en/ukraine-kyiv-and-eu-agree-on-new-drone-production-deal/live-77962795?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-07-15T10:55:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Ukraine: Kyiv and EU agree on new drone production deal",
+    "url": "https://www.dw.com/en/ukraine-kyiv-and-eu-agree-on-new-drone-production-deal/live-77962795?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.theguardian.com/business/2026/jul/15/china-economy-low-quarterly-growth-economic-concerns",
+    "timestamp": "2026-07-15T10:48:27",
+    "source": "Guardian World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "China\u2019s economy grows at 4.3%, one of its lowest rates on record",
+    "url": "https://www.theguardian.com/business/2026/jul/15/china-economy-low-quarterly-growth-economic-concerns"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/7/15/gibraltar-border-controls-lifted-is-it-part-of-schengen-the-uk-or-both?traffic_source=rss",
+    "timestamp": "2026-07-15T10:45:04",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Gibraltar border controls lifted: Is it part of Schengen, the UK \u2013 or both?",
+    "url": "https://www.aljazeera.com/news/2026/7/15/gibraltar-border-controls-lifted-is-it-part-of-schengen-the-uk-or-both?traffic_source=rss"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/07/15/ukraines-navy-just-showed-the-barracuda-sea-drone-leading-a-three-drone-strike-no-crew-in-the-fight/",
+    "timestamp": "2026-07-15T10:41:56",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Ukraine\u2019s Navy just showed the Barracuda sea drone leading a three-drone strike\u2014no crew in the fight",
+    "url": "https://euromaidanpress.com/2026/07/15/ukraines-navy-just-showed-the-barracuda-sea-drone-leading-a-three-drone-strike-no-crew-in-the-fight/"
+  },
+  {
+    "id": "https://www.france24.com/en/video/20260715-kenya-s-soccer-grannies-take-to-the-pitch-amid-world-cup-fever",
+    "timestamp": "2026-07-15T10:41:49",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Kenya's 'Soccer\u00a0Grannies' take to the pitch amid World Cup fever",
+    "url": "https://www.france24.com/en/video/20260715-kenya-s-soccer-grannies-take-to-the-pitch-amid-world-cup-fever"
+  },
+  {
+    "id": "https://www.france24.com/en/video/20260715-firefighters-continue-to-battle-contained-fontainebleau-fire-near-paris",
+    "timestamp": "2026-07-15T10:40:00",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Firefighters continue to battle 'contained' Fontainebleau fire near Paris",
+    "url": "https://www.france24.com/en/video/20260715-firefighters-continue-to-battle-contained-fontainebleau-fire-near-paris"
+  },
+  {
+    "id": "https://www.france24.com/en/tv-shows/business/20260715-chinese-growth-at-its-weakest-since-covid-19-era-in-second-quarter",
+    "timestamp": "2026-07-15T10:39:40",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Chinese growth in second quarter weakest since Covid-19 era",
+    "url": "https://www.france24.com/en/tv-shows/business/20260715-chinese-growth-at-its-weakest-since-covid-19-era-in-second-quarter"
+  },
+  {
+    "id": "https://www.france24.com/en/video/20260715-more-health-workers-strike-as-confirmed-ebola-cases-in-dr-congo-top-2-000",
+    "timestamp": "2026-07-15T10:37:25",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "More health workers strike as confirmed Ebola cases in DR Congo top 2,000",
+    "url": "https://www.france24.com/en/video/20260715-more-health-workers-strike-as-confirmed-ebola-cases-in-dr-congo-top-2-000"
+  },
+  {
+    "id": "https://tass.com/world/2160533",
+    "timestamp": "2026-07-15T10:32:48",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Von der Leyen, Vucic, Sandu, other leaders arrive in Kiev",
+    "url": "https://tass.com/world/2160533"
+  },
+  {
+    "id": "https://www.gov.uk/government/publications/ministry-of-defence-annual-report-and-accounts-2025-to-2026",
+    "timestamp": "2026-07-15T10:28:19",
+    "source": "UK MoD",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Corporate report: Ministry of Defence annual report and accounts 2025 to 2026",
+    "url": "https://www.gov.uk/government/publications/ministry-of-defence-annual-report-and-accounts-2025-to-2026"
+  },
+  {
+    "id": "https://www.defensenews.com/global/mideast-africa/2026/07/15/israeli-firm-wants-to-convert-commercial-ships-into-floating-drone-bases/",
+    "timestamp": "2026-07-15T10:27:52",
+    "source": "Defense News",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Israeli firm wants to convert commercial ships into floating drone bases",
+    "url": "https://www.defensenews.com/global/mideast-africa/2026/07/15/israeli-firm-wants-to-convert-commercial-ships-into-floating-drone-bases/"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/7/15/fifa-world-cup-brackets-teams-predictions-schedule-and-road-to-the-final?traffic_source=rss",
+    "timestamp": "2026-07-15T10:19:01",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "FIFA World Cup: England vs Argentina prediction, schedule, road to final",
+    "url": "https://www.aljazeera.com/news/2026/7/15/fifa-world-cup-brackets-teams-predictions-schedule-and-road-to-the-final?traffic_source=rss"
+  },
+  {
+    "id": "https://www.france24.com/en/video/20260715-a-tactical-thrashing-spain-fans-celebrate-world-cup-win-over-france",
+    "timestamp": "2026-07-15T10:18:56",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "'A tactical thrashing': Spain fans celebrate World Cup win over France",
+    "url": "https://www.france24.com/en/video/20260715-a-tactical-thrashing-spain-fans-celebrate-world-cup-win-over-france"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-07-15T10:17:38",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Three killed as Russian bombing of Odesa continues",
+    "url": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/15/crowds-cross-between-spain-and-gibraltar-following-uk-eu-treaty?traffic_source=rss",
+    "timestamp": "2026-07-15T10:17:12",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Crowds cross between Spain and Gibraltar following UK-EU treaty",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/crowds-cross-between-spain-and-gibraltar-following-uk-eu-treaty?traffic_source=rss"
+  },
+  {
+    "id": "https://www.france24.com/en/after-the-near-oppressive-clean-girl-era-cigarettes-are-trendy-again",
+    "timestamp": "2026-07-15T10:16:14",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "After the 'near oppressive' clean girl era, cigarettes are trendy again",
+    "url": "https://www.france24.com/en/after-the-near-oppressive-clean-girl-era-cigarettes-are-trendy-again"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/7/15/a-role-model-djed-spence-first-muslim-england-player-lifts-hopes?traffic_source=rss",
+    "timestamp": "2026-07-15T10:15:15",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "World Cup: Djed Spence, England\u2019s first Muslim player, lifts hopes",
+    "url": "https://www.aljazeera.com/news/2026/7/15/a-role-model-djed-spence-first-muslim-england-player-lifts-hopes?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/7/15/bangkok-pub-fire-toll-rises-to-32-with-15-in-intensive-care?traffic_source=rss",
+    "timestamp": "2026-07-15T10:13:58",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Bangkok pub fire death toll rises to 32 with 15 in intensive care",
+    "url": "https://www.aljazeera.com/news/2026/7/15/bangkok-pub-fire-toll-rises-to-32-with-15-in-intensive-care?traffic_source=rss"
+  },
+  {
     "id": "https://tass.com/defense/2160509",
     "timestamp": "2026-07-15T10:13:14",
     "source": "TASS English",
@@ -1288,6 +1718,16 @@
     "region": "ru",
     "text": "Air defenses down 340 drones heading for Moscow Region in 24 hours \u2014 authorities",
     "url": "https://tass.com/emergencies/2160325"
+  },
+  {
+    "id": "https://www.dw.com/en/iran-war-us-launches-fresh-wave-of-strikes/live-77960667?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-07-14T23:24:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Iran war: US launches fresh wave of strikes",
+    "url": "https://www.dw.com/en/iran-war-us-launches-fresh-wave-of-strikes/live-77960667?maca=en-rss-en-all-1573-xml-mrss"
   },
   {
     "id": "https://www.dw.com/en/trump-threatens-strikes-on-iranian-bridges-power-plants/live-77960667?maca=en-rss-en-all-1573-xml-mrss",
@@ -4558,445 +4998,5 @@
     "region": "global",
     "text": "Jurassic Park, The Piano, The Tudors... New Zealand actor Sam Neill dies at 78",
     "url": "https://www.france24.com/en/jurassic-park-the-piano-the-tudors-new-zealand-actor-sam-neill-dies-at-78"
-  },
-  {
-    "id": "https://www.france24.com/en/houthis-launch-missiles-at-saudi-arabia-in-retaliation-for-sanaa-airport-strikes",
-    "timestamp": "2026-07-14T08:26:52",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Houthis launch missiles at Saudi Arabia, in retaliation for Sanaa airport strikes",
-    "url": "https://www.france24.com/en/houthis-launch-missiles-at-saudi-arabia-in-retaliation-for-sanaa-airport-strikes"
-  },
-  {
-    "id": "https://www.france24.com/en/us-strikes-in-iran-continue-trump-says-reinstates-blockade-on-strait-of-hormuz",
-    "timestamp": "2026-07-14T08:26:04",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "US strikes in Iran continue, Trump says reinstates blockade on Strait of Hormuz",
-    "url": "https://www.france24.com/en/us-strikes-in-iran-continue-trump-says-reinstates-blockade-on-strait-of-hormuz"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-military-releases-video-of-its-latest-strikes-on-iran?traffic_source=rss",
-    "timestamp": "2026-07-14T08:23:29",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "US military releases video of its latest strikes on Iran",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-military-releases-video-of-its-latest-strikes-on-iran?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/bastille-day-france-celebrates-ukraine-and-its-allies-with-military-parade",
-    "timestamp": "2026-07-14T08:23:10",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Bastille Day: France celebrates Ukraine and its allies with military parade",
-    "url": "https://www.france24.com/en/bastille-day-france-celebrates-ukraine-and-its-allies-with-military-parade"
-  },
-  {
-    "id": "https://www.france24.com/en/french-police-suspect-arson-in-fontainebleau-forest-near-paris",
-    "timestamp": "2026-07-14T08:22:54",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "French police suspect arson in Fontainebleau forest near Paris",
-    "url": "https://www.france24.com/en/french-police-suspect-arson-in-fontainebleau-forest-near-paris"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/2026/7/14/video-world-cup-2026-highlights?traffic_source=rss",
-    "timestamp": "2026-07-14T08:15:41",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Watch FIFA World Cup: Mbappe vs Yamal headlines Spain-France semifinal",
-    "url": "https://www.aljazeera.com/video/2026/7/14/video-world-cup-2026-highlights?traffic_source=rss"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/07/14/a-plant-making-150-products-from-gasoline-to-polyethylene-caught-fire-1300-km-from-the-war-zone-ukraine-hits-two-refineries-overnight/",
-    "timestamp": "2026-07-14T08:13:38",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "A plant making 150 products from gasoline to polyethylene caught fire 1,300 km from the war zone\u2014Ukraine hits two refineries overnight",
-    "url": "https://euromaidanpress.com/2026/07/14/a-plant-making-150-products-from-gasoline-to-polyethylene-caught-fire-1300-km-from-the-war-zone-ukraine-hits-two-refineries-overnight/"
-  },
-  {
-    "id": "https://tass.com/world/2159935",
-    "timestamp": "2026-07-14T08:08:53",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Maven Smart AI system to become key component of NATO troop command \u2014 expert",
-    "url": "https://tass.com/world/2159935"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/07/14/olenivka-officials-and-taganrog-jail-land-on-eu-sanctions-list-for-abuse-of-ukrainian-prisoners/",
-    "timestamp": "2026-07-14T08:08:40",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Olenivka officials and Taganrog jail land on EU sanctions list for abuse of Ukrainian prisoners",
-    "url": "https://euromaidanpress.com/2026/07/14/olenivka-officials-and-taganrog-jail-land-on-eu-sanctions-list-for-abuse-of-ukrainian-prisoners/"
-  },
-  {
-    "id": "https://tass.com/politics/2159933",
-    "timestamp": "2026-07-14T07:59:45",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian forces deliver overnight precision strikes on Ukrainian military-industrial sites",
-    "url": "https://tass.com/politics/2159933"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/14/who-will-win-the-2026-fifa-world-cup-heres-what-ai-predicts?traffic_source=rss",
-    "timestamp": "2026-07-14T07:59:07",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Who will win the 2026 FIFA World Cup? Here\u2019s what AI predicts",
-    "url": "https://www.aljazeera.com/news/2026/7/14/who-will-win-the-2026-fifa-world-cup-heres-what-ai-predicts?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/14/bangkok-fire-death-toll-rises-to-30-as-police-probe-possible-negligence?traffic_source=rss",
-    "timestamp": "2026-07-14T07:39:34",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Bangkok bar fire death toll rises to 30 as police probe possible negligence",
-    "url": "https://www.aljazeera.com/news/2026/7/14/bangkok-fire-death-toll-rises-to-30-as-police-probe-possible-negligence?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/defense/2159931",
-    "timestamp": "2026-07-14T07:37:03",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian, Chinese Navy ships head out for joint patrol after drills",
-    "url": "https://tass.com/defense/2159931"
-  },
-  {
-    "id": "https://www.france24.com/en/tv-shows/sports/20260714-world-cup-2026-france-aim-third-consecutive-final-against-spain",
-    "timestamp": "2026-07-14T07:31:35",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "World Cup 2026: France aim for third consecutive final against Spain",
-    "url": "https://www.france24.com/en/tv-shows/sports/20260714-world-cup-2026-france-aim-third-consecutive-final-against-spain"
-  },
-  {
-    "id": "https://warontherocks.com/a-return-to-mass-russian-force-expansion-in-the-war-with-ukraine/",
-    "timestamp": "2026-07-14T07:30:54",
-    "source": "War on the Rocks",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "A Return to Mass: Russian Force Expansion in the War with Ukraine",
-    "url": "https://warontherocks.com/a-return-to-mass-russian-force-expansion-in-the-war-with-ukraine/"
-  },
-  {
-    "id": "https://tass.com/world/2159923",
-    "timestamp": "2026-07-14T07:25:00",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "NATO reconnaissance aircraft once again operating over Black Sea",
-    "url": "https://tass.com/world/2159923"
-  },
-  {
-    "id": "https://www.dw.com/en/germany-s-ahr-valley-rebuilding-better-after-deadly-flood/a-77810916?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-07-14T07:24:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Germany's Ahr Valley: Rebuilding better after deadly flood",
-    "url": "https://www.dw.com/en/germany-s-ahr-valley-rebuilding-better-after-deadly-flood/a-77810916?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://warontherocks.com/outgunned-but-not-outplayed-irans-theory-of-victory/",
-    "timestamp": "2026-07-14T07:15:54",
-    "source": "War on the Rocks",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Outgunned, But Not Outplayed: Iran\u2019s Theory of Victory",
-    "url": "https://warontherocks.com/outgunned-but-not-outplayed-irans-theory-of-victory/"
-  },
-  {
-    "id": "https://tass.com/politics/2159917",
-    "timestamp": "2026-07-14T07:13:13",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "China firmly established as Russia\u2019s key partner \u2014 ambassador",
-    "url": "https://tass.com/politics/2159917"
-  },
-  {
-    "id": "https://www.dw.com/en/india-news-sonam-wangchuk-s-hunger-strike-tests-modi/live-77944096?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-07-14T06:49:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "India news: Sonam Wangchuk's hunger strike tests Modi",
-    "url": "https://www.dw.com/en/india-news-sonam-wangchuk-s-hunger-strike-tests-modi/live-77944096?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/14/with-us-iran-trust-broken-again-can-pakistan-bring-them-back-to-talks?traffic_source=rss",
-    "timestamp": "2026-07-14T06:41:51",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "With US-Iran trust broken again, can Pakistan bring them back to talks?",
-    "url": "https://www.aljazeera.com/news/2026/7/14/with-us-iran-trust-broken-again-can-pakistan-bring-them-back-to-talks?traffic_source=rss"
-  },
-  {
-    "id": "https://www.dw.com/en/death-toll-in-bangkok-bar-fire-reaches-30/a-77944364?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-07-14T06:35:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Death toll in Bangkok bar fire reaches 30",
-    "url": "https://www.dw.com/en/death-toll-in-bangkok-bar-fire-reaches-30/a-77944364?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.france24.com/en/france/20260714-more-than-1-900-hectares-fontainebleau-forest-near-paris-destroyed-by-wildfires",
-    "timestamp": "2026-07-14T06:25:01",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "\ud83d\udd34 More than 1,900 hectares of Fontainebleau forest near Paris destroyed by wildfires",
-    "url": "https://www.france24.com/en/france/20260714-more-than-1-900-hectares-fontainebleau-forest-near-paris-destroyed-by-wildfires"
-  },
-  {
-    "id": "https://www.france24.com/en/france/20260714-france-bastille-day-parade-showcase-european-support-ukraine",
-    "timestamp": "2026-07-14T06:16:49",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "France's Bastille Day parade to showcase European support for Ukraine",
-    "url": "https://www.france24.com/en/france/20260714-france-bastille-day-parade-showcase-european-support-ukraine"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/14/why-is-india-blocking-film-on-a-man-who-counted-punjab-insurgency-killings?traffic_source=rss",
-    "timestamp": "2026-07-14T05:33:01",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Why is India blocking film on a man who counted Punjab insurgency killings?",
-    "url": "https://www.aljazeera.com/news/2026/7/14/why-is-india-blocking-film-on-a-man-who-counted-punjab-insurgency-killings?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/politics/2159879",
-    "timestamp": "2026-07-14T05:29:01",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian forces strike military facilities in Kiev, Odessa Region \u2014 Defense Ministry",
-    "url": "https://tass.com/politics/2159879"
-  },
-  {
-    "id": "https://tass.com/politics/2159877",
-    "timestamp": "2026-07-14T05:27:49",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Kiev deliberately targeting humanitarian corridors in Konstantinovka in DPR \u2014 expert",
-    "url": "https://tass.com/politics/2159877"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/07/14/incredible-legacy-for-him-days-after-grahams-death-trump-says-hes-ready-to-move-on-his-russia-sanctions-bill/",
-    "timestamp": "2026-07-14T05:17:38",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "\u201cIncredible legacy for him\u201d: Days after Graham\u2019s death, Trump says he\u2019s ready to move on his Russia sanctions bill",
-    "url": "https://euromaidanpress.com/2026/07/14/incredible-legacy-for-him-days-after-grahams-death-trump-says-hes-ready-to-move-on-his-russia-sanctions-bill/"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/14/trump-threatens-to-attack-pickaxe-mountain-a-nuclear-facility-inside-ira?traffic_source=rss",
-    "timestamp": "2026-07-14T05:15:40",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Trump threatens to attack \u2018Pickaxe Mountain\u2019 a nuclear facility inside Ira",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/trump-threatens-to-attack-pickaxe-mountain-a-nuclear-facility-inside-ira?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/14/beijing-is-laughing-at-us-mexico-canada-stalled-trade-talks?traffic_source=rss",
-    "timestamp": "2026-07-14T05:08:32",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "\u2018Beijing is laughing\u2019 at US-Mexico-Canada stalled trade talks",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/beijing-is-laughing-at-us-mexico-canada-stalled-trade-talks?traffic_source=rss"
-  },
-  {
-    "id": "https://www.theguardian.com/world/2026/jul/14/bangkok-bar-pub-fire-death-toll-thailand",
-    "timestamp": "2026-07-14T05:06:28",
-    "source": "Guardian World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Bangkok bar fire: death toll reaches 30 as police investigate negligence as \u2018primary theory\u2019",
-    "url": "https://www.theguardian.com/world/2026/jul/14/bangkok-bar-pub-fire-death-toll-thailand"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c9q28dlyxrzo?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-07-14T05:00:03",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "How US commerce secretary's Epstein links were uncovered by British whistleblower",
-    "url": "https://www.bbc.co.uk/news/articles/c9q28dlyxrzo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://tass.com/politics/2159867",
-    "timestamp": "2026-07-14T04:52:35",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Kiev struck Russian territory up to 850 times per day over past week \u2014 envoy",
-    "url": "https://tass.com/politics/2159867"
-  },
-  {
-    "id": "https://www.france24.com/en/world-cup-2026-ahead-of-france-spain-in-dallas-supporters-are-confident",
-    "timestamp": "2026-07-14T04:34:20",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "World Cup 2026: Ahead of France-Spain, in Dallas, supporters are confident",
-    "url": "https://www.france24.com/en/world-cup-2026-ahead-of-france-spain-in-dallas-supporters-are-confident"
-  },
-  {
-    "id": "https://tass.com/world/2159865",
-    "timestamp": "2026-07-14T04:32:02",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Saudi Arabia receives US approval before strike on airport in Yemen \u2014 Axios",
-    "url": "https://tass.com/world/2159865"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/7/14/birthday-present-for-spains-yamal-world-cup-semifinal-win-over-france?traffic_source=rss",
-    "timestamp": "2026-07-14T04:24:20",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Birthday present for Spain\u2019s Yamal? World Cup semifinal win over France",
-    "url": "https://www.aljazeera.com/sports/2026/7/14/birthday-present-for-spains-yamal-world-cup-semifinal-win-over-france?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/14/mexicos-sheinbaum-announces-criminal-charges-request-in-us-over-ice-deaths?traffic_source=rss",
-    "timestamp": "2026-07-14T04:15:28",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Mexico\u2019s Sheinbaum announces criminal charges request in US over ICE deaths",
-    "url": "https://www.aljazeera.com/news/2026/7/14/mexicos-sheinbaum-announces-criminal-charges-request-in-us-over-ice-deaths?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/14/aje-onl-nf_houthis-target-saudi-for-strikes-on-sanaa-130726?traffic_source=rss",
-    "timestamp": "2026-07-14T04:10:13",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Houthis: Saudi airport targeted in retaliation for strikes on Sanaa airport",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/aje-onl-nf_houthis-target-saudi-for-strikes-on-sanaa-130726?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/14/brazil-court-bars-bolsonaros-son-from-visiting-ex-president-for-90-days?traffic_source=rss",
-    "timestamp": "2026-07-14T04:09:33",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Brazil court bars Bolsonaro\u2019s son from visiting ex-president for 90 days",
-    "url": "https://www.aljazeera.com/news/2026/7/14/brazil-court-bars-bolsonaros-son-from-visiting-ex-president-for-90-days?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/7/14/kylian-is-fine-france-ready-full-strength-for-spain-world-cup-semifinal?traffic_source=rss",
-    "timestamp": "2026-07-14T03:52:50",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "\u2018Kylian is fine\u2019: France ready, full-strength for Spain World Cup semifinal",
-    "url": "https://www.aljazeera.com/sports/2026/7/14/kylian-is-fine-france-ready-full-strength-for-spain-world-cup-semifinal?traffic_source=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-07-14T03:47:41",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Death toll from Bangkok bar fire rises to 30 as police probe safety lapses",
-    "url": "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/economy/2026/7/14/oil-hits-1-month-high-as-us-iran-fighting-clouds-strait-of-hormuz-outlook?traffic_source=rss",
-    "timestamp": "2026-07-14T03:38:22",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Oil hits 1-month high as US-Iran fighting clouds Strait of Hormuz outlook",
-    "url": "https://www.aljazeera.com/economy/2026/7/14/oil-hits-1-month-high-as-us-iran-fighting-clouds-strait-of-hormuz-outlook?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/world/2159857",
-    "timestamp": "2026-07-14T03:26:55",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Europe faces difficulties due to conflicts in Ukraine, Middle East, gas shortages \u2014 Vucic",
-    "url": "https://tass.com/world/2159857"
-  },
-  {
-    "id": "https://www.dw.com/en/us-12-states-challenge-paramount-s-buyout-of-warner/a-77943078?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-07-14T03:21:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "US: 12 states challenge Paramount's buyout of Warner",
-    "url": "https://www.dw.com/en/us-12-states-challenge-paramount-s-buyout-of-warner/a-77943078?maca=en-rss-en-all-1573-xml-mrss"
   }
 ]
