@@ -1,5 +1,255 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-07-19T09:54:50",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Russia launches major ballistic missile attack on Kyiv",
+    "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.france24.com/en/africa/20260719-at-least-50-malian-soldiers-killed-in-rebel-jihadist-attack",
+    "timestamp": "2026-07-19T09:44:32",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "At least 50 Malian soldiers killed in rebel-jihadist attack",
+    "url": "https://www.france24.com/en/africa/20260719-at-least-50-malian-soldiers-killed-in-rebel-jihadist-attack"
+  },
+  {
+    "id": "https://tass.com/emergencies/2162137",
+    "timestamp": "2026-07-19T09:41:20",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Ferry with 116 people on board capsizes off coast of Guyana",
+    "url": "https://tass.com/emergencies/2162137"
+  },
+  {
+    "id": "https://www.france24.com/en/europe/20260719-wildfire-scorches-12-000-hectares-in-central-spain-s-guadalajara-province",
+    "timestamp": "2026-07-19T09:39:37",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Wildfire scorches 12,000 hectares in central Spain's Guadalajara\u00a0province",
+    "url": "https://www.france24.com/en/europe/20260719-wildfire-scorches-12-000-hectares-in-central-spain-s-guadalajara-province"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-07-19T09:20:58",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Ferry carrying 116 passengers sinks off Guyana coast, authorities say",
+    "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/7/19/five-people-rescued-after-indonesia-boat-sinks-at-least-20-still-missing?traffic_source=rss",
+    "timestamp": "2026-07-19T09:08:55",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Five people rescued after Indonesia boat sinks, at least 20 still missing",
+    "url": "https://www.aljazeera.com/news/2026/7/19/five-people-rescued-after-indonesia-boat-sinks-at-least-20-still-missing?traffic_source=rss"
+  },
+  {
+    "id": "https://www.france24.com/en/england-beat-france-6-4-to-finish-third",
+    "timestamp": "2026-07-19T09:00:01",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "England beat France 6-4 to finish third",
+    "url": "https://www.france24.com/en/england-beat-france-6-4-to-finish-third"
+  },
+  {
+    "id": "https://www.france24.com/en/french-coach-didier-deschamps-retires-after-14-years",
+    "timestamp": "2026-07-19T08:58:13",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "French coach Didier Deschamps retires after 14 years",
+    "url": "https://www.france24.com/en/french-coach-didier-deschamps-retires-after-14-years"
+  },
+  {
+    "id": "https://tass.com/economy/2162135",
+    "timestamp": "2026-07-19T08:57:48",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Iran exported $6 billion worth of oil during the ceasefire with the US \u2014 WSJ",
+    "url": "https://tass.com/economy/2162135"
+  },
+  {
+    "id": "https://www.france24.com/en/us-taco-bell-removes-lettuce-after-parasite-outbreak",
+    "timestamp": "2026-07-19T08:55:21",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "US: Taco Bell removes lettuce after parasite outbreak",
+    "url": "https://www.france24.com/en/us-taco-bell-removes-lettuce-after-parasite-outbreak"
+  },
+  {
+    "id": "https://www.france24.com/en/first-us-soldiers-killed-in-jordan-trump-vows-to-shift-action",
+    "timestamp": "2026-07-19T08:52:59",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "First US soldiers killed in Jordan, Trump vows to shift action",
+    "url": "https://www.france24.com/en/first-us-soldiers-killed-in-jordan-trump-vows-to-shift-action"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/7/19/us-launches-new-iran-strikes-after-two-soldiers-killed-whats-the-latest?traffic_source=rss",
+    "timestamp": "2026-07-19T08:49:56",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "US launches new Iran strikes after two soldiers killed: What\u2019s the latest?",
+    "url": "https://www.aljazeera.com/news/2026/7/19/us-launches-new-iran-strikes-after-two-soldiers-killed-whats-the-latest?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/7/19/from-settlements-to-blocked-recovery-israeli-strategy-taking-shape-in-gaza?traffic_source=rss",
+    "timestamp": "2026-07-19T08:46:42",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "From settlements to blocked recovery: Israeli strategy taking shape in Gaza",
+    "url": "https://www.aljazeera.com/news/2026/7/19/from-settlements-to-blocked-recovery-israeli-strategy-taking-shape-in-gaza?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/19/spain-fans-bring-the-party-to-new-york-before-world-cup-final?traffic_source=rss",
+    "timestamp": "2026-07-19T08:41:18",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Spain fans bring the party to New York before World Cup final",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/spain-fans-bring-the-party-to-new-york-before-world-cup-final?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/world/2162133",
+    "timestamp": "2026-07-19T08:37:06",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Zelensky again requests air defense missiles amid massive strike on Kiev",
+    "url": "https://tass.com/world/2162133"
+  },
+  {
+    "id": "https://tass.com/emergencies/2162131",
+    "timestamp": "2026-07-19T08:29:52",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "CPC marine terminal subjected to terrorist attack, oil spill prevented \u2014 consortium",
+    "url": "https://tass.com/emergencies/2162131"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/7/19/world-cup-final-2026-spain-argentina-predictions-schedule-messi?traffic_source=rss",
+    "timestamp": "2026-07-19T08:24:19",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Spain vs Argentina: World Cup final predictions, schedule, Messi news",
+    "url": "https://www.aljazeera.com/news/2026/7/19/world-cup-final-2026-spain-argentina-predictions-schedule-messi?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/2026/7/19/video-world-cup-2026-highlights?traffic_source=rss",
+    "timestamp": "2026-07-19T08:20:41",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Watch FIFA World Cup: Argentina, Spain make preparations ahead of final",
+    "url": "https://www.aljazeera.com/video/2026/7/19/video-world-cup-2026-highlights?traffic_source=rss"
+  },
+  {
+    "id": "https://www.france24.com/en/americas/20260719-trump-claims-us-world-cup-a-success-despite-controversies-ahead-of-final",
+    "timestamp": "2026-07-19T08:16:29",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Trump claims US World Cup a success, despite controversies, ahead of final",
+    "url": "https://www.france24.com/en/americas/20260719-trump-claims-us-world-cup-a-success-despite-controversies-ahead-of-final"
+  },
+  {
+    "id": "https://www.aljazeera.com/sports/2026/7/19/spain-vs-argentina-five-key-factors-2026-world-cup-final?traffic_source=rss",
+    "timestamp": "2026-07-19T08:12:54",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Spain vs Argentina: How each team can win World Cup final 2026",
+    "url": "https://www.aljazeera.com/sports/2026/7/19/spain-vs-argentina-five-key-factors-2026-world-cup-final?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/emergencies/2162129",
+    "timestamp": "2026-07-19T08:11:47",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Air defense shoot down 120 Ukrainian drones in Kursk region over past day \u2014 governor",
+    "url": "https://tass.com/emergencies/2162129"
+  },
+  {
+    "id": "https://www.france24.com/en/tv-shows/sports/20260719-2026-world-cup-france-fall-to-england-after-wild-ten-goal-thriller",
+    "timestamp": "2026-07-19T07:58:48",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "2026 World Cup: France fall to England after wild ten-goal thriller",
+    "url": "https://www.france24.com/en/tv-shows/sports/20260719-2026-world-cup-france-fall-to-england-after-wild-ten-goal-thriller"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-07-19T07:47:02",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Cuban dissident Luis Manuel Otero Alc\u00e1ntara goes into exile in US",
+    "url": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/19/israel-demolishes-palestinian-home-in-masafer-yatta?traffic_source=rss",
+    "timestamp": "2026-07-19T07:30:54",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Israel demolishes Palestinian home in Masafer Yatta",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/israel-demolishes-palestinian-home-in-masafer-yatta?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/7/19/russia-launches-largest-ballistic-missile-attack-on-kyiv-since-start-of-war?traffic_source=rss",
+    "timestamp": "2026-07-19T07:28:08",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Russia launches largest ballistic missile attack on Kyiv since start of war",
+    "url": "https://www.aljazeera.com/news/2026/7/19/russia-launches-largest-ballistic-missile-attack-on-kyiv-since-start-of-war?traffic_source=rss"
+  },
+  {
     "id": "https://tass.com/politics/2162125",
     "timestamp": "2026-07-19T07:18:41",
     "source": "TASS English",
@@ -8,6 +258,46 @@
     "region": "ru",
     "text": "Russia will respond proportionately to Seoul\u2019s deployment of Typhon missile systems \u2014 MFA",
     "url": "https://tass.com/politics/2162125"
+  },
+  {
+    "id": "https://www.france24.com/en/video/20260719-us-launches-new-airstrikes-on-iran-after-confirming-troop-deaths-1",
+    "timestamp": "2026-07-19T07:15:46",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "US launches new airstrikes on Iran after confirming troop deaths",
+    "url": "https://www.france24.com/en/video/20260719-us-launches-new-airstrikes-on-iran-after-confirming-troop-deaths-1"
+  },
+  {
+    "id": "https://www.aljazeera.com/sports/2026/7/19/spain-vs-argentina-fifa-world-cup-final-messi-yamal-prediction-time-lineups-team-news?traffic_source=rss",
+    "timestamp": "2026-07-19T07:15:31",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Spain vs Argentina FIFA World Cup final: Team news, prediction and lineups",
+    "url": "https://www.aljazeera.com/sports/2026/7/19/spain-vs-argentina-fifa-world-cup-final-messi-yamal-prediction-time-lineups-team-news?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/opinions/2026/7/19/the-number-one-health-issue-in-palestine-is-the-israeli-occupation?traffic_source=rss",
+    "timestamp": "2026-07-19T07:15:19",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "The number one health issue in Palestine is the Israeli occupation",
+    "url": "https://www.aljazeera.com/opinions/2026/7/19/the-number-one-health-issue-in-palestine-is-the-israeli-occupation?traffic_source=rss"
+  },
+  {
+    "id": "https://www.france24.com/en/millions-in-kyiv-didn-t-have-time-to-seek-shelter-ahead-of-russian-attack",
+    "timestamp": "2026-07-19T07:12:16",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Millions in Kyiv 'didn't have time to seek shelter' ahead of Russian attack",
+    "url": "https://www.france24.com/en/millions-in-kyiv-didn-t-have-time-to-seek-shelter-ahead-of-russian-attack"
   },
   {
     "id": "https://www.dw.com/en/israel-clears-way-for-crocodiles-to-stop-prison-breaks/a-78022950?maca=en-rss-en-all-1573-xml-mrss",
@@ -948,6 +1238,16 @@
     "region": "mena",
     "text": "Israeli attacks on residential areas in Gaza kill eight",
     "url": "https://www.aljazeera.com/news/2026/7/18/israeli-attacks-on-residential-areas-in-gaza-kill-eight?traffic_source=rss"
+  },
+  {
+    "id": "https://www.dw.com/en/segregation-in-israel-separate-streets-for-men-and-women/a-78020879?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-07-18T18:45:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Segregation in Israel: Separate streets for men and women?",
+    "url": "https://www.dw.com/en/segregation-in-israel-separate-streets-for-men-and-women/a-78020879?maca=en-rss-en-all-1573-xml-mrss"
   },
   {
     "id": "https://www.dw.com/en/israel-how-real-is-threat-of-gender-segregation-on-street/a-78020879?maca=en-rss-en-all-1573-xml-mrss",
@@ -4698,305 +4998,5 @@
     "region": "ru",
     "text": "Russian, Azerbaijani foreign ministers reaffirm steady development of bilateral ties",
     "url": "https://tass.com/politics/2161663"
-  },
-  {
-    "id": "https://www.france24.com/en/what-challenges-await-the-uk-s-incoming-prime-minister-andy-burnham",
-    "timestamp": "2026-07-17T13:34:19",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "What challenges await the UK's incoming Prime Minister Andy Burnham?",
-    "url": "https://www.france24.com/en/what-challenges-await-the-uk-s-incoming-prime-minister-andy-burnham"
-  },
-  {
-    "id": "https://www.france24.com/en/tv-shows/arts24/20260717-bts-storms-paris-k-pop-phenomenon-plays-stade-de-france",
-    "timestamp": "2026-07-17T13:33:51",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "BTS storms Paris: K-pop phenomenon plays stade de France",
-    "url": "https://www.france24.com/en/tv-shows/arts24/20260717-bts-storms-paris-k-pop-phenomenon-plays-stade-de-france"
-  },
-  {
-    "id": "https://tass.com/emergencies/2161657",
-    "timestamp": "2026-07-17T13:27:59",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian security services foil plotted terror attack in Sevastopol",
-    "url": "https://tass.com/emergencies/2161657"
-  },
-  {
-    "id": "https://tass.com/politics/2161661",
-    "timestamp": "2026-07-17T13:26:39",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russia urges Iran conflict parties for ceasefire \u2014 top diplomat",
-    "url": "https://tass.com/politics/2161661"
-  },
-  {
-    "id": "https://www.france24.com/en/tv-shows/spotlight/20260717-ukrainians-disillusioned-outraged-zelensky-reshuffled-entire-govt-to-dismiss-defence-minister",
-    "timestamp": "2026-07-17T13:25:54",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Ukrainians 'disillusioned, outraged': Zelensky 'reshuffled entire govt' to dismiss defence minister",
-    "url": "https://www.france24.com/en/tv-shows/spotlight/20260717-ukrainians-disillusioned-outraged-zelensky-reshuffled-entire-govt-to-dismiss-defence-minister"
-  },
-  {
-    "id": "https://www.dw.com/en/cities-are-getting-smarter-about-water-and-other-eco-wins/a-77999380?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-07-17T13:24:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Cities are getting smarter about water and other eco wins",
-    "url": "https://www.dw.com/en/cities-are-getting-smarter-about-water-and-other-eco-wins/a-77999380?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/07/17/ukrainian-combat-divers-destroyed-russian-bomber-at-crimeas-saky-airbase-as-it-prepared-to-strike/",
-    "timestamp": "2026-07-17T13:23:48",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Ukrainian combat divers destroyed Russian bomber at Crimea\u2019s Saky airbase as it prepared to strike",
-    "url": "https://euromaidanpress.com/2026/07/17/ukrainian-combat-divers-destroyed-russian-bomber-at-crimeas-saky-airbase-as-it-prepared-to-strike/"
-  },
-  {
-    "id": "https://tass.com/economy/2161655",
-    "timestamp": "2026-07-17T13:23:33",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Court upholds Gazprom Export\u2019s claim against TAG GmbH",
-    "url": "https://tass.com/economy/2161655"
-  },
-  {
-    "id": "https://tass.com/politics/2161651",
-    "timestamp": "2026-07-17T13:20:41",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Ukraine worried West too focused on Iran to support it in Russia conflict \u2014 top diplomat",
-    "url": "https://tass.com/politics/2161651"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/17/un-urges-probe-into-deaths-in-pakistani-administered-kashmir-unrest?traffic_source=rss",
-    "timestamp": "2026-07-17T13:16:57",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "UN urges probe into deaths in Pakistani-administered Kashmir unrest",
-    "url": "https://www.aljazeera.com/news/2026/7/17/un-urges-probe-into-deaths-in-pakistani-administered-kashmir-unrest?traffic_source=rss"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/07/17/armys_heavy_units_face_counter-drone_capability_gaps_1195096.html",
-    "timestamp": "2026-07-17T13:16:51",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Army's Heavy Units Face Counter-Drone Capability Gaps",
-    "url": "https://www.realcleardefense.com/2026/07/17/armys_heavy_units_face_counter-drone_capability_gaps_1195096.html"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/07/17/the_missile_poised_to_replace_the_stinger_just_proved_itself_1195114.html",
-    "timestamp": "2026-07-17T13:16:51",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "The Missile Poised to Replace the Stinger Just Proved Itself",
-    "url": "https://www.realcleardefense.com/2026/07/17/the_missile_poised_to_replace_the_stinger_just_proved_itself_1195114.html"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/07/17/army_device_detects_traumatic_brain_injuries_in_just_15_minutes_1195092.html",
-    "timestamp": "2026-07-17T13:16:51",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Army Device Detects Traumatic Brain Injuries in Just 15 Minutes",
-    "url": "https://www.realcleardefense.com/2026/07/17/army_device_detects_traumatic_brain_injuries_in_just_15_minutes_1195092.html"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/07/17/the_shipbuilding_fix_washington_keeps_missing_1195047.html",
-    "timestamp": "2026-07-17T13:16:51",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "The Shipbuilding Fix Washington Keeps Missing",
-    "url": "https://www.realcleardefense.com/2026/07/17/the_shipbuilding_fix_washington_keeps_missing_1195047.html"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/07/17/marines_new_drone_teams_aim_to_improve_implementation_1195107.html",
-    "timestamp": "2026-07-17T13:16:51",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Marines' New Drone Teams Aim to Improve Implementation",
-    "url": "https://www.realcleardefense.com/2026/07/17/marines_new_drone_teams_aim_to_improve_implementation_1195107.html"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/07/17/the_rise_of_the_light_fighter_1195050.html",
-    "timestamp": "2026-07-17T13:16:51",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "The Rise of the Light Fighter",
-    "url": "https://www.realcleardefense.com/2026/07/17/the_rise_of_the_light_fighter_1195050.html"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/07/17/darpa_and_usaf_fly_f-16_with_venom_autonomy_modification_1195110.html",
-    "timestamp": "2026-07-17T13:16:51",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "DARPA and USAF Fly F-16 with VENOM Autonomy Modification",
-    "url": "https://www.realcleardefense.com/2026/07/17/darpa_and_usaf_fly_f-16_with_venom_autonomy_modification_1195110.html"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/07/17/navy_wants_1000_mile_combat_radius_for_carrier_based_drone_fleets_1195105.html",
-    "timestamp": "2026-07-17T13:16:51",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Navy Wants 1,000 Mile Combat Radius For Carrier Based Drone Fleets",
-    "url": "https://www.realcleardefense.com/2026/07/17/navy_wants_1000_mile_combat_radius_for_carrier_based_drone_fleets_1195105.html"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/07/17/blue_water_autonomy_saildrone_launch_lawsuits_against_navy_1195109.html",
-    "timestamp": "2026-07-17T13:16:51",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Blue Water Autonomy, Saildrone Launch Lawsuits Against Navy",
-    "url": "https://www.realcleardefense.com/2026/07/17/blue_water_autonomy_saildrone_launch_lawsuits_against_navy_1195109.html"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/07/17/before_the_next_fight_1195048.html",
-    "timestamp": "2026-07-17T13:16:51",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Before the Next Fight",
-    "url": "https://www.realcleardefense.com/2026/07/17/before_the_next_fight_1195048.html"
-  },
-  {
-    "id": "https://www.dw.com/en/sao-tome-and-principe-balances-global-powers/a-77884067?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-07-17T13:15:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Sao Tome and Principe balances global powers",
-    "url": "https://www.dw.com/en/sao-tome-and-principe-balances-global-powers/a-77884067?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/07/17/the_fatwa_against_trump_and_netanyahu_1195070.html",
-    "timestamp": "2026-07-17T13:11:55",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "The Fatwa Against Trump and Netanyahu",
-    "url": "https://www.realcleardefense.com/2026/07/17/the_fatwa_against_trump_and_netanyahu_1195070.html"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/07/17/with_the_promotion_of_new_generals_xi_prioritises_internal_control_1195085.html",
-    "timestamp": "2026-07-17T13:11:55",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "With the Promotion of New Generals, Xi Prioritises Internal Control",
-    "url": "https://www.realcleardefense.com/2026/07/17/with_the_promotion_of_new_generals_xi_prioritises_internal_control_1195085.html"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/17/satellite-images-show-damage-inside-irans-bushehr-nuclear-power-plant?traffic_source=rss",
-    "timestamp": "2026-07-17T13:10:50",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Satellite images show damage inside Iran\u2019s Bushehr nuclear power plant",
-    "url": "https://www.aljazeera.com/news/2026/7/17/satellite-images-show-damage-inside-irans-bushehr-nuclear-power-plant?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/17/ukraine-cuts-off-crimea-from-russia-plunging-it-into-an-energy-crisis?traffic_source=rss",
-    "timestamp": "2026-07-17T13:10:00",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Ukraine \u2018cuts off\u2019 Crimea from Russia, plunging it into an energy crisis",
-    "url": "https://www.aljazeera.com/news/2026/7/17/ukraine-cuts-off-crimea-from-russia-plunging-it-into-an-energy-crisis?traffic_source=rss"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/07/17/us-sen-grahams-russia-sanctions-bill-sat-stalled-for-over-a-year-now-the-senate-has-the-votes-to-pass-it/",
-    "timestamp": "2026-07-17T13:09:58",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "US Sen. Graham\u2019s Russia sanctions bill sat stalled for over a year\u2014now the Senate has the votes to pass it",
-    "url": "https://euromaidanpress.com/2026/07/17/us-sen-grahams-russia-sanctions-bill-sat-stalled-for-over-a-year-now-the-senate-has-the-votes-to-pass-it/"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/17/offer-he-cant-refuse-is-italys-mafia-law-breaking-crime-or-families?traffic_source=rss",
-    "timestamp": "2026-07-17T13:09:18",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "\u2018Offer he can\u2019t refuse\u2019: Is Italy\u2019s mafia law breaking crime or families?",
-    "url": "https://www.aljazeera.com/news/2026/7/17/offer-he-cant-refuse-is-italys-mafia-law-breaking-crime-or-families?traffic_source=rss"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/07/16/military_ai_-_the_confidence_you_cannot_see_1194838.html",
-    "timestamp": "2026-07-17T13:08:28",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Military AI - The Confidence You Cannot See",
-    "url": "https://www.realcleardefense.com/2026/07/16/military_ai_-_the_confidence_you_cannot_see_1194838.html"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/17/deadly-storm-leaves-half-a-million-without-power-in-chile?traffic_source=rss",
-    "timestamp": "2026-07-17T13:04:42",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Deadly storm leaves half a million without power in Chile",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/deadly-storm-leaves-half-a-million-without-power-in-chile?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/politics/2161645",
-    "timestamp": "2026-07-17T13:03:33",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russia accepted Trump's proposals on Ukraine at Alaska summit \u2014 Lavrov",
-    "url": "https://tass.com/politics/2161645"
   }
 ]
