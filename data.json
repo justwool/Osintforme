@@ -1,5 +1,115 @@
 [
   {
+    "id": "https://tass.com/defense/2162145",
+    "timestamp": "2026-07-19T11:00:22",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russian armed forces liberate Volnoye in Dnepropetrovsk region",
+    "url": "https://tass.com/defense/2162145"
+  },
+  {
+    "id": "https://www.dw.com/en/china-firm-seeks-damages-over-state-control-of-british-steel/a-78024119?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-07-19T10:45:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "China firm seeks damages over state control of British Steel",
+    "url": "https://www.dw.com/en/china-firm-seeks-damages-over-state-control-of-british-steel/a-78024119?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/7/19/why-is-india-vetting-books-in-kashmir-in-search-of-anti-national-content?traffic_source=rss",
+    "timestamp": "2026-07-19T10:43:27",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Why is India vetting books in Kashmir in search of \u2018anti-national\u2019 content?",
+    "url": "https://www.aljazeera.com/news/2026/7/19/why-is-india-vetting-books-in-kashmir-in-search-of-anti-national-content?traffic_source=rss"
+  },
+  {
+    "id": "https://www.france24.com/en/the-bayeux-tapestry-arrives-in-london-for-display-at-british-museum",
+    "timestamp": "2026-07-19T10:33:33",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "The Bayeux tapestry arrives in London for display at British Museum",
+    "url": "https://www.france24.com/en/the-bayeux-tapestry-arrives-in-london-for-display-at-british-museum"
+  },
+  {
+    "id": "https://www.france24.com/en/ukraine-thousands-take-to-the-streets-to-protest-against-fedorov-removal",
+    "timestamp": "2026-07-19T10:31:43",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Ukraine: Thousands take to the streets to protest against Fedorov removal",
+    "url": "https://www.france24.com/en/ukraine-thousands-take-to-the-streets-to-protest-against-fedorov-removal"
+  },
+  {
+    "id": "https://tass.com/emergencies/2162143",
+    "timestamp": "2026-07-19T10:27:37",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "53 people rescued from wrecked ferry off coast of Guyana \u2014 ministry",
+    "url": "https://tass.com/emergencies/2162143"
+  },
+  {
+    "id": "https://tass.com/defense/2162141",
+    "timestamp": "2026-07-19T10:26:17",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Ukraine loses military hardware, robotic systems and troops near Konstantinovka",
+    "url": "https://tass.com/defense/2162141"
+  },
+  {
+    "id": "https://www.france24.com/en/world-cup-final-argentina-face-spain",
+    "timestamp": "2026-07-19T10:25:33",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "World Cup final: Argentina face Spain",
+    "url": "https://www.france24.com/en/world-cup-final-argentina-face-spain"
+  },
+  {
+    "id": "https://tass.com/world/2162139",
+    "timestamp": "2026-07-19T10:13:28",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russian strike destroys plant producing equipment for Ukrainian armed forces in Kiev",
+    "url": "https://tass.com/world/2162139"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/7/19/gaza-cheers-for-spain-as-world-cup-final-anticipation-mounts?traffic_source=rss",
+    "timestamp": "2026-07-19T10:09:25",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Gaza cheers for Spain as World Cup final anticipation mounts",
+    "url": "https://www.aljazeera.com/news/2026/7/19/gaza-cheers-for-spain-as-world-cup-final-anticipation-mounts?traffic_source=rss"
+  },
+  {
+    "id": "https://www.dw.com/en/russian-army-deserters-in-germany-no-choice-but-to-run/a-78020377?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-07-19T10:05:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Russian army deserters in Germany: 'No choice but to run'",
+    "url": "https://www.dw.com/en/russian-army-deserters-in-germany-no-choice-but-to-run/a-78020377?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
     "timestamp": "2026-07-19T09:54:50",
     "source": "BBC World",
@@ -8,6 +118,16 @@
     "region": "global",
     "text": "Russia launches major ballistic missile attack on Kyiv",
     "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/sports/2026/7/19/dricus-du-plessis-mma-ufc-unanimous-decision-kamaru-usman?traffic_source=rss",
+    "timestamp": "2026-07-19T09:46:35",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Du Plessis makes winning return to UFC with dominant decision over Usman",
+    "url": "https://www.aljazeera.com/sports/2026/7/19/dricus-du-plessis-mma-ufc-unanimous-decision-kamaru-usman?traffic_source=rss"
   },
   {
     "id": "https://www.france24.com/en/africa/20260719-at-least-50-malian-soldiers-killed-in-rebel-jihadist-attack",
@@ -38,6 +158,16 @@
     "region": "global",
     "text": "Wildfire scorches 12,000 hectares in central Spain's Guadalajara\u00a0province",
     "url": "https://www.france24.com/en/europe/20260719-wildfire-scorches-12-000-hectares-in-central-spain-s-guadalajara-province"
+  },
+  {
+    "id": "https://www.aljazeera.com/sports/2026/7/19/world-cup-2026-final-closing-ceremony-and-half-time-show-what-to-know?traffic_source=rss",
+    "timestamp": "2026-07-19T09:35:52",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "World Cup 2026 final: Closing ceremony and half-time show \u2013 what to know",
+    "url": "https://www.aljazeera.com/sports/2026/7/19/world-cup-2026-final-closing-ceremony-and-half-time-show-what-to-know?traffic_source=rss"
   },
   {
     "id": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
@@ -1668,6 +1798,26 @@
     "region": "ua",
     "text": "When you can\u2019t get swarm through, you send one drone low and hand-flown. That\u2019s Russia\u2019s newest Shahed tactic",
     "url": "https://euromaidanpress.com/2026/07/18/when-you-cant-get-swarm-through-you-send-one-drone-low-and-hand-flown-thats-russias-newest-shahed-tactic/"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/07/17/the_fatwa_against_trump_and_netanyahu_1195070.html",
+    "timestamp": "2026-07-18T15:08:14",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "The Fatwa Against Trump and Netanyahu",
+    "url": "https://www.realcleardefense.com/2026/07/17/the_fatwa_against_trump_and_netanyahu_1195070.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/07/17/with_the_promotion_of_new_generals_xi_prioritises_internal_control_1195085.html",
+    "timestamp": "2026-07-18T15:08:13",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "With the Promotion of New Generals, Xi Prioritises Internal Control",
+    "url": "https://www.realcleardefense.com/2026/07/17/with_the_promotion_of_new_generals_xi_prioritises_internal_control_1195085.html"
   },
   {
     "id": "https://www.militarytimes.com/news/your-army/2026/07/18/soldier-girlfriend-allegedly-starved-child-and-dogs-to-death/",
@@ -4848,155 +4998,5 @@
     "region": "global",
     "text": "Guidance: Toponymic factfiles",
     "url": "https://www.gov.uk/government/publications/toponymic-factfiles"
-  },
-  {
-    "id": "https://www.dw.com/en/germany-debates-surrogacy-and-hypocrisy/a-78009366?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-07-17T14:01:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Germany debates surrogacy and hypocrisy",
-    "url": "https://www.dw.com/en/germany-debates-surrogacy-and-hypocrisy/a-78009366?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.theguardian.com/environment/2026/jul/17/biodiversity-fears-flowerhorn-cichlids-philippines-lake",
-    "timestamp": "2026-07-17T14:00:31",
-    "source": "Guardian World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Biodiversity fears as human-bred hybrid fish integrate into Philippines lake",
-    "url": "https://www.theguardian.com/environment/2026/jul/17/biodiversity-fears-flowerhorn-cichlids-philippines-lake"
-  },
-  {
-    "id": "https://www.france24.com/en/tv-shows/access-asia/20260717-family-of-detained-us-scientist-breaks-silence-after-quiet-diplomacy-stalls",
-    "timestamp": "2026-07-17T13:55:48",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Family of detained US scientist breaks silence after quiet diplomacy stalls",
-    "url": "https://www.france24.com/en/tv-shows/access-asia/20260717-family-of-detained-us-scientist-breaks-silence-after-quiet-diplomacy-stalls"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/17/burnham-confirmed-as-leader-of-uks-governing-labour-party-headed-for-pm?traffic_source=rss",
-    "timestamp": "2026-07-17T13:51:18",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Burnham confirmed as leader of UK\u2019s governing Labour Party, headed for PM",
-    "url": "https://www.aljazeera.com/news/2026/7/17/burnham-confirmed-as-leader-of-uks-governing-labour-party-headed-for-pm?traffic_source=rss"
-  },
-  {
-    "id": "https://www.theguardian.com/us-news/2026/jul/17/canada-wildfire-smoke-midwest-mid-atlantic-north-east",
-    "timestamp": "2026-07-17T13:49:33",
-    "source": "Guardian World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "More Canadian wildfire smoke shrouds US midwest, mid-Atlantic and north-east",
-    "url": "https://www.theguardian.com/us-news/2026/jul/17/canada-wildfire-smoke-midwest-mid-atlantic-north-east"
-  },
-  {
-    "id": "https://www.france24.com/en/tv-shows/spotlight/20260717-europe-bought-gas-oil-from-russia-venice-mayor-sees-contradiction-in-biennale-funding-freeze",
-    "timestamp": "2026-07-17T13:49:02",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "A bridge too far? New Venice mayor defends US ambassador superyacht road trip along Italy coastline",
-    "url": "https://www.france24.com/en/tv-shows/spotlight/20260717-europe-bought-gas-oil-from-russia-venice-mayor-sees-contradiction-in-biennale-funding-freeze"
-  },
-  {
-    "id": "https://news.usni.org/2026/07/17/u-s-air-force-increases-stealthy-cruise-anti-ship-missile-production",
-    "timestamp": "2026-07-17T13:49:01",
-    "source": "USNI News",
-    "platform": "rss",
-    "category": "naval",
-    "region": "global",
-    "text": "U.S. Air Force Increases Stealthy Cruise, Anti-ship Missile Production",
-    "url": "https://news.usni.org/2026/07/17/u-s-air-force-increases-stealthy-cruise-anti-ship-missile-production"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/17/chinas-xi-jinping-launches-new-ai-alliance-what-is-it?traffic_source=rss",
-    "timestamp": "2026-07-17T13:47:38",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "China\u2019s Xi Jinping launches new AI alliance: What is it?",
-    "url": "https://www.aljazeera.com/news/2026/7/17/chinas-xi-jinping-launches-new-ai-alliance-what-is-it?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/world/2161677",
-    "timestamp": "2026-07-17T13:47:02",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Chinese president says increasingly unstable world needs stronger UN",
-    "url": "https://tass.com/world/2161677"
-  },
-  {
-    "id": "https://www.dw.com/en/merz-and-macron-a-franco-german-week-of-harmony/a-78007779?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-07-17T13:47:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Merz and Macron: A Franco-German week of harmony",
-    "url": "https://www.dw.com/en/merz-and-macron-a-franco-german-week-of-harmony/a-78007779?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.militarytimes.com/news/your-military/2026/07/17/the-new-military-family-staying-together-while-living-apart/",
-    "timestamp": "2026-07-17T13:45:26",
-    "source": "Military Times",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "The new military family: staying together while living apart",
-    "url": "https://www.militarytimes.com/news/your-military/2026/07/17/the-new-military-family-staying-together-while-living-apart/"
-  },
-  {
-    "id": "https://tass.com/politics/2161675",
-    "timestamp": "2026-07-17T13:43:24",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russia\u2019s Battlegroup North artillery destroys 15 Ukrainian UAV control centers overnight",
-    "url": "https://tass.com/politics/2161675"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/07/17/everyone-expected-klymenko-as-ukraines-next-defense-minister-zelenskyy-offers-him-different-job-amid-mass-protests-across-ukraine/",
-    "timestamp": "2026-07-17T13:39:15",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Everyone expected Klymenko as Ukraine\u2019s next defense minister. Zelenskyy offers him different job amid mass protests across Ukraine",
-    "url": "https://euromaidanpress.com/2026/07/17/everyone-expected-klymenko-as-ukraines-next-defense-minister-zelenskyy-offers-him-different-job-amid-mass-protests-across-ukraine/"
-  },
-  {
-    "id": "https://tass.com/politics/2161669",
-    "timestamp": "2026-07-17T13:38:08",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russia ready to assist Baku, Yerevan with transport, economic issues \u2014 Lavrov",
-    "url": "https://tass.com/politics/2161669"
-  },
-  {
-    "id": "https://tass.com/politics/2161663",
-    "timestamp": "2026-07-17T13:36:22",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian, Azerbaijani foreign ministers reaffirm steady development of bilateral ties",
-    "url": "https://tass.com/politics/2161663"
   }
 ]
