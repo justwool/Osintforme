@@ -1,5 +1,275 @@
 [
   {
+    "id": "https://www.dw.com/en/spain-firefighters-battle-major-wildfire-north-of-madrid/a-78059592?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-07-21T21:40:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Spain: Firefighters battle major wildfire north of Madrid",
+    "url": "https://www.dw.com/en/spain-firefighters-battle-major-wildfire-north-of-madrid/a-78059592?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://tass.com/world/2163261",
+    "timestamp": "2026-07-21T21:34:52",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "US administration refuses to transfer military aid worth $400 million to Kiev \u2014 senator",
+    "url": "https://tass.com/world/2163261"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/07/22/russo-ukrainian-war-day-1609/",
+    "timestamp": "2026-07-21T21:28:12",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Russo-Ukrainian war, day 1609: Drapatyi named Ukraine\u2019s new commander-in-chief as protests force Syrskyi out",
+    "url": "https://euromaidanpress.com/2026/07/22/russo-ukrainian-war-day-1609/"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/21/drone-shows-scorched-landscape-after-spain-wildfire?traffic_source=rss",
+    "timestamp": "2026-07-21T21:21:12",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Drone shows scorched landscape after Spain wildfire",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/drone-shows-scorched-landscape-after-spain-wildfire?traffic_source=rss"
+  },
+  {
+    "id": "https://www.twz.com/air/typhoons-paired-with-cca-fighter-drones-armed-with-meteor-missiles-eyed-by-uk",
+    "timestamp": "2026-07-21T21:18:25",
+    "source": "The Drive WarZone",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Typhoons Paired With CCA Fighter Drones Armed With Meteor Missiles Eyed By UK",
+    "url": "https://www.twz.com/air/typhoons-paired-with-cca-fighter-drones-armed-with-meteor-missiles-eyed-by-uk"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/7/21/hegseth-says-iran-war-has-cost-37-5bn-in-latest-official-us-account?traffic_source=rss",
+    "timestamp": "2026-07-21T21:17:06",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "US defence chief Hegseth puts Iran war cost at $37.5bn so far",
+    "url": "https://www.aljazeera.com/news/2026/7/21/hegseth-says-iran-war-has-cost-37-5bn-in-latest-official-us-account?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/21/iran-holds-funerals-for-children-killed-in-minab-school-strike?traffic_source=rss",
+    "timestamp": "2026-07-21T21:13:02",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Iran holds funerals for children killed in Minab school strike",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/iran-holds-funerals-for-children-killed-in-minab-school-strike?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/world/2163257",
+    "timestamp": "2026-07-21T21:11:54",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "IRGC says hit radars at Ali al-Salem airbase in Kuwait",
+    "url": "https://tass.com/world/2163257"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/inside-story/2026/7/21/how-will-khalil-al-hayyas-leadership-shape-hamas?traffic_source=rss",
+    "timestamp": "2026-07-21T21:03:58",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "How will Khalil al-Hayya\u2019s leadership shape Hamas?",
+    "url": "https://www.aljazeera.com/video/inside-story/2026/7/21/how-will-khalil-al-hayyas-leadership-shape-hamas?traffic_source=rss"
+  },
+  {
+    "id": "https://www.dw.com/en/ukraine-s-zelenskyy-fires-military-chief-after-days-of-protests/a-78059652?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-07-21T21:03:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Ukraine's Zelenskyy fires military chief after days of protests",
+    "url": "https://www.dw.com/en/ukraine-s-zelenskyy-fires-military-chief-after-days-of-protests/a-78059652?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.dw.com/en/trump-says-the-united-states-is-not-finished-with-iran/live-78042474?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-07-21T20:57:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Trump says the United States is 'not finished' with Iran",
+    "url": "https://www.dw.com/en/trump-says-the-united-states-is-not-finished-with-iran/live-78042474?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://breakingdefense.com/2026/07/gcap-officially-expands-and-other-news-from-day-2-at-farnborough/",
+    "timestamp": "2026-07-21T20:55:00",
+    "source": "Breaking Defense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "GCAP officially expands, and other news from day 2 at Farnborough",
+    "url": "https://breakingdefense.com/2026/07/gcap-officially-expands-and-other-news-from-day-2-at-farnborough/"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/7/21/guyana-reports-ferry-disaster-death-toll-rises-to-41?traffic_source=rss",
+    "timestamp": "2026-07-21T20:54:41",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Guyana reports ferry disaster death toll rises to 41",
+    "url": "https://www.aljazeera.com/news/2026/7/21/guyana-reports-ferry-disaster-death-toll-rises-to-41?traffic_source=rss"
+  },
+  {
+    "id": "https://www.defenseone.com/business/2026/07/boeing-adjusts-approach-court-more-european-business/414916/",
+    "timestamp": "2026-07-21T20:53:25",
+    "source": "Defense One",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Boeing adjusts approach to court more European business",
+    "url": "https://www.defenseone.com/business/2026/07/boeing-adjusts-approach-court-more-european-business/414916/"
+  },
+  {
+    "id": "https://tass.com/society/2163255",
+    "timestamp": "2026-07-21T20:50:03",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Ukraine\u2019s new commander-in-chief Drapaty is on Russia\u2019s wanted list",
+    "url": "https://tass.com/society/2163255"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/21/daytime-russian-strike-kills-three-in-zaporizhzhia?traffic_source=rss",
+    "timestamp": "2026-07-21T20:48:18",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Daytime Russian strike kills three in Zaporizhzhia",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/daytime-russian-strike-kills-three-in-zaporizhzhia?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/7/21/french-parliament-passes-social-media-ban-for-under-15s?traffic_source=rss",
+    "timestamp": "2026-07-21T20:44:48",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "French parliament passes social media ban for under-15s",
+    "url": "https://www.aljazeera.com/news/2026/7/21/french-parliament-passes-social-media-ban-for-under-15s?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/world/2163253",
+    "timestamp": "2026-07-21T20:44:25",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Zelensky offers Fyodorov new government post amid protests",
+    "url": "https://tass.com/world/2163253"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/7/21/us-funding-cuts-deal-blow-to-global-hiv-treatment-report?traffic_source=rss",
+    "timestamp": "2026-07-21T20:44:06",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "US funding cuts deal blow to global HIV treatment: Report",
+    "url": "https://www.aljazeera.com/news/2026/7/21/us-funding-cuts-deal-blow-to-global-hiv-treatment-report?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/science/2163247",
+    "timestamp": "2026-07-21T20:27:06",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "US to spend $2.1 billion to send nuclear-powered spacecraft to Mars \u2014 NASA",
+    "url": "https://tass.com/science/2163247"
+  },
+  {
+    "id": "https://breakingdefense.com/2026/07/the-sights-of-the-farnborough-airshow-day-2/",
+    "timestamp": "2026-07-21T20:25:05",
+    "source": "Breaking Defense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "The sights of the Farnborough Airshow Day 2",
+    "url": "https://breakingdefense.com/2026/07/the-sights-of-the-farnborough-airshow-day-2/"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/7/21/deposed-turkish-opposition-leader-plans-new-party?traffic_source=rss",
+    "timestamp": "2026-07-21T20:23:45",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Deposed Turkish opposition leader plans new party",
+    "url": "https://www.aljazeera.com/news/2026/7/21/deposed-turkish-opposition-leader-plans-new-party?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/economy/2026/7/21/carney-says-he-and-trump-have-agreed-to-intensify-trade-negotiations?traffic_source=rss",
+    "timestamp": "2026-07-21T20:17:08",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Carney says he and Trump have agreed to \u2018intensify\u2019 trade negotiations",
+    "url": "https://www.aljazeera.com/economy/2026/7/21/carney-says-he-and-trump-have-agreed-to-intensify-trade-negotiations?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/7/21/spain-battles-latest-in-series-of-major-wildfires-near-madrid?traffic_source=rss",
+    "timestamp": "2026-07-21T20:17:04",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Spain battles latest in series of major wildfires near Madrid",
+    "url": "https://www.aljazeera.com/news/2026/7/21/spain-battles-latest-in-series-of-major-wildfires-near-madrid?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/defense/2163245",
+    "timestamp": "2026-07-21T20:16:58",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Ukrainian commanders send troops to certain death to obtain footage for reports \u2014 source",
+    "url": "https://tass.com/defense/2163245"
+  },
+  {
+    "id": "https://tass.com/world/2163241",
+    "timestamp": "2026-07-21T20:06:59",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Zelensky says appointed Drapaty as new commander-in-chief instead of Syrsky",
+    "url": "https://tass.com/world/2163241"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/21/kuwaitis-ration-electricity-after-iranian-strikes-hit-power-grid?traffic_source=rss",
+    "timestamp": "2026-07-21T20:06:57",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Kuwaitis ration electricity after Iranian strikes hit power grid",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/kuwaitis-ration-electricity-after-iranian-strikes-hit-power-grid?traffic_source=rss"
+  },
+  {
     "id": "https://www.france24.com/en/europe/20260721-zelensky-fires-ukraine-army-chief-oleksandr-syrsky",
     "timestamp": "2026-07-21T20:00:09",
     "source": "France24",
@@ -58,6 +328,26 @@
     "region": "ua",
     "text": "Breaking: Zelenskyy dismisses Ukraine\u2019s commander-in-chief after week of political turmoil",
     "url": "https://euromaidanpress.com/2026/07/21/zelenskyy-dismisses-ukraines-commander-in-chief/"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/7/21/us-judge-blocks-trump-bid-to-strip-work-permits-from-immigrants?traffic_source=rss",
+    "timestamp": "2026-07-21T19:44:16",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "US judge blocks Trump bid to strip work permits from immigrants",
+    "url": "https://www.aljazeera.com/news/2026/7/21/us-judge-blocks-trump-bid-to-strip-work-permits-from-immigrants?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/21/india-tunnel-collapse-kills-10-as-toxic-gases-hamper-rescue?traffic_source=rss",
+    "timestamp": "2026-07-21T19:41:38",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "India tunnel collapse kills 10 as toxic gases hamper rescue",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/india-tunnel-collapse-kills-10-as-toxic-gases-hamper-rescue?traffic_source=rss"
   },
   {
     "id": "https://www.aljazeera.com/economy/2026/7/21/us-agency-proposes-ending-racial-and-gender-workforce-data-collection?traffic_source=rss",
@@ -4708,295 +4998,5 @@
     "region": "ru",
     "text": "Russian economy could grow up to 0.7% by year-end, expert says",
     "url": "https://tass.com/economy/2162711"
-  },
-  {
-    "id": "https://www.dw.com/en/england-and-liverpool-football-legend-kevin-keegan-dies-aged-75/a-78040105?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-07-20T16:19:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "England and Liverpool football legend Kevin Keegan dies aged 75",
-    "url": "https://www.dw.com/en/england-and-liverpool-football-legend-kevin-keegan-dies-aged-75/a-78040105?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.dw.com/en/england-and-liverpool-foortball-legend-kevin-keegan-dies-aged-75/a-78040105?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-07-20T16:19:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "England and Liverpool foortball legend Kevin Keegan dies aged 75",
-    "url": "https://www.dw.com/en/england-and-liverpool-foortball-legend-kevin-keegan-dies-aged-75/a-78040105?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/20/at-least-25-killed-as-floods-and-landslides-hit-northern-india?traffic_source=rss",
-    "timestamp": "2026-07-20T16:17:12",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "At least 25 killed as floods and landslides hit northern India",
-    "url": "https://www.aljazeera.com/news/2026/7/20/at-least-25-killed-as-floods-and-landslides-hit-northern-india?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/france/20260720-two-french-diplomats-subjected-extremely-serious-intimidation-iran-fm-says",
-    "timestamp": "2026-07-20T16:14:22",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Two French diplomats subjected to \u2018extremely serious act of intimidation\u2019 in Iran, FM Barrot says",
-    "url": "https://www.france24.com/en/france/20260720-two-french-diplomats-subjected-extremely-serious-intimidation-iran-fm-says"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/20/lebanons-military-starts-pilot-zone-takeover-in-south?traffic_source=rss",
-    "timestamp": "2026-07-20T16:13:42",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Lebanon\u2019s military starts \u2018pilot zone\u2019 takeover in south",
-    "url": "https://www.aljazeera.com/news/2026/7/20/lebanons-military-starts-pilot-zone-takeover-in-south?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/20/iran-says-diplomatic-efforts-ongoing-via-mediators-amid-fighting-with-us?traffic_source=rss",
-    "timestamp": "2026-07-20T16:12:07",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Iran says diplomatic efforts ongoing via mediators amid fighting with US",
-    "url": "https://www.aljazeera.com/news/2026/7/20/iran-says-diplomatic-efforts-ongoing-via-mediators-amid-fighting-with-us?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/7/20/spain-go-back-to-the-top-of-fifa-rankings-morocco-reach-a-record-high?traffic_source=rss",
-    "timestamp": "2026-07-20T16:11:22",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Spain go back to the top of FIFA rankings, Morocco reach record high",
-    "url": "https://www.aljazeera.com/sports/2026/7/20/spain-go-back-to-the-top-of-fifa-rankings-morocco-reach-a-record-high?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/world/2162705",
-    "timestamp": "2026-07-20T16:09:56",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "New Iran-US agreement to envisage mutual refraining from aggressive actions \u2014 TV",
-    "url": "https://tass.com/world/2162705"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/7/20/former-england-manager-and-two-time-ballon-dor-winner-keegan-dies-aged-75?traffic_source=rss",
-    "timestamp": "2026-07-20T16:09:32",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Former England manager and two-time Ballon d\u2019Or winner Keegan dies aged 75",
-    "url": "https://www.aljazeera.com/sports/2026/7/20/former-england-manager-and-two-time-ballon-dor-winner-keegan-dies-aged-75?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/politics/2162699",
-    "timestamp": "2026-07-20T16:07:06",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russia, North Korea see US behavior as cause of degradation of global situation \u2014 MFA",
-    "url": "https://tass.com/politics/2162699"
-  },
-  {
-    "id": "https://www.airandspaceforces.com/transcom-ai-agents-epic-fury/",
-    "timestamp": "2026-07-20T16:05:08",
-    "source": "Air Force Mag",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "In First, TRANSCOM Operationalized AI Agents to Support Epic Fury",
-    "url": "https://www.airandspaceforces.com/transcom-ai-agents-epic-fury/"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/the-bottom-line/2026/7/20/china-immigration-drugs-behind-us-policy-in-latin-america?traffic_source=rss",
-    "timestamp": "2026-07-20T16:03:50",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "China, immigration, drugs: Behind US policy in Latin America",
-    "url": "https://www.aljazeera.com/video/the-bottom-line/2026/7/20/china-immigration-drugs-behind-us-policy-in-latin-america?traffic_source=rss"
-  },
-  {
-    "id": "https://breakingdefense.com/2026/07/marine-corps-selects-new-robotic-weapon-system-for-l-madis-integration/",
-    "timestamp": "2026-07-20T16:02:08",
-    "source": "Breaking Defense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Marine Corps selects new robotic weapon system for L-MADIS integration",
-    "url": "https://breakingdefense.com/2026/07/marine-corps-selects-new-robotic-weapon-system-for-l-madis-integration/"
-  },
-  {
-    "id": "https://www.defensenews.com/industry/2026/07/20/doodle-labs-eyes-us-european-production-sites-as-demand-soars-for-jam-resistant-drones/",
-    "timestamp": "2026-07-20T16:00:52",
-    "source": "Defense News",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Doodle Labs eyes US, European production sites as demand soars for jam-resistant drones",
-    "url": "https://www.defensenews.com/industry/2026/07/20/doodle-labs-eyes-us-european-production-sites-as-demand-soars-for-jam-resistant-drones/"
-  },
-  {
-    "id": "https://www.theguardian.com/us-news/2026/jul/20/el-mayo-prison-sentence",
-    "timestamp": "2026-07-20T15:58:42",
-    "source": "Guardian World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Mexican drug lord \u2018El Mayo\u2019 sentenced to life in prison in US federal court",
-    "url": "https://www.theguardian.com/us-news/2026/jul/20/el-mayo-prison-sentence"
-  },
-  {
-    "id": "https://www.theguardian.com/world/2026/jul/20/canada-air-quality-warnings-us-wildfire-smoke-trump-tariffs",
-    "timestamp": "2026-07-20T15:52:58",
-    "source": "Guardian World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Canada issues air quality warnings over US wildfire smoke after Trump tariff threat",
-    "url": "https://www.theguardian.com/world/2026/jul/20/canada-air-quality-warnings-us-wildfire-smoke-trump-tariffs"
-  },
-  {
-    "id": "https://www.france24.com/en/that-is-our-challenge-to-make-politics-work-andy-burnham-becomes-uk-pm",
-    "timestamp": "2026-07-20T15:50:15",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "'That is our challenge: to make politics work': Andy Burnham becomes UK PM",
-    "url": "https://www.france24.com/en/that-is-our-challenge-to-make-politics-work-andy-burnham-becomes-uk-pm"
-  },
-  {
-    "id": "https://www.militarytimes.com/flashpoints/middle-east/2026/07/20/pentagon-identifies-american-soliders-killed-in-iranian-attack-in-jordan/",
-    "timestamp": "2026-07-20T15:47:49",
-    "source": "Military Times",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Pentagon identifies American soldiers killed in Iranian attack in Jordan",
-    "url": "https://www.militarytimes.com/flashpoints/middle-east/2026/07/20/pentagon-identifies-american-soliders-killed-in-iranian-attack-in-jordan/"
-  },
-  {
-    "id": "https://www.defensenews.com/flashpoints/middle-east/2026/07/20/pentagon-identifies-american-soliders-killed-in-iranian-attack-in-jordan/",
-    "timestamp": "2026-07-20T15:47:49",
-    "source": "Defense News",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Pentagon identifies American soliders killed in Iranian attack in Jordan",
-    "url": "https://www.defensenews.com/flashpoints/middle-east/2026/07/20/pentagon-identifies-american-soliders-killed-in-iranian-attack-in-jordan/"
-  },
-  {
-    "id": "https://tass.com/society/2162703",
-    "timestamp": "2026-07-20T15:47:31",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "China successfully completes first offshore rocket recovery mission in Hainan",
-    "url": "https://tass.com/society/2162703"
-  },
-  {
-    "id": "https://www.gov.uk/government/publications/country-names",
-    "timestamp": "2026-07-20T15:44:20",
-    "source": "UK MoD",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Guidance: Country names",
-    "url": "https://www.gov.uk/government/publications/country-names"
-  },
-  {
-    "id": "https://tass.com/science/2162697",
-    "timestamp": "2026-07-20T15:43:35",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Bureau 1440 launches second part of satellite constellation",
-    "url": "https://tass.com/science/2162697"
-  },
-  {
-    "id": "https://www.gov.uk/guidance/childcare-for-service-children",
-    "timestamp": "2026-07-20T15:42:10",
-    "source": "UK MoD",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Childcare for Service children",
-    "url": "https://www.gov.uk/guidance/childcare-for-service-children"
-  },
-  {
-    "id": "https://www.france24.com/en/andy-burnham-who-is-the-new-uk-prime-minister",
-    "timestamp": "2026-07-20T15:41:27",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Andy Burnham: Who is the new UK prime minister?",
-    "url": "https://www.france24.com/en/andy-burnham-who-is-the-new-uk-prime-minister"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/20/yemens-houthis-declare-naval-blockade-of-saudi-arabia-what-to-know?traffic_source=rss",
-    "timestamp": "2026-07-20T15:39:37",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Yemen\u2019s Houthis declare naval blockade of Saudi Arabia: What to know",
-    "url": "https://www.aljazeera.com/news/2026/7/20/yemens-houthis-declare-naval-blockade-of-saudi-arabia-what-to-know?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/video/20260720-fears-over-gulf-shipping-and-water-rise-as-us-iran-trade-strikes",
-    "timestamp": "2026-07-20T15:36:40",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Fears over Gulf shipping and water rise as US-Iran trade strikes",
-    "url": "https://www.france24.com/en/video/20260720-fears-over-gulf-shipping-and-water-rise-as-us-iran-trade-strikes"
-  },
-  {
-    "id": "https://tass.com/economy/2162693",
-    "timestamp": "2026-07-20T15:35:47",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Bank of Russia lowers dollar rate for July 21 to 78.31 rubles",
-    "url": "https://tass.com/economy/2162693"
-  },
-  {
-    "id": "https://tass.com/politics/2162687",
-    "timestamp": "2026-07-20T15:26:45",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Ukraine never stops trying to inflict irreparable damage to CPC \u2014 Russian diplomat",
-    "url": "https://tass.com/politics/2162687"
-  },
-  {
-    "id": "https://www.defensenews.com/news/your-military/2026/07/20/new-air-force-one-to-get-maxed-out-upgrades-after-security-questions/",
-    "timestamp": "2026-07-20T15:21:27",
-    "source": "Defense News",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "New Air Force One to get \u2018maxed out\u2019 upgrades after security questions",
-    "url": "https://www.defensenews.com/news/your-military/2026/07/20/new-air-force-one-to-get-maxed-out-upgrades-after-security-questions/"
   }
 ]
