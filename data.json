@@ -1,5 +1,615 @@
 [
   {
+    "id": "https://tass.com/economy/2163149",
+    "timestamp": "2026-07-21T15:05:00",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Bank of Russia raises dollar rate for July 22 to 78.55 rubles",
+    "url": "https://tass.com/economy/2163149"
+  },
+  {
+    "id": "https://tass.com/emergencies/2163147",
+    "timestamp": "2026-07-21T15:03:59",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Belgorod authorities taking measures to stabilize situation after attack on dam lake",
+    "url": "https://tass.com/emergencies/2163147"
+  },
+  {
+    "id": "https://tass.com/economy/2163133",
+    "timestamp": "2026-07-21T14:53:25",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Europe's daily LNG imports hit 23-month low \u2014 report",
+    "url": "https://tass.com/economy/2163133"
+  },
+  {
+    "id": "https://breakingdefense.com/2026/07/canada-officially-joins-gcap-next-gen-fighter-program-as-observer/",
+    "timestamp": "2026-07-21T14:51:20",
+    "source": "Breaking Defense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Canada officially joins GCAP next-gen fighter program as observer",
+    "url": "https://breakingdefense.com/2026/07/canada-officially-joins-gcap-next-gen-fighter-program-as-observer/"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c0qv0pdj18go?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-07-21T14:47:41",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Israeli air strike in Gaza City kills family of six, medics say",
+    "url": "https://www.bbc.co.uk/news/articles/c0qv0pdj18go?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.france24.com/en/india-s-cockroach-protests-vow-to-continue-despite-police-crackdown",
+    "timestamp": "2026-07-21T14:44:26",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "India's Cockroach protests vow to continue despite police crackdown",
+    "url": "https://www.france24.com/en/india-s-cockroach-protests-vow-to-continue-despite-police-crackdown"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/21/israel-has-no-interest-in-joining-us-war-on-iran-says-smotrich?traffic_source=rss",
+    "timestamp": "2026-07-21T14:42:21",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Israel has \u2018no interest\u2019 in joining US war on Iran, says Smotrich",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/israel-has-no-interest-in-joining-us-war-on-iran-says-smotrich?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/defense/2163129",
+    "timestamp": "2026-07-21T14:42:15",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russia\u2019s Omich 3.0 ground military robot passes field testing",
+    "url": "https://tass.com/defense/2163129"
+  },
+  {
+    "id": "https://tass.com/emergencies/2163131",
+    "timestamp": "2026-07-21T14:41:27",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Four more civilians wounded in Ukraine\u2019s drone attacks on Belgorod Region",
+    "url": "https://tass.com/emergencies/2163131"
+  },
+  {
+    "id": "https://www.france24.com/en/france/20260721-microsoft-strikes-multi-billion-dollar-deal-to-expand-france-ai-firm-mistral",
+    "timestamp": "2026-07-21T14:40:47",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Microsoft strikes 'multibillion-dollar' deal with French AI firm Mistral",
+    "url": "https://www.france24.com/en/france/20260721-microsoft-strikes-multi-billion-dollar-deal-to-expand-france-ai-firm-mistral"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/7/21/saudi-condemns-houthi-blockade-how-will-the-rest-of-the-world-be-impacted?traffic_source=rss",
+    "timestamp": "2026-07-21T14:37:47",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Saudi condemns Houthi blockade: How will the rest of the world be impacted?",
+    "url": "https://www.aljazeera.com/news/2026/7/21/saudi-condemns-houthi-blockade-how-will-the-rest-of-the-world-be-impacted?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/economy/2163127",
+    "timestamp": "2026-07-21T14:37:21",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "MTS Web Services proposes creating Russia-China AI alliance with network of data centers",
+    "url": "https://tass.com/economy/2163127"
+  },
+  {
+    "id": "https://tass.com/economy/2163111",
+    "timestamp": "2026-07-21T14:35:44",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russia jumps back into top five global beer producers, overtaking Germany \u2014 report",
+    "url": "https://tass.com/economy/2163111"
+  },
+  {
+    "id": "https://www.france24.com/en/why-france-s-d-day-landing-beaches-could-join-unesco-s-heritage-lids",
+    "timestamp": "2026-07-21T14:31:32",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Why France's D-Day landing beaches could join Unesco's heritage site list",
+    "url": "https://www.france24.com/en/why-france-s-d-day-landing-beaches-could-join-unesco-s-heritage-lids"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/07/21/russia-wheat-exports-kerch-strait-collapse/",
+    "timestamp": "2026-07-21T14:30:02",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "World wheat hits a two-year high\u2014Russia\u2019s farmers are the only ones not earning from it",
+    "url": "https://euromaidanpress.com/2026/07/21/russia-wheat-exports-kerch-strait-collapse/"
+  },
+  {
+    "id": "https://tass.com/politics/2163123",
+    "timestamp": "2026-07-21T14:28:39",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russian ombudswoman prepares response to UN on Starobelsk tragedy",
+    "url": "https://tass.com/politics/2163123"
+  },
+  {
+    "id": "https://breakingdefense.com/2026/07/destinus-unveils-new-counter-rocket-interceptor/",
+    "timestamp": "2026-07-21T14:27:19",
+    "source": "Breaking Defense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Destinus unveils new counter-rocket interceptor",
+    "url": "https://breakingdefense.com/2026/07/destinus-unveils-new-counter-rocket-interceptor/"
+  },
+  {
+    "id": "https://www.france24.com/en/i-hear-you-burnham-s-pledge-to-knock-money-off-bills-immediately-signals-politics-of-deliverism",
+    "timestamp": "2026-07-21T14:26:27",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "\u2018I hear you\u2019: Burnham\u2019s pledge to \u2018knock money off bills immediately\u2019 signals politics of deliverism",
+    "url": "https://www.france24.com/en/i-hear-you-burnham-s-pledge-to-knock-money-off-bills-immediately-signals-politics-of-deliverism"
+  },
+  {
+    "id": "https://tass.com/science/2163117",
+    "timestamp": "2026-07-21T14:24:00",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russia\u2019s Sputnix boosts nanosatellite data transfer rate tenfold",
+    "url": "https://tass.com/science/2163117"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/07/21/first-the-pumps-then-the-harvest-now-the-commute-russias-fuel-shortage-keeps-finding-new-victims/",
+    "timestamp": "2026-07-21T14:23:48",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "First the pumps, then the harvest, now the commute\u2014Russia\u2019s fuel shortage keeps finding new victims",
+    "url": "https://euromaidanpress.com/2026/07/21/first-the-pumps-then-the-harvest-now-the-commute-russias-fuel-shortage-keeps-finding-new-victims/"
+  },
+  {
+    "id": "https://www.dw.com/en/germany-mass-shooting-suspect-found-dead-in-prison/a-78055706?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-07-21T14:23:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Germany: Mass shooting suspect found dead in prison",
+    "url": "https://www.dw.com/en/germany-mass-shooting-suspect-found-dead-in-prison/a-78055706?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://tass.com/world/2163115",
+    "timestamp": "2026-07-21T14:22:46",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Lebanese army accuses Israeli forces of shelling its positions in 'pilot zone'",
+    "url": "https://tass.com/world/2163115"
+  },
+  {
+    "id": "https://tass.com/politics/2163113",
+    "timestamp": "2026-07-21T14:21:21",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russian senator welcomes FBI Director Kash Patel's potential visit",
+    "url": "https://tass.com/politics/2163113"
+  },
+  {
+    "id": "https://www.navalnews.com/naval-news/2026/07/belgium-aswf-frigate-alternatives-damen-delays/",
+    "timestamp": "2026-07-21T14:18:21",
+    "source": "Naval News",
+    "platform": "rss",
+    "category": "naval",
+    "region": "global",
+    "text": "Belgium Eyes ASWF Alternatives as Damen Timeline and Costs Soar",
+    "url": "https://www.navalnews.com/naval-news/2026/07/belgium-aswf-frigate-alternatives-damen-delays/"
+  },
+  {
+    "id": "https://www.dw.com/en/china-narrows-ai-gap-challenges-us-influence/a-78053001?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-07-21T14:16:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "China narrows AI gap, challenges US influence",
+    "url": "https://www.dw.com/en/china-narrows-ai-gap-challenges-us-influence/a-78053001?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.dw.com/en/is-germany-investing-in-the-right-weapons/a-78054394?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-07-21T14:13:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Is Germany investing in the right weapons?",
+    "url": "https://www.dw.com/en/is-germany-investing-in-the-right-weapons/a-78054394?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://taskandpurpose.com/news/abandoned-navy-base-internet-service/",
+    "timestamp": "2026-07-21T14:12:35",
+    "source": "Task & Purpose",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Abandoned Navy base costs taxpayers $340,000 a year in internet nobody uses",
+    "url": "https://taskandpurpose.com/news/abandoned-navy-base-internet-service/"
+  },
+  {
+    "id": "https://www.aljazeera.com/features/2026/7/21/searching-for-closure-venezuela-families-refuse-to-give-up-after-quakes?traffic_source=rss",
+    "timestamp": "2026-07-21T14:08:59",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Searching for closure: Venezuela families refuse to give up after quakes",
+    "url": "https://www.aljazeera.com/features/2026/7/21/searching-for-closure-venezuela-families-refuse-to-give-up-after-quakes?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/world/2163109",
+    "timestamp": "2026-07-21T14:08:19",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Houthi actions could reignite full-scale war in Yemen \u2014 expert",
+    "url": "https://tass.com/world/2163109"
+  },
+  {
+    "id": "https://www.aljazeera.com/features/2026/7/21/japan-ai-gamble-can-technology-offset-the-cost-of-an-ageing-society?traffic_source=rss",
+    "timestamp": "2026-07-21T14:06:44",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Japan\u2019s AI gamble: Can technology offset the cost of an ageing society?",
+    "url": "https://www.aljazeera.com/features/2026/7/21/japan-ai-gamble-can-technology-offset-the-cost-of-an-ageing-society?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/economy/2163101",
+    "timestamp": "2026-07-21T14:05:39",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Gazprom notes very low gas storage levels in Europe",
+    "url": "https://tass.com/economy/2163101"
+  },
+  {
+    "id": "https://tass.com/politics/2163099",
+    "timestamp": "2026-07-21T14:05:25",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russia\u2019s Battlegroup North destroys five Ukrainian artillery mounts near Kharkov",
+    "url": "https://tass.com/politics/2163099"
+  },
+  {
+    "id": "https://tass.com/society/2163097",
+    "timestamp": "2026-07-21T14:03:45",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "IN BRIEF: What we know about mass death of bees in Chelyabinsk, Krasnoyarsk regions",
+    "url": "https://tass.com/society/2163097"
+  },
+  {
+    "id": "https://www.dw.com/en/ozempic-maker-sues-us-rival-over-ad-campaign/a-78054485?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-07-21T14:00:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Ozempic maker sues US rival over ad campaign",
+    "url": "https://www.dw.com/en/ozempic-maker-sues-us-rival-over-ad-campaign/a-78054485?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.defensenews.com/global/europe/2026/07/21/germany-to-study-french-cooperation-offer-on-sampt-air-defense-system/",
+    "timestamp": "2026-07-21T13:51:34",
+    "source": "Defense News",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Germany to study French cooperation offer on SAMP/T air-defense system",
+    "url": "https://www.defensenews.com/global/europe/2026/07/21/germany-to-study-french-cooperation-offer-on-sampt-air-defense-system/"
+  },
+  {
+    "id": "https://www.gov.uk/government/news/canada-joins-next-generation-fighter-jet-programme-as-first-observer-nation",
+    "timestamp": "2026-07-21T13:48:21",
+    "source": "UK MoD",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Canada joins next-generation fighter jet programme as first Observer Nation",
+    "url": "https://www.gov.uk/government/news/canada-joins-next-generation-fighter-jet-programme-as-first-observer-nation"
+  },
+  {
+    "id": "https://www.france24.com/en/france-wants-to-lead-the-way-with-under-15s-social-media-ban",
+    "timestamp": "2026-07-21T13:47:25",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "'France wants to lead the way' with under-15s social media ban",
+    "url": "https://www.france24.com/en/france-wants-to-lead-the-way-with-under-15s-social-media-ban"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/07/21/ukraines-most-feared-kamikaze-drone-just-showed-up-at-uk-arms-fair-carrying-missiles-instead-of-being-one/",
+    "timestamp": "2026-07-21T13:43:49",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Ukraine\u2019s most feared kamikaze drone just showed up at UK arms fair\u2014carrying missiles instead of being one",
+    "url": "https://euromaidanpress.com/2026/07/21/ukraines-most-feared-kamikaze-drone-just-showed-up-at-uk-arms-fair-carrying-missiles-instead-of-being-one/"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/7/21/asean-diplomats-voice-serious-concern-over-iran-war-and-energy-crisis?traffic_source=rss",
+    "timestamp": "2026-07-21T13:43:48",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "ASEAN diplomats voice \u2018serious concern\u2019 over Iran war and energy crisis",
+    "url": "https://www.aljazeera.com/news/2026/7/21/asean-diplomats-voice-serious-concern-over-iran-war-and-energy-crisis?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/money-works/2026/7/21/what-does-a-heatwave-cost?traffic_source=rss",
+    "timestamp": "2026-07-21T13:42:38",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "What does a heatwave cost?",
+    "url": "https://www.aljazeera.com/video/money-works/2026/7/21/what-does-a-heatwave-cost?traffic_source=rss"
+  },
+  {
+    "id": "https://www.defensenews.com/news/your-military/2026/07/21/how-startups-are-reshaping-the-pentagons-drone-industry/",
+    "timestamp": "2026-07-21T13:41:59",
+    "source": "Defense News",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "How startups are reshaping the Pentagon\u2019s drone industry",
+    "url": "https://www.defensenews.com/news/your-military/2026/07/21/how-startups-are-reshaping-the-pentagons-drone-industry/"
+  },
+  {
+    "id": "https://www.france24.com/en/what-the-uk-s-new-government-says-about-the-country-s-political-turn",
+    "timestamp": "2026-07-21T13:41:10",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "What the UK's new government says about the country's political turn",
+    "url": "https://www.france24.com/en/what-the-uk-s-new-government-says-about-the-country-s-political-turn"
+  },
+  {
+    "id": "https://breakingdefense.com/2026/07/general-atomics-ceo-throws-shade-at-cost-target-for-new-drone/",
+    "timestamp": "2026-07-21T13:39:49",
+    "source": "Breaking Defense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "General Atomics CEO throws shade at cost target for new drone",
+    "url": "https://breakingdefense.com/2026/07/general-atomics-ceo-throws-shade-at-cost-target-for-new-drone/"
+  },
+  {
+    "id": "https://www.france24.com/en/israel-and-lebanon-trial-safe-zones-in-southern-lebanon-as-part-of-deal",
+    "timestamp": "2026-07-21T13:38:47",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Israel and Lebanon trial 'safe zones' in southern Lebanon as part of deal",
+    "url": "https://www.france24.com/en/israel-and-lebanon-trial-safe-zones-in-southern-lebanon-as-part-of-deal"
+  },
+  {
+    "id": "https://www.gov.uk/government/publications/dartmoor-firing-times",
+    "timestamp": "2026-07-21T13:37:37",
+    "source": "UK MoD",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Guidance: Dartmoor firing times",
+    "url": "https://www.gov.uk/government/publications/dartmoor-firing-times"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/21/clashes-between-police-and-people-protesting-italy-arrest-death?traffic_source=rss",
+    "timestamp": "2026-07-21T13:36:46",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Clashes between police and people protesting Italy arrest death",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/clashes-between-police-and-people-protesting-italy-arrest-death?traffic_source=rss"
+  },
+  {
+    "id": "https://www.theguardian.com/world/2026/jul/21/us-state-department-report-cuba",
+    "timestamp": "2026-07-21T13:33:35",
+    "source": "Guardian World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "US claims of Cuba\u2019s \u2018unique threat\u2019 jar with reality of hunger and blackouts",
+    "url": "https://www.theguardian.com/world/2026/jul/21/us-state-department-report-cuba"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/7/21/india-tunnel-collapse-at-a-hydropower-project-kills-10-as-17-remain-missing?traffic_source=rss",
+    "timestamp": "2026-07-21T13:32:04",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "India tunnel collapse at a hydropower project kills 10 as 17 remain missing",
+    "url": "https://www.aljazeera.com/news/2026/7/21/india-tunnel-collapse-at-a-hydropower-project-kills-10-as-17-remain-missing?traffic_source=rss"
+  },
+  {
+    "id": "https://taskandpurpose.com/news/army-iraq-soldier-identified/",
+    "timestamp": "2026-07-21T13:30:33",
+    "source": "Task & Purpose",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Pentagon identifies soldier killed in Iraq during controlled detonation",
+    "url": "https://taskandpurpose.com/news/army-iraq-soldier-identified/"
+  },
+  {
+    "id": "https://www.navalnews.com/naval-news/2026/07/ga-asi-kongsberg-jsm-integration-mq9b/",
+    "timestamp": "2026-07-21T13:28:57",
+    "source": "Naval News",
+    "platform": "rss",
+    "category": "naval",
+    "region": "global",
+    "text": "GA-ASI and Kongsberg Advance JSM Integration on MQ-9B Drones",
+    "url": "https://www.navalnews.com/naval-news/2026/07/ga-asi-kongsberg-jsm-integration-mq9b/"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/7/21/there-is-no-safe-place-israeli-attack-kills-family-of-six-in-gaza?traffic_source=rss",
+    "timestamp": "2026-07-21T13:26:40",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "\u2018There is \u200cno safe place\u2019: Israeli attack kills family of six in Gaza",
+    "url": "https://www.aljazeera.com/news/2026/7/21/there-is-no-safe-place-israeli-attack-kills-family-of-six-in-gaza?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/7/21/trumps-new-50-percent-canada-tariffs-what-products-are-affected-and-why?traffic_source=rss",
+    "timestamp": "2026-07-21T13:25:37",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Trump\u2019s new 50 percent Canada tariffs: What products are affected and why?",
+    "url": "https://www.aljazeera.com/news/2026/7/21/trumps-new-50-percent-canada-tariffs-what-products-are-affected-and-why?traffic_source=rss"
+  },
+  {
+    "id": "https://www.gov.uk/government/news/quadrilateral-joint-statement-on-canada-becoming-an-observer-to-gcap",
+    "timestamp": "2026-07-21T13:24:29",
+    "source": "UK MoD",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Quadrilateral Joint Statement on Canada becoming an Observer to GCAP",
+    "url": "https://www.gov.uk/government/news/quadrilateral-joint-statement-on-canada-becoming-an-observer-to-gcap"
+  },
+  {
+    "id": "https://www.france24.com/en/ukraine-plunges-into-political-crisis-as-anger-over-defence-minister-s-dismissal-grows",
+    "timestamp": "2026-07-21T13:23:49",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Ukraine plunges into political crisis as anger over defence minister's dismissal grows",
+    "url": "https://www.france24.com/en/ukraine-plunges-into-political-crisis-as-anger-over-defence-minister-s-dismissal-grows"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/21/bodycam-shows-florida-student-tased-and-arrested-by-campus-police?traffic_source=rss",
+    "timestamp": "2026-07-21T13:17:04",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Bodycam shows Florida student tased and arrested by campus police",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/bodycam-shows-florida-student-tased-and-arrested-by-campus-police?traffic_source=rss"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/07/21/whatever-came-down-on-lipetsk-overnight-it-started-with-a-missile-warning-and-ended-in-flames-by-the-steel-mill/",
+    "timestamp": "2026-07-21T13:14:12",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Whatever came down on Lipetsk overnight, it started with a missile warning and ended in flames by the steel mill",
+    "url": "https://euromaidanpress.com/2026/07/21/whatever-came-down-on-lipetsk-overnight-it-started-with-a-missile-warning-and-ended-in-flames-by-the-steel-mill/"
+  },
+  {
+    "id": "https://www.defensenews.com/news/your-military/2026/07/21/pentagon-identifies-soldier-killed-in-controlled-detonation-of-iranian-drone/",
+    "timestamp": "2026-07-21T13:13:51",
+    "source": "Defense News",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Pentagon identifies soldier killed in controlled detonation of Iranian drone",
+    "url": "https://www.defensenews.com/news/your-military/2026/07/21/pentagon-identifies-soldier-killed-in-controlled-detonation-of-iranian-drone/"
+  },
+  {
+    "id": "https://www.gov.uk/government/publications/military-court-service-sentencing-remarks-2026",
+    "timestamp": "2026-07-21T13:08:47",
+    "source": "UK MoD",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Transparency data: Military Court Service sentencing remarks 2026",
+    "url": "https://www.gov.uk/government/publications/military-court-service-sentencing-remarks-2026"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/21/baby-trafficking-ringleader-jailed-for-7-years?traffic_source=rss",
+    "timestamp": "2026-07-21T12:59:28",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Baby trafficking ringleader jailed for 7 years",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/baby-trafficking-ringleader-jailed-for-7-years?traffic_source=rss"
+  },
+  {
+    "id": "https://www.france24.com/en/sport/20260721-fake-images-circulate-spanish-world-cup-players-draped-palestinian-flags",
+    "timestamp": "2026-07-21T12:58:46",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Fake images circulate of Spanish World Cup players draped in Palestinian flags",
+    "url": "https://www.france24.com/en/sport/20260721-fake-images-circulate-spanish-world-cup-players-draped-palestinian-flags"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/21/mexican-drug-lord-el-mayo-sentenced-to-life-in-us-prison?traffic_source=rss",
+    "timestamp": "2026-07-21T12:56:21",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Mexican drug lord \u2018El Mayo\u2019 sentenced to life in US prison",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/mexican-drug-lord-el-mayo-sentenced-to-life-in-us-prison?traffic_source=rss"
+  },
+  {
     "id": "https://tass.com/economy/2163055",
     "timestamp": "2026-07-21T12:53:41",
     "source": "TASS English",
@@ -28,6 +638,16 @@
     "region": "ru",
     "text": "State Duma passes law on regulation of digital currencies, digital rights",
     "url": "https://tass.com/economy/2163053"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c86nwgw148xo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-07-21T12:48:37",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Dozens hurt in Bologna protests after man dies while being restrained by police",
+    "url": "https://www.bbc.co.uk/news/articles/c86nwgw148xo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://tass.com/politics/2163051",
@@ -4378,625 +4998,5 @@
     "region": "ua",
     "text": "Russia buys back gasoline refined from its own oil, 14,000 km away",
     "url": "https://euromaidanpress.com/2026/07/20/russia-imports-gasoline-india-refined-own-oil/"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-07-20T11:37:32",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Scores feared dead after passenger ferry capsizes off Guyana",
-    "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.dw.com/en/meet-andy-burnham-britain-s-prime-minister/a-77664543?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-07-20T11:37:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Meet Andy Burnham, Britain's prime minister",
-    "url": "https://www.dw.com/en/meet-andy-burnham-britain-s-prime-minister/a-77664543?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.france24.com/en/india-s-cockroach-party-leads-thousands-of-youth-in-protest-to-parliament",
-    "timestamp": "2026-07-20T11:35:38",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "India's Cockroach party leads thousands of youth in protest to parliament",
-    "url": "https://www.france24.com/en/india-s-cockroach-party-leads-thousands-of-youth-in-protest-to-parliament"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/20/why-is-iran-bombing-gulf-states-while-avoiding-us-naval-assets-and-israel?traffic_source=rss",
-    "timestamp": "2026-07-20T11:35:02",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Why is Iran bombing Gulf states while avoiding US naval assets and Israel?",
-    "url": "https://www.aljazeera.com/news/2026/7/20/why-is-iran-bombing-gulf-states-while-avoiding-us-naval-assets-and-israel?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/gallery/2026/7/20/photos-police-fire-tear-gas-at-indias-cockroach-movement-supporters?traffic_source=rss",
-    "timestamp": "2026-07-20T11:34:38",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Photos: Police fire tear gas at India\u2019s Cockroach movement supporters",
-    "url": "https://www.aljazeera.com/gallery/2026/7/20/photos-police-fire-tear-gas-at-indias-cockroach-movement-supporters?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/20/i-go-with-a-smile-says-outgoing-uk-pm-keir-starmer-in-final-speech?traffic_source=rss",
-    "timestamp": "2026-07-20T11:33:46",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "\u2018I go with a smile\u2019 says outgoing UK PM Keir Starmer in final speech",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/i-go-with-a-smile-says-outgoing-uk-pm-keir-starmer-in-final-speech?traffic_source=rss"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/07/20/the-ukrainian-combat-divers-who-blew-up-a-russian-bomber-just-built-their-own-sea-drone/",
-    "timestamp": "2026-07-20T11:32:56",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "The Ukrainian combat divers who blew up a Russian bomber just built their own sea drone",
-    "url": "https://euromaidanpress.com/2026/07/20/the-ukrainian-combat-divers-who-blew-up-a-russian-bomber-just-built-their-own-sea-drone/"
-  },
-  {
-    "id": "https://www.twz.com/news-features/anduril-brings-the-thunder-with-autonomous-tiltrotor-attack-drone-concept",
-    "timestamp": "2026-07-20T11:30:26",
-    "source": "The Drive WarZone",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Anduril Brings The Thunder With Autonomous Tiltrotor Attack Drone Concept",
-    "url": "https://www.twz.com/news-features/anduril-brings-the-thunder-with-autonomous-tiltrotor-attack-drone-concept"
-  },
-  {
-    "id": "https://www.defensenews.com/industry/techwatch/2026/07/20/us-air-force-seeking-air-defense-missile-system-to-protect-air-bases/",
-    "timestamp": "2026-07-20T11:30:00",
-    "source": "Defense News",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "US Air Force seeking air defense missile system to protect air bases",
-    "url": "https://www.defensenews.com/industry/techwatch/2026/07/20/us-air-force-seeking-air-defense-missile-system-to-protect-air-bases/"
-  },
-  {
-    "id": "https://breakingdefense.com/2026/07/anduril-reveals-thunder-a-loyal-wingman-drone-for-helicopters/",
-    "timestamp": "2026-07-20T11:30:00",
-    "source": "Breaking Defense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Anduril reveals Thunder, a \u2018loyal wingman\u2019 drone for helicopters",
-    "url": "https://breakingdefense.com/2026/07/anduril-reveals-thunder-a-loyal-wingman-drone-for-helicopters/"
-  },
-  {
-    "id": "https://www.defenseone.com/defense-systems/2026/07/anduril-pitches-robot-wingman-us-army-helicopters/414868/",
-    "timestamp": "2026-07-20T11:30:00",
-    "source": "Defense One",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Anduril pitches a robot wingman for US Army helicopters",
-    "url": "https://www.defenseone.com/defense-systems/2026/07/anduril-pitches-robot-wingman-us-army-helicopters/414868/"
-  },
-  {
-    "id": "https://www.france24.com/en/switch-in-uk-prime-minister-comes-amid-growing-voter-scepticism",
-    "timestamp": "2026-07-20T11:29:53",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Switch in UK prime minister comes amid growing voter scepticism",
-    "url": "https://www.france24.com/en/switch-in-uk-prime-minister-comes-amid-growing-voter-scepticism"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cj63kngxpxpo?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-07-20T11:28:30",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "JD Vance says wife Usha and son 'happy and healthy' after birth of fourth child",
-    "url": "https://www.bbc.co.uk/news/articles/cj63kngxpxpo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/20/hamas-names-khalil-al-hayya-as-new-leader-after-run-off-with-khaled-meshaal?traffic_source=rss",
-    "timestamp": "2026-07-20T11:27:04",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Hamas names Khalil al-Hayya as new leader after run-off with Khaled Meshaal",
-    "url": "https://www.aljazeera.com/news/2026/7/20/hamas-names-khalil-al-hayya-as-new-leader-after-run-off-with-khaled-meshaal?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/andy-burnham-wants-to-lead-the-uk-differently-how-different-can-he-be",
-    "timestamp": "2026-07-20T11:26:29",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Andy Burnham wants to lead the UK 'differently': how different can he be?",
-    "url": "https://www.france24.com/en/andy-burnham-wants-to-lead-the-uk-differently-how-different-can-he-be"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-07-20T11:18:40",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
-    "url": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/7/20/jubilation-in-spain-as-la-roja-beat-argentina-to-win-second-world-cup-title?traffic_source=rss",
-    "timestamp": "2026-07-20T11:15:15",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Jubilation in Spain as La Roja beat Argentina to win second World Cup title",
-    "url": "https://www.aljazeera.com/sports/2026/7/20/jubilation-in-spain-as-la-roja-beat-argentina-to-win-second-world-cup-title?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/7/20/world-cup-spain-to-be-welcomed-home-by-million-strong-madrid-crowd?traffic_source=rss",
-    "timestamp": "2026-07-20T11:09:16",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "World Cup: Spain to be welcomed home by million-strong Madrid crowd",
-    "url": "https://www.aljazeera.com/sports/2026/7/20/world-cup-spain-to-be-welcomed-home-by-million-strong-madrid-crowd?traffic_source=rss"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/07/20/russia-keeps-hitting-ukraines-couriers-so-ukraine-went-after-russias-amazon-oil-depot-and-warehouses-hit-near-moscow/",
-    "timestamp": "2026-07-20T11:08:58",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Russia keeps hitting Ukraine\u2019s couriers\u2014so Ukraine went after Russia\u2019s Amazon: oil depot and warehouses hit near Moscow",
-    "url": "https://euromaidanpress.com/2026/07/20/russia-keeps-hitting-ukraines-couriers-so-ukraine-went-after-russias-amazon-oil-depot-and-warehouses-hit-near-moscow/"
-  },
-  {
-    "id": "https://www.dw.com/en/how-blue-dot-fever-is-affecting-concerts/a-78005612?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-07-20T11:04:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "How 'blue dot fever' is affecting concerts",
-    "url": "https://www.dw.com/en/how-blue-dot-fever-is-affecting-concerts/a-78005612?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.france24.com/en/tv-shows/fashion/20260720-haute-couture-fall-winter-2027-big-on-spectacle-and-on-message",
-    "timestamp": "2026-07-20T11:03:56",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Haute Couture Fall-Winter 2027: Big on spectacle and on message",
-    "url": "https://www.france24.com/en/tv-shows/fashion/20260720-haute-couture-fall-winter-2027-big-on-spectacle-and-on-message"
-  },
-  {
-    "id": "https://www.france24.com/en/video/20260720-we-gave-it-everything-fans-react-to-world-cup-final-game",
-    "timestamp": "2026-07-20T10:58:41",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "'We gave it everything': Fans react to World Cup final game",
-    "url": "https://www.france24.com/en/video/20260720-we-gave-it-everything-fans-react-to-world-cup-final-game"
-  },
-  {
-    "id": "https://www.france24.com/en/as-uk-s-keir-starmer-says-farewell-his-successor-faces-a-colossal-task",
-    "timestamp": "2026-07-20T10:56:30",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "As UK's Keir Starmer says farewell, his successor faces a 'colossal task'",
-    "url": "https://www.france24.com/en/as-uk-s-keir-starmer-says-farewell-his-successor-faces-a-colossal-task"
-  },
-  {
-    "id": "https://breakingdefense.com/2026/07/newly-independent-honeywell-aerospace-seeks-organic-growth-but-wont-rule-out-ma/",
-    "timestamp": "2026-07-20T10:53:48",
-    "source": "Breaking Defense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Newly independent Honeywell Aerospace seeks organic growth, but won\u2019t rule out M&A",
-    "url": "https://breakingdefense.com/2026/07/newly-independent-honeywell-aerospace-seeks-organic-growth-but-wont-rule-out-ma/"
-  },
-  {
-    "id": "https://www.navalnews.com/naval-news/2026/07/indonesia-italian-aircraft-carrier-garibaldi-september-arrival/",
-    "timestamp": "2026-07-20T10:39:05",
-    "source": "Naval News",
-    "platform": "rss",
-    "category": "naval",
-    "region": "global",
-    "text": "Indonesia Set to Receive Ex-Italian Aircraft Carrier Garibaldi on Sept 20",
-    "url": "https://www.navalnews.com/naval-news/2026/07/indonesia-italian-aircraft-carrier-garibaldi-september-arrival/"
-  },
-  {
-    "id": "https://www.france24.com/en/replay-outgoing-uk-pm-keir-starmer-gives-farewell-speech",
-    "timestamp": "2026-07-20T10:34:13",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Replay: Outgoing UK PM Keir Starmer gives farewell speech",
-    "url": "https://www.france24.com/en/replay-outgoing-uk-pm-keir-starmer-gives-farewell-speech"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/20/occupied-west-bank-world-cup-screening-halted-for-funeral?traffic_source=rss",
-    "timestamp": "2026-07-20T10:33:16",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Occupied West Bank World Cup screening halted for funeral",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/occupied-west-bank-world-cup-screening-halted-for-funeral?traffic_source=rss"
-  },
-  {
-    "id": "https://www.dw.com/en/drc-s-neighbors-boost-preparedness-as-ebola-cases-surge/a-78033880?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-07-20T10:31:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "DRC's neighbors boost preparedness as Ebola cases surge",
-    "url": "https://www.dw.com/en/drc-s-neighbors-boost-preparedness-as-ebola-cases-surge/a-78033880?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.dw.com/en/drc-neighbors-boost-preparedness-as-ebola-cases-surge/a-78033880?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-07-20T10:31:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "DRC neighbors boost preparedness as Ebola cases surge",
-    "url": "https://www.dw.com/en/drc-neighbors-boost-preparedness-as-ebola-cases-surge/a-78033880?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.gov.uk/government/publications/farnborough-international-airshow-fia-2026-invitees",
-    "timestamp": "2026-07-20T10:30:03",
-    "source": "UK MoD",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Guidance: Farnborough International Airshow (FIA) 2026: invitees",
-    "url": "https://www.gov.uk/government/publications/farnborough-international-airshow-fia-2026-invitees"
-  },
-  {
-    "id": "https://www.france24.com/en/middle-east/20260720-us-strikes-iran-ninth-consecutive-day-more-ships-targeted-strait-of-hormuz-kuwait-bahrain",
-    "timestamp": "2026-07-20T10:26:19",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "US strikes\u00a0Iran\u00a0for ninth consecutive day as more ships targeted in Strait of Hormuz",
-    "url": "https://www.france24.com/en/middle-east/20260720-us-strikes-iran-ninth-consecutive-day-more-ships-targeted-strait-of-hormuz-kuwait-bahrain"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cn8nldwj12jo?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-07-20T10:12:36",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Ryanair profits drop as Iran war puts off passengers and lifts fuel costs",
-    "url": "https://www.bbc.co.uk/news/articles/cn8nldwj12jo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://tass.com/world/2162513",
-    "timestamp": "2026-07-20T10:09:09",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Reopening talks with Washington impossible as long as US attacks continue \u2014 Iranian source",
-    "url": "https://tass.com/world/2162513"
-  },
-  {
-    "id": "https://tass.com/politics/2162509",
-    "timestamp": "2026-07-20T10:08:14",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "NATO concerned over German nuclear weapons research \u2014 Russian SVR",
-    "url": "https://tass.com/politics/2162509"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/20/what-does-irans-attack-on-kuwait-infrastructure-mean-for-gulf?traffic_source=rss",
-    "timestamp": "2026-07-20T10:08:00",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "What does Iran\u2019s attack on Kuwait infrastructure mean for Gulf?",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/what-does-irans-attack-on-kuwait-infrastructure-mean-for-gulf?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/7/20/world-cup-spanish-boy-13-killed-in-fountain-collapse-during-celebrations?traffic_source=rss",
-    "timestamp": "2026-07-20T10:07:16",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "World Cup: Spanish boy, 13, killed in fountain collapse during celebrations",
-    "url": "https://www.aljazeera.com/sports/2026/7/20/world-cup-spanish-boy-13-killed-in-fountain-collapse-during-celebrations?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/politics/2162505",
-    "timestamp": "2026-07-20T10:03:14",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russia-North Korea 2024 summit decisions being gradually implemented \u2014 Lavrov",
-    "url": "https://tass.com/politics/2162505"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c0qvdy0jv05o?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-07-20T10:02:44",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Boy, 13, dies during World Cup celebrations in Spain",
-    "url": "https://www.bbc.co.uk/news/articles/c0qvdy0jv05o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://tass.com/pressreview/2162389",
-    "timestamp": "2026-07-20T10:00:01",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Press review: Russia offers lifeline on Iran and Trump works art of nuke deal with Saudis",
-    "url": "https://tass.com/pressreview/2162389"
-  },
-  {
-    "id": "https://www.dw.com/en/germany-news-resistance-to-nazi-terror-commemorated/live-78031915?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-07-20T09:57:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Germany news: Resistance to Nazi terror commemorated",
-    "url": "https://www.dw.com/en/germany-news-resistance-to-nazi-terror-commemorated/live-78031915?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://breakingdefense.com/2026/07/sweden-eyes-additional-batch-of-gripen-e-jets-to-replace-ukraine-bound-aircraft/",
-    "timestamp": "2026-07-20T09:55:00",
-    "source": "Breaking Defense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Sweden eyes additional batch of Gripen E jets to replace Ukraine-bound aircraft",
-    "url": "https://breakingdefense.com/2026/07/sweden-eyes-additional-batch-of-gripen-e-jets-to-replace-ukraine-bound-aircraft/"
-  },
-  {
-    "id": "https://tass.com/world/2162503",
-    "timestamp": "2026-07-20T09:54:32",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "EC to revise 21st package of anti-Russian sanctions considering Greece\u2019s position \u2014 paper",
-    "url": "https://tass.com/world/2162503"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/20/police-attack-cockroach-activists-as-thousands-march-on-indian-parliament?traffic_source=rss",
-    "timestamp": "2026-07-20T09:51:25",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Police attack Cockroach activists as thousands march on Indian parliament",
-    "url": "https://www.aljazeera.com/news/2026/7/20/police-attack-cockroach-activists-as-thousands-march-on-indian-parliament?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/andy-burnham-expected-to-focus-on-uk-s-cost-of-living-in-first-speech",
-    "timestamp": "2026-07-20T09:50:35",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Andy Burnham expected to focus on UK's cost-of-living in first speech",
-    "url": "https://www.france24.com/en/andy-burnham-expected-to-focus-on-uk-s-cost-of-living-in-first-speech"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/20/turkiye-and-libyas-haftar-are-boosting-military-ties-is-egypt-worried?traffic_source=rss",
-    "timestamp": "2026-07-20T09:48:05",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Turkiye and Libya\u2019s Haftar are boosting military ties. Is Egypt worried?",
-    "url": "https://www.aljazeera.com/news/2026/7/20/turkiye-and-libyas-haftar-are-boosting-military-ties-is-egypt-worried?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/world/2162499",
-    "timestamp": "2026-07-20T09:47:38",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "US borrows from ISIS playbook with latest strikes on Iran, diplomat says",
-    "url": "https://tass.com/world/2162499"
-  },
-  {
-    "id": "https://www.dw.com/en/taking-stock-of-2026-world-cup-football-s-biggest-show-yet/a-78032847?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-07-20T09:46:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Taking stock of 2026 World Cup: Football's biggest show yet",
-    "url": "https://www.dw.com/en/taking-stock-of-2026-world-cup-football-s-biggest-show-yet/a-78032847?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://tass.com/politics/2162493",
-    "timestamp": "2026-07-20T09:36:04",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Kremlin would welcome potential contacts between Lavrov, Rubio \u2014 spokesman",
-    "url": "https://tass.com/politics/2162493"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/20/indian-police-beat-cockroach-march-protesters?traffic_source=rss",
-    "timestamp": "2026-07-20T09:34:19",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Indian police beat \u2018Cockroach\u2019 march protesters",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/indian-police-beat-cockroach-march-protesters?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/politics/2162475",
-    "timestamp": "2026-07-20T09:32:22",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russia remains open to dialogue with Europe \u2014 Kremlin spokesperson",
-    "url": "https://tass.com/politics/2162475"
-  },
-  {
-    "id": "https://www.france24.com/en/europe/20260720-hungary-pm-magyar-proposes-chess-grandmaster-judit-polgar-for-president",
-    "timestamp": "2026-07-20T09:29:08",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Hungary PM Magyar proposes chess grandmaster Judit Polgar for president",
-    "url": "https://www.france24.com/en/europe/20260720-hungary-pm-magyar-proposes-chess-grandmaster-judit-polgar-for-president"
-  },
-  {
-    "id": "https://www.dw.com/en/uk-andy-burnham-takes-office-as-seventh-pm-in-10-years/a-78032335?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-07-20T09:28:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "UK: Andy Burnham takes office as seventh PM in 10 years",
-    "url": "https://www.dw.com/en/uk-andy-burnham-takes-office-as-seventh-pm-in-10-years/a-78032335?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.dw.com/en/uk-andy-burnham-to-take-office-as-seventh-pm-in-10-years/a-78032335?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-07-20T09:28:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "UK: Andy Burnham to take office as seventh PM in 10 years",
-    "url": "https://www.dw.com/en/uk-andy-burnham-to-take-office-as-seventh-pm-in-10-years/a-78032335?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.france24.com/en/war-in-iran-expands-as-third-us-soldier-killed-since-end-of-ceasefire",
-    "timestamp": "2026-07-20T09:27:51",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "War in Iran expands as third US soldier killed since end of ceasefire",
-    "url": "https://www.france24.com/en/war-in-iran-expands-as-third-us-soldier-killed-since-end-of-ceasefire"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/2026/7/20/video-world-cup-2026-highlights?traffic_source=rss",
-    "timestamp": "2026-07-20T09:20:41",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Watch FIFA World Cup: Spain outclass Argentina to become world champions",
-    "url": "https://www.aljazeera.com/video/2026/7/20/video-world-cup-2026-highlights?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/20/top-feel-good-moments-to-remember-now-that-the-2026-world-cup-is-over?traffic_source=rss",
-    "timestamp": "2026-07-20T09:19:08",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Top feel-good moments to remember now that the 2026 World Cup is over",
-    "url": "https://www.aljazeera.com/news/2026/7/20/top-feel-good-moments-to-remember-now-that-the-2026-world-cup-is-over?traffic_source=rss"
-  },
-  {
-    "id": "https://news.usni.org/2026/07/20/oiler-usns-kanawha-receives-presidential-unit-citation-for-unprecidented-middle-east-deployment",
-    "timestamp": "2026-07-20T09:15:21",
-    "source": "USNI News",
-    "platform": "rss",
-    "category": "naval",
-    "region": "global",
-    "text": "Oiler USNS Kanawha Receives Presidential Unit Citation for Unprecidented Middle East Deployment",
-    "url": "https://news.usni.org/2026/07/20/oiler-usns-kanawha-receives-presidential-unit-citation-for-unprecidented-middle-east-deployment"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/liveblog/2026/7/20/live-andy-burnham-to-become-uk-pm-deliver-first-speech-at-10-downing?traffic_source=rss",
-    "timestamp": "2026-07-20T09:12:03",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "LIVE: Andy Burnham to become UK PM, deliver first speech at 10 Downing",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/7/20/live-andy-burnham-to-become-uk-pm-deliver-first-speech-at-10-downing?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/uk-prepares-to-get-its-seventh-prime-minister-in-a-decade",
-    "timestamp": "2026-07-20T09:06:08",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "UK prepares to get its seventh prime minister in a decade",
-    "url": "https://www.france24.com/en/uk-prepares-to-get-its-seventh-prime-minister-in-a-decade"
-  },
-  {
-    "id": "https://tass.com/defense/2162457",
-    "timestamp": "2026-07-20T09:04:05",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russia\u2019s Battlegroup North destroys over 150 Ukrainian rotor copters in Kharkov in July",
-    "url": "https://tass.com/defense/2162457"
-  },
-  {
-    "id": "https://www.france24.com/en/absolute-joy-spilling-out-for-spain-s-new-golden-generation-of-football",
-    "timestamp": "2026-07-20T09:03:35",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "'Absolute joy spilling out' for Spain's 'new golden generation' of football",
-    "url": "https://www.france24.com/en/absolute-joy-spilling-out-for-spain-s-new-golden-generation-of-football"
-  },
-  {
-    "id": "https://www.france24.com/en/the-winners-are-those-that-played-football-spanish-fans-celebrate-world-cup-win",
-    "timestamp": "2026-07-20T09:03:28",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "The winners are those 'that played football': Spanish fans celebrate World Cup win",
-    "url": "https://www.france24.com/en/the-winners-are-those-that-played-football-spanish-fans-celebrate-world-cup-win"
   }
 ]
