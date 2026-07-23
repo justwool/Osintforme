@@ -1,5 +1,365 @@
 [
   {
+    "id": "https://www.dw.com/en/eu-imposes-new-round-of-sanctions-against-russia/a-78081102?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-07-23T09:25:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "EU imposes new round of sanctions against Russia",
+    "url": "https://www.dw.com/en/eu-imposes-new-round-of-sanctions-against-russia/a-78081102?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://tass.com/defense/2164129",
+    "timestamp": "2026-07-23T09:17:19",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russian Armed Forces liberate Belitskoye in DPR: what's known",
+    "url": "https://tass.com/defense/2164129"
+  },
+  {
+    "id": "https://www.france24.com/en/us-and-saudi-arabia-reach-a-multi-billion-dollar-civilian-nuclear-deal",
+    "timestamp": "2026-07-23T09:04:14",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "US and Saudi Arabia reach a multi-billion dollar civilian nuclear deal",
+    "url": "https://www.france24.com/en/us-and-saudi-arabia-reach-a-multi-billion-dollar-civilian-nuclear-deal"
+  },
+  {
+    "id": "https://www.france24.com/en/replay-marco-rubio-addresses-middle-east-and-ukraine-conflicts",
+    "timestamp": "2026-07-23T08:59:45",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Replay: Marco Rubio addresses Middle East and Ukraine conflicts",
+    "url": "https://www.france24.com/en/replay-marco-rubio-addresses-middle-east-and-ukraine-conflicts"
+  },
+  {
+    "id": "https://www.aljazeera.com/features/2026/7/23/back-from-the-dead-the-continuing-agony-of-gazas-9500-missing-persons?traffic_source=rss",
+    "timestamp": "2026-07-23T08:57:18",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "\u2018Back from the dead\u2019: The continuing agony over Gaza\u2019s 9,500 missing people",
+    "url": "https://www.aljazeera.com/features/2026/7/23/back-from-the-dead-the-continuing-agony-of-gazas-9500-missing-persons?traffic_source=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-07-23T08:56:36",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Around 12,000 people evacuated in France fires",
+    "url": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.dw.com/en/europe-wildfires-prompt-evacuations-in-france-spain-italy/a-78080171?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-07-23T08:52:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Europe wildfires prompt evacuations in France, Spain, Italy",
+    "url": "https://www.dw.com/en/europe-wildfires-prompt-evacuations-in-france-spain-italy/a-78080171?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.france24.com/en/france/20260723-thousands-of-tourists-forced-to-evacuate-as-fire-rages-in-southwest-france",
+    "timestamp": "2026-07-23T08:49:53",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Thousands of tourists forced to evacuate as fire rages in southwest France",
+    "url": "https://www.france24.com/en/france/20260723-thousands-of-tourists-forced-to-evacuate-as-fire-rages-in-southwest-france"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/07/23/france-hasnt-finalized-terms-or-funding-for-the-16-rafale-jets-promised-to-kyiv/",
+    "timestamp": "2026-07-23T08:29:45",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "France hasn\u2019t finalized terms or funding for the 16 Rafale jets promised to Kyiv",
+    "url": "https://euromaidanpress.com/2026/07/23/france-hasnt-finalized-terms-or-funding-for-the-16-rafale-jets-promised-to-kyiv/"
+  },
+  {
+    "id": "https://www.navalnews.com/naval-news/2026/07/indian-navy-commissions-ins-malvan-the-2nd-of-mahe-class-asw-swc/",
+    "timestamp": "2026-07-23T08:28:52",
+    "source": "Naval News",
+    "platform": "rss",
+    "category": "naval",
+    "region": "global",
+    "text": "Indian Navy Commissions INS Malvan, the 2nd of Mahe-class ASW SWC",
+    "url": "https://www.navalnews.com/naval-news/2026/07/indian-navy-commissions-ins-malvan-the-2nd-of-mahe-class-asw-swc/"
+  },
+  {
+    "id": "https://www.gov.uk/guidance/military-court-centres",
+    "timestamp": "2026-07-23T08:28:09",
+    "source": "UK MoD",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Military Court Centres",
+    "url": "https://www.gov.uk/guidance/military-court-centres"
+  },
+  {
+    "id": "https://tass.com/world/2164093",
+    "timestamp": "2026-07-23T08:22:58",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "US air campaign against Iran running out of steam \u2014 Politico",
+    "url": "https://tass.com/world/2164093"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/07/23/isw-russia-has-taken-just-81-km%c2%b2-of-ukraine-this-year-while-claiming-2226/",
+    "timestamp": "2026-07-23T08:20:05",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "ISW: Russia has taken just 81 km\u00b2 of Ukraine this year\u2014while claiming 2,226",
+    "url": "https://euromaidanpress.com/2026/07/23/isw-russia-has-taken-just-81-km%c2%b2-of-ukraine-this-year-while-claiming-2226/"
+  },
+  {
+    "id": "https://www.dw.com/en/germany-news-fm-wadephul-wraps-up-africa-tour-in-south-africa/live-78079267?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-07-23T08:20:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Germany news: FM Wadephul wraps up Africa tour in South Africa",
+    "url": "https://www.dw.com/en/germany-news-fm-wadephul-wraps-up-africa-tour-in-south-africa/live-78079267?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/23/indian-activist-wangchuk-sets-conditions-to-end-hunger-strike?traffic_source=rss",
+    "timestamp": "2026-07-23T08:19:22",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Indian activist Wangchuk sets conditions to end hunger strike",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/indian-activist-wangchuk-sets-conditions-to-end-hunger-strike?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/gallery/2026/7/23/photos-gazas-shelter-crisis?traffic_source=rss",
+    "timestamp": "2026-07-23T08:12:46",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Photos: Gaza\u2019s shelter crisis",
+    "url": "https://www.aljazeera.com/gallery/2026/7/23/photos-gazas-shelter-crisis?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/politics/2164077",
+    "timestamp": "2026-07-23T08:10:11",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russian forces strike over two dozen vessels carrying cargoes for Ukraine since July 11",
+    "url": "https://tass.com/politics/2164077"
+  },
+  {
+    "id": "https://warontherocks.com/cogs-of-war/america-needs-an-off-ramp-between-doing-nothing-and-shutting-ai-down/",
+    "timestamp": "2026-07-23T08:00:26",
+    "source": "War on the Rocks",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "America Needs an Off-Ramp Between Doing Nothing and Shutting AI Down",
+    "url": "https://warontherocks.com/cogs-of-war/america-needs-an-off-ramp-between-doing-nothing-and-shutting-ai-down/"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/23/travellers-panic-as-us-attacks-iran-iraq-border-crossing?traffic_source=rss",
+    "timestamp": "2026-07-23T07:56:55",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Travellers panic as US attacks Iran-Iraq border crossing",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/travellers-panic-as-us-attacks-iran-iraq-border-crossing?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/economy/2164067",
+    "timestamp": "2026-07-23T07:56:11",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Bank of Russia buys $61.4 mln worth of yuan with July 22 settlement",
+    "url": "https://tass.com/economy/2164067"
+  },
+  {
+    "id": "https://tass.com/defense/2164059",
+    "timestamp": "2026-07-23T07:55:23",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russian forces carry out more strikes on Ukrainian ports, infrastructure facilities",
+    "url": "https://tass.com/defense/2164059"
+  },
+  {
+    "id": "https://tass.com/politics/2164049",
+    "timestamp": "2026-07-23T07:52:05",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Aftermath of Ukrainian drone attack on Russian regions, boy killed in Voronezh Region",
+    "url": "https://tass.com/politics/2164049"
+  },
+  {
+    "id": "https://tass.com/politics/2164045",
+    "timestamp": "2026-07-23T07:49:24",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Lavrov reaffirms Russia\u2019s commitment to Alaska agreements at meeting with Rubio",
+    "url": "https://tass.com/politics/2164045"
+  },
+  {
+    "id": "https://www.navalnews.com/naval-news/2026/07/babcock-and-lig-da-sign-strategic-cooperation-agreement-to-promote-global-capabilities/",
+    "timestamp": "2026-07-23T07:48:45",
+    "source": "Naval News",
+    "platform": "rss",
+    "category": "naval",
+    "region": "global",
+    "text": "Babcock and LIG D&A sign Strategic Cooperation Agreement to promote global capabilities",
+    "url": "https://www.navalnews.com/naval-news/2026/07/babcock-and-lig-da-sign-strategic-cooperation-agreement-to-promote-global-capabilities/"
+  },
+  {
+    "id": "https://tass.com/economy/2164041",
+    "timestamp": "2026-07-23T07:46:04",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russian stock market declines at start of trading",
+    "url": "https://tass.com/economy/2164041"
+  },
+  {
+    "id": "https://warontherocks.com/cogs-of-war/the-king-of-cool-mobile-refrigeration-and-the-remaking-of-global-logistics/",
+    "timestamp": "2026-07-23T07:45:53",
+    "source": "War on the Rocks",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "The King of Cool: Mobile Refrigeration and the Remaking of Global Logistics",
+    "url": "https://warontherocks.com/cogs-of-war/the-king-of-cool-mobile-refrigeration-and-the-remaking-of-global-logistics/"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/7/23/indias-modi-promises-fast-track-courts-for-exam-fraud-fuelling-protests?traffic_source=rss",
+    "timestamp": "2026-07-23T07:41:25",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "India\u2019s Modi promises fast-track courts for exam fraud fuelling protests",
+    "url": "https://www.aljazeera.com/news/2026/7/23/indias-modi-promises-fast-track-courts-for-exam-fraud-fuelling-protests?traffic_source=rss"
+  },
+  {
+    "id": "https://www.france24.com/en/europe/20260723-eu-ambassadors-agree-21st-sanctions-package-against-russia",
+    "timestamp": "2026-07-23T07:34:44",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "\ud83d\udd34 War in Ukraine: EU agrees 21st round of sanctions on Russia",
+    "url": "https://www.france24.com/en/europe/20260723-eu-ambassadors-agree-21st-sanctions-package-against-russia"
+  },
+  {
+    "id": "https://warontherocks.com/the-importance-of-the-invasion-of-sicily/",
+    "timestamp": "2026-07-23T07:30:48",
+    "source": "War on the Rocks",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "The Importance of the Invasion of Sicily",
+    "url": "https://warontherocks.com/the-importance-of-the-invasion-of-sicily/"
+  },
+  {
+    "id": "https://www.dw.com/en/mykhailo-drapatyi-who-is-ukraine-s-new-commander-in-chief/a-78077075?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-07-23T07:29:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Mykhailo Drapatyi: Who is Ukraine's new commander-in-chief?",
+    "url": "https://www.dw.com/en/mykhailo-drapatyi-who-is-ukraine-s-new-commander-in-chief/a-78077075?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/7/23/top-us-and-russian-diplomats-discuss-ukraine-war-in-manila?traffic_source=rss",
+    "timestamp": "2026-07-23T07:18:21",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Top US and Russian diplomats discuss Ukraine war in Manila",
+    "url": "https://www.aljazeera.com/news/2026/7/23/top-us-and-russian-diplomats-discuss-ukraine-war-in-manila?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/sports/2026/7/23/william-saliba-back-injury-arsenal-france-world-cup?traffic_source=rss",
+    "timestamp": "2026-07-23T07:12:21",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Arsenal defender Saliba sidelined for \u2018extended period\u2019 due to back injury",
+    "url": "https://www.aljazeera.com/sports/2026/7/23/william-saliba-back-injury-arsenal-france-world-cup?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/world/2164013",
+    "timestamp": "2026-07-23T07:08:01",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "US rejects Iran\u2019s claim of control over Strait of Hormuz",
+    "url": "https://tass.com/world/2164013"
+  },
+  {
+    "id": "https://tass.com/economy/2164009",
+    "timestamp": "2026-07-23T06:59:40",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "TotalEnergies boosts 1H 2026 LNG sales by 9%",
+    "url": "https://tass.com/economy/2164009"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/ce34n7kqr5ko?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-07-23T06:37:23",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "'I am still alive': Indian activist on hunger strike for 26 days loses 11kg",
+    "url": "https://www.bbc.co.uk/news/articles/ce34n7kqr5ko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://tass.com/economy/2163993",
+    "timestamp": "2026-07-23T06:33:09",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Investment in Russia's rare earth metals production to reach $5.13 bln by 2030",
+    "url": "https://tass.com/economy/2163993"
+  },
+  {
     "id": "https://tass.com/politics/2163991",
     "timestamp": "2026-07-23T06:31:07",
     "source": "TASS English",
@@ -4638,365 +4998,5 @@
     "region": "ru",
     "text": "US administration refuses to transfer military aid worth $400 million to Kiev \u2014 senator",
     "url": "https://tass.com/world/2163261"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/07/22/russo-ukrainian-war-day-1609/",
-    "timestamp": "2026-07-21T21:28:12",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Russo-Ukrainian war, day 1609: Drapatyi named Ukraine\u2019s new commander-in-chief as protests force Syrskyi out",
-    "url": "https://euromaidanpress.com/2026/07/22/russo-ukrainian-war-day-1609/"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/21/drone-shows-scorched-landscape-after-spain-wildfire?traffic_source=rss",
-    "timestamp": "2026-07-21T21:21:12",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Drone shows scorched landscape after Spain wildfire",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/drone-shows-scorched-landscape-after-spain-wildfire?traffic_source=rss"
-  },
-  {
-    "id": "https://www.twz.com/air/typhoons-paired-with-cca-fighter-drones-armed-with-meteor-missiles-eyed-by-uk",
-    "timestamp": "2026-07-21T21:18:25",
-    "source": "The Drive WarZone",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Typhoons Paired With CCA Fighter Drones Armed With Meteor Missiles Eyed By UK",
-    "url": "https://www.twz.com/air/typhoons-paired-with-cca-fighter-drones-armed-with-meteor-missiles-eyed-by-uk"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/21/hegseth-says-iran-war-has-cost-37-5bn-in-latest-official-us-account?traffic_source=rss",
-    "timestamp": "2026-07-21T21:17:06",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "US defence chief Hegseth puts Iran war cost at $37.5bn so far",
-    "url": "https://www.aljazeera.com/news/2026/7/21/hegseth-says-iran-war-has-cost-37-5bn-in-latest-official-us-account?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/21/iran-holds-funerals-for-children-killed-in-minab-school-strike?traffic_source=rss",
-    "timestamp": "2026-07-21T21:13:02",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Iran holds funerals for children killed in Minab school strike",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/iran-holds-funerals-for-children-killed-in-minab-school-strike?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/world/2163257",
-    "timestamp": "2026-07-21T21:11:54",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "IRGC says hit radars at Ali al-Salem airbase in Kuwait",
-    "url": "https://tass.com/world/2163257"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/inside-story/2026/7/21/how-will-khalil-al-hayyas-leadership-shape-hamas?traffic_source=rss",
-    "timestamp": "2026-07-21T21:03:58",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "How will Khalil al-Hayya\u2019s leadership shape Hamas?",
-    "url": "https://www.aljazeera.com/video/inside-story/2026/7/21/how-will-khalil-al-hayyas-leadership-shape-hamas?traffic_source=rss"
-  },
-  {
-    "id": "https://www.dw.com/en/ukraine-s-zelenskyy-fires-military-chief-after-days-of-protests/a-78059652?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-07-21T21:03:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Ukraine's Zelenskyy fires military chief after days of protests",
-    "url": "https://www.dw.com/en/ukraine-s-zelenskyy-fires-military-chief-after-days-of-protests/a-78059652?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.dw.com/en/trump-says-the-united-states-is-not-finished-with-iran/live-78042474?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-07-21T20:57:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Trump says the United States is 'not finished' with Iran",
-    "url": "https://www.dw.com/en/trump-says-the-united-states-is-not-finished-with-iran/live-78042474?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://breakingdefense.com/2026/07/gcap-officially-expands-and-other-news-from-day-2-at-farnborough/",
-    "timestamp": "2026-07-21T20:55:00",
-    "source": "Breaking Defense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "GCAP officially expands, and other news from day 2 at Farnborough",
-    "url": "https://breakingdefense.com/2026/07/gcap-officially-expands-and-other-news-from-day-2-at-farnborough/"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/21/guyana-reports-ferry-disaster-death-toll-rises-to-41?traffic_source=rss",
-    "timestamp": "2026-07-21T20:54:41",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Guyana reports ferry disaster death toll rises to 41",
-    "url": "https://www.aljazeera.com/news/2026/7/21/guyana-reports-ferry-disaster-death-toll-rises-to-41?traffic_source=rss"
-  },
-  {
-    "id": "https://www.defenseone.com/business/2026/07/boeing-adjusts-approach-court-more-european-business/414916/",
-    "timestamp": "2026-07-21T20:53:25",
-    "source": "Defense One",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Boeing adjusts approach to court more European business",
-    "url": "https://www.defenseone.com/business/2026/07/boeing-adjusts-approach-court-more-european-business/414916/"
-  },
-  {
-    "id": "https://tass.com/society/2163255",
-    "timestamp": "2026-07-21T20:50:03",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Ukraine\u2019s new commander-in-chief Drapaty is on Russia\u2019s wanted list",
-    "url": "https://tass.com/society/2163255"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/21/daytime-russian-strike-kills-three-in-zaporizhzhia?traffic_source=rss",
-    "timestamp": "2026-07-21T20:48:18",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Daytime Russian strike kills three in Zaporizhzhia",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/daytime-russian-strike-kills-three-in-zaporizhzhia?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/21/french-parliament-passes-social-media-ban-for-under-15s?traffic_source=rss",
-    "timestamp": "2026-07-21T20:44:48",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "French parliament passes social media ban for under-15s",
-    "url": "https://www.aljazeera.com/news/2026/7/21/french-parliament-passes-social-media-ban-for-under-15s?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/world/2163253",
-    "timestamp": "2026-07-21T20:44:25",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Zelensky offers Fyodorov new government post amid protests",
-    "url": "https://tass.com/world/2163253"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/21/us-funding-cuts-deal-blow-to-global-hiv-treatment-report?traffic_source=rss",
-    "timestamp": "2026-07-21T20:44:06",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "US funding cuts deal blow to global HIV treatment: Report",
-    "url": "https://www.aljazeera.com/news/2026/7/21/us-funding-cuts-deal-blow-to-global-hiv-treatment-report?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/science/2163247",
-    "timestamp": "2026-07-21T20:27:06",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "US to spend $2.1 billion to send nuclear-powered spacecraft to Mars \u2014 NASA",
-    "url": "https://tass.com/science/2163247"
-  },
-  {
-    "id": "https://breakingdefense.com/2026/07/the-sights-of-the-farnborough-airshow-day-2/",
-    "timestamp": "2026-07-21T20:25:05",
-    "source": "Breaking Defense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "The sights of the Farnborough Airshow Day 2",
-    "url": "https://breakingdefense.com/2026/07/the-sights-of-the-farnborough-airshow-day-2/"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/21/deposed-turkish-opposition-leader-plans-new-party?traffic_source=rss",
-    "timestamp": "2026-07-21T20:23:45",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Deposed Turkish opposition leader plans new party",
-    "url": "https://www.aljazeera.com/news/2026/7/21/deposed-turkish-opposition-leader-plans-new-party?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/zelensky-fires-army-chief-oleksandr-syrsky-a-victory-for-protestors",
-    "timestamp": "2026-07-21T20:22:25",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Zelensky fires army chief Oleksandr Syrsky, \u200ca 'victory for protestors'",
-    "url": "https://www.france24.com/en/zelensky-fires-army-chief-oleksandr-syrsky-a-victory-for-protestors"
-  },
-  {
-    "id": "https://www.aljazeera.com/economy/2026/7/21/carney-says-he-and-trump-have-agreed-to-intensify-trade-negotiations?traffic_source=rss",
-    "timestamp": "2026-07-21T20:17:08",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Carney says he and Trump have agreed to \u2018intensify\u2019 trade negotiations",
-    "url": "https://www.aljazeera.com/economy/2026/7/21/carney-says-he-and-trump-have-agreed-to-intensify-trade-negotiations?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/21/spain-battles-latest-in-series-of-major-wildfires-near-madrid?traffic_source=rss",
-    "timestamp": "2026-07-21T20:17:04",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Spain battles latest in series of major wildfires near Madrid",
-    "url": "https://www.aljazeera.com/news/2026/7/21/spain-battles-latest-in-series-of-major-wildfires-near-madrid?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/defense/2163245",
-    "timestamp": "2026-07-21T20:16:58",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Ukrainian commanders send troops to certain death to obtain footage for reports \u2014 source",
-    "url": "https://tass.com/defense/2163245"
-  },
-  {
-    "id": "https://www.france24.com/en/senegal-u-turns-to-back-ex-president-sall-to-lead-un",
-    "timestamp": "2026-07-21T20:16:19",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Senegal u-turns to back ex-president Sall to lead UN",
-    "url": "https://www.france24.com/en/senegal-u-turns-to-back-ex-president-sall-to-lead-un"
-  },
-  {
-    "id": "https://www.france24.com/en/ukraine-s-zelensky-fires-military-chief-after-protests-and-names-a-replacement",
-    "timestamp": "2026-07-21T20:12:45",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Ukraine's Zelensky fires military chief after protests and names a replacement",
-    "url": "https://www.france24.com/en/ukraine-s-zelensky-fires-military-chief-after-protests-and-names-a-replacement"
-  },
-  {
-    "id": "https://tass.com/world/2163241",
-    "timestamp": "2026-07-21T20:06:59",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Zelensky says appointed Drapaty as new commander-in-chief instead of Syrsky",
-    "url": "https://tass.com/world/2163241"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/21/kuwaitis-ration-electricity-after-iranian-strikes-hit-power-grid?traffic_source=rss",
-    "timestamp": "2026-07-21T20:06:57",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Kuwaitis ration electricity after Iranian strikes hit power grid",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/kuwaitis-ration-electricity-after-iranian-strikes-hit-power-grid?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/europe/20260721-zelensky-fires-ukraine-army-chief-oleksandr-syrsky",
-    "timestamp": "2026-07-21T20:00:09",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "\ud83d\udd34 Zelensky fires Ukraine army chief Oleksandr Syrsky",
-    "url": "https://www.france24.com/en/europe/20260721-zelensky-fires-ukraine-army-chief-oleksandr-syrsky"
-  },
-  {
-    "id": "https://www.twz.com/news-features/munitions-expenditures-in-iran-war-take-center-stage-at-senate-hearing",
-    "timestamp": "2026-07-21T19:58:15",
-    "source": "The Drive WarZone",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Munitions Expenditures In Iran War Take Center Stage At Senate Hearing",
-    "url": "https://www.twz.com/news-features/munitions-expenditures-in-iran-war-take-center-stage-at-senate-hearing"
-  },
-  {
-    "id": "https://www.militarytimes.com/news/your-navy/2026/07/21/uss-charlotte-crew-that-reportedly-sank-iranian-frigate-awarded-navy-unit-commendation/",
-    "timestamp": "2026-07-21T19:57:38",
-    "source": "Military Times",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "USS Charlotte crew that reportedly sank Iranian frigate awarded Navy Unit Commendation",
-    "url": "https://www.militarytimes.com/news/your-navy/2026/07/21/uss-charlotte-crew-that-reportedly-sank-iranian-frigate-awarded-navy-unit-commendation/"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-07-21T19:57:38",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Zelensky sacks Ukraine's top army commander after days of protests",
-    "url": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.twz.com/space/could-this-new-northrop-spacecraft-use-its-robotic-arms-to-attack-enemy-satellites",
-    "timestamp": "2026-07-21T19:45:35",
-    "source": "The Drive WarZone",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Could This New Northrop Spacecraft Use Its Robotic Arms To Attack Enemy Satellites?",
-    "url": "https://www.twz.com/space/could-this-new-northrop-spacecraft-use-its-robotic-arms-to-attack-enemy-satellites"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/07/21/zelenskyy-dismisses-ukraines-commander-in-chief/",
-    "timestamp": "2026-07-21T19:44:42",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Breaking: Zelenskyy dismisses Ukraine\u2019s commander-in-chief after week of political turmoil",
-    "url": "https://euromaidanpress.com/2026/07/21/zelenskyy-dismisses-ukraines-commander-in-chief/"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/21/us-judge-blocks-trump-bid-to-strip-work-permits-from-immigrants?traffic_source=rss",
-    "timestamp": "2026-07-21T19:44:16",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "US judge blocks Trump bid to strip work permits from immigrants",
-    "url": "https://www.aljazeera.com/news/2026/7/21/us-judge-blocks-trump-bid-to-strip-work-permits-from-immigrants?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/21/india-tunnel-collapse-kills-10-as-toxic-gases-hamper-rescue?traffic_source=rss",
-    "timestamp": "2026-07-21T19:41:38",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "India tunnel collapse kills 10 as toxic gases hamper rescue",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/india-tunnel-collapse-kills-10-as-toxic-gases-hamper-rescue?traffic_source=rss"
   }
 ]
