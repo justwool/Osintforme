@@ -1,5 +1,475 @@
 [
   {
+    "id": "https://tass.com/defense/2164223",
+    "timestamp": "2026-07-23T11:23:20",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Combat trainer aircraft crashes in Moscow Region \u2014 Russian Defense Ministry",
+    "url": "https://tass.com/defense/2164223"
+  },
+  {
+    "id": "https://tass.com/politics/2164221",
+    "timestamp": "2026-07-23T11:23:08",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russia remains open to talks on Ukraine \u2014 Kremlin",
+    "url": "https://tass.com/politics/2164221"
+  },
+  {
+    "id": "https://www.dw.com/en/lenacapavir-will-slow-hiv-infections-if-there-s-enough-of-it-and-it-reaches-at-risk-groups/a-78075943?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-07-23T11:23:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Lenacapavir will slow HIV infections if there's enough of it and it reaches at-risk groups",
+    "url": "https://www.dw.com/en/lenacapavir-will-slow-hiv-infections-if-there-s-enough-of-it-and-it-reaches-at-risk-groups/a-78075943?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://tass.com/politics/2164219",
+    "timestamp": "2026-07-23T11:21:46",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Kremlin spokesman addresses US contact, nuclear non-proliferation, peaceful nuclear energy",
+    "url": "https://tass.com/politics/2164219"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/07/23/russias-construction-on-crimeas-only-world-heritage-site-exposed-500000-artifacts-unesco-has-just-declared-complex-is-in-danger/",
+    "timestamp": "2026-07-23T11:21:29",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Russia\u2019s construction on Crimea\u2019s only World Heritage site exposed 500,000 artifacts. UNESCO has just declared complex is in danger",
+    "url": "https://euromaidanpress.com/2026/07/23/russias-construction-on-crimeas-only-world-heritage-site-exposed-500000-artifacts-unesco-has-just-declared-complex-is-in-danger/"
+  },
+  {
+    "id": "https://tass.com/economy/2164217",
+    "timestamp": "2026-07-23T11:19:44",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "FACTBOX: Oil price cap freeze, bank restrictions in EU\u2019s 21st sanctions package",
+    "url": "https://tass.com/economy/2164217"
+  },
+  {
+    "id": "https://www.defensenews.com/global/europe/2026/07/23/eu-naval-mission-will-now-intercept-russian-shadow-tankers-in-the-indian-ocean/",
+    "timestamp": "2026-07-23T11:16:19",
+    "source": "Defense News",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "EU naval mission will now intercept Russian shadow tankers in the Indian Ocean",
+    "url": "https://www.defensenews.com/global/europe/2026/07/23/eu-naval-mission-will-now-intercept-russian-shadow-tankers-in-the-indian-ocean/"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/07/23/the_limits_of_lawfare_reframing_an_overextended_concept_1196056.html",
+    "timestamp": "2026-07-23T11:15:14",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "The Limits of Lawfare: Reframing an Overextended Concept",
+    "url": "https://www.realcleardefense.com/2026/07/23/the_limits_of_lawfare_reframing_an_overextended_concept_1196056.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/07/23/the_mullahs_fear_women_most_1196171.html",
+    "timestamp": "2026-07-23T11:15:14",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "The Mullahs Fear Women Most",
+    "url": "https://www.realcleardefense.com/2026/07/23/the_mullahs_fear_women_most_1196171.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/07/23/the_new_terror_network_1196055.html",
+    "timestamp": "2026-07-23T11:15:13",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "The New Terror Network",
+    "url": "https://www.realcleardefense.com/2026/07/23/the_new_terror_network_1196055.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/07/23/us_polar_security_cutter_delayed_to_2033_as_costs_top_6b_1196176.html",
+    "timestamp": "2026-07-23T11:15:06",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "U.S. Polar Security Cutter Delayed to 2033 as Costs Top $6B",
+    "url": "https://www.realcleardefense.com/2026/07/23/us_polar_security_cutter_delayed_to_2033_as_costs_top_6b_1196176.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/07/23/us_surges_forces_toward_middle_east_1196177.html",
+    "timestamp": "2026-07-23T11:15:06",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "U.S. Surges Forces Toward Middle East",
+    "url": "https://www.realcleardefense.com/2026/07/23/us_surges_forces_toward_middle_east_1196177.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/07/23/the_bomber_paradox_1196109.html",
+    "timestamp": "2026-07-23T11:15:05",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "The Bomber Paradox",
+    "url": "https://www.realcleardefense.com/2026/07/23/the_bomber_paradox_1196109.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/07/23/history_holds_a_crucial_key_in_the_navys_fight_against_drones_1196175.html",
+    "timestamp": "2026-07-23T11:15:05",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "History Holds a Crucial Key in the Navy's Fight Against Drones",
+    "url": "https://www.realcleardefense.com/2026/07/23/history_holds_a_crucial_key_in_the_navys_fight_against_drones_1196175.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/07/23/beyond_high_tech__marines_must_study_operational_art_1196103.html",
+    "timestamp": "2026-07-23T11:15:04",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Beyond High Tech \u2013 Marines Must Study Operational Art",
+    "url": "https://www.realcleardefense.com/2026/07/23/beyond_high_tech__marines_must_study_operational_art_1196103.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/07/23/the_navys_is_still_focused_on_exquisite_systems_1196169.html",
+    "timestamp": "2026-07-23T11:15:03",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "The Navy's Is Still Focused on Exquisite Systems",
+    "url": "https://www.realcleardefense.com/2026/07/23/the_navys_is_still_focused_on_exquisite_systems_1196169.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/07/23/our_generals_are_failing_us_1196051.html",
+    "timestamp": "2026-07-23T11:15:03",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Our Generals Are Failing Us",
+    "url": "https://www.realcleardefense.com/2026/07/23/our_generals_are_failing_us_1196051.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/07/23/noda_ai_wins_10m_deal_to_make_pentagon_drones_work_as_one_team_1196049.html",
+    "timestamp": "2026-07-23T11:15:02",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "NODA AI Wins $10M Deal To Make Pentagon Drones Work as One Team",
+    "url": "https://www.realcleardefense.com/2026/07/23/noda_ai_wins_10m_deal_to_make_pentagon_drones_work_as_one_team_1196049.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/07/23/army_partners_with_industry_to_alleviate_abrams_engine_woes_1196179.html",
+    "timestamp": "2026-07-23T11:15:02",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Army Partners With Industry To Alleviate Abrams Engine Woes",
+    "url": "https://www.realcleardefense.com/2026/07/23/army_partners_with_industry_to_alleviate_abrams_engine_woes_1196179.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/07/23/us_shapes_sea-based_distributed_ah-64_apache_strike_architecture_1196173.html",
+    "timestamp": "2026-07-23T11:15:01",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "U.S. Shapes Sea-Based Distributed AH-64 Apache Strike Architecture",
+    "url": "https://www.realcleardefense.com/2026/07/23/us_shapes_sea-based_distributed_ah-64_apache_strike_architecture_1196173.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/07/23/if_it_bleeds_we_can_kill_it_1196168.html",
+    "timestamp": "2026-07-23T11:15:01",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "If It Bleeds, We Can Kill It",
+    "url": "https://www.realcleardefense.com/2026/07/23/if_it_bleeds_we_can_kill_it_1196168.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/07/23/army_says_quality_defects_slowing_lockheed_hypersonic_missile_1196048.html",
+    "timestamp": "2026-07-23T11:15:00",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Army Says 'Quality Defects' Slowing Lockheed Hypersonic Missile",
+    "url": "https://www.realcleardefense.com/2026/07/23/army_says_quality_defects_slowing_lockheed_hypersonic_missile_1196048.html"
+  },
+  {
+    "id": "https://tass.com/politics/2164215",
+    "timestamp": "2026-07-23T11:13:46",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russian embassy calls on Berlin to tone down anti-Russian rhetoric",
+    "url": "https://tass.com/politics/2164215"
+  },
+  {
+    "id": "https://www.dw.com/en/us-citizens-are-ramping-up-pressure-on-data-centers/a-78064418?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-07-23T11:11:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "US citizens are ramping up pressure on data centers",
+    "url": "https://www.dw.com/en/us-citizens-are-ramping-up-pressure-on-data-centers/a-78064418?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.gov.uk/guidance/leaving-the-armed-forces",
+    "timestamp": "2026-07-23T11:04:49",
+    "source": "UK MoD",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Leaving the armed forces",
+    "url": "https://www.gov.uk/guidance/leaving-the-armed-forces"
+  },
+  {
+    "id": "https://tass.com/world/2164211",
+    "timestamp": "2026-07-23T10:59:02",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "It could take US weeks to degrade Iran\u2019s missile capabilities \u2014 FT",
+    "url": "https://tass.com/world/2164211"
+  },
+  {
+    "id": "https://tass.com/defense/2164207",
+    "timestamp": "2026-07-23T10:55:54",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "US employs AI in information warfare based on lessons of Ukraine conflict \u2014 expert",
+    "url": "https://tass.com/defense/2164207"
+  },
+  {
+    "id": "https://www.aljazeera.com/sports/2026/7/23/norway-to-make-formal-complaint-to-fifa-over-balogun-red-card-saga?traffic_source=rss",
+    "timestamp": "2026-07-23T10:51:36",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Norway to make formal complaint to FIFA over Balogun red card saga",
+    "url": "https://www.aljazeera.com/sports/2026/7/23/norway-to-make-formal-complaint-to-fifa-over-balogun-red-card-saga?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/economy/2164209",
+    "timestamp": "2026-07-23T10:49:19",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Arctic Floating University expedition returns from polar archipelagos",
+    "url": "https://tass.com/economy/2164209"
+  },
+  {
+    "id": "https://tass.com/world/2164203",
+    "timestamp": "2026-07-23T10:45:11",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Former Ukrainian soldier recounts story of his desertion, coming to Russia",
+    "url": "https://tass.com/world/2164203"
+  },
+  {
+    "id": "https://tass.com/politics/2164201",
+    "timestamp": "2026-07-23T10:42:09",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Lavrov-Rubio conversation confirmed hope for common sense, says senior Russian legislator",
+    "url": "https://tass.com/politics/2164201"
+  },
+  {
+    "id": "https://www.navalnews.com/naval-news/2026/07/rimpac-2026-sinkex-allied-anti-ship-missile-strikes/",
+    "timestamp": "2026-07-23T10:39:10",
+    "source": "Naval News",
+    "platform": "rss",
+    "category": "naval",
+    "region": "global",
+    "text": "RIMPAC 2026 SINKEX Highlights Expanding Allied Anti-Ship Capabilities",
+    "url": "https://www.navalnews.com/naval-news/2026/07/rimpac-2026-sinkex-allied-anti-ship-missile-strikes/"
+  },
+  {
+    "id": "https://tass.com/society/2164199",
+    "timestamp": "2026-07-23T10:35:49",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Kiev deliberately targets homes, civilian facilities \u2014 Russia\u2019s top investigator",
+    "url": "https://tass.com/society/2164199"
+  },
+  {
+    "id": "https://www.defensenews.com/global/asia-pacific/2026/07/23/australia-whips-together-a-hybrid-air-defense-weapon/",
+    "timestamp": "2026-07-23T10:35:33",
+    "source": "Defense News",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Australia whips together a hybrid air defense weapon",
+    "url": "https://www.defensenews.com/global/asia-pacific/2026/07/23/australia-whips-together-a-hybrid-air-defense-weapon/"
+  },
+  {
+    "id": "https://www.dw.com/en/thailand-5-soldiers-killed-in-attack-on-security-checkpoint/a-78082955?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-07-23T10:32:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Thailand: 5 soldiers killed in attack on security checkpoint",
+    "url": "https://www.dw.com/en/thailand-5-soldiers-killed-in-attack-on-security-checkpoint/a-78082955?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://tass.com/world/2164197",
+    "timestamp": "2026-07-23T10:31:19",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Saudi Arabia's nuclear program to be peaceful \u2014 Rubio",
+    "url": "https://tass.com/world/2164197"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/07/23/russia-food-price-surveillance-law/",
+    "timestamp": "2026-07-23T10:27:22",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Russia will read shops\u2019 cash registers to police food prices it can\u2019t tame",
+    "url": "https://euromaidanpress.com/2026/07/23/russia-food-price-surveillance-law/"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/7/23/rubio-says-iran-begging-for-a-deal-with-us-but-not-ready-to-make-one?traffic_source=rss",
+    "timestamp": "2026-07-23T10:19:58",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Rubio says Iran \u2018begging\u2019 for a deal with US but not ready to make one",
+    "url": "https://www.aljazeera.com/news/2026/7/23/rubio-says-iran-begging-for-a-deal-with-us-but-not-ready-to-make-one?traffic_source=rss"
+  },
+  {
+    "id": "https://www.dw.com/en/eu-fines-google-\u20ac890-million-over-competition-rules/a-78082850?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-07-23T10:19:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "EU fines Google \u20ac890 million over competition rules",
+    "url": "https://www.dw.com/en/eu-fines-google-\u20ac890-million-over-competition-rules/a-78082850?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.dw.com/en/could-iran-become-america-s-next-forever-war/a-78081276?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-07-23T10:16:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Could Iran become America's next 'forever war'?",
+    "url": "https://www.dw.com/en/could-iran-become-america-s-next-forever-war/a-78081276?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.dw.com/en/eu-agrees-on-new-round-of-sanctions-against-russia/a-78081102?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-07-23T10:14:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "EU agrees on new round of sanctions against Russia",
+    "url": "https://www.dw.com/en/eu-agrees-on-new-round-of-sanctions-against-russia/a-78081102?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://tass.com/world/2164181",
+    "timestamp": "2026-07-23T10:13:05",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Venezuela earthquake death toll rises to 5,398",
+    "url": "https://tass.com/world/2164181"
+  },
+  {
+    "id": "https://tass.com/world/2164179",
+    "timestamp": "2026-07-23T10:10:19",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "US after denuclearization, not regime change in Iran, Rubio says",
+    "url": "https://tass.com/world/2164179"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/07/23/two-russian-oil-sites-burning-north-of-kazakhstan-ukraine-hit-both-in-the-dark/",
+    "timestamp": "2026-07-23T10:08:40",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Two Russian oil sites burning north of Kazakhstan\u2014Ukraine hit both in the dark",
+    "url": "https://euromaidanpress.com/2026/07/23/two-russian-oil-sites-burning-north-of-kazakhstan-ukraine-hit-both-in-the-dark/"
+  },
+  {
+    "id": "https://tass.com/society/2164177",
+    "timestamp": "2026-07-23T10:07:02",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Nearly 1,500 killed in Ukrainian attacks across Russia since 2022 \u2014 top investigator",
+    "url": "https://tass.com/society/2164177"
+  },
+  {
+    "id": "https://www.dw.com/en/us-china-ai-rivalry-heats-up-as-chinese-models-gain-ground/a-77899558?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-07-23T10:02:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "US-China AI rivalry heats up as Chinese models gain ground",
+    "url": "https://www.dw.com/en/us-china-ai-rivalry-heats-up-as-chinese-models-gain-ground/a-77899558?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/23/thai-sailors-sue-owners-of-cargo-ship-hit-in-hormuz?traffic_source=rss",
+    "timestamp": "2026-07-23T09:45:59",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Thai sailors sue owners of cargo ship hit in Hormuz",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/thai-sailors-sue-owners-of-cargo-ship-hit-in-hormuz?traffic_source=rss"
+  },
+  {
     "id": "https://www.dw.com/en/eu-imposes-new-round-of-sanctions-against-russia/a-78081102?maca=en-rss-en-all-1573-xml-mrss",
     "timestamp": "2026-07-23T09:25:00",
     "source": "DW World",
@@ -8,6 +478,56 @@
     "region": "global",
     "text": "EU imposes new round of sanctions against Russia",
     "url": "https://www.dw.com/en/eu-imposes-new-round-of-sanctions-against-russia/a-78081102?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.gov.uk/government/publications/ex-gratia-medical-payments-reviews",
+    "timestamp": "2026-07-23T09:24:58",
+    "source": "UK MoD",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Guidance: Ex-Gratia Medical Payments reviews",
+    "url": "https://www.gov.uk/government/publications/ex-gratia-medical-payments-reviews"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/7/23/iran-houthis-strike-tankers-as-us-bombing-continues-whats-the-latest?traffic_source=rss",
+    "timestamp": "2026-07-23T09:20:46",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Iran, Houthis strike tankers as US bombing continues: What\u2019s the latest?",
+    "url": "https://www.aljazeera.com/news/2026/7/23/iran-houthis-strike-tankers-as-us-bombing-continues-whats-the-latest?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/features/2026/7/23/televising-our-revolution-indias-gen-z-flips-modis-social-media-game?traffic_source=rss",
+    "timestamp": "2026-07-23T09:20:04",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "\u2018Televising our revolution\u2019: India\u2019s Gen Z flips Modi\u2019s social media game",
+    "url": "https://www.aljazeera.com/features/2026/7/23/televising-our-revolution-indias-gen-z-flips-modis-social-media-game?traffic_source=rss"
+  },
+  {
+    "id": "https://www.gov.uk/government/publications/afghan-relocations-and-assistance-policy",
+    "timestamp": "2026-07-23T09:19:41",
+    "source": "UK MoD",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Guidance: Afghan Relocations and Assistance Policy",
+    "url": "https://www.gov.uk/government/publications/afghan-relocations-and-assistance-policy"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/7/23/more-than-2300-israelis-storm-al-aqsa-mosque-in-jerusalem?traffic_source=rss",
+    "timestamp": "2026-07-23T09:18:37",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "More than 3,200 Israelis storm Al-Aqsa Mosque in Jerusalem",
+    "url": "https://www.aljazeera.com/news/2026/7/23/more-than-2300-israelis-storm-al-aqsa-mosque-in-jerusalem?traffic_source=rss"
   },
   {
     "id": "https://tass.com/defense/2164129",
@@ -4478,525 +4998,5 @@
     "region": "mena",
     "text": "France becomes first EU country to officially ban social media for children",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/france-becomes-first-eu-country-to-officially-ban-social-media-for-children?traffic_source=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c62qw1qk95eo?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-07-22T03:32:56",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Michelin-starred restaurateur faces jail for using ants as dessert garnish",
-    "url": "https://www.bbc.co.uk/news/articles/c62qw1qk95eo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://tass.com/politics/2163297",
-    "timestamp": "2026-07-22T03:13:08",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Ukrainian POWs in Russia outnumber Russian POWs in Ukraine \u2014 ombudswoman",
-    "url": "https://tass.com/politics/2163297"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-07-22T03:05:08",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "US renews strikes on Iran as Trump threatens to attack underground nuclear site",
-    "url": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://tass.com/defense/2163295",
-    "timestamp": "2026-07-22T02:59:45",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Ukraine loses 6 Starlink communication stations due to Battlegroup East\u2019s actions over day",
-    "url": "https://tass.com/defense/2163295"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/22/how-armed-group-alliances-are-reshaping-malis-conflict-and-the-wider-sahel?traffic_source=rss",
-    "timestamp": "2026-07-22T02:39:13",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "How armed group alliances are reshaping Mali\u2019s conflict and the wider Sahel",
-    "url": "https://www.aljazeera.com/news/2026/7/22/how-armed-group-alliances-are-reshaping-malis-conflict-and-the-wider-sahel?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/22/unprecedented-openai-says-ai-models-autonomously-hacked-another-company?traffic_source=rss",
-    "timestamp": "2026-07-22T02:36:55",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "\u2018Unprecedented\u2019: OpenAI says AI models autonomously hacked another company",
-    "url": "https://www.aljazeera.com/news/2026/7/22/unprecedented-openai-says-ai-models-autonomously-hacked-another-company?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/defense/2163293",
-    "timestamp": "2026-07-22T02:36:04",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Ukrainian army flees Zakharovka in Kharkov region amid pressure from Russia \u2014 expert",
-    "url": "https://tass.com/defense/2163293"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c4g4lyze30vo?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-07-22T02:33:11",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Gruesome images in D4vd hearing are 'worst nightmare' for teen girl's family",
-    "url": "https://www.bbc.co.uk/news/articles/c4g4lyze30vo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/europe/20260722-fast-moving-wildfire-forces-hundreds-of-evacuations-in-southern-france",
-    "timestamp": "2026-07-22T02:25:35",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Wildfire in southern France 'contained' after hundreds evacuated from homes",
-    "url": "https://www.france24.com/en/europe/20260722-fast-moving-wildfire-forces-hundreds-of-evacuations-in-southern-france"
-  },
-  {
-    "id": "https://www.defenseone.com/ideas/2026/07/canada-gcap-f-35-relationship/414928/",
-    "timestamp": "2026-07-22T02:25:32",
-    "source": "Defense One",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Canada\u2019s GCAP decision is about relationships, not the F-35",
-    "url": "https://www.defenseone.com/ideas/2026/07/canada-gcap-f-35-relationship/414928/"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/22/us-targets-china-in-move-to-ban-military-grade-drone-imports?traffic_source=rss",
-    "timestamp": "2026-07-22T02:21:57",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "US targets China in move to ban military-grade drone imports",
-    "url": "https://www.aljazeera.com/news/2026/7/22/us-targets-china-in-move-to-ban-military-grade-drone-imports?traffic_source=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-07-22T02:15:05",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more",
-    "url": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://tass.com/world/2163291",
-    "timestamp": "2026-07-22T02:13:15",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "More than 500 US military personnel wounded during operation against Iran \u2014 AP",
-    "url": "https://tass.com/world/2163291"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/22/us-says-more-than-1400-infected-by-parasitic-cyclospora-illness-outbreak?traffic_source=rss",
-    "timestamp": "2026-07-22T02:01:28",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "US says more than 1,400 infected by parasitic Cyclospora illness outbreak",
-    "url": "https://www.aljazeera.com/news/2026/7/22/us-says-more-than-1400-infected-by-parasitic-cyclospora-illness-outbreak?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/politics/2163289",
-    "timestamp": "2026-07-22T01:57:45",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russia does not hold Ukrainian civilians prisoner \u2014 ombudswoman",
-    "url": "https://tass.com/politics/2163289"
-  },
-  {
-    "id": "https://www.theguardian.com/us-news/live/2026/jul/21/donald-trump-tariffs-canada-mark-carney-lebanon-republicans-gop-spending-bill-latest-news-updates",
-    "timestamp": "2026-07-22T01:57:35",
-    "source": "Guardian World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Trump announces new tariffs on generic drugs to take effect in 2028 \u2013 as it happened",
-    "url": "https://www.theguardian.com/us-news/live/2026/jul/21/donald-trump-tariffs-canada-mark-carney-lebanon-republicans-gop-spending-bill-latest-news-updates"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/22/desperate-families-search-rubble-weeks-after-venezuela-earthquakes?traffic_source=rss",
-    "timestamp": "2026-07-22T01:45:35",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Desperate families search rubble weeks after Venezuela earthquakes",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/desperate-families-search-rubble-weeks-after-venezuela-earthquakes?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/americas/20260722-trump-announces-100-tariffs-on-imported-generic-pharmaceutical-drugs",
-    "timestamp": "2026-07-22T01:38:31",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Trump announces 100% tariffs on imported generic pharmaceutical drugs",
-    "url": "https://www.france24.com/en/americas/20260722-trump-announces-100-tariffs-on-imported-generic-pharmaceutical-drugs"
-  },
-  {
-    "id": "https://tass.com/society/2163287",
-    "timestamp": "2026-07-22T01:29:07",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russia, Ukraine exchanging equal number of prisoners of war \u2014 ombudswoman",
-    "url": "https://tass.com/society/2163287"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/22/aje-onl-nf_gavito-cant-see-pilot-zones-working-in-lebanon-210726?traffic_source=rss",
-    "timestamp": "2026-07-22T01:21:29",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Former Biden official can\u2019t see \u2018pilot zones\u2019 scheme working in Lebanon",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/aje-onl-nf_gavito-cant-see-pilot-zones-working-in-lebanon-210726?traffic_source=rss"
-  },
-  {
-    "id": "https://www.airandspaceforces.com/hegseth-iran-war-cost-37-5b/",
-    "timestamp": "2026-07-22T01:18:04",
-    "source": "Air Force Mag",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Hegseth: Iran War Cost Now at $37.5B, Training to Be \u2018Curtailed\u2019 Without Supplemental Funding",
-    "url": "https://www.airandspaceforces.com/hegseth-iran-war-cost-37-5b/"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/22/leopard-caught-on-camera-storming-into-a-store-in-rajasthan-india?traffic_source=rss",
-    "timestamp": "2026-07-22T01:17:06",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Leopard caught on camera storming into a store in Rajasthan, India",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/leopard-caught-on-camera-storming-into-a-store-in-rajasthan-india?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/world/2163285",
-    "timestamp": "2026-07-22T01:03:05",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "US completes latest wave of strikes against Iran \u2014 CENTCOM",
-    "url": "https://tass.com/world/2163285"
-  },
-  {
-    "id": "https://www.france24.com/en/middle-east/20260722-middle-east-live-us-launches-11th-night-of-iran-strikes-as-diplomacy-falters",
-    "timestamp": "2026-07-22T01:01:33",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Middle East live: US launches 11th night of Iran strikes as diplomacy falters",
-    "url": "https://www.france24.com/en/middle-east/20260722-middle-east-live-us-launches-11th-night-of-iran-strikes-as-diplomacy-falters"
-  },
-  {
-    "id": "https://www.theguardian.com/us-news/2026/jul/21/gordie-howe-bridge-opening-celebration-canceled",
-    "timestamp": "2026-07-22T00:58:40",
-    "source": "Guardian World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Canada cancels joint bridge-opening celebration with US amid trade tensions",
-    "url": "https://www.theguardian.com/us-news/2026/jul/21/gordie-howe-bridge-opening-celebration-canceled"
-  },
-  {
-    "id": "https://tass.com/world/2163283",
-    "timestamp": "2026-07-22T00:51:00",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Czech parliament speaker voices opposition to admission of Ukraine to EU, NATO",
-    "url": "https://tass.com/world/2163283"
-  },
-  {
-    "id": "https://tass.com/world/2163281",
-    "timestamp": "2026-07-22T00:29:45",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "US military carries out airstrike on Iranian city of Bushehr \u2014 Tasnim agency",
-    "url": "https://tass.com/world/2163281"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/liveblog/2026/7/22/iran-war-live-us-launches-new-attacks-hegseth-says-war-has-cost-37-5bn?traffic_source=rss",
-    "timestamp": "2026-07-22T00:00:15",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Iran war live: US launches new attacks; Hegseth says war has cost $37.5bn",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/7/22/iran-war-live-us-launches-new-attacks-hegseth-says-war-has-cost-37-5bn?traffic_source=rss"
-  },
-  {
-    "id": "https://www.defenseone.com/threats/2026/07/ai-labs-spies/414929/",
-    "timestamp": "2026-07-22T00:00:00",
-    "source": "Defense One",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Spies are targeting US AI labs, experts warn Congress",
-    "url": "https://www.defenseone.com/threats/2026/07/ai-labs-spies/414929/"
-  },
-  {
-    "id": "https://www.dw.com/en/hegseth-says-iran-war-has-cost-37-5-billion-so-far/live-78060128?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-07-21T23:56:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Hegseth says Iran war has cost $37.5 billion so far",
-    "url": "https://www.dw.com/en/hegseth-says-iran-war-has-cost-37-5-billion-so-far/live-78060128?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://tass.com/world/2163279",
-    "timestamp": "2026-07-21T23:54:32",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "US army commences 11th wave of strikes against Iran \u2014 CENTCOM",
-    "url": "https://tass.com/world/2163279"
-  },
-  {
-    "id": "https://tass.com/politics/2163277",
-    "timestamp": "2026-07-21T23:51:19",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "G20, APEC, display huge demand for meetings with Russian Foreign Minister \u2014 ambassador",
-    "url": "https://tass.com/politics/2163277"
-  },
-  {
-    "id": "https://www.militarytimes.com/news/your-military/2026/07/21/pentagon-identifies-third-american-soldier-killed-in-iranian-attack-in-jordan/",
-    "timestamp": "2026-07-21T23:46:05",
-    "source": "Military Times",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Pentagon identifies third American soldier killed in Iranian attack in Jordan",
-    "url": "https://www.militarytimes.com/news/your-military/2026/07/21/pentagon-identifies-third-american-soldier-killed-in-iranian-attack-in-jordan/"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/21/explosions-in-iran-as-us-launches-new-strikes?traffic_source=rss",
-    "timestamp": "2026-07-21T23:46:00",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "US strikes Iran for \u201911th consecutive night\u2019",
-    "url": "https://www.aljazeera.com/news/2026/7/21/explosions-in-iran-as-us-launches-new-strikes?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/world/2163275",
-    "timestamp": "2026-07-21T23:25:58",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Zelensky may lose control over Ukrainian army after replacing commander-in-chief \u2014 outlet",
-    "url": "https://tass.com/world/2163275"
-  },
-  {
-    "id": "https://www.france24.com/en/middle-east/20260721-trump-says-us-not-finished-attacking-iran-as-conflict-widens",
-    "timestamp": "2026-07-21T23:22:36",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Trump says US 'not finished' attacking Iran as conflict widens",
-    "url": "https://www.france24.com/en/middle-east/20260721-trump-says-us-not-finished-attacking-iran-as-conflict-widens"
-  },
-  {
-    "id": "https://www.defensenews.com/news/pentagon-congress/2026/07/21/cost-of-iran-war-rises-to-375-billion-pentagon-requests-671-billion-more/",
-    "timestamp": "2026-07-21T23:13:23",
-    "source": "Defense News",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Cost of Iran war rises to $37.5 billion, Pentagon requests $67.1 billion more",
-    "url": "https://www.defensenews.com/news/pentagon-congress/2026/07/21/cost-of-iran-war-rises-to-375-billion-pentagon-requests-671-billion-more/"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/2026/7/21/lebanese-army-deploys-in-pilot-zones-under-us-backed-plan?traffic_source=rss",
-    "timestamp": "2026-07-21T22:56:12",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Lebanese army deploys in \u2018pilot zones\u2019 under US-backed plan",
-    "url": "https://www.aljazeera.com/video/2026/7/21/lebanese-army-deploys-in-pilot-zones-under-us-backed-plan?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/21/trump-administration-attacks-us-left-alleging-cuba-ties-key-takeaways?traffic_source=rss",
-    "timestamp": "2026-07-21T22:55:43",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Trump administration attacks US left, alleging Cuba ties: Key takeaways",
-    "url": "https://www.aljazeera.com/news/2026/7/21/trump-administration-attacks-us-left-alleging-cuba-ties-key-takeaways?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/21/moldova-chooses-new-prime-minister-as-it-pushes-for-eu-membership?traffic_source=rss",
-    "timestamp": "2026-07-21T22:53:42",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Moldova chooses new prime minister as it pushes for EU membership",
-    "url": "https://www.aljazeera.com/news/2026/7/21/moldova-chooses-new-prime-minister-as-it-pushes-for-eu-membership?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/world/2163271",
-    "timestamp": "2026-07-21T22:51:44",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "British interests in Middle East may become military target for Iran \u2014 TASS source",
-    "url": "https://tass.com/world/2163271"
-  },
-  {
-    "id": "https://www.theguardian.com/world/2026/jul/21/health-worker-being-monitored-for-ebola-in-london-hospital-after-working-in-drc",
-    "timestamp": "2026-07-21T22:39:00",
-    "source": "Guardian World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Health worker monitored for Ebola in London hospital after working in DRC",
-    "url": "https://www.theguardian.com/world/2026/jul/21/health-worker-being-monitored-for-ebola-in-london-hospital-after-working-in-drc"
-  },
-  {
-    "id": "https://breakingdefense.com/2026/07/hegseth-offers-37-5b-price-tag-for-certain-aspects-of-iran-war/",
-    "timestamp": "2026-07-21T22:34:02",
-    "source": "Breaking Defense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Hegseth offers $37.5B price tag for \u2018certain aspects\u2019 of Iran war",
-    "url": "https://breakingdefense.com/2026/07/hegseth-offers-37-5b-price-tag-for-certain-aspects-of-iran-war/"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-07-21T22:26:19",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Tokyo urges men to wear shorts to work, but some women say it's 'leg hair harassment'",
-    "url": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://tass.com/politics/2163267",
-    "timestamp": "2026-07-21T22:24:07",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "US signaling desire to see Putin at G20 summit in Miami \u2014 Russian MFA",
-    "url": "https://tass.com/politics/2163267"
-  },
-  {
-    "id": "https://www.dw.com/en/trump-allows-direct-us-flights-to-lebanon-in-historic-move/a-78059787?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-07-21T22:22:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Trump allows direct US flights to Lebanon in historic move",
-    "url": "https://www.dw.com/en/trump-allows-direct-us-flights-to-lebanon-in-historic-move/a-78059787?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/21/zelenskyy-replaces-ukraine-military-chief-after-protests?traffic_source=rss",
-    "timestamp": "2026-07-21T21:58:32",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Zelenskyy replaces Ukraine military chief after protests",
-    "url": "https://www.aljazeera.com/news/2026/7/21/zelenskyy-replaces-ukraine-military-chief-after-protests?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/world/2163265",
-    "timestamp": "2026-07-21T21:57:06",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Chairman of Joint Chiefs of Staff of US army says he does not consider Russia friend of US",
-    "url": "https://tass.com/world/2163265"
-  },
-  {
-    "id": "https://www.france24.com/en/canada-evaluating-all-options-after-fresh-us-tariffs-threat",
-    "timestamp": "2026-07-21T21:49:41",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Canada evaluating 'all options' after fresh US tariffs threat",
-    "url": "https://www.france24.com/en/canada-evaluating-all-options-after-fresh-us-tariffs-threat"
-  },
-  {
-    "id": "https://www.france24.com/en/trump-says-will-be-hitting-iran-s-pickaxe-mountain-nuclear-complex-pretty-soon",
-    "timestamp": "2026-07-21T21:47:06",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Trump says will be hitting Iran's Pickaxe Mountain nuclear complex 'pretty soon'",
-    "url": "https://www.france24.com/en/trump-says-will-be-hitting-iran-s-pickaxe-mountain-nuclear-complex-pretty-soon"
-  },
-  {
-    "id": "https://www.dw.com/en/spain-firefighters-battle-major-wildfire-north-of-madrid/a-78059592?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-07-21T21:40:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Spain: Firefighters battle major wildfire north of Madrid",
-    "url": "https://www.dw.com/en/spain-firefighters-battle-major-wildfire-north-of-madrid/a-78059592?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://tass.com/world/2163261",
-    "timestamp": "2026-07-21T21:34:52",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "US administration refuses to transfer military aid worth $400 million to Kiev \u2014 senator",
-    "url": "https://tass.com/world/2163261"
   }
 ]
