@@ -1,5 +1,105 @@
 [
   {
+    "id": "https://www.france24.com/en/french-firefighters-battle-blazes-with-military-cargo-planes",
+    "timestamp": "2026-07-26T12:35:01",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "French firefighters battle blazes with military cargo planes",
+    "url": "https://www.france24.com/en/french-firefighters-battle-blazes-with-military-cargo-planes"
+  },
+  {
+    "id": "https://tass.com/emergencies/2165525",
+    "timestamp": "2026-07-26T12:22:51",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "State of emergency declared in Rostov-on-Don following severe weather",
+    "url": "https://tass.com/emergencies/2165525"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/26/irans-army-issues-warning-ahead-of-netanyahus-us-visit?traffic_source=rss",
+    "timestamp": "2026-07-26T11:56:50",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Iran\u2019s army issues warning ahead of Netanyahu\u2019s US visit",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/irans-army-issues-warning-ahead-of-netanyahus-us-visit?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/defense/2165513",
+    "timestamp": "2026-07-26T11:49:33",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Air defense systems shot down over 1,000 fixed-wing drones over past 24 hours",
+    "url": "https://tass.com/defense/2165513"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/07/26/romania-knocks-a-third-russian-drone-from-its-sky-in-72-hours/",
+    "timestamp": "2026-07-26T11:35:51",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Romania knocks a third Russian drone from its sky in 72 hours",
+    "url": "https://euromaidanpress.com/2026/07/26/romania-knocks-a-third-russian-drone-from-its-sky-in-72-hours/"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/07/26/russia-is-massing-for-dobropillia-again-using-quad-bikes-and-motorcycles-ukraines-national-guard-says/",
+    "timestamp": "2026-07-26T11:31:31",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Russia is massing for Dobropillia again using quad bikes and motorcycles, Ukraine\u2019s National Guard says",
+    "url": "https://euromaidanpress.com/2026/07/26/russia-is-massing-for-dobropillia-again-using-quad-bikes-and-motorcycles-ukraines-national-guard-says/"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/26/no-accountability-for-settler-war-crimes-against?traffic_source=rss",
+    "timestamp": "2026-07-26T11:31:17",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "\u2018No accountability for settler war crimes against Palestinians\u2019",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/no-accountability-for-settler-war-crimes-against?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/sports/2026/7/26/malaysia-to-host-rescheduled-bahrain-grand-prix-f1-race-in-october?traffic_source=rss",
+    "timestamp": "2026-07-26T11:28:24",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Malaysia to host rescheduled Bahrain Grand Prix F1 race in October",
+    "url": "https://www.aljazeera.com/sports/2026/7/26/malaysia-to-host-rescheduled-bahrain-grand-prix-f1-race-in-october?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/26/anti-war-protesters-demand-end-to-us-use-of-uk-airbase-to-strike-iran?traffic_source=rss",
+    "timestamp": "2026-07-26T11:18:00",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Anti-war protesters demand end to US use of UK airbase to strike Iran",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/anti-war-protesters-demand-end-to-us-use-of-uk-airbase-to-strike-iran?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/7/26/female-football-referee-suffers-concussion-amid-male-players-melee?traffic_source=rss",
+    "timestamp": "2026-07-26T11:00:32",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Female football referee suffers concussion amid male players\u2019 melee",
+    "url": "https://www.aljazeera.com/news/2026/7/26/female-football-referee-suffers-concussion-amid-male-players-melee?traffic_source=rss"
+  },
+  {
     "id": "https://tass.com/defense/2165503",
     "timestamp": "2026-07-26T10:49:51",
     "source": "TASS English",
@@ -8,6 +108,16 @@
     "region": "ru",
     "text": "Russian Black Sea Fleet submarines participating in strikes against targets in Ukraine",
     "url": "https://tass.com/defense/2165503"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/7/26/why-the-uk-cancelled-a-military-exercise-in-kenya-and-what-it-means?traffic_source=rss",
+    "timestamp": "2026-07-26T10:47:27",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Why the UK cancelled a military exercise in Kenya \u2013 and what it means",
+    "url": "https://www.aljazeera.com/news/2026/7/26/why-the-uk-cancelled-a-military-exercise-in-kenya-and-what-it-means?traffic_source=rss"
   },
   {
     "id": "https://www.aljazeera.com/news/2026/7/26/after-strait-of-hormuz-and-red-sea-has-iran-war-now-reached-caspian-sea?traffic_source=rss",
@@ -400,6 +510,16 @@
     "url": "https://www.aljazeera.com/sports/2026/7/26/tour-de-france-final-stage-shortened-as-emergency-teams-tackle-wildfires?traffic_source=rss"
   },
   {
+    "id": "https://www.dw.com/en/vietnamese-vessel-sinks-in-south-china-sea-17-missing/a-78118211?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-07-26T07:46:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Vietnamese vessel sinks in South China Sea, 17 missing",
+    "url": "https://www.dw.com/en/vietnamese-vessel-sinks-in-south-china-sea-17-missing/a-78118211?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
     "id": "https://www.dw.com/en/vietnamese-vessel-sinks-in-south-china-sea-23-missing/a-78118211?maca=en-rss-en-all-1573-xml-mrss",
     "timestamp": "2026-07-26T07:46:00",
     "source": "DW World",
@@ -518,6 +638,16 @@
     "region": "ru",
     "text": "Air defenses down 133 Ukrainian drones over Russian regions overnight",
     "url": "https://tass.com/defense/2165437"
+  },
+  {
+    "id": "https://www.dw.com/en/germany-classifies-berlin-pride-ramming-as-terror-attack/live-78117180?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-07-26T05:51:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Germany classifies Berlin Pride ramming as 'terror attack'",
+    "url": "https://www.dw.com/en/germany-classifies-berlin-pride-ramming-as-terror-attack/live-78117180?maca=en-rss-en-all-1573-xml-mrss"
   },
   {
     "id": "https://www.dw.com/en/germany-launches-manhunt-after-berlin-pride-van-ramming/live-78117180?maca=en-rss-en-all-1573-xml-mrss",
@@ -1990,6 +2120,26 @@
     "url": "https://www.realcleardefense.com/2026/07/25/uncrewed_and_untested_the_wrong_lessons_for_a_hybrid_navy_1196561.html"
   },
   {
+    "id": "https://www.realcleardefense.com/2026/07/24/the_sig_sauer_m7_is_dead_how_long_does_the_xm8_have_1196387.html",
+    "timestamp": "2026-07-25T13:25:32",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "The SIG Sauer M7 Is Dead. How Long Does the XM8 Have?",
+    "url": "https://www.realcleardefense.com/2026/07/24/the_sig_sauer_m7_is_dead_how_long_does_the_xm8_have_1196387.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/07/24/our_generals_are_not_even_good_at_tactics_1196102.html",
+    "timestamp": "2026-07-25T13:25:32",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Our Generals Are Not Even Good at Tactics",
+    "url": "https://www.realcleardefense.com/2026/07/24/our_generals_are_not_even_good_at_tactics_1196102.html"
+  },
+  {
     "id": "https://tass.com/world/2165239",
     "timestamp": "2026-07-25T13:22:04",
     "source": "TASS English",
@@ -2018,6 +2168,16 @@
     "region": "ru",
     "text": "Fuel supply issues are temporary, government working to stabilize situation \u2014 Novak",
     "url": "https://tass.com/economy/2165235"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/07/24/the_irgc_and_the_collapse_of_the_strait_of_hormuz_deal_1196442.html",
+    "timestamp": "2026-07-25T13:17:22",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "The IRGC and the Collapse of the Strait of Hormuz Deal",
+    "url": "https://www.realcleardefense.com/2026/07/24/the_irgc_and_the_collapse_of_the_strait_of_hormuz_deal_1196442.html"
   },
   {
     "id": "https://www.aljazeera.com/sports/2026/7/25/f1-needs-better-balance-between-business-and-sport-says-norris?traffic_source=rss",
@@ -4838,165 +4998,5 @@
     "region": "ru",
     "text": "Prerogative of new Ukrainian army chief not peace \u2014 Kremlin",
     "url": "https://tass.com/politics/2164893"
-  },
-  {
-    "id": "https://tass.com/economy/2164889",
-    "timestamp": "2026-07-24T13:37:25",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Yak-130M aircraft\u2019s mission is to destroy copters, UAVs \u2014 Putin",
-    "url": "https://tass.com/economy/2164889"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/24/indian-student-protests-whats-next-after-modis-promise-on-exam-leaks?traffic_source=rss",
-    "timestamp": "2026-07-24T13:19:29",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Indian student protests: What\u2019s next after Modi\u2019s promise on exam leaks?",
-    "url": "https://www.aljazeera.com/news/2026/7/24/indian-student-protests-whats-next-after-modis-promise-on-exam-leaks?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/7/24/five-killed-in-occupied-west-bank-after-israeli-settlers-attack?traffic_source=rss",
-    "timestamp": "2026-07-24T13:19:17",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Five killed in occupied West Bank after Israeli settlers attack",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/five-killed-in-occupied-west-bank-after-israeli-settlers-attack?traffic_source=rss"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/07/24/germany-lingen-rosatom-nuclear-fuel-baku/",
-    "timestamp": "2026-07-24T13:17:56",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Germany broke with Russia in public\u2014in private, the old reflex keeps finding a way",
-    "url": "https://euromaidanpress.com/2026/07/24/germany-lingen-rosatom-nuclear-fuel-baku/"
-  },
-  {
-    "id": "https://www.navalnews.com/naval-news/2026/07/ultra-maritime-anduril-track-uuv-threats-at-us-navy-lanternfish-exercise/",
-    "timestamp": "2026-07-24T13:08:52",
-    "source": "Naval News",
-    "platform": "rss",
-    "category": "naval",
-    "region": "global",
-    "text": "Ultra Maritime, Anduril Track UUV Threats at US Navy Lanternfish Exercise",
-    "url": "https://www.navalnews.com/naval-news/2026/07/ultra-maritime-anduril-track-uuv-threats-at-us-navy-lanternfish-exercise/"
-  },
-  {
-    "id": "https://breakingdefense.com/2026/07/easier-access-us-export-change-for-the-uae-to-boost-emirati-drones-ai-tech/",
-    "timestamp": "2026-07-24T13:01:16",
-    "source": "Breaking Defense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "\u2018Easier access\u2019: US export change for the UAE to boost Emirati drones, AI tech",
-    "url": "https://breakingdefense.com/2026/07/easier-access-us-export-change-for-the-uae-to-boost-emirati-drones-ai-tech/"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cd9w2xnxe1qo?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-07-24T12:55:58",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Tanzanian lecturer arrested over anti-government protests charged with terrorism",
-    "url": "https://www.bbc.co.uk/news/articles/cd9w2xnxe1qo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://tass.com/economy/2164853",
-    "timestamp": "2026-07-24T12:53:50",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russia boosts agricultural exports to Africa by 40% in first half \u2014 Agroexport",
-    "url": "https://tass.com/economy/2164853"
-  },
-  {
-    "id": "https://tass.com/world/2164847",
-    "timestamp": "2026-07-24T12:50:50",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Ukrainian defense industry representatives hit in strike on training ground near Kiev",
-    "url": "https://tass.com/world/2164847"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/24/us-summons-malaysia-envoy-over-israel-policy?traffic_source=rss",
-    "timestamp": "2026-07-24T12:49:27",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "US summons Malaysia envoy over Israel policy",
-    "url": "https://www.aljazeera.com/news/2026/7/24/us-summons-malaysia-envoy-over-israel-policy?traffic_source=rss"
-  },
-  {
-    "id": "https://www.navalnews.com/naval-news/2026/07/saronic-and-samsung-heavy-industries-partner-to-accelerate-the-reindustrialization-of-american-shipbuilding-in-the-era-of-autonomy/",
-    "timestamp": "2026-07-24T12:47:20",
-    "source": "Naval News",
-    "platform": "rss",
-    "category": "naval",
-    "region": "global",
-    "text": "Saronic and Samsung Heavy Industries Partner to Accelerate the Reindustrialization of American Shipbuilding in the Era of Autonomy",
-    "url": "https://www.navalnews.com/naval-news/2026/07/saronic-and-samsung-heavy-industries-partner-to-accelerate-the-reindustrialization-of-american-shipbuilding-in-the-era-of-autonomy/"
-  },
-  {
-    "id": "https://tass.com/world/2164841",
-    "timestamp": "2026-07-24T12:46:07",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Israeli army launches large-scale counterterrorism operation in Nablus \u2014 source",
-    "url": "https://tass.com/world/2164841"
-  },
-  {
-    "id": "https://tass.com/economy/2164843",
-    "timestamp": "2026-07-24T12:46:04",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "MOEX Index rises after Bank of Russia cuts key rate to 14%",
-    "url": "https://tass.com/economy/2164843"
-  },
-  {
-    "id": "https://www.dw.com/en/can-pakistan-administered-kashmir-elections-calm-tensions/a-78101422?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-07-24T12:46:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Can Pakistan-administered Kashmir elections calm tensions?",
-    "url": "https://www.dw.com/en/can-pakistan-administered-kashmir-elections-calm-tensions/a-78101422?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.dw.com/en/why-iran-s-pickaxe-mountain-is-a-tough-target-for-the-us/a-78100313?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-07-24T12:45:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Why Iran's Pickaxe Mountain is a tough target for the US",
-    "url": "https://www.dw.com/en/why-iran-s-pickaxe-mountain-is-a-tough-target-for-the-us/a-78100313?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-07-24T12:40:44",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "US hits dozens of countries with new wave of tariffs",
-    "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss"
   }
 ]
