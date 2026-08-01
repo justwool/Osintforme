@@ -1,5 +1,115 @@
 [
   {
+    "id": "https://www.navalnews.com/naval-news/2026/08/south-koreas-kddx-enters-detailed-design-and-lead-ship-construction-phase/",
+    "timestamp": "2026-08-01T07:29:52",
+    "source": "Naval News",
+    "platform": "rss",
+    "category": "naval",
+    "region": "global",
+    "text": "South Korea\u2019s KDDX Enters Detailed Design and Lead Ship Construction Phase",
+    "url": "https://www.navalnews.com/naval-news/2026/08/south-koreas-kddx-enters-detailed-design-and-lead-ship-construction-phase/"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-08-01T07:21:46",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
+    "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://tass.com/world/2167919",
+    "timestamp": "2026-08-01T06:50:30",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "China has a way to respond to US over new sanctions against Russia, its partners \u2014 expert",
+    "url": "https://tass.com/world/2167919"
+  },
+  {
+    "id": "https://tass.com/economy/2167917",
+    "timestamp": "2026-08-01T06:46:12",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Ukraine\u2019s total expenditures in 2026 to amount to $176.8 billion",
+    "url": "https://tass.com/economy/2167917"
+  },
+  {
+    "id": "https://www.dw.com/en/germany-news-pride-marches-planned-after-berlin-attack/live-78199317?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-08-01T06:39:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Germany news: Pride marches planned after Berlin attack",
+    "url": "https://www.dw.com/en/germany-news-pride-marches-planned-after-berlin-attack/live-78199317?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.france24.com/en/live-news/20260801-us-drops-reflecting-pool-case-admits-damage-due-to-botched-renovation",
+    "timestamp": "2026-08-01T06:09:11",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "US drops Reflecting Pool case, admits damage due to botched renovation",
+    "url": "https://www.france24.com/en/live-news/20260801-us-drops-reflecting-pool-case-admits-damage-due-to-botched-renovation"
+  },
+  {
+    "id": "https://tass.com/defense/2167915",
+    "timestamp": "2026-08-01T05:53:50",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Mercenaries from six countries fighting alongside Ukraine in Kharkov Region \u2014 authorities",
+    "url": "https://tass.com/defense/2167915"
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-08-01T05:42:31",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Fifa scraps controversial World Cup investment plan",
+    "url": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.france24.com/en/europe/20260801-russian-attack-on-ukrainian-capital-kills-at-least-nine-people",
+    "timestamp": "2026-08-01T05:14:39",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Russian attack on Ukrainian capital kills at least nine people",
+    "url": "https://www.france24.com/en/europe/20260801-russian-attack-on-ukrainian-capital-kills-at-least-nine-people"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-08-01T05:01:56",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+    "url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://tass.com/politics/2167911",
+    "timestamp": "2026-08-01T05:01:16",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "US pursues own interests in Ukraine settlement \u2014 Russian diplomat",
+    "url": "https://tass.com/politics/2167911"
+  },
+  {
     "id": "https://tass.com/society/2167907",
     "timestamp": "2026-08-01T04:48:10",
     "source": "TASS English",
@@ -8,6 +118,26 @@
     "region": "ru",
     "text": "Humanitarian aid from Russian company delivered to Venezuela\u2019s La Guaira state",
     "url": "https://tass.com/society/2167907"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/8/1/protesters-detained-at-rally-in-support-of-pakistan-administered-kashmir?traffic_source=rss",
+    "timestamp": "2026-08-01T04:39:22",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Protesters detained at rally in support of Pakistan-administered Kashmir",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/protesters-detained-at-rally-in-support-of-pakistan-administered-kashmir?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/8/1/us-drops-charges-against-olympian-for-damage-to-reflecting-pool?traffic_source=rss",
+    "timestamp": "2026-08-01T04:36:10",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "US drops charges against Olympian for damage to Reflecting Pool",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/us-drops-charges-against-olympian-for-damage-to-reflecting-pool?traffic_source=rss"
   },
   {
     "id": "https://tass.com/world/2167901",
@@ -200,6 +330,16 @@
     "url": "https://www.theguardian.com/us-news/2026/jul/31/scott-bessent-japanese-yen"
   },
   {
+    "id": "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-08-01T00:20:43",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
+    "url": "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://tass.com/world/2167877",
     "timestamp": "2026-08-01T00:06:52",
     "source": "TASS English",
@@ -228,6 +368,16 @@
     "region": "mena",
     "text": "Iran war live: Trump threatens strikes, Iran says it has a plan to respond",
     "url": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-iran-says-it-has-a-plan-to-respond-to-any-us-attacks?traffic_source=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c74gwvygkjdo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-07-31T23:58:12",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts",
+    "url": "https://www.bbc.co.uk/news/articles/c74gwvygkjdo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.aljazeera.com/sports/2026/7/31/fifa-forced-to-scrap-world-cup-private-investment-plan-after-backlash?traffic_source=rss",
@@ -4848,155 +4998,5 @@
     "region": "mena",
     "text": "Spain\u2019s enclave Ceuta raises alarm as thousands cross border from Morocco",
     "url": "https://www.aljazeera.com/news/2026/7/30/spanish-enclave-of-ceuta-raises-alarm-as-thousands-cross-morocco-border?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/7/30/republicans-delay-vote-on-trumps-us-attorney-general-pick-amid-concerns?traffic_source=rss",
-    "timestamp": "2026-07-30T15:36:35",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Republicans delay vote on Trump\u2019s US attorney general pick amid concerns",
-    "url": "https://www.aljazeera.com/news/2026/7/30/republicans-delay-vote-on-trumps-us-attorney-general-pick-amid-concerns?traffic_source=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-07-30T15:35:50",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
-    "url": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.defensenews.com/industry/techwatch/2026/07/30/iran-to-get-chinese-shoulder-launched-missile-systems-in-weeks-sources-say/",
-    "timestamp": "2026-07-30T15:33:20",
-    "source": "Defense News",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Iran to get Chinese shoulder-launched missile systems in weeks, sources say",
-    "url": "https://www.defensenews.com/industry/techwatch/2026/07/30/iran-to-get-chinese-shoulder-launched-missile-systems-in-weeks-sources-say/"
-  },
-  {
-    "id": "https://breakingdefense.com/2026/07/leonardo-drs-to-acquire-software-company-raft/",
-    "timestamp": "2026-07-30T15:31:32",
-    "source": "Breaking Defense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Leonardo DRS to acquire software company Raft",
-    "url": "https://breakingdefense.com/2026/07/leonardo-drs-to-acquire-software-company-raft/"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/7/30/uefa-members-agree-fifa-boycott-if-world-cup-plans-pursued?traffic_source=rss",
-    "timestamp": "2026-07-30T15:30:40",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "UEFA members agree FIFA boycott if World Cup plans pursued",
-    "url": "https://www.aljazeera.com/sports/2026/7/30/uefa-members-agree-fifa-boycott-if-world-cup-plans-pursued?traffic_source=rss"
-  },
-  {
-    "id": "https://www.dw.com/en/fifa-doubles-down-on-investor-plan-after-uefa-boycott-threat/a-78171084?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-07-30T15:30:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "FIFA doubles down on investor plan after UEFA boycott threat",
-    "url": "https://www.dw.com/en/fifa-doubles-down-on-investor-plan-after-uefa-boycott-threat/a-78171084?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.dw.com/en/uefa-votes-to-boycott-world-cup-over-fifa-investor-plan/a-78171084?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-07-30T15:30:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "UEFA votes to boycott World Cup over FIFA investor plan",
-    "url": "https://www.dw.com/en/uefa-votes-to-boycott-world-cup-over-fifa-investor-plan/a-78171084?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.dw.com/en/uefa-agrees-to-boycott-world-cup-over-fifa-investor-plan/a-78171084?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-07-30T15:30:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "UEFA agrees to boycott World Cup over FIFA investor plan",
-    "url": "https://www.dw.com/en/uefa-agrees-to-boycott-world-cup-over-fifa-investor-plan/a-78171084?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.france24.com/en/health/20260730-no-proof-sunscreen-increases-cancer-risk",
-    "timestamp": "2026-07-30T15:28:32",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "No, there's no proof sunscreen increases cancer risk",
-    "url": "https://www.france24.com/en/health/20260730-no-proof-sunscreen-increases-cancer-risk"
-  },
-  {
-    "id": "https://tass.com/world/2167381",
-    "timestamp": "2026-07-30T15:26:18",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Lebanon\u2019s billionaire Sehnaoui accused of treason following dinner with Israel\u2019s Netanyahu",
-    "url": "https://tass.com/world/2167381"
-  },
-  {
-    "id": "https://tass.com/politics/2167353",
-    "timestamp": "2026-07-30T15:24:21",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Fate of 45,000 Russian children adopted abroad remains unknown \u2014 lawmaker",
-    "url": "https://tass.com/politics/2167353"
-  },
-  {
-    "id": "https://www.gov.uk/government/statistics/announcements/single-living-accommodation-lived-experience-survey-2026",
-    "timestamp": "2026-07-30T15:22:01",
-    "source": "UK MoD",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Official Statistics: Single Living Accommodation Lived Experience Survey 2026",
-    "url": "https://www.gov.uk/government/statistics/announcements/single-living-accommodation-lived-experience-survey-2026"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-07-30T15:20:19",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "At least five members of same family killed in Russian missile attack, Zelensky says",
-    "url": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://tass.com/politics/2167377",
-    "timestamp": "2026-07-30T15:19:15",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "EU makes Ukraine integral part of its military machine \u2014 Russia\u2019s envoy to OSCE",
-    "url": "https://tass.com/politics/2167377"
-  },
-  {
-    "id": "https://tass.com/defense/2167373",
-    "timestamp": "2026-07-30T15:17:48",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "New drones forcing armies around world to change approaches to air defense \u2014 expert",
-    "url": "https://tass.com/defense/2167373"
   }
 ]
