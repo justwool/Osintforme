@@ -1,5 +1,475 @@
 [
   {
+    "id": "https://tass.com/world/2171377",
+    "timestamp": "2026-08-11T11:19:39",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Biden caused US munitions problems by aiding Kiev \u2014 Trump",
+    "url": "https://tass.com/world/2171377"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/08/11/ukraine-and-moldova-discuss-rail-corridor-for-grain-amid-russian-black-sea-attacks/",
+    "timestamp": "2026-08-11T11:18:30",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Ukraine and Moldova discuss rail corridor for grain amid Russian Black Sea attacks",
+    "url": "https://euromaidanpress.com/2026/08/11/ukraine-and-moldova-discuss-rail-corridor-for-grain-amid-russian-black-sea-attacks/"
+  },
+  {
+    "id": "https://www.dw.com/en/germany-news-some-shipping-stops-as-rhine-hits-new-lows/live-78313874?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-08-11T11:18:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Germany news: Some shipping stops as Rhine hits new lows",
+    "url": "https://www.dw.com/en/germany-news-some-shipping-stops-as-rhine-hits-new-lows/live-78313874?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://tass.com/world/2171363",
+    "timestamp": "2026-08-11T11:17:32",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Qatar notes positive statements by Iran, Oman on Hormuz",
+    "url": "https://tass.com/world/2171363"
+  },
+  {
+    "id": "https://tass.com/politics/2171355",
+    "timestamp": "2026-08-11T11:16:44",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Battlegroup East fighters clear over 100 buildings liberating Novoye Pole in Zaporozhye",
+    "url": "https://tass.com/politics/2171355"
+  },
+  {
+    "id": "https://tass.com/politics/2171365",
+    "timestamp": "2026-08-11T11:09:59",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Siberian Ring Photon Source research stations to be commissioned by end of 2026 \u2014 Putin",
+    "url": "https://tass.com/politics/2171365"
+  },
+  {
+    "id": "https://tass.com/world/2171371",
+    "timestamp": "2026-08-11T11:08:43",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Oman-Iran negotiations on Strait of Hormuz at critical juncture \u2014 Qatar's Foreign Ministry",
+    "url": "https://tass.com/world/2171371"
+  },
+  {
+    "id": "https://tass.com/world/2171373",
+    "timestamp": "2026-08-11T11:07:24",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Container ship likely hit by missile in Gulf of Oman \u2014 news agency",
+    "url": "https://tass.com/world/2171373"
+  },
+  {
+    "id": "https://tass.com/world/2171361",
+    "timestamp": "2026-08-11T11:06:26",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Western defense industry moving toward decentralization, clustering to cut costs \u2014 expert",
+    "url": "https://tass.com/world/2171361"
+  },
+  {
+    "id": "https://tass.com/politics/2171353",
+    "timestamp": "2026-08-11T11:04:50",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Network of megascience equipment to help uncover hidden knowledge \u2014 Putin",
+    "url": "https://tass.com/politics/2171353"
+  },
+  {
+    "id": "https://tass.com/economy/2171343",
+    "timestamp": "2026-08-11T10:59:29",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Bank of Russia lists Bitcoin, Ethereum, Tether for public trading \u2014 regulator",
+    "url": "https://tass.com/economy/2171343"
+  },
+  {
+    "id": "https://tass.com/politics/2171345",
+    "timestamp": "2026-08-11T10:57:22",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russia sees any arms manufacturing facility in Ukraine as legitimate target \u2014 Duma member",
+    "url": "https://tass.com/politics/2171345"
+  },
+  {
+    "id": "https://tass.com/politics/2171349",
+    "timestamp": "2026-08-11T10:55:15",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "EAEU calls on Armenia to decide on its membership by December \u2014 senior diplomat",
+    "url": "https://tass.com/politics/2171349"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/8/11/what-to-know-about-south-carolinas-election-to-replace-lindsey-graham?traffic_source=rss",
+    "timestamp": "2026-08-11T10:55:03",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "What to know about South Carolina\u2019s election to replace Lindsey Graham",
+    "url": "https://www.aljazeera.com/news/2026/8/11/what-to-know-about-south-carolinas-election-to-replace-lindsey-graham?traffic_source=rss"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/08/11/us-house-takes-up-graham-sanctions-bill-targeting-russias-oil-money-and-shadow-fleet/",
+    "timestamp": "2026-08-11T10:54:01",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "US House takes up Graham sanctions bill targeting Russia\u2019s oil money and shadow fleet",
+    "url": "https://euromaidanpress.com/2026/08/11/us-house-takes-up-graham-sanctions-bill-targeting-russias-oil-money-and-shadow-fleet/"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/8/11/drc-ebola-death-toll-passes-2000-amid-fastest-growing-outbreak-on-record?traffic_source=rss",
+    "timestamp": "2026-08-11T10:52:27",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "DRC Ebola death toll passes 2,000 amid fastest-growing outbreak on record",
+    "url": "https://www.aljazeera.com/news/2026/8/11/drc-ebola-death-toll-passes-2000-amid-fastest-growing-outbreak-on-record?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/world/2171339",
+    "timestamp": "2026-08-11T10:52:02",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Merchant vessels avoiding Odessa Region ports for three weeks now",
+    "url": "https://tass.com/world/2171339"
+  },
+  {
+    "id": "https://tass.com/society/2171337",
+    "timestamp": "2026-08-11T10:48:30",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Three attempts by Ukrainian saboteurs to infiltrate Russia foiled in 2026 \u2014 FSB chief",
+    "url": "https://tass.com/society/2171337"
+  },
+  {
+    "id": "https://tass.com/defense/2171335",
+    "timestamp": "2026-08-11T10:47:00",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russia develops Darwin-D protective net to shield roads from UAV attacks",
+    "url": "https://tass.com/defense/2171335"
+  },
+  {
+    "id": "https://tass.com/politics/2171333",
+    "timestamp": "2026-08-11T10:45:13",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russia manages to independently produce SKIF installation equipment \u2014 Putin",
+    "url": "https://tass.com/politics/2171333"
+  },
+  {
+    "id": "https://www.france24.com/en/video/20260811-colombia-eyewitness-films-moment-earthquake-hits",
+    "timestamp": "2026-08-11T10:37:17",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Colombia: Eyewitness films moment earthquake hits",
+    "url": "https://www.france24.com/en/video/20260811-colombia-eyewitness-films-moment-earthquake-hits"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/08/11/armys_javelin_tank_killer_gets_next-gen_seeker_1199582.html",
+    "timestamp": "2026-08-11T10:28:31",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Army's Javelin Tank Killer Gets Next-Gen Seeker",
+    "url": "https://www.realcleardefense.com/2026/08/11/armys_javelin_tank_killer_gets_next-gen_seeker_1199582.html"
+  },
+  {
+    "id": "https://www.france24.com/en/video/20260811-record-drought-in-france-this-summer",
+    "timestamp": "2026-08-11T10:26:02",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Record drought in France this summer",
+    "url": "https://www.france24.com/en/video/20260811-record-drought-in-france-this-summer"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/8/11/east-libya-military-intelligence-chief-killed-in-car-bomb?traffic_source=rss",
+    "timestamp": "2026-08-11T10:25:50",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "East Libya military intelligence chief killed in car bomb",
+    "url": "https://www.aljazeera.com/news/2026/8/11/east-libya-military-intelligence-chief-killed-in-car-bomb?traffic_source=rss"
+  },
+  {
+    "id": "https://www.gov.uk/government/statistics/announcements/uk-armed-forces-equipment-and-formations-2026",
+    "timestamp": "2026-08-11T10:25:08",
+    "source": "UK MoD",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Accredited official statistics: UK armed forces equipment and formations 2026",
+    "url": "https://www.gov.uk/government/statistics/announcements/uk-armed-forces-equipment-and-formations-2026"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/08/11/the_vanishing_of_mojtaba_khamenei_1199555.html",
+    "timestamp": "2026-08-11T10:24:57",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "The Vanishing of Mojtaba Khamenei",
+    "url": "https://www.realcleardefense.com/2026/08/11/the_vanishing_of_mojtaba_khamenei_1199555.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/08/11/the_true_crime_community_a_growing_threat_to_national_security_1199613.html",
+    "timestamp": "2026-08-11T10:24:56",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "The True Crime Community: A Growing Threat to National Security",
+    "url": "https://www.realcleardefense.com/2026/08/11/the_true_crime_community_a_growing_threat_to_national_security_1199613.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/08/11/greenland_is_the_missing_layer_in_americas_homeland_defense_1199615.html",
+    "timestamp": "2026-08-11T10:24:56",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Greenland Is the Missing Layer in America's Homeland Defense",
+    "url": "https://www.realcleardefense.com/2026/08/11/greenland_is_the_missing_layer_in_americas_homeland_defense_1199615.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/08/11/pentagon_asks_defense_firms_to_boost_production_of_key_systems_1199494.html",
+    "timestamp": "2026-08-11T10:24:32",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Pentagon Asks Defense Firms to Boost Production of Key Systems",
+    "url": "https://www.realcleardefense.com/2026/08/11/pentagon_asks_defense_firms_to_boost_production_of_key_systems_1199494.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/08/11/winning_the_cognitive_battlefield_1199498.html",
+    "timestamp": "2026-08-11T10:24:32",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Winning the Cognitive Battlefield",
+    "url": "https://www.realcleardefense.com/2026/08/11/winning_the_cognitive_battlefield_1199498.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/08/11/fight_for_justice_in_the_wisconsin_air_national_guard_1199500.html",
+    "timestamp": "2026-08-11T10:24:31",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Fight for Justice in the Wisconsin Air National Guard",
+    "url": "https://www.realcleardefense.com/2026/08/11/fight_for_justice_in_the_wisconsin_air_national_guard_1199500.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/08/11/space_the_next_frontier_for_maneuver_warfare_1199614.html",
+    "timestamp": "2026-08-11T10:24:30",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Space: The Next Frontier for Maneuver Warfare",
+    "url": "https://www.realcleardefense.com/2026/08/11/space_the_next_frontier_for_maneuver_warfare_1199614.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/08/11/how_congress_is_reshaping_the_administrations_fy27_defense_budget_1199596.html",
+    "timestamp": "2026-08-11T10:24:30",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "How Congress Is Reshaping the Administration's FY27 Defense Budget",
+    "url": "https://www.realcleardefense.com/2026/08/11/how_congress_is_reshaping_the_administrations_fy27_defense_budget_1199596.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/08/11/secaf_engineering_the_future_force_1199591.html",
+    "timestamp": "2026-08-11T10:24:29",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "SECAF: Engineering the Future Force",
+    "url": "https://www.realcleardefense.com/2026/08/11/secaf_engineering_the_future_force_1199591.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/08/11/hedgehog_2025_prickly_logistics_in_a_transparent_battlefield_1199486.html",
+    "timestamp": "2026-08-11T10:24:28",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Hedgehog 2025: Prickly Logistics in a Transparent Battlefield",
+    "url": "https://www.realcleardefense.com/2026/08/11/hedgehog_2025_prickly_logistics_in_a_transparent_battlefield_1199486.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/08/11/existing_airpower_theory_still_explains_modern_warfare_1199611.html",
+    "timestamp": "2026-08-11T10:24:28",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Existing Airpower Theory Still Explains Modern Warfare",
+    "url": "https://www.realcleardefense.com/2026/08/11/existing_airpower_theory_still_explains_modern_warfare_1199611.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/08/11/uss_preble_downs_drones_with_laser_weapon_1199497.html",
+    "timestamp": "2026-08-11T10:24:27",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "USS Preble Downs Drones With Laser Weapon",
+    "url": "https://www.realcleardefense.com/2026/08/11/uss_preble_downs_drones_with_laser_weapon_1199497.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/08/11/f-35s_expanded_role_as_airborne_tracking_and_targeting_node_1199587.html",
+    "timestamp": "2026-08-11T10:24:26",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "F-35's Expanded Role as Airborne Tracking and Targeting Node",
+    "url": "https://www.realcleardefense.com/2026/08/11/f-35s_expanded_role_as_airborne_tracking_and_targeting_node_1199587.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/08/11/navy_doomsday_plane_fleet_to_almost_double_in_size_1199601.html",
+    "timestamp": "2026-08-11T10:24:26",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Navy 'Doomsday Plane' Fleet To Almost Double In Size",
+    "url": "https://www.realcleardefense.com/2026/08/11/navy_doomsday_plane_fleet_to_almost_double_in_size_1199601.html"
+  },
+  {
+    "id": "https://www.france24.com/en/video/20260811-jury-selection-begins-for-ex-gang-leader-charged-with-tupac-shakur-s-1996-murder",
+    "timestamp": "2026-08-11T10:19:09",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Jury selection begins for ex-gang leader charged \u200bwith Tupac Shakur's 1996 murder",
+    "url": "https://www.france24.com/en/video/20260811-jury-selection-begins-for-ex-gang-leader-charged-with-tupac-shakur-s-1996-murder"
+  },
+  {
+    "id": "https://www.france24.com/en/turkey-mps-back-law-on-reintegrating-kurdish-pkk-militants",
+    "timestamp": "2026-08-11T10:18:08",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Turkey MPs back law on reintegrating Kurdish PKK militants",
+    "url": "https://www.france24.com/en/turkey-mps-back-law-on-reintegrating-kurdish-pkk-militants"
+  },
+  {
+    "id": "https://www.france24.com/en/video/20260811-france-drought-conditions-worsen-amid-successive-heatwaves",
+    "timestamp": "2026-08-11T10:15:50",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "France: Drought conditions worsen amid successive heatwaves",
+    "url": "https://www.france24.com/en/video/20260811-france-drought-conditions-worsen-amid-successive-heatwaves"
+  },
+  {
+    "id": "https://www.france24.com/en/donal-trump-order-reduces-us-vaccine-schedule",
+    "timestamp": "2026-08-11T10:11:50",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Donal Trump order reduces US vaccine schedule",
+    "url": "https://www.france24.com/en/donal-trump-order-reduces-us-vaccine-schedule"
+  },
+  {
+    "id": "https://www.france24.com/en/tv-shows/focus/20260811-pakistan-s-emerging-dj-scene-the-women-behind-the-turntables",
+    "timestamp": "2026-08-11T10:09:39",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Pakistan's emerging DJ scene: The women behind the turntables",
+    "url": "https://www.france24.com/en/tv-shows/focus/20260811-pakistan-s-emerging-dj-scene-the-women-behind-the-turntables"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/08/11/from-builder-to-the-eyes-of-ukraines-front-the-soldier-with-the-callsign-dancer-who-went-from-soviet-launchers-to-drones/",
+    "timestamp": "2026-08-11T10:05:41",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "From builder to the eyes of Ukraine\u2019s front: the soldier with the callsign Dancer who went from Soviet launchers to drones",
+    "url": "https://euromaidanpress.com/2026/08/11/from-builder-to-the-eyes-of-ukraines-front-the-soldier-with-the-callsign-dancer-who-went-from-soviet-launchers-to-drones/"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/8/11/who-is-atef-najib-former-syrian-official-sentenced-to-death-with-al-assad?traffic_source=rss",
+    "timestamp": "2026-08-11T10:03:25",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Who is Atef Najib, former Syrian official sentenced to death with al-Assad?",
+    "url": "https://www.aljazeera.com/news/2026/8/11/who-is-atef-najib-former-syrian-official-sentenced-to-death-with-al-assad?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/sports/2026/8/11/bangladesh-and-india-battle-to-save-cricket-series-after-political-turmoil?traffic_source=rss",
+    "timestamp": "2026-08-11T10:02:35",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Bangladesh and India battle to save cricket series after political turmoil",
+    "url": "https://www.aljazeera.com/sports/2026/8/11/bangladesh-and-india-battle-to-save-cricket-series-after-political-turmoil?traffic_source=rss"
+  },
+  {
     "id": "https://tass.com/world/2171311",
     "timestamp": "2026-08-11T10:01:13",
     "source": "TASS English",
@@ -4528,475 +4998,5 @@
     "region": "global",
     "text": "Yemeni military says Houthi attack on Mocha kills 7, wounds 30",
     "url": "https://www.france24.com/en/video/20260810-yemeni-military-says-houthi-attack-on-mocha-kills-7-wounds-30"
-  },
-  {
-    "id": "https://www.theguardian.com/environment/2026/aug/10/weather-tracker-europe-break-heat-records-temperatures-drought-wildfires",
-    "timestamp": "2026-08-10T09:32:54",
-    "source": "Guardian World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Weather tracker: Europe breaks more heat records as temperatures soar",
-    "url": "https://www.theguardian.com/environment/2026/aug/10/weather-tracker-europe-break-heat-records-temperatures-drought-wildfires"
-  },
-  {
-    "id": "https://tass.com/emergencies/2170873",
-    "timestamp": "2026-08-10T09:32:13",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "IN BRIEF: Drone attack on Nizhnekamsk kills thirteen people killed, including child",
-    "url": "https://tass.com/emergencies/2170873"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/8/10/osaka-gauff-race-into-canadian-open-quarters-as-rybakina-survives-scare?traffic_source=rss",
-    "timestamp": "2026-08-10T09:25:13",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Osaka, Gauff race into Canadian Open quarters as Rybakina survives scare",
-    "url": "https://www.aljazeera.com/sports/2026/8/10/osaka-gauff-race-into-canadian-open-quarters-as-rybakina-survives-scare?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/politics/2170867",
-    "timestamp": "2026-08-10T09:24:30",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Moscow open to new Ukraine proposals that take Russia\u2019s interests into account \u2014 MFA",
-    "url": "https://tass.com/politics/2170867"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/8/10/anguished-locals-watch-as-israel-demolishes-homes-in-southern-lebanon?traffic_source=rss",
-    "timestamp": "2026-08-10T09:20:12",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Anguished locals watch as Israel demolishes homes in southern Lebanon",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/anguished-locals-watch-as-israel-demolishes-homes-in-southern-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/society/2170859",
-    "timestamp": "2026-08-10T09:19:39",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "RUJ demands dismissal of FAZ journalist for remarks about 'killing Russians'",
-    "url": "https://tass.com/society/2170859"
-  },
-  {
-    "id": "https://www.gov.uk/government/publications/chickerell-firing-times",
-    "timestamp": "2026-08-10T09:17:21",
-    "source": "UK MoD",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Guidance: Chickerell firing times",
-    "url": "https://www.gov.uk/government/publications/chickerell-firing-times"
-  },
-  {
-    "id": "https://tass.com/politics/2170857",
-    "timestamp": "2026-08-10T09:12:14",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Kiev carries out deliberate terrorist attacks on civilians \u2014 Russian diplomat",
-    "url": "https://tass.com/politics/2170857"
-  },
-  {
-    "id": "https://tass.com/defense/2170855",
-    "timestamp": "2026-08-10T09:10:41",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Brazilian, Spanish mercenaries surrounded near Kharkov \u2014 Russian defense source",
-    "url": "https://tass.com/defense/2170855"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/8/10/like-the-movies-how-ukraines-ground-robots-are-changing-rules-of-war?traffic_source=rss",
-    "timestamp": "2026-08-10T09:09:08",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "\u2018Like the movies\u2019: How Ukraine\u2019s ground robots are changing rules of war",
-    "url": "https://www.aljazeera.com/news/2026/8/10/like-the-movies-how-ukraines-ground-robots-are-changing-rules-of-war?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/emergencies/2170853",
-    "timestamp": "2026-08-10T08:55:18",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Death toll from drone attack on Nizhnekamsk climbs to 13",
-    "url": "https://tass.com/emergencies/2170853"
-  },
-  {
-    "id": "https://tass.com/world/2170851",
-    "timestamp": "2026-08-10T08:52:51",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Iran, Oman to create new mechanisms to monitor Strait of Hormuz \u2014 MFA",
-    "url": "https://tass.com/world/2170851"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-08-10T08:50:02",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "At least 13 killed in Ukrainian drone strike on Russia's Tatarstan region, officials say",
-    "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/sport/20260810-football-fifa-uefa-infantino-world-cup-sport",
-    "timestamp": "2026-08-10T08:48:14",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "\ud83d\udd34 FIFA: UEFA, AFC, CONCACAF slam Infantino, say football 'belongs to no individual'",
-    "url": "https://www.france24.com/en/sport/20260810-football-fifa-uefa-infantino-world-cup-sport"
-  },
-  {
-    "id": "https://tass.com/economy/2170847",
-    "timestamp": "2026-08-10T08:46:30",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Chinese company to launch regular container shipments to Europe via Northern Sea Route",
-    "url": "https://tass.com/economy/2170847"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/8/10/china-evacuates-a-million-from-homes-as-typhoon-dolphin-arrives?traffic_source=rss",
-    "timestamp": "2026-08-10T08:44:34",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "China evacuates a million from homes as Typhoon Dolphin arrives",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/china-evacuates-a-million-from-homes-as-typhoon-dolphin-arrives?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/society/2170841",
-    "timestamp": "2026-08-10T08:42:42",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian woman swims across river to flee Myanmar scam center",
-    "url": "https://tass.com/society/2170841"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/8/10/nigeria-eliminated-as-cameroon-malawi-reach-wafcon-semis-and-world-cup?traffic_source=rss",
-    "timestamp": "2026-08-10T08:39:25",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Nigeria eliminated as Cameroon, Malawi reach WAFCON semis and World Cup",
-    "url": "https://www.aljazeera.com/sports/2026/8/10/nigeria-eliminated-as-cameroon-malawi-reach-wafcon-semis-and-world-cup?traffic_source=rss"
-  },
-  {
-    "id": "https://www.defenseone.com/threats/2026/08/ai-agents-conspired-hack-networks-and-steal-data-during-experiment-study/415302/",
-    "timestamp": "2026-08-10T08:39:22",
-    "source": "Defense One",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "AI agents conspired to hack into networks and steal data during an experiment: study",
-    "url": "https://www.defenseone.com/threats/2026/08/ai-agents-conspired-hack-networks-and-steal-data-during-experiment-study/415302/"
-  },
-  {
-    "id": "https://tass.com/emergencies/2170843",
-    "timestamp": "2026-08-10T08:33:20",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Tatarstan residents killed as result of drone attack on civilian facilities \u2014 region head",
-    "url": "https://tass.com/emergencies/2170843"
-  },
-  {
-    "id": "https://tass.com/politics/2170839",
-    "timestamp": "2026-08-10T08:31:16",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Zelensky leaves Russia no choice but to continue special operation \u2014 senior diplomat",
-    "url": "https://tass.com/politics/2170839"
-  },
-  {
-    "id": "https://www.dw.com/en/ukrainian-drone-attack-kills-at-least-13-in-central-russia/a-78300485?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-08-10T08:31:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Ukrainian drone attack kills at least 13 in central Russia",
-    "url": "https://www.dw.com/en/ukrainian-drone-attack-kills-at-least-13-in-central-russia/a-78300485?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.dw.com/en/ukrainian-drone-attack-kills-at-least-12-in-central-russia/a-78300485?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-08-10T08:31:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Ukrainian drone attack kills at least 12 in central Russia",
-    "url": "https://www.dw.com/en/ukrainian-drone-attack-kills-at-least-12-in-central-russia/a-78300485?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://tass.com/defense/2170837",
-    "timestamp": "2026-08-10T08:29:22",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Kalashnikov modifies Vikhr missile to combat UAVs as armored vehicles withdraw \u2014 CEO",
-    "url": "https://tass.com/defense/2170837"
-  },
-  {
-    "id": "https://www.france24.com/en/europe/20260810-irish-cartel-boss-daniel-kinahan-extradited-from-dubai-and-charged-in-dublin",
-    "timestamp": "2026-08-10T08:21:28",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Irish cartel boss Daniel Kinahan extradited from Dubai and charged in Dublin",
-    "url": "https://www.france24.com/en/europe/20260810-irish-cartel-boss-daniel-kinahan-extradited-from-dubai-and-charged-in-dublin"
-  },
-  {
-    "id": "https://tass.com/politics/2170835",
-    "timestamp": "2026-08-10T08:17:10",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "No official talks with Germany on Ukraine held in Baku \u2014 Russian deputy foreign minister",
-    "url": "https://tass.com/politics/2170835"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/8/10/pakistan-administered-kashmir-votes-in-reduced-third-phase-amid-unrest?traffic_source=rss",
-    "timestamp": "2026-08-10T08:05:05",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Pakistan-administered Kashmir votes in reduced third phase amid unrest",
-    "url": "https://www.aljazeera.com/news/2026/8/10/pakistan-administered-kashmir-votes-in-reduced-third-phase-amid-unrest?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/economy/2170833",
-    "timestamp": "2026-08-10T08:04:48",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian stocks up as main trading session opens",
-    "url": "https://tass.com/economy/2170833"
-  },
-  {
-    "id": "https://warontherocks.com/cogs-of-war/what-america-learned-about-democracy-when-it-gained-stealth/",
-    "timestamp": "2026-08-10T08:00:41",
-    "source": "War on the Rocks",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "What America Learned About Democracy When It Gained Stealth",
-    "url": "https://warontherocks.com/cogs-of-war/what-america-learned-about-democracy-when-it-gained-stealth/"
-  },
-  {
-    "id": "https://www.aljazeera.com/economy/2026/8/10/north-koreas-hackers-using-ai-for-attacks-cybersecurity-firm-says?traffic_source=rss",
-    "timestamp": "2026-08-10T07:59:04",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "North Korea\u2019s hackers using AI for attacks, cybersecurity firm says",
-    "url": "https://www.aljazeera.com/economy/2026/8/10/north-koreas-hackers-using-ai-for-attacks-cybersecurity-firm-says?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/world/2170829",
-    "timestamp": "2026-08-10T07:55:41",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Iran focuses on access to frozen assets during talks, US envoy says",
-    "url": "https://tass.com/world/2170829"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/8/10/don-nelson-hall-of-fame-basketball-coach-and-nba-player-dies-at-86?traffic_source=rss",
-    "timestamp": "2026-08-10T07:47:11",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Don Nelson, Hall of Fame basketball coach and NBA player, dies at 86",
-    "url": "https://www.aljazeera.com/sports/2026/8/10/don-nelson-hall-of-fame-basketball-coach-and-nba-player-dies-at-86?traffic_source=rss"
-  },
-  {
-    "id": "https://www.dw.com/en/thai-ex-lawmaker-shoots-local-official-dead-over-loan/a-78300045?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-08-10T07:47:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Thai ex-lawmaker shoots local official dead over loan",
-    "url": "https://www.dw.com/en/thai-ex-lawmaker-shoots-local-official-dead-over-loan/a-78300045?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.dw.com/en/thailand-gunshots-fired-in-government-office-ex-mp-arrested/a-78300045?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-08-10T07:47:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Thailand: Gunshots fired in government office, ex-MP arrested",
-    "url": "https://www.dw.com/en/thailand-gunshots-fired-in-government-office-ex-mp-arrested/a-78300045?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/8/10/israeli-forces-kill-one-in-gaza-as-another-body-recovered-from-rubble?traffic_source=rss",
-    "timestamp": "2026-08-10T07:43:01",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Israeli forces kill one in Gaza as another body recovered from rubble",
-    "url": "https://www.aljazeera.com/news/2026/8/10/israeli-forces-kill-one-in-gaza-as-another-body-recovered-from-rubble?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/defense/2170825",
-    "timestamp": "2026-08-10T07:42:22",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russia\u2019s Battlegroup West shoots down over 100 Ukrainian heavy hexacopters over past day",
-    "url": "https://tass.com/defense/2170825"
-  },
-  {
-    "id": "https://www.navalnews.com/naval-news/2026/08/spains-naval-aviation-crossroads-f35b-harrier-capability-gap/",
-    "timestamp": "2026-08-10T07:36:12",
-    "source": "Naval News",
-    "platform": "rss",
-    "category": "naval",
-    "region": "global",
-    "text": "Spain\u2019s Naval Aviation Crossroads: The F-35B, the Harrier, and a Capability Gap",
-    "url": "https://www.navalnews.com/naval-news/2026/08/spains-naval-aviation-crossroads-f35b-harrier-capability-gap/"
-  },
-  {
-    "id": "https://warontherocks.com/why-military-cooperation-in-the-indian-ocean-still-falls-short/",
-    "timestamp": "2026-08-10T07:30:32",
-    "source": "War on the Rocks",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Why Military Cooperation in the Indian Ocean Still Falls Short",
-    "url": "https://warontherocks.com/why-military-cooperation-in-the-indian-ocean-still-falls-short/"
-  },
-  {
-    "id": "https://tass.com/defense/2170819",
-    "timestamp": "2026-08-10T07:24:06",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Kiev suffers 9,600 troop, mercenary losses in combat over week \u2014 Russian military expert",
-    "url": "https://tass.com/defense/2170819"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-08-10T07:23:54",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "China evacuates one million from homes as massive storm arrives",
-    "url": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://tass.com/politics/2170811",
-    "timestamp": "2026-08-10T07:22:16",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Moscow sees legally binding guarantees from West possible \u2014 MFA",
-    "url": "https://tass.com/politics/2170811"
-  },
-  {
-    "id": "https://tass.com/economy/2170809",
-    "timestamp": "2026-08-10T07:20:40",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russia's jet fuel production to add 4% in August, stocks sufficient \u2014 ministry",
-    "url": "https://tass.com/economy/2170809"
-  },
-  {
-    "id": "https://www.dw.com/en/india-news-jharkhand-police-use-tear-gas-water-cannons-to-disperse-student-protesters/live-78299334?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-08-10T07:15:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "India news: Jharkhand police use tear gas, water cannons to disperse student protesters",
-    "url": "https://www.dw.com/en/india-news-jharkhand-police-use-tear-gas-water-cannons-to-disperse-student-protesters/live-78299334?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.dw.com/en/india-news-jharkhand-police-use-water-cannons-to-disperse-student-protesters/live-78299334?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-08-10T07:15:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "India news: Jharkhand police use water cannons to disperse student protesters",
-    "url": "https://www.dw.com/en/india-news-jharkhand-police-use-water-cannons-to-disperse-student-protesters/live-78299334?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.dw.com/en/india-news-kerala-arrest-highlights-online-harassment-of-women-at-cjp-protest/live-78299334?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-08-10T07:15:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "India news: Kerala arrest highlights online harassment of women at CJP protest",
-    "url": "https://www.dw.com/en/india-news-kerala-arrest-highlights-online-harassment-of-women-at-cjp-protest/live-78299334?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/8/10/solar-eclipse-tracker-what-time-will-it-hit-your-location-on-august-12?traffic_source=rss",
-    "timestamp": "2026-08-10T07:10:32",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Solar eclipse tracker: What time will it hit your location on August 12?",
-    "url": "https://www.aljazeera.com/news/2026/8/10/solar-eclipse-tracker-what-time-will-it-hit-your-location-on-august-12?traffic_source=rss"
-  },
-  {
-    "id": "https://www.dw.com/en/when-extreme-heat-threatens-europe-s-nuclear-power/a-78297778?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-08-10T07:04:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "When extreme heat threatens Europe's nuclear power",
-    "url": "https://www.dw.com/en/when-extreme-heat-threatens-europe-s-nuclear-power/a-78297778?maca=en-rss-en-all-1573-xml-mrss"
   }
 ]
