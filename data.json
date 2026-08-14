@@ -1,5 +1,55 @@
 [
   {
+    "id": "https://tass.com/politics/2173599",
+    "timestamp": "2026-08-14T23:14:22",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Kiev cannot ensure on its own that potential agreeements are fulfilled \u2014 diplomat",
+    "url": "https://tass.com/politics/2173599"
+  },
+  {
+    "id": "https://tass.com/emergencies/2173597",
+    "timestamp": "2026-08-14T22:50:56",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Magnitude 7.6 earthquake rocks Indonesian coast",
+    "url": "https://tass.com/emergencies/2173597"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/8/14/yemens-government-says-houthi-attack-on-al-makha-kills-at-least-four?traffic_source=rss",
+    "timestamp": "2026-08-14T22:45:19",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Yemen\u2019s government says Houthi attack on al-Makha kills at least four",
+    "url": "https://www.aljazeera.com/news/2026/8/14/yemens-government-says-houthi-attack-on-al-makha-kills-at-least-four?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/defense/2173595",
+    "timestamp": "2026-08-14T22:32:17",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Kiev troops shell DPR 34 times in past day, one killed",
+    "url": "https://tass.com/defense/2173595"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/08/15/russia-hunted-civilians-by-drone-in-kherson-victims-are-suing-the-us-firm-they-say-helped-connect-the-attackers/",
+    "timestamp": "2026-08-14T22:31:04",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Russia hunted civilians by drone in Kherson. Victims are suing the US firm they say helped connect the attackers",
+    "url": "https://euromaidanpress.com/2026/08/15/russia-hunted-civilians-by-drone-in-kherson-victims-are-suing-the-us-firm-they-say-helped-connect-the-attackers/"
+  },
+  {
     "id": "https://www.airandspaceforces.com/dod-directed-energy-weapons-airborne/",
     "timestamp": "2026-08-14T22:28:10",
     "source": "Air Force Mag",
@@ -420,6 +470,16 @@
     "url": "https://tass.com/world/2173561"
   },
   {
+    "id": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-08-14T19:20:43",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
+    "url": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "id": "https://www.twz.com/sea/bringing-back-steam-catapults-on-carriers-is-a-huge-risk",
     "timestamp": "2026-08-14T19:10:41",
     "source": "The Drive WarZone",
@@ -718,6 +778,16 @@
     "region": "global",
     "text": "Patriot makers hedge on Ukraine production deal as officials question cause of hold-up",
     "url": "https://www.defensenews.com/global/europe/2026/08/14/patriot-makers-hedge-on-ukraine-production-deal-as-officials-question-cause-of-hold-up/"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-08-14T17:36:27",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "US aircraft carrier on way to relieve USS Lincoln after issues reported on board",
+    "url": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.airandspaceforces.com/pentagon-contracts-deorbiting-services-old-satellites/",
@@ -4928,75 +4998,5 @@
     "region": "mena",
     "text": "Report from scene of Palestinian homes besieged by settlers",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/report-from-scene-of-palestinian-homes-besieged-by-settlers?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/defense/2172449",
-    "timestamp": "2026-08-13T14:07:42",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Skat-220 UAV deployed to special military op zone features new anti-FPV drone sensor",
-    "url": "https://tass.com/defense/2172449"
-  },
-  {
-    "id": "https://tass.com/economy/2172447",
-    "timestamp": "2026-08-13T14:06:22",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Gas reserves in European UGS facilities 13.4 bcm lower than year ago, Gazprom says",
-    "url": "https://tass.com/economy/2172447"
-  },
-  {
-    "id": "https://news.usni.org/2026/08/13/report-to-congress-on-the-u-s-space-force",
-    "timestamp": "2026-08-13T14:02:48",
-    "source": "USNI News",
-    "platform": "rss",
-    "category": "naval",
-    "region": "global",
-    "text": "Report to Congress on the U.S. Space Force",
-    "url": "https://news.usni.org/2026/08/13/report-to-congress-on-the-u-s-space-force"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/8/13/lebanese-americans-sue-us-over-israels-rights-abuses-in-lebanon-war?traffic_source=rss",
-    "timestamp": "2026-08-13T14:02:14",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Lebanese Americans sue US over Israel\u2019s rights abuses in Lebanon war",
-    "url": "https://www.aljazeera.com/news/2026/8/13/lebanese-americans-sue-us-over-israels-rights-abuses-in-lebanon-war?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/world/2172445",
-    "timestamp": "2026-08-13T13:55:59",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "About 5,000 migrants remain in Ceuta after mass illegal entry \u2014 interior minister",
-    "url": "https://tass.com/world/2172445"
-  },
-  {
-    "id": "https://www.gov.uk/guidance/veterans-news-and-communications-hub",
-    "timestamp": "2026-08-13T13:36:55",
-    "source": "UK MoD",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Veterans News and Communications Hub",
-    "url": "https://www.gov.uk/guidance/veterans-news-and-communications-hub"
-  },
-  {
-    "id": "https://tass.com/emergencies/2172441",
-    "timestamp": "2026-08-13T13:35:05",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Ukrainian drone attacks injure five in Belgorod Region",
-    "url": "https://tass.com/emergencies/2172441"
   }
 ]
