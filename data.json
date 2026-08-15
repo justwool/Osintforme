@@ -1,5 +1,45 @@
 [
   {
+    "id": "https://tass.com/defense/2173733",
+    "timestamp": "2026-08-15T15:43:16",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russian Armed Forces struck depots containing military equipment at Odessa port",
+    "url": "https://tass.com/defense/2173733"
+  },
+  {
+    "id": "https://www.france24.com/en/asia-pacific/20260815-south-korea-president-proposes-talks-with-pyongyang-to-formally-end-korean-war",
+    "timestamp": "2026-08-15T15:39:37",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "South Korea president proposes talks with Pyongyang to formally end Korean War",
+    "url": "https://www.france24.com/en/asia-pacific/20260815-south-korea-president-proposes-talks-with-pyongyang-to-formally-end-korean-war"
+  },
+  {
+    "id": "https://www.dw.com/en/lebanon-says-11-killed-in-israeli-airstrikes/a-78383713?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-08-15T15:35:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Lebanon says 11 killed in Israeli airstrikes",
+    "url": "https://www.dw.com/en/lebanon-says-11-killed-in-israeli-airstrikes/a-78383713?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.france24.com/en/deadly-israeli-strikes-in-lebanon-put-peace-talks-at-risk",
+    "timestamp": "2026-08-15T15:29:52",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Deadly Israeli strikes in Lebanon put peace talks at risk",
+    "url": "https://www.france24.com/en/deadly-israeli-strikes-in-lebanon-put-peace-talks-at-risk"
+  },
+  {
     "id": "https://www.aljazeera.com/features/2026/8/15/sedition-to-anthem-many-lives-of-aazadi-chants-in-indias-youth-protests?traffic_source=rss",
     "timestamp": "2026-08-15T15:25:51",
     "source": "Al Jazeera",
@@ -468,6 +508,16 @@
     "region": "global",
     "text": "Ukraine attacks Russian air base and rocket plant in Samara region",
     "url": "https://www.france24.com/en/europe/20260815-ukraine-attacks-russian-air-base-and-rocket-plant-in-samara-region"
+  },
+  {
+    "id": "https://www.dw.com/en/trump-s-latin-america-allies-open-arms-to-israel/a-78378930?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-08-15T11:35:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Trump's Latin America allies open arms to Israel",
+    "url": "https://www.dw.com/en/trump-s-latin-america-allies-open-arms-to-israel/a-78378930?maca=en-rss-en-all-1573-xml-mrss"
   },
   {
     "id": "https://www.dw.com/en/donald-trump-s-latin-america-allies-open-arms-to-israel/a-78378930?maca=en-rss-en-all-1573-xml-mrss",
@@ -1418,6 +1468,16 @@
     "region": "ru",
     "text": "Russian agricultural facility catches fire after drone attack",
     "url": "https://tass.com/emergencies/2173603"
+  },
+  {
+    "id": "https://www.dw.com/en/indonesia-dozens-dead-after-earthquake-off-flores-island/a-78377990?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-08-14T23:45:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Indonesia: Dozens dead after earthquake off Flores island",
+    "url": "https://www.dw.com/en/indonesia-dozens-dead-after-earthquake-off-flores-island/a-78377990?maca=en-rss-en-all-1573-xml-mrss"
   },
   {
     "id": "https://www.dw.com/en/indonesia-strong-earthquake-hits-off-coast-of-flores-island/a-78377990?maca=en-rss-en-all-1573-xml-mrss",
@@ -4938,65 +4998,5 @@
     "region": "ru",
     "text": "Trump imposes 100% tariffs on imports of certain drones",
     "url": "https://tass.com/economy/2172625"
-  },
-  {
-    "id": "https://news.usni.org/2026/08/13/new-white-house-memo-calls-for-foreign-built-warships-return-to-steam-catapults-on-ford-carriers",
-    "timestamp": "2026-08-13T23:15:54",
-    "source": "USNI News",
-    "platform": "rss",
-    "category": "naval",
-    "region": "global",
-    "text": "New White House Memo Calls for Foreign-Built Warships, Return to Steam Catapults on Ford Carriers",
-    "url": "https://news.usni.org/2026/08/13/new-white-house-memo-calls-for-foreign-built-warships-return-to-steam-catapults-on-ford-carriers"
-  },
-  {
-    "id": "https://tass.com/world/2172623",
-    "timestamp": "2026-08-13T23:12:01",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Thirteen countries join coalition to ensure security in Bab el-Mandeb Strait",
-    "url": "https://tass.com/world/2172623"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/8/13/gaza-city-police-chief-killed-as-israel-pushes-on-with-deadly-strikes?traffic_source=rss",
-    "timestamp": "2026-08-13T23:09:15",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Gaza City police chief killed as Israel pushes on with deadly strikes",
-    "url": "https://www.aljazeera.com/news/2026/8/13/gaza-city-police-chief-killed-as-israel-pushes-on-with-deadly-strikes?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/world/2172621",
-    "timestamp": "2026-08-13T22:40:00",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "US vice president reveals Washington\u2019s top priority in Iran conflict",
-    "url": "https://tass.com/world/2172621"
-  },
-  {
-    "id": "https://www.defenseone.com/policy/2026/08/intel-ops-are-underway-space-commands-nascent-alabama-hq/415418/",
-    "timestamp": "2026-08-13T22:24:35",
-    "source": "Defense One",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Intel ops are underway at Space Command\u2019s nascent Alabama HQ",
-    "url": "https://www.defenseone.com/policy/2026/08/intel-ops-are-underway-space-commands-nascent-alabama-hq/415418/"
-  },
-  {
-    "id": "https://www.airandspaceforces.com/stackable-certificates-department-of-air-force-ai-tech-training/",
-    "timestamp": "2026-08-13T22:08:10",
-    "source": "Air Force Mag",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Report Pushes New Training Approach for Air Force on AI and Tech: Stackable Certificates",
-    "url": "https://www.airandspaceforces.com/stackable-certificates-department-of-air-force-ai-tech-training/"
   }
 ]
