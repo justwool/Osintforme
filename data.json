@@ -1,5 +1,85 @@
 [
   {
+    "id": "https://tass.com/world/2173811",
+    "timestamp": "2026-08-16T08:19:40",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Thousands of supporters of Russia tortured by the SBU \u2014 French expert",
+    "url": "https://tass.com/world/2173811"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-08-16T08:14:56",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Three killed as Russia launches fresh aerial attacks across Ukraine",
+    "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.dw.com/en/moscow-says-600-drones-targeted-region-overnight/a-78386779?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-08-16T08:13:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Moscow says 600 drones targeted region overnight",
+    "url": "https://www.dw.com/en/moscow-says-600-drones-targeted-region-overnight/a-78386779?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/08/16/poznan-attack-two-women-detained/",
+    "timestamp": "2026-08-16T08:07:51",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Get the f*ck back to Ukraine\u201d: Two intoxicated Polish women attack Ukrainian men amid rise in anti-Ukrainian violence in Poland",
+    "url": "https://euromaidanpress.com/2026/08/16/poznan-attack-two-women-detained/"
+  },
+  {
+    "id": "https://www.france24.com/en/europe/20260816-spanish-fighter-jet-downs-drone-breaching-romania-s-airspace",
+    "timestamp": "2026-08-16T07:50:35",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Spanish fighter jet downs drone breaching Romania's airspace",
+    "url": "https://www.france24.com/en/europe/20260816-spanish-fighter-jet-downs-drone-breaching-romania-s-airspace"
+  },
+  {
+    "id": "https://www.aljazeera.com/sports/2026/8/16/lionel-messi-misses-penalty-as-nashville-thrash-inter-miami-in-mls?traffic_source=rss",
+    "timestamp": "2026-08-16T07:47:45",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Lionel Messi misses penalty as Nashville thrash Inter Miami in MLS",
+    "url": "https://www.aljazeera.com/sports/2026/8/16/lionel-messi-misses-penalty-as-nashville-thrash-inter-miami-in-mls?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/8/16/new-satellite-images-show-europes-disappearing-rivers-due-to-drought?traffic_source=rss",
+    "timestamp": "2026-08-16T07:46:22",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "New satellite images show Europe\u2019s disappearing rivers due to drought",
+    "url": "https://www.aljazeera.com/news/2026/8/16/new-satellite-images-show-europes-disappearing-rivers-due-to-drought?traffic_source=rss"
+  },
+  {
+    "id": "https://www.navalnews.com/naval-news/2026/08/hii-completes-successful-acceptance-sea-trials-of-john-f-kennedy-cvn-79/",
+    "timestamp": "2026-08-16T07:44:52",
+    "source": "Naval News",
+    "platform": "rss",
+    "category": "naval",
+    "region": "global",
+    "text": "HII Completes Successful Acceptance Sea Trials of John F. Kennedy (CVN 79)",
+    "url": "https://www.navalnews.com/naval-news/2026/08/hii-completes-successful-acceptance-sea-trials-of-john-f-kennedy-cvn-79/"
+  },
+  {
     "id": "https://tass.com/defense/2173833",
     "timestamp": "2026-08-16T07:25:40",
     "source": "TASS English",
@@ -28,6 +108,16 @@
     "region": "ru",
     "text": "Russian forces strike defense industry plants in Kiev, Defense Ministry says",
     "url": "https://tass.com/defense/2173821"
+  },
+  {
+    "id": "https://www.aljazeera.com/sports/2026/8/16/ufc-330-makhachev-secures-record-setting-win-against-machado-garry?traffic_source=rss",
+    "timestamp": "2026-08-16T07:04:29",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "UFC 330: Makhachev secures record-setting win against Machado Garry",
+    "url": "https://www.aljazeera.com/sports/2026/8/16/ufc-330-makhachev-secures-record-setting-win-against-machado-garry?traffic_source=rss"
   },
   {
     "id": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
@@ -4190,6 +4280,16 @@
     "url": "https://euromaidanpress.com/2026/08/14/akhmat-fighter-ukraine-hur-legion/"
   },
   {
+    "id": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping",
+    "timestamp": "2026-08-14T14:55:17",
+    "source": "Guardian World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "American missionary kidnapped in Niger freed after nine months",
+    "url": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping"
+  },
+  {
     "id": "https://breakingdefense.com/2026/08/pentagon-inks-sm-3-framework-deals-with-rtx-boeing-on-critical-components/",
     "timestamp": "2026-08-14T14:55:00",
     "source": "Breaking Defense",
@@ -4898,105 +4998,5 @@
     "region": "mena",
     "text": "Record-breaking rain in Japan leaves several dead, thousands stranded",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/14-08-sv-japan-floods-chiba-jp?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/west-bank-palestinians-families-trapped-in-homes",
-    "timestamp": "2026-08-14T10:43:44",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "West Bank: Palestinians families trapped in homes",
-    "url": "https://www.france24.com/en/west-bank-palestinians-families-trapped-in-homes"
-  },
-  {
-    "id": "https://www.france24.com/en/ukraine-war-grain-attacks-raise-food-price-fears",
-    "timestamp": "2026-08-14T10:41:12",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Ukraine war: Grain attacks raise food price fears",
-    "url": "https://www.france24.com/en/ukraine-war-grain-attacks-raise-food-price-fears"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/08/14/poland-foils-russian-plot-us-citizen-warsaw/",
-    "timestamp": "2026-08-14T10:40:08",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Russia allegedly sent a hitman after a US-Ukrainian citizen in Warsaw. Poland caught the suspect",
-    "url": "https://euromaidanpress.com/2026/08/14/poland-foils-russian-plot-us-citizen-warsaw/"
-  },
-  {
-    "id": "https://www.france24.com/en/global-sea-temperature-reach-21-degrees-amid-heatwaves",
-    "timestamp": "2026-08-14T10:37:27",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Global sea temperature reach 21 degrees amid heatwaves",
-    "url": "https://www.france24.com/en/global-sea-temperature-reach-21-degrees-amid-heatwaves"
-  },
-  {
-    "id": "https://www.france24.com/en/europe-swelters-under-new-heatwave",
-    "timestamp": "2026-08-14T10:33:05",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Europe swelters under new heatwave",
-    "url": "https://www.france24.com/en/europe-swelters-under-new-heatwave"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/8/14/scrutiny-over-farages-finances-has-hurt-reform-uk?traffic_source=rss",
-    "timestamp": "2026-08-14T10:32:22",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Scrutiny over Farage\u2019s finances has \u2018hurt Reform UK support\u2019",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/scrutiny-over-farages-finances-has-hurt-reform-uk?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/earthquake-in-colombia-nearly-300-people-trapped-in-rubbles",
-    "timestamp": "2026-08-14T10:30:32",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Earthquake in Colombia: Nearly 300 people trapped in rubbles",
-    "url": "https://www.france24.com/en/earthquake-in-colombia-nearly-300-people-trapped-in-rubbles"
-  },
-  {
-    "id": "https://www.france24.com/en/uk-farage-wins-controversial-by-election",
-    "timestamp": "2026-08-14T10:29:22",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "UK: Farage wins controversial by-election",
-    "url": "https://www.france24.com/en/uk-farage-wins-controversial-by-election"
-  },
-  {
-    "id": "https://www.france24.com/en/tv-shows/focus/20260814-in-nepal-residents-learn-how-to-live-alongside-wild-animals",
-    "timestamp": "2026-08-14T10:29:10",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "In Nepal, residents learn how to live alongside wild animals",
-    "url": "https://www.france24.com/en/tv-shows/focus/20260814-in-nepal-residents-learn-how-to-live-alongside-wild-animals"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/8/14/seven-killed-in-tunnel-accident-at-indian-hydropower-project?traffic_source=rss",
-    "timestamp": "2026-08-14T10:28:34",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Seven killed in tunnel accident at Indian hydropower project",
-    "url": "https://www.aljazeera.com/news/2026/8/14/seven-killed-in-tunnel-accident-at-indian-hydropower-project?traffic_source=rss"
   }
 ]
