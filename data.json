@@ -1,5 +1,335 @@
 [
   {
+    "id": "https://tass.com/emergencies/2174159",
+    "timestamp": "2026-08-17T11:26:29",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Death toll from Indonesia earthquake climbs to 68 \u2014 Reuters",
+    "url": "https://tass.com/emergencies/2174159"
+  },
+  {
+    "id": "https://tass.com/defense/2174153",
+    "timestamp": "2026-08-17T11:22:13",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "IN BRIEF: Russian forces deliver strikes on Izmail, Odessa ports, logistics targets",
+    "url": "https://tass.com/defense/2174153"
+  },
+  {
+    "id": "https://tass.com/world/2174147",
+    "timestamp": "2026-08-17T11:10:54",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "US\u2019 anti-Iranian sanctions only heighten hatred between countries \u2014 Iranian diplomat",
+    "url": "https://tass.com/world/2174147"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/8/17/is-the-world-experiencing-more-earthquakes-now-than-before?traffic_source=rss",
+    "timestamp": "2026-08-17T11:09:18",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Is the world experiencing more earthquakes now than before?",
+    "url": "https://www.aljazeera.com/news/2026/8/17/is-the-world-experiencing-more-earthquakes-now-than-before?traffic_source=rss"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/08/17/nato-no-longer-deters-russia-a-new-coalition-could/",
+    "timestamp": "2026-08-17T11:07:12",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "NATO no longer deters Russia. A new coalition could",
+    "url": "https://euromaidanpress.com/2026/08/17/nato-no-longer-deters-russia-a-new-coalition-could/"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/08/17/russias-strikes-across-10-ukrainian-regions-kill-at-least-eight-in-24-hours/",
+    "timestamp": "2026-08-17T11:04:00",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Russia\u2019s strikes across 10 Ukrainian regions kill at least eight in 24 hours",
+    "url": "https://euromaidanpress.com/2026/08/17/russias-strikes-across-10-ukrainian-regions-kill-at-least-eight-in-24-hours/"
+  },
+  {
+    "id": "https://www.dw.com/en/cooler-destinations-are-drawing-tourists-can-nature-cope/a-78362462?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-08-17T11:03:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Cooler destinations are drawing tourists \u2014 can nature cope?",
+    "url": "https://www.dw.com/en/cooler-destinations-are-drawing-tourists-can-nature-cope/a-78362462?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://tass.com/world/2174143",
+    "timestamp": "2026-08-17T11:02:37",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Patriot missiles in short supply, Poland needs them itself \u2014 former defense minister",
+    "url": "https://tass.com/world/2174143"
+  },
+  {
+    "id": "https://tass.com/politics/2174137",
+    "timestamp": "2026-08-17T10:58:23",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "West plans to accuse Russia of arming Latin American drug cartels \u2014 intel agency",
+    "url": "https://tass.com/politics/2174137"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/8/17/uss-lincoln-crisis-how-it-compares-to-past-aircraft-carrier-deployments?traffic_source=rss",
+    "timestamp": "2026-08-17T10:57:49",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "USS Lincoln crisis: How it compares to past aircraft carrier deployments",
+    "url": "https://www.aljazeera.com/news/2026/8/17/uss-lincoln-crisis-how-it-compares-to-past-aircraft-carrier-deployments?traffic_source=rss"
+  },
+  {
+    "id": "https://www.france24.com/en/video/20260817-trump-orders-pentagon-to-cut-back-military-drills-with-seoul-hours-before-start",
+    "timestamp": "2026-08-17T10:56:44",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Trump orders Pentagon to cut back military drills with Seoul hours before start",
+    "url": "https://www.france24.com/en/video/20260817-trump-orders-pentagon-to-cut-back-military-drills-with-seoul-hours-before-start"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/8/17/iraqi-kurdish-pm-barzanis-office-targeted-in-drone-attack?traffic_source=rss",
+    "timestamp": "2026-08-17T10:54:50",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Iraqi Kurdish PM Barzani\u2019s office targeted in drone attack",
+    "url": "https://www.aljazeera.com/news/2026/8/17/iraqi-kurdish-pm-barzanis-office-targeted-in-drone-attack?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/8/17/indian-temple-stampede-kills-seven-people-and-injures-dozens?traffic_source=rss",
+    "timestamp": "2026-08-17T10:54:40",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Indian temple stampede kills seven people and injures dozens",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/indian-temple-stampede-kills-seven-people-and-injures-dozens?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/8/17/is-china-encroaching-upon-indian-territory-in-arunachal-pradesh-2?traffic_source=rss",
+    "timestamp": "2026-08-17T10:51:49",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Is China encroaching upon Indian territory in Arunachal Pradesh?",
+    "url": "https://www.aljazeera.com/news/2026/8/17/is-china-encroaching-upon-indian-territory-in-arunachal-pradesh-2?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/features/2026/8/17/watch-young-chef-16-cooking-up-gourmet-meals-in-gaza?traffic_source=rss",
+    "timestamp": "2026-08-17T10:51:03",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Watch: Young chef, 16, cooking up gourmet meals in Gaza",
+    "url": "https://www.aljazeera.com/features/2026/8/17/watch-young-chef-16-cooking-up-gourmet-meals-in-gaza?traffic_source=rss"
+  },
+  {
+    "id": "https://www.dw.com/en/germany-s-afd-is-labeled-far-right-populist-or-extremist/a-78395043?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-08-17T10:51:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Germany's AfD is labeled far-right, populist or extremist",
+    "url": "https://www.dw.com/en/germany-s-afd-is-labeled-far-right-populist-or-extremist/a-78395043?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.france24.com/en/french-taxpayers-warned-after-personal-data-stolen-in-major-hack",
+    "timestamp": "2026-08-17T10:50:34",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "French taxpayers warned after personal data stolen in major hack",
+    "url": "https://www.france24.com/en/french-taxpayers-warned-after-personal-data-stolen-in-major-hack"
+  },
+  {
+    "id": "https://tass.com/politics/2174131",
+    "timestamp": "2026-08-17T10:46:45",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Witkoff, Kushner may bring new proposals on Ukraine to Moscow \u2014 expert",
+    "url": "https://tass.com/politics/2174131"
+  },
+  {
+    "id": "https://tass.com/defense/2174127",
+    "timestamp": "2026-08-17T10:40:21",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Effectiveness of Knyaz Vandal drone rises 2.5-fold \u2014 Ushkuynik Center",
+    "url": "https://tass.com/defense/2174127"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/08/17/decision_time_1200641.html",
+    "timestamp": "2026-08-17T10:39:23",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Decision Time",
+    "url": "https://www.realcleardefense.com/2026/08/17/decision_time_1200641.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/08/17/arctic_eagle_sphere_1200725.html",
+    "timestamp": "2026-08-17T10:39:22",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Arctic Eagle Sphere",
+    "url": "https://www.realcleardefense.com/2026/08/17/arctic_eagle_sphere_1200725.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/08/17/reimagining_general_quarters_for_surface_ships_1200629.html",
+    "timestamp": "2026-08-17T10:39:22",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Reimagining General Quarters for Surface Ships",
+    "url": "https://www.realcleardefense.com/2026/08/17/reimagining_general_quarters_for_surface_ships_1200629.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/08/17/why_there_might_be_no_nuclear_plenty__lessons_from_iran_and_ukraine_1200628.html",
+    "timestamp": "2026-08-17T10:39:21",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Why There Might Be No Nuclear Plenty \u2013 Lessons From Iran and Ukraine",
+    "url": "https://www.realcleardefense.com/2026/08/17/why_there_might_be_no_nuclear_plenty__lessons_from_iran_and_ukraine_1200628.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/08/17/the_ukrainian_drone_temptation_meets_the_generating_forces_clock_1200724.html",
+    "timestamp": "2026-08-17T10:39:20",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "The Ukrainian Drone Temptation Meets the Generating Force's Clock",
+    "url": "https://www.realcleardefense.com/2026/08/17/the_ukrainian_drone_temptation_meets_the_generating_forces_clock_1200724.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/08/17/army_adoption_of_ukraines_combat-tested_horizontal_kill_web_arch_1200648.html",
+    "timestamp": "2026-08-17T10:39:20",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Army Adoption of Ukraine's Combat-Tested Horizontal Kill Web Arch.",
+    "url": "https://www.realcleardefense.com/2026/08/17/army_adoption_of_ukraines_combat-tested_horizontal_kill_web_arch_1200648.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/08/17/us_expands_sm-3_missile_production_1200656.html",
+    "timestamp": "2026-08-17T10:39:19",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "U.S. Expands SM-3 Missile Production",
+    "url": "https://www.realcleardefense.com/2026/08/17/us_expands_sm-3_missile_production_1200656.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/08/17/us_coast_guard_to_convert_new_cargo_planes_into_surveillance_aircraft_1200658.html",
+    "timestamp": "2026-08-17T10:39:19",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "U.S. Coast Guard To Convert New Cargo Planes Into Surveillance Aircraft",
+    "url": "https://www.realcleardefense.com/2026/08/17/us_coast_guard_to_convert_new_cargo_planes_into_surveillance_aircraft_1200658.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/08/17/homegrown_firefly_laser_that_zaps_enemy_drones_in_seconds_1200639.html",
+    "timestamp": "2026-08-17T10:39:18",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Homegrown 'Firefly' Laser That Zaps Enemy Drones in Seconds",
+    "url": "https://www.realcleardefense.com/2026/08/17/homegrown_firefly_laser_that_zaps_enemy_drones_in_seconds_1200639.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/08/17/uss_lincoln_performance_for_the_ages_1200650.html",
+    "timestamp": "2026-08-17T10:39:18",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "USS Lincoln: Performance For the Ages",
+    "url": "https://www.realcleardefense.com/2026/08/17/uss_lincoln_performance_for_the_ages_1200650.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/08/17/columbia-class_-_americas_sea-based_nuclear_deterrent_1200722.html",
+    "timestamp": "2026-08-17T10:39:17",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Columbia-Class - America's Sea-Based Nuclear Deterrent",
+    "url": "https://www.realcleardefense.com/2026/08/17/columbia-class_-_americas_sea-based_nuclear_deterrent_1200722.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/08/17/uss_benfold_was_stalled_in_the_south_china_sea_for_four_days_1200643.html",
+    "timestamp": "2026-08-17T10:39:17",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "USS Benfold Was Stalled in the South China Sea for Four Days",
+    "url": "https://www.realcleardefense.com/2026/08/17/uss_benfold_was_stalled_in_the_south_china_sea_for_four_days_1200643.html"
+  },
+  {
+    "id": "https://www.france24.com/en/indonesia-earthquake-leaves-thousands-homeless-as-rescue-efforts-continue",
+    "timestamp": "2026-08-17T10:38:41",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Indonesia earthquake leaves thousands homeless as rescue efforts continue",
+    "url": "https://www.france24.com/en/indonesia-earthquake-leaves-thousands-homeless-as-rescue-efforts-continue"
+  },
+  {
+    "id": "https://www.france24.com/en/us-south-korea-drills-renew-questions-over-north-korea-s-military-power",
+    "timestamp": "2026-08-17T10:36:41",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "US-South Korea drills renew questions over North Korea\u2019s military power",
+    "url": "https://www.france24.com/en/us-south-korea-drills-renew-questions-over-north-korea-s-military-power"
+  },
+  {
     "id": "https://tass.com/economy/2174125",
     "timestamp": "2026-08-17T10:33:02",
     "source": "TASS English",
@@ -4668,335 +4998,5 @@
     "region": "global",
     "text": "Germany news: Russia lists research body as 'undesirable'",
     "url": "https://www.dw.com/en/germany-news-russia-lists-research-body-as-undesirable/live-78378773?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/8/15/arteta-assures-arsenal-fans-over-contract-ahead-of-man-city-clash?traffic_source=rss",
-    "timestamp": "2026-08-15T07:44:35",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Arteta assures Arsenal fans over contract before Man City clash",
-    "url": "https://www.aljazeera.com/sports/2026/8/15/arteta-assures-arsenal-fans-over-contract-ahead-of-man-city-clash?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/politics/2173663",
-    "timestamp": "2026-08-15T07:35:32",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Putin congratulates Indian president, PM on Independence Day",
-    "url": "https://tass.com/politics/2173663"
-  },
-  {
-    "id": "https://tass.com/emergencies/2173661",
-    "timestamp": "2026-08-15T07:29:31",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Massive missile strike hits Samara Region, causing casualties \u2014 city mayor",
-    "url": "https://tass.com/emergencies/2173661"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/8/15/fifas-infantino-gets-giuliani-backing-in-world-cup-selloff-fallout?traffic_source=rss",
-    "timestamp": "2026-08-15T07:27:59",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "FIFA\u2019s Infantino gets Giuliani backing in World Cup selloff fallout",
-    "url": "https://www.aljazeera.com/sports/2026/8/15/fifas-infantino-gets-giuliani-backing-in-world-cup-selloff-fallout?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/opinions/2026/8/15/a-syrian-intervention-in-lebanon-would-be-too-costly-for-damascus?traffic_source=rss",
-    "timestamp": "2026-08-15T07:27:32",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "A Syrian intervention in Lebanon would be too costly for Damascus",
-    "url": "https://www.aljazeera.com/opinions/2026/8/15/a-syrian-intervention-in-lebanon-would-be-too-costly-for-damascus?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/8/15/israeli-strike-kills-seven-in-south-lebanon-as-attacks-intensify?traffic_source=rss",
-    "timestamp": "2026-08-15T07:18:13",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Israeli strike kills seven in south Lebanon as attacks intensify",
-    "url": "https://www.aljazeera.com/news/2026/8/15/israeli-strike-kills-seven-in-south-lebanon-as-attacks-intensify?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/asia-pacific/20260815-suffocating-restrictions-shadow-five-years-of-taliban-rule-in-afghanistan",
-    "timestamp": "2026-08-15T07:14:24",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "'Suffocating restrictions' shadow five years of Taliban rule in Afghanistan",
-    "url": "https://www.france24.com/en/asia-pacific/20260815-suffocating-restrictions-shadow-five-years-of-taliban-rule-in-afghanistan"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moment-israeli-forces-storm-wedding-hall-in-occupied-west-bank?traffic_source=rss",
-    "timestamp": "2026-08-15T07:13:11",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Moment Israeli forces storm wedding hall in occupied West Bank",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moment-israeli-forces-storm-wedding-hall-in-occupied-west-bank?traffic_source=rss"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/08/14/here_come_the_drone_highways_in_the_sky_1200295.html",
-    "timestamp": "2026-08-15T07:08:08",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Here Come the Drone Highways in the Sky",
-    "url": "https://www.realcleardefense.com/2026/08/14/here_come_the_drone_highways_in_the_sky_1200295.html"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/8/15/south-koreas-president-wants-talks-with-north-to-end-korean-war?traffic_source=rss",
-    "timestamp": "2026-08-15T06:53:28",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "South Korea\u2019s president wants talks with North to end Korean War",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/south-koreas-president-wants-talks-with-north-to-end-korean-war?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/emergencies/2173657",
-    "timestamp": "2026-08-15T06:39:33",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Magnitude 5.0 earthquake strikes near Granada, Spain",
-    "url": "https://tass.com/emergencies/2173657"
-  },
-  {
-    "id": "https://www.france24.com/en/we-are-seeing-the-cracks-of-israeli-politics-play-out-in-the-west-bank",
-    "timestamp": "2026-08-15T06:37:15",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "'We are seeing the cracks of Israeli politics play out in the West Bank'",
-    "url": "https://www.france24.com/en/we-are-seeing-the-cracks-of-israeli-politics-play-out-in-the-west-bank"
-  },
-  {
-    "id": "https://tass.com/emergencies/2173653",
-    "timestamp": "2026-08-15T06:35:56",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Eight drones shot down over Moscow region overnight \u2014 region\u2019s governor",
-    "url": "https://tass.com/emergencies/2173653"
-  },
-  {
-    "id": "https://www.aljazeera.com/economy/2026/8/15/small-scale-projects-offer-hope-for-gaza-farmers-rebuilding-lives?traffic_source=rss",
-    "timestamp": "2026-08-15T06:10:07",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Small-scale projects offer hope for Gaza farmers rebuilding lives",
-    "url": "https://www.aljazeera.com/economy/2026/8/15/small-scale-projects-offer-hope-for-gaza-farmers-rebuilding-lives?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/asia-pacific/20260815-deadly-earthquake-strikes-indonesia-and-triggers-mass-evacuations",
-    "timestamp": "2026-08-15T05:36:19",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Deadly earthquake strikes Indonesia and triggers mass evacuations",
-    "url": "https://www.france24.com/en/asia-pacific/20260815-deadly-earthquake-strikes-indonesia-and-triggers-mass-evacuations"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/8/15/how-a-sudanese-refugee-became-a-head-teacher-in-a-chadian-camp?traffic_source=rss",
-    "timestamp": "2026-08-15T05:14:40",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "How a Sudanese refugee became a head teacher in a Chadian camp",
-    "url": "https://www.aljazeera.com/news/2026/8/15/how-a-sudanese-refugee-became-a-head-teacher-in-a-chadian-camp?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/middle-east/20260815-middle-east-live-trump-threatens-us-takeover-of-hormuz-as-iran-vows-to-retain-control",
-    "timestamp": "2026-08-15T05:12:23",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Middle East live: Trump threatens US takeover of Hormuz as Iran vows to retain control",
-    "url": "https://www.france24.com/en/middle-east/20260815-middle-east-live-trump-threatens-us-takeover-of-hormuz-as-iran-vows-to-retain-control"
-  },
-  {
-    "id": "https://tass.com/sports/2173651",
-    "timestamp": "2026-08-15T05:07:35",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "World Archery allows Russian athletes to compete with flag, anthem",
-    "url": "https://tass.com/sports/2173651"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-08-15T05:01:13",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Europe's scorched landscapes seen from space after summer heatwaves",
-    "url": "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://tass.com/emergencies/2173647",
-    "timestamp": "2026-08-15T04:59:58",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Indonesian earthquake death toll rises to five \u2014 newspaper",
-    "url": "https://tass.com/emergencies/2173647"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-26-morocco-ceuta-foritfication-clip-mp4?traffic_source=rss",
-    "timestamp": "2026-08-15T04:54:53",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Morocco boosts Ceuta security amid calls for mass migrant crossing",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-26-morocco-ceuta-foritfication-clip-mp4?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/economy/2173645",
-    "timestamp": "2026-08-15T04:53:14",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Thailand requests Russia\u2019s support for free trade zone talks with EAEU \u2014 ministry",
-    "url": "https://tass.com/economy/2173645"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/8/15/on-the-ground-in-indonesia-following-7-7-magnitude-earthquake?traffic_source=rss",
-    "timestamp": "2026-08-15T04:49:47",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "On the ground in Indonesia following 7.7 magnitude earthquake",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/on-the-ground-in-indonesia-following-7-7-magnitude-earthquake?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/economy/2026/8/15/taiwan-passes-defence-budget-after-record-delay-retains-drone-funding?traffic_source=rss",
-    "timestamp": "2026-08-15T04:44:14",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Taiwan passes defence budget after record delay, retains drone funding",
-    "url": "https://www.aljazeera.com/economy/2026/8/15/taiwan-passes-defence-budget-after-record-delay-retains-drone-funding?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/emergencies/2173641",
-    "timestamp": "2026-08-15T04:32:30",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Power supplies to some 1,000 households disrupted by drone attack on south Russia",
-    "url": "https://tass.com/emergencies/2173641"
-  },
-  {
-    "id": "https://tass.com/world/2173637",
-    "timestamp": "2026-08-15T04:25:42",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Trump\u2019s envoys never visited Kiev before \u2014 Ukraine\u2019s ex-premier",
-    "url": "https://tass.com/world/2173637"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/8/15/iran-says-no-decision-yet-on-a-return-to-talks-with-the-us?traffic_source=rss",
-    "timestamp": "2026-08-15T04:24:02",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Iran says no decision yet on a return to talks with the US",
-    "url": "https://www.aljazeera.com/news/2026/8/15/iran-says-no-decision-yet-on-a-return-to-talks-with-the-us?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/8/15/what-we-know-about-the-crisis-aboard-the-uss-lincoln?traffic_source=rss",
-    "timestamp": "2026-08-15T04:21:07",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "What we know about the crisis aboard the USS Lincoln",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/what-we-know-about-the-crisis-aboard-the-uss-lincoln?traffic_source=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-08-15T04:12:55",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Five dead after 7.7 magnitude earthquake strikes Indonesia",
-    "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://tass.com/politics/2173633",
-    "timestamp": "2026-08-15T04:00:22",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Suspension of navigation in Black Sea to become Ukraine\u2019s slow death \u2014 expert",
-    "url": "https://tass.com/politics/2173633"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-11-2026-tia-us-iran-munitions-quotable?traffic_source=rss",
-    "timestamp": "2026-08-15T03:52:08",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Did the US really destroy Iran\u2019s ballistic missile capability?",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-11-2026-tia-us-iran-munitions-quotable?traffic_source=rss"
-  },
-  {
-    "id": "https://www.dw.com/en/us-fda-recalls-19-million-eggs-over-salmonella-risk/a-78378361?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-08-15T03:49:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "US: FDA recalls 19 million eggs over Salmonella risk",
-    "url": "https://www.dw.com/en/us-fda-recalls-19-million-eggs-over-salmonella-risk/a-78378361?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://tass.com/science/2173631",
-    "timestamp": "2026-08-15T03:39:12",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "NASA chief says Artemis moon program to be accelerated",
-    "url": "https://tass.com/science/2173631"
   }
 ]
