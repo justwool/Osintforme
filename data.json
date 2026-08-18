@@ -1,5 +1,115 @@
 [
   {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-arday-vigil-london-sv-mp4?traffic_source=rss",
+    "timestamp": "2026-08-18T01:26:31",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Vigil held in central London for late Cambridge professor Jason Arday",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-arday-vigil-london-sv-mp4?traffic_source=rss"
+  },
+  {
+    "id": "https://www.france24.com/en/africa/20260818-zambia-president-hichilema-wins-re-election-with-big-economic-promises",
+    "timestamp": "2026-08-18T01:22:51",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Zambia's president Hichilema wins re-election with big economic promises",
+    "url": "https://www.france24.com/en/africa/20260818-zambia-president-hichilema-wins-re-election-with-big-economic-promises"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/8/18/zambias-hichilema-wins-second-term-as-president?traffic_source=rss",
+    "timestamp": "2026-08-18T01:17:50",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Zambia\u2019s Hichilema wins second term as president",
+    "url": "https://www.aljazeera.com/news/2026/8/18/zambias-hichilema-wins-second-term-as-president?traffic_source=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-08-18T01:16:41",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Russia warns UK over supplying drones to Ukraine",
+    "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://tass.com/world/2174393",
+    "timestamp": "2026-08-18T01:13:01",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Trump's approval rating falls to 33%, lowest since inauguration \u2014 poll",
+    "url": "https://tass.com/world/2174393"
+  },
+  {
+    "id": "https://tass.com/politics/2174389",
+    "timestamp": "2026-08-18T00:53:01",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Number of drones downed while approaching Moscow since start of day reaches 23",
+    "url": "https://tass.com/politics/2174389"
+  },
+  {
+    "id": "https://www.airandspaceforces.com/air-force-portable-ground-stations-ccas/",
+    "timestamp": "2026-08-18T00:48:16",
+    "source": "Air Force Mag",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Air Force Tests Portable Ground Stations for Commanding and Controlling CCAs",
+    "url": "https://www.airandspaceforces.com/air-force-portable-ground-stations-ccas/"
+  },
+  {
+    "id": "https://www.theguardian.com/world/2026/aug/18/south-korea-rain-deadly-landslide-philippines-major-flooding",
+    "timestamp": "2026-08-18T00:37:42",
+    "source": "Guardian World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Torrential rains kill one in South Korea while Philippine capital battles major flooding",
+    "url": "https://www.theguardian.com/world/2026/aug/18/south-korea-rain-deadly-landslide-philippines-major-flooding"
+  },
+  {
+    "id": "https://www.twz.com/sea/where-are-the-aircraft-carriers-august-17-2026",
+    "timestamp": "2026-08-18T00:26:11",
+    "source": "The Drive WarZone",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Where Are The Aircraft Carriers?: August 17, 2026",
+    "url": "https://www.twz.com/sea/where-are-the-aircraft-carriers-august-17-2026"
+  },
+  {
+    "id": "https://www.france24.com/en/americas/20260818-trump-pauses-controversial-border-construction-in-texas-national-park",
+    "timestamp": "2026-08-18T00:20:29",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Trump pauses controversial border construction in Texas national park",
+    "url": "https://www.france24.com/en/americas/20260818-trump-pauses-controversial-border-construction-in-texas-national-park"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/liveblog/2026/8/18/iran-war-live-trump-rejects-mou-extension-as-us-claims-control-of-hormuz?traffic_source=rss",
+    "timestamp": "2026-08-18T00:00:00",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Iran war live: Trump rejects MoU extension as US claims control of Hormuz",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/8/18/iran-war-live-trump-rejects-mou-extension-as-us-claims-control-of-hormuz?traffic_source=rss"
+  },
+  {
     "id": "https://tass.com/emergencies/2174385",
     "timestamp": "2026-08-17T23:44:06",
     "source": "TASS English",
@@ -8,6 +118,16 @@
     "region": "ru",
     "text": "Police find van used by thieves who stole Antonello da Messina works in Sicily",
     "url": "https://tass.com/emergencies/2174385"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-08-17T23:42:38",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "BBC breaks down Trump's latest shift on North and South Korea",
+    "url": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://www.france24.com/en/sport/20260817-fifa-chief-operating-officer-leaves-after-criticising-infantino-investor-plan",
@@ -108,6 +228,16 @@
     "region": "mena",
     "text": "\u2018Truth or fiction\u2019: US trial of Tupac Shakur\u2019s accused killer begins",
     "url": "https://www.aljazeera.com/news/2026/8/17/truth-or-fiction-us-trial-of-tupac-shakurs-accused-killer-begins?traffic_source=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c4g3qdj1z77o?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-08-17T21:34:26",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Norway's king admitted to hospital and put on sick leave",
+    "url": "https://www.bbc.co.uk/news/articles/c4g3qdj1z77o?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://tass.com/economy/2174377",
@@ -4868,135 +4998,5 @@
     "region": "ua",
     "text": "Ukrainian rapper mocked Russia\u2019s claim he helped deliver drones for attacks near Moscow. A month later, Russia allegedly tried to kill him in Poland",
     "url": "https://euromaidanpress.com/2026/08/16/kyivstoner-assassination-plot-warsaw/"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/8/16/live-video-captures-panic-as-gunman-opens-fire-at-park-in-kentucky?traffic_source=rss",
-    "timestamp": "2026-08-16T09:24:22",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Live video captures panic as gunman opens fire at park in Kentucky",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/live-video-captures-panic-as-gunman-opens-fire-at-park-in-kentucky?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/video/20260816-chad-opposition-figure-succ%C3%A8s-masra-speaks-to-france-24",
-    "timestamp": "2026-08-16T09:23:29",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Chad : Opposition figure Succ\u00e8s Masra speaks to France 24",
-    "url": "https://www.france24.com/en/video/20260816-chad-opposition-figure-succ%C3%A8s-masra-speaks-to-france-24"
-  },
-  {
-    "id": "https://www.france24.com/en/sport/20260816-wafcon-malawi-and-cameroon-face-off-for-historic-first-crown",
-    "timestamp": "2026-08-16T09:21:20",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "WAFCON: Malawi and Cameroon face off for historic first crown",
-    "url": "https://www.france24.com/en/sport/20260816-wafcon-malawi-and-cameroon-face-off-for-historic-first-crown"
-  },
-  {
-    "id": "https://www.france24.com/en/why-france-s-under-15-social-media-ban-was-blocked",
-    "timestamp": "2026-08-16T09:20:06",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Why France's under-15 social media ban was blocked",
-    "url": "https://www.france24.com/en/why-france-s-under-15-social-media-ban-was-blocked"
-  },
-  {
-    "id": "https://www.france24.com/en/morocco-tightens-security-as-migrants-gather-near-ceuta-border",
-    "timestamp": "2026-08-16T09:17:50",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Morocco tightens security as migrants gather near Ceuta border",
-    "url": "https://www.france24.com/en/morocco-tightens-security-as-migrants-gather-near-ceuta-border"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/8/16/cincinnati-open-djokovic-stunned-by-tirante-in-second-round?traffic_source=rss",
-    "timestamp": "2026-08-16T09:03:05",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Cincinnati Open: Djokovic stunned by Tirante in second round",
-    "url": "https://www.aljazeera.com/sports/2026/8/16/cincinnati-open-djokovic-stunned-by-tirante-in-second-round?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/world/2173841",
-    "timestamp": "2026-08-16T09:02:58",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Kim Jong Un sends reply telegram to Vladimir Putin",
-    "url": "https://tass.com/world/2173841"
-  },
-  {
-    "id": "https://www.france24.com/en/video/20260816-italy-recovers-millions-of-euros-worth-of-stolen-renoir-c%C3%A9zanne-and-matisse-paintings",
-    "timestamp": "2026-08-16T08:56:50",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Italy recovers millions of euros worth of stolen Renoir, C\u00e9zanne and Matisse paintings",
-    "url": "https://www.france24.com/en/video/20260816-italy-recovers-millions-of-euros-worth-of-stolen-renoir-c%C3%A9zanne-and-matisse-paintings"
-  },
-  {
-    "id": "https://www.france24.com/en/us-hawaii-narrowly-avoids-direct-hit-as-hurricane-lala-brings-severe-weather",
-    "timestamp": "2026-08-16T08:53:56",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "US : Hawaii narrowly avoids direct hit as Hurricane Lala brings strong weather",
-    "url": "https://www.france24.com/en/us-hawaii-narrowly-avoids-direct-hit-as-hurricane-lala-brings-severe-weather"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/8/16/3-year-old-girl-rescued-100-hours-after-colombia-earthquake?traffic_source=rss",
-    "timestamp": "2026-08-16T08:53:14",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "3-year-old girl rescued 100 hours after Colombia earthquake",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/3-year-old-girl-rescued-100-hours-after-colombia-earthquake?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/belgium-battles-its-largest-wildfire-in-modern-history",
-    "timestamp": "2026-08-16T08:51:58",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Belgium battles its largest wildfire in modern history",
-    "url": "https://www.france24.com/en/belgium-battles-its-largest-wildfire-in-modern-history"
-  },
-  {
-    "id": "https://www.france24.com/en/west-bank-palestinian-families-besieged-for-a-week-as-settler-violence-continues",
-    "timestamp": "2026-08-16T08:50:57",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "West Bank: Palestinian families besieged for a week as settler violence continues",
-    "url": "https://www.france24.com/en/west-bank-palestinian-families-besieged-for-a-week-as-settler-violence-continues"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/8/16/at-least-12-people-killed-in-hungary-bus-crash?traffic_source=rss",
-    "timestamp": "2026-08-16T08:50:30",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "At least 12 people killed in Hungary bus crash",
-    "url": "https://www.aljazeera.com/news/2026/8/16/at-least-12-people-killed-in-hungary-bus-crash?traffic_source=rss"
   }
 ]
