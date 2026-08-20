@@ -1,5 +1,205 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-08-20T20:27:36",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Dozens dead after boat capsizes in north-western Nigeria",
+    "url": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.defensenews.com/air-warfare/2026/08/20/us-navy-leads-multinational-effort-for-next-gen-seasparrow-missile/",
+    "timestamp": "2026-08-20T20:23:22",
+    "source": "Defense News",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "US Navy leads multinational effort for next-gen SeaSparrow missile",
+    "url": "https://www.defensenews.com/air-warfare/2026/08/20/us-navy-leads-multinational-effort-for-next-gen-seasparrow-missile/"
+  },
+  {
+    "id": "https://www.france24.com/en/africa/20260820-cameroon-93-year-old-president-paul-biya-returns-after-months-long-absence",
+    "timestamp": "2026-08-20T20:19:47",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Cameroon's 93-year-old President Paul Biya returns after months-long stay abroad",
+    "url": "https://www.france24.com/en/africa/20260820-cameroon-93-year-old-president-paul-biya-returns-after-months-long-absence"
+  },
+  {
+    "id": "https://tass.com/science/2175813",
+    "timestamp": "2026-08-20T20:18:01",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Government submits space cooperation agreement with Myanmar to State Duma for ratification",
+    "url": "https://tass.com/science/2175813"
+  },
+  {
+    "id": "https://tass.com/politics/2175811",
+    "timestamp": "2026-08-20T20:15:00",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Ukrainian attack on Crimea kills two people, injures four others \u2014 regional head",
+    "url": "https://tass.com/politics/2175811"
+  },
+  {
+    "id": "https://tass.com/world/2175809",
+    "timestamp": "2026-08-20T20:12:01",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Zelensky shouted demanding dismissal of official who failed to pay bail for Yermak",
+    "url": "https://tass.com/world/2175809"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/8/20/dr-congo-to-receive-70000-doses-of-ervebo-vaccine-as-ebola-infections-surge?traffic_source=rss",
+    "timestamp": "2026-08-20T20:10:42",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "DR Congo to receive 70,000 doses of Ervebo vaccine as Ebola infections surge",
+    "url": "https://www.aljazeera.com/news/2026/8/20/dr-congo-to-receive-70000-doses-of-ervebo-vaccine-as-ebola-infections-surge?traffic_source=rss"
+  },
+  {
+    "id": "https://www.defensenews.com/global/europe/2026/08/20/ukraine-braces-for-combined-salvos-of-up-to-200-missiles-as-overnight-attack-kills-15-in-kyiv/",
+    "timestamp": "2026-08-20T20:09:46",
+    "source": "Defense News",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Ukraine braces for combined salvos of up to 200 missiles as overnight attack kills 15 in Kyiv",
+    "url": "https://www.defensenews.com/global/europe/2026/08/20/ukraine-braces-for-combined-salvos-of-up-to-200-missiles-as-overnight-attack-kills-15-in-kyiv/"
+  },
+  {
+    "id": "https://tass.com/world/2175803",
+    "timestamp": "2026-08-20T20:08:01",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Vucic thanks Russia for providing Serbia with aircraft for fighting forest fires",
+    "url": "https://tass.com/world/2175803"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/8/20/amputee-children-learn-to-swim-after-losing-limbs-in-israels-war-on-gaza?traffic_source=rss",
+    "timestamp": "2026-08-20T20:05:53",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Amputee children learn to swim after losing limbs in Israel\u2019s war on Gaza",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/amputee-children-learn-to-swim-after-losing-limbs-in-israels-war-on-gaza?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/emergencies/2175801",
+    "timestamp": "2026-08-20T20:05:00",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Court finds farmer who shot at drone caused less harm than he prevented \u2014 documents",
+    "url": "https://tass.com/emergencies/2175801"
+  },
+  {
+    "id": "https://www.militarytimes.com/veterans/2026/08/20/he-earned-the-medal-of-honor-in-vietnam-why-did-it-take-decades-to-receive-it/",
+    "timestamp": "2026-08-20T20:00:52",
+    "source": "Military Times",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "He earned the Medal of Honor in Vietnam. Why did it take decades to receive it?",
+    "url": "https://www.militarytimes.com/veterans/2026/08/20/he-earned-the-medal-of-honor-in-vietnam-why-did-it-take-decades-to-receive-it/"
+  },
+  {
+    "id": "https://www.aljazeera.com/features/2026/8/20/syrias-civil-society-navigates-post-assad-era-partnership-or-control?traffic_source=rss",
+    "timestamp": "2026-08-20T19:59:54",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Syria\u2019s civil society navigates post-Assad era: Partnership or control?",
+    "url": "https://www.aljazeera.com/features/2026/8/20/syrias-civil-society-navigates-post-assad-era-partnership-or-control?traffic_source=rss"
+  },
+  {
+    "id": "https://www.twz.com/air/f-117-nighthawk-needs-fresh-explosives-for-its-tailhook-nearly-two-decades-after-retirement",
+    "timestamp": "2026-08-20T19:57:42",
+    "source": "The Drive WarZone",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "F-117 Nighthawk Needs Fresh Explosives For Its Tailhook Nearly Two Decades After \u2018Retirement\u2019",
+    "url": "https://www.twz.com/air/f-117-nighthawk-needs-fresh-explosives-for-its-tailhook-nearly-two-decades-after-retirement"
+  },
+  {
+    "id": "https://breakingdefense.com/2026/08/army-network-needs-digital-twin-for-training-testing-cybersecurity-netcom-chief/",
+    "timestamp": "2026-08-20T19:55:53",
+    "source": "Breaking Defense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Army network needs digital twin for training, testing, cybersecurity: NETCOM chief",
+    "url": "https://breakingdefense.com/2026/08/army-network-needs-digital-twin-for-training-testing-cybersecurity-netcom-chief/"
+  },
+  {
+    "id": "https://www.defenseone.com/defense-systems/2026/08/golden-dome-caucus-chair-says-building-support-funding-missile-shield-tough-slog/415546/",
+    "timestamp": "2026-08-20T19:55:04",
+    "source": "Defense One",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Golden Dome Caucus chair says building support, funding for missile shield is a \u2018tough slog\u2019",
+    "url": "https://www.defenseone.com/defense-systems/2026/08/golden-dome-caucus-chair-says-building-support-funding-missile-shield-tough-slog/415546/"
+  },
+  {
+    "id": "https://www.navalnews.com/naval-news/2026/08/babcock-and-danske-fladeskibe-deepen-anglo-danish-naval-partnership-on-future-frigates/",
+    "timestamp": "2026-08-20T19:52:54",
+    "source": "Naval News",
+    "platform": "rss",
+    "category": "naval",
+    "region": "global",
+    "text": "Babcock and Danske Fl\u00e5deskibe deepen Anglo-Danish naval partnership on future frigates",
+    "url": "https://www.navalnews.com/naval-news/2026/08/babcock-and-danske-fladeskibe-deepen-anglo-danish-naval-partnership-on-future-frigates/"
+  },
+  {
+    "id": "https://www.aljazeera.com/sports/2026/8/20/brook-makes-pakistan-pay-for-dropped-catch-as-england-dominate-first-test?traffic_source=rss",
+    "timestamp": "2026-08-20T19:45:08",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Brook makes Pakistan pay for dropped catch as England dominate first Test",
+    "url": "https://www.aljazeera.com/sports/2026/8/20/brook-makes-pakistan-pay-for-dropped-catch-as-england-dominate-first-test?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/inside-story/2026/8/20/could-us-sanctions-destroy-the-international-criminal-court?traffic_source=rss",
+    "timestamp": "2026-08-20T19:38:29",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Could US sanctions destroy the International Criminal Court?",
+    "url": "https://www.aljazeera.com/video/inside-story/2026/8/20/could-us-sanctions-destroy-the-international-criminal-court?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/economy/2026/8/20/walmart-sees-sales-drop-as-us-consumer-spending-retreats?traffic_source=rss",
+    "timestamp": "2026-08-20T19:18:38",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Walmart sees sales drop as US consumer spending retreats",
+    "url": "https://www.aljazeera.com/economy/2026/8/20/walmart-sees-sales-drop-as-us-consumer-spending-retreats?traffic_source=rss"
+  },
+  {
     "id": "https://euromaidanpress.com/2026/08/20/the-fedorov-protesters-lost-but-they-backed-a-man-for-what-he-built-not-what-he-promised-and-that-may-be-new-in-ukraine/",
     "timestamp": "2026-08-20T19:14:14",
     "source": "Euromaidan Press",
@@ -4798,205 +4998,5 @@
     "region": "ru",
     "text": "Fyodorov loses to Zelensky in Rada, but prepares new moves \u2014 news outlet",
     "url": "https://tass.com/world/2175257"
-  },
-  {
-    "id": "https://tass.com/sports/2175253",
-    "timestamp": "2026-08-19T15:57:26",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian athletes\u2019 problems with entry visas to last for no more than one year \u2014 minister",
-    "url": "https://tass.com/sports/2175253"
-  },
-  {
-    "id": "https://www.france24.com/en/europe/20260819-we-won-t-go-back-young-moroccan-migrants-ceuta-refuse-abandon-european-dream",
-    "timestamp": "2026-08-19T15:55:55",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "\u2018We won\u2019t go back\u2019: Young Moroccan migrants in Ceuta refuse to abandon their European dream",
-    "url": "https://www.france24.com/en/europe/20260819-we-won-t-go-back-young-moroccan-migrants-ceuta-refuse-abandon-european-dream"
-  },
-  {
-    "id": "https://www.france24.com/en/video/20260819-france-probes-tax-database-massive-cyberattack",
-    "timestamp": "2026-08-19T15:51:00",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "France probes tax database massive cyberattack",
-    "url": "https://www.france24.com/en/video/20260819-france-probes-tax-database-massive-cyberattack"
-  },
-  {
-    "id": "https://tass.com/politics/2175251",
-    "timestamp": "2026-08-19T15:50:32",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russia awaits interesting proposals from Vatican envoy \u2014 Federation Council",
-    "url": "https://tass.com/politics/2175251"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-08-19T15:50:22",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Israel opens up tenders for controversial West Bank settlement project",
-    "url": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/8/19/india-rout-pakistan-at-hockey-world-cup-2026-to-qualify-for-second-round?traffic_source=rss",
-    "timestamp": "2026-08-19T15:48:20",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "India rout Pakistan at Hockey World Cup 2026 to qualify for second round",
-    "url": "https://www.aljazeera.com/sports/2026/8/19/india-rout-pakistan-at-hockey-world-cup-2026-to-qualify-for-second-round?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/video/20260819-israeli-military-probes-killings-of-hind-rajab-and-palestinian-paramedics",
-    "timestamp": "2026-08-19T15:47:52",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Israeli military probes killings of Hind Rajab and Palestinian paramedics",
-    "url": "https://www.france24.com/en/video/20260819-israeli-military-probes-killings-of-hind-rajab-and-palestinian-paramedics"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/8/19/seven-decades-of-us-regime-change-efforts-what-have-they-achieved?traffic_source=rss",
-    "timestamp": "2026-08-19T15:46:05",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Seven decades of US regime change efforts: What have they achieved?",
-    "url": "https://www.aljazeera.com/news/2026/8/19/seven-decades-of-us-regime-change-efforts-what-have-they-achieved?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/8/19/israel-admits-firing-on-car-carrying-hind-rajab-symbol-of-gazas-suffering?traffic_source=rss",
-    "timestamp": "2026-08-19T15:44:02",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Israel admits firing on car carrying Hind Rajab, symbol of Gaza\u2019s suffering",
-    "url": "https://www.aljazeera.com/news/2026/8/19/israel-admits-firing-on-car-carrying-hind-rajab-symbol-of-gazas-suffering?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/video/20260819-libyan-government-in-tunisia-for-crisis-talks",
-    "timestamp": "2026-08-19T15:40:46",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Libyan government in Tunisia for crisis talks",
-    "url": "https://www.france24.com/en/video/20260819-libyan-government-in-tunisia-for-crisis-talks"
-  },
-  {
-    "id": "https://tass.com/emergencies/2175249",
-    "timestamp": "2026-08-19T15:37:54",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Ukrainian attack kills one, wounds two civilians in Belgorod Region",
-    "url": "https://tass.com/emergencies/2175249"
-  },
-  {
-    "id": "https://breakingdefense.com/2026/08/why-congress-will-be-in-a-hurry-after-august-recess/",
-    "timestamp": "2026-08-19T15:37:25",
-    "source": "Breaking Defense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Why Congress will be in a hurry after August recess",
-    "url": "https://breakingdefense.com/2026/08/why-congress-will-be-in-a-hurry-after-august-recess/"
-  },
-  {
-    "id": "https://taskandpurpose.com/news/reserve-national-guard-healthcare-expansion/",
-    "timestamp": "2026-08-19T15:36:55",
-    "source": "Task & Purpose",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Reserve, National Guard on long call-ups to get more access to healthcare",
-    "url": "https://taskandpurpose.com/news/reserve-national-guard-healthcare-expansion/"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/08/19/fedorov-instead-of-khmara-ukrainian-protesters-outside-parliament-greet-news-of-new-defense-ministers-appointment-with-disapproval/",
-    "timestamp": "2026-08-19T15:33:13",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "\u201cFedorov instead of Khmara\u201d: Ukrainian protesters outside parliament greet news of new defense minister\u2019s appointment with disapproval",
-    "url": "https://euromaidanpress.com/2026/08/19/fedorov-instead-of-khmara-ukrainian-protesters-outside-parliament-greet-news-of-new-defense-ministers-appointment-with-disapproval/"
-  },
-  {
-    "id": "https://www.gov.uk/government/publications/military-low-flying-mod-sponsored-air-exercises",
-    "timestamp": "2026-08-19T15:32:35",
-    "source": "UK MoD",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Guidance: Military low flying: MOD sponsored air exercises",
-    "url": "https://www.gov.uk/government/publications/military-low-flying-mod-sponsored-air-exercises"
-  },
-  {
-    "id": "https://www.gov.uk/government/publications/military-low-flying-raf-operational-low-flying-training-timetable",
-    "timestamp": "2026-08-19T15:31:43",
-    "source": "UK MoD",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Guidance: Military low flying: RAF operational low flying training timetable",
-    "url": "https://www.gov.uk/government/publications/military-low-flying-raf-operational-low-flying-training-timetable"
-  },
-  {
-    "id": "https://tass.com/world/2175241",
-    "timestamp": "2026-08-19T15:27:13",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "French politician calls Fyodorov's speech disaster for Zelensky",
-    "url": "https://tass.com/world/2175241"
-  },
-  {
-    "id": "https://www.france24.com/en/video/20260819-ang%C3%A9lique-kidjo-becomes-the-first-black-african-honored-with-a-star-on-the-hollywood-walk-of-fame",
-    "timestamp": "2026-08-19T15:25:04",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Ang\u00e9lique Kidjo becomes the first Black African honored with a star on the Hollywood Walk of Fame",
-    "url": "https://www.france24.com/en/video/20260819-ang%C3%A9lique-kidjo-becomes-the-first-black-african-honored-with-a-star-on-the-hollywood-walk-of-fame"
-  },
-  {
-    "id": "https://www.defensenews.com/news/pentagon-congress/2026/08/19/us-south-korea-to-cut-length-scope-of-military-drills-after-trump-order/",
-    "timestamp": "2026-08-19T15:23:40",
-    "source": "Defense News",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "US, South Korea to cut length, scope of military drills after Trump order",
-    "url": "https://www.defensenews.com/news/pentagon-congress/2026/08/19/us-south-korea-to-cut-length-scope-of-military-drills-after-trump-order/"
-  },
-  {
-    "id": "https://tass.com/world/2175239",
-    "timestamp": "2026-08-19T15:19:46",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "DPRK supports Russia's actions to protect sovereignty, WPK Central Committee official",
-    "url": "https://tass.com/world/2175239"
   }
 ]
