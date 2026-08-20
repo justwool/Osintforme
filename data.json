@@ -1,5 +1,35 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-08-20T04:46:32",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Russia launches missile strikes on Kyiv and surrounding region, killing at least eight",
+    "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://tass.com/economy/2175417",
+    "timestamp": "2026-08-20T04:35:22",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russia is China\u2019s most reliable supplier of energy sources \u2014 Russian senator",
+    "url": "https://tass.com/economy/2175417"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss",
+    "timestamp": "2026-08-20T04:31:10",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Trump vows \u2018economic warfare\u2019 on countries helping Iran",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss"
+  },
+  {
     "id": "https://www.france24.com/en/americas/20260820-nasa-satellite-rescue-mission-fails-swift-telescope-set-to-fall-to-earth",
     "timestamp": "2026-08-20T03:31:11",
     "source": "France24",
@@ -4968,35 +4998,5 @@
     "region": "global",
     "text": "Jailed businessman appears accused of bribes and cartel links",
     "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260818-jailed-businessman-appears-accused-of-bribes-and-cartel-links"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c39em89z4vmo?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-08-18T20:27:44",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Man in Chucky-style mask terrorises Philadelphia residents",
-    "url": "https://www.bbc.co.uk/news/articles/c39em89z4vmo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://taskandpurpose.com/news/marine-f18-crash-body-camera-footage/",
-    "timestamp": "2026-08-18T20:27:02",
-    "source": "Task & Purpose",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "\u2018Hey, buddy, I just crashed\u2019 \u2014 Body cam footage shows Marine after F-18 crash",
-    "url": "https://taskandpurpose.com/news/marine-f18-crash-body-camera-footage/"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/8/18/russian-missile-strike-kills-10-civilians-in-kharkiv?traffic_source=rss",
-    "timestamp": "2026-08-18T20:26:01",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Russian missile strike kills 10 civilians in Kharkiv",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/russian-missile-strike-kills-10-civilians-in-kharkiv?traffic_source=rss"
   }
 ]
