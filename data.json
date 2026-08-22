@@ -1,5 +1,45 @@
 [
   {
+    "id": "https://tass.com/emergencies/2176533",
+    "timestamp": "2026-08-22T19:40:57",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Magnitude 5.9 earthquake rattles Tokyo area",
+    "url": "https://tass.com/emergencies/2176533"
+  },
+  {
+    "id": "https://taskandpurpose.com/news/us-troops-more-than-750-wounded-iran/",
+    "timestamp": "2026-08-22T19:39:51",
+    "source": "Task & Purpose",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "More than 750 US troops wounded in Iran war, nearly half since July",
+    "url": "https://taskandpurpose.com/news/us-troops-more-than-750-wounded-iran/"
+  },
+  {
+    "id": "https://tass.com/politics/2176531",
+    "timestamp": "2026-08-22T19:36:36",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Fake news on Armenian NPP aimed at undermining ties with Russia \u2014 diplomat",
+    "url": "https://tass.com/politics/2176531"
+  },
+  {
+    "id": "https://tass.com/defense/2176529",
+    "timestamp": "2026-08-22T19:34:43",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russian military strikes trains delivering military cargo in two regions of Ukraine",
+    "url": "https://tass.com/defense/2176529"
+  },
+  {
     "id": "https://www.dw.com/en/cargo-vessel-sinks-off-indian-coast/a-78472142?maca=en-rss-en-all-1573-xml-mrss",
     "timestamp": "2026-08-22T19:24:00",
     "source": "DW World",
@@ -8,6 +48,26 @@
     "region": "global",
     "text": "Cargo vessel sinks off Indian coast",
     "url": "https://www.dw.com/en/cargo-vessel-sinks-off-indian-coast/a-78472142?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/8/22/envoy-says-israel-did-not-give-the-us-notice-before-strikes-on-syrian-base?traffic_source=rss",
+    "timestamp": "2026-08-22T19:18:02",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Envoy says Israel did not give the US notice before strikes on Syrian base",
+    "url": "https://www.aljazeera.com/news/2026/8/22/envoy-says-israel-did-not-give-the-us-notice-before-strikes-on-syrian-base?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-carney-tariffs-canada-ca?traffic_source=rss",
+    "timestamp": "2026-08-22T19:13:02",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Canada to match US tariffs \u201cdollar for dollar,\u201d PM Carney says",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-carney-tariffs-canada-ca?traffic_source=rss"
   },
   {
     "id": "https://www.france24.com/en/africa/20260822-togo-says-it-has-serious-evidence-against-detained-french-filmmakers",
@@ -4938,65 +4998,5 @@
     "region": "mena",
     "text": "Philippines floods fuel anger over alleged corruption",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/philippines-floods-fuel-anger-over-alleged-corruption?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/economy/2176051",
-    "timestamp": "2026-08-21T10:01:18",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "VK files lawsuit against Apple over removal of apps",
-    "url": "https://tass.com/economy/2176051"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/8/21/josh-tarling-cycling-vuelta-a-espana-spain-brother-finlay-died-crash?traffic_source=rss",
-    "timestamp": "2026-08-21T10:01:17",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Cyclist Josh Tarling to compete in Tour of Spain after brother\u2019s death",
-    "url": "https://www.aljazeera.com/sports/2026/8/21/josh-tarling-cycling-vuelta-a-espana-spain-brother-finlay-died-crash?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/world/2176049",
-    "timestamp": "2026-08-21T10:00:36",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Transit through Strait of Hormuz falls to low amid risks to vessels \u2014 Reuters",
-    "url": "https://tass.com/world/2176049"
-  },
-  {
-    "id": "https://www.theguardian.com/world/2026/aug/21/mexico-city-little-la-us-deportees",
-    "timestamp": "2026-08-21T10:00:31",
-    "source": "Guardian World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Strangers in their own land: Mexicans deported from Trump\u2019s America find refuge in \u2018Little LA\u2019",
-    "url": "https://www.theguardian.com/world/2026/aug/21/mexico-city-little-la-us-deportees"
-  },
-  {
-    "id": "https://tass.com/pressreview/2175943",
-    "timestamp": "2026-08-21T10:00:00",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Press review: US tightens Iran pressure while Russia expands nuclear power projects abroad",
-    "url": "https://tass.com/pressreview/2175943"
-  },
-  {
-    "id": "https://www.defenseone.com/business/2026/08/theres-no-shortcut-replenish-us-munitions-stockpiles/415558/",
-    "timestamp": "2026-08-21T10:00:00",
-    "source": "Defense One",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "There\u2019s no shortcut to replenish US munitions stockpiles",
-    "url": "https://www.defenseone.com/business/2026/08/theres-no-shortcut-replenish-us-munitions-stockpiles/415558/"
   }
 ]
