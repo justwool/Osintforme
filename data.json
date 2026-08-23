@@ -1,5 +1,35 @@
 [
   {
+    "id": "https://tass.com/world/2176731",
+    "timestamp": "2026-08-23T22:47:47",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "US Navy has announced development of ultra-long-range air-to-air missile",
+    "url": "https://tass.com/world/2176731"
+  },
+  {
+    "id": "https://tass.com/emergencies/2176729",
+    "timestamp": "2026-08-23T22:40:11",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Air defense repelling drone attack targeting industrial zone of Nevinnomyssk",
+    "url": "https://tass.com/emergencies/2176729"
+  },
+  {
+    "id": "https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens",
+    "timestamp": "2026-08-23T22:16:53",
+    "source": "Guardian World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Landslide at waste mound in Guinea capital kills 30, government says",
+    "url": "https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens"
+  },
+  {
     "id": "https://tass.com/politics/2176727",
     "timestamp": "2026-08-23T22:12:56",
     "source": "TASS English",
@@ -4968,35 +4998,5 @@
     "region": "global",
     "text": "'Masha and the Bear': Ukraine sanctions Russian cartoon",
     "url": "https://www.dw.com/en/masha-and-the-bear-ukraine-sanctions-russian-cartoon/a-78464406?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.airandspaceforces.com/space-command-to-relocate-200-personnel-to-alabama-this-year/",
-    "timestamp": "2026-08-21T18:58:39",
-    "source": "Air Force Mag",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Space Command to Relocate 200 Personnel to Alabama This Year",
-    "url": "https://www.airandspaceforces.com/space-command-to-relocate-200-personnel-to-alabama-this-year/"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-26-ghouta-chemical-attack-anniversary-sv?traffic_source=rss",
-    "timestamp": "2026-08-21T18:55:22",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Secret tunnel becomes museum for Syria chemical attack and siege of Ghouta",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-26-ghouta-chemical-attack-anniversary-sv?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/society/2176287",
-    "timestamp": "2026-08-21T18:53:28",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "More than 2,500 people die from Ebola in Democratic Republic of Congo \u2014 authorities",
-    "url": "https://tass.com/society/2176287"
   }
 ]
