@@ -1,5 +1,85 @@
 [
   {
+    "id": "https://tass.com/emergencies/2176587",
+    "timestamp": "2026-08-23T03:05:56",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "More than 20 people injured in earthquake near Tokyo",
+    "url": "https://tass.com/emergencies/2176587"
+  },
+  {
+    "id": "https://tass.com/politics/2176585",
+    "timestamp": "2026-08-23T03:00:20",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Protests in Ukraine unlikely to change regime, expert believes",
+    "url": "https://tass.com/politics/2176585"
+  },
+  {
+    "id": "https://tass.com/world/2176583",
+    "timestamp": "2026-08-23T02:40:13",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "New corruption scandal in Kiev directly involves Zelensky, former PM says",
+    "url": "https://tass.com/world/2176583"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/8/23/canada-to-hit-us-with-retaliatory-tariffs-as-trade-war-escalates?traffic_source=rss",
+    "timestamp": "2026-08-23T02:34:49",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Canada to hit US with retaliatory tariffs as trade war escalates",
+    "url": "https://www.aljazeera.com/news/2026/8/23/canada-to-hit-us-with-retaliatory-tariffs-as-trade-war-escalates?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/emergencies/2176581",
+    "timestamp": "2026-08-23T02:31:39",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Nearly 70 houses damaged, 15 people injured in fire and explosion in Taiwan \u2014 newspaper",
+    "url": "https://tass.com/emergencies/2176581"
+  },
+  {
+    "id": "https://tass.com/economy/2176579",
+    "timestamp": "2026-08-23T02:25:03",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Nvidia in $6 billion deal to create competitor to Chinese AI models \u2014 WSJ",
+    "url": "https://tass.com/economy/2176579"
+  },
+  {
+    "id": "https://tass.com/emergencies/2176575",
+    "timestamp": "2026-08-23T02:00:29",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "82,000 square meters of St. Petersburg warehouse on fire \u2014 Emergencies Ministry",
+    "url": "https://tass.com/emergencies/2176575"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/8/23/thousands-flee-sudans-kordofan-fighting-for-relative-safety-of-el-obeid?traffic_source=rss",
+    "timestamp": "2026-08-23T01:51:47",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Thousands flee Sudan\u2019s Kordofan fighting for relative safety of El Obeid",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/thousands-flee-sudans-kordofan-fighting-for-relative-safety-of-el-obeid?traffic_source=rss"
+  },
+  {
     "id": "https://tass.com/economy/2176573",
     "timestamp": "2026-08-23T01:39:11",
     "source": "TASS English",
@@ -1420,6 +1500,16 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/ebola-continues-to-spread-in-the-drc-as-16000-vaccine-doses-arrive?traffic_source=rss"
   },
   {
+    "id": "https://www.realcleardefense.com/2026/08/21/tehrans_cognitive_offensive_1201652.html",
+    "timestamp": "2026-08-22T11:08:14",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Tehran's Cognitive Offensive",
+    "url": "https://www.realcleardefense.com/2026/08/21/tehrans_cognitive_offensive_1201652.html"
+  },
+  {
     "id": "https://www.france24.com/en/video/20260822-antwerp-s-human-zoo-belgium-confronts-shame-of-colonial-past-1",
     "timestamp": "2026-08-22T11:05:57",
     "source": "France24",
@@ -1718,6 +1808,16 @@
     "region": "global",
     "text": "Russian strikes Zelensky's hometown in Ukraine, killing 15 people, wounding 130",
     "url": "https://www.france24.com/en/russian-strikes-zelensky-s-hometown-in-ukraine-killing-15-people-wounding-130"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/08/21/why_would_the_pentagon_want_to_hide_weapons_testing_results_1201678.html",
+    "timestamp": "2026-08-22T09:08:12",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Why Would the Pentagon Want To Hide Weapons Testing Results?",
+    "url": "https://www.realcleardefense.com/2026/08/21/why_would_the_pentagon_want_to_hide_weapons_testing_results_1201678.html"
   },
   {
     "id": "https://www.aljazeera.com/sports/2026/8/22/australia-bite-back-as-18-wickets-fall-on-day-one-of-second-bangladesh-test?traffic_source=rss",
@@ -4898,105 +4998,5 @@
     "region": "global",
     "text": "Two organisers of Hong Kong's Tiananmen vigils charged for inciting subversion",
     "url": "https://www.france24.com/en/video/20260821-two-organisers-of-hong-kong-s-tiananmen-vigils-charged-for-inciting-subversion"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/08/21/the_water_utility_hacks_are_a_warning_for_defense_contractors_1201733.html",
-    "timestamp": "2026-08-21T11:26:33",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "The Water Utility Hacks Are a Warning for Defense Contractors",
-    "url": "https://www.realcleardefense.com/2026/08/21/the_water_utility_hacks_are_a_warning_for_defense_contractors_1201733.html"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/08/21/saildrone_fires_jagm_missile_1201706.html",
-    "timestamp": "2026-08-21T11:26:32",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Saildrone Fires JAGM Missile",
-    "url": "https://www.realcleardefense.com/2026/08/21/saildrone_fires_jagm_missile_1201706.html"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/08/21/us_navy_leads_multinational_effort_for_next-gen_seasparrow_missile_1201682.html",
-    "timestamp": "2026-08-21T11:26:32",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "U.S. Navy Leads Multinational Effort for Next-Gen SeaSparrow Missile",
-    "url": "https://www.realcleardefense.com/2026/08/21/us_navy_leads_multinational_effort_for_next-gen_seasparrow_missile_1201682.html"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/08/21/navy_awards_contract_for_combat-proven_rusty_dagger_cruise_missile_1201724.html",
-    "timestamp": "2026-08-21T11:26:32",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Navy Awards Contract For Combat-Proven Rusty Dagger Cruise Missile",
-    "url": "https://www.realcleardefense.com/2026/08/21/navy_awards_contract_for_combat-proven_rusty_dagger_cruise_missile_1201724.html"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/08/21/army_network_needs_digital_twin_for_training_testing_cybersecurity_1201703.html",
-    "timestamp": "2026-08-21T11:26:32",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Army Network Needs Digital Twin for Training, Testing, Cybersecurity",
-    "url": "https://www.realcleardefense.com/2026/08/21/army_network_needs_digital_twin_for_training_testing_cybersecurity_1201703.html"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/08/21/us_air_force_flight_turns_back_after_russian_space_activity_warning_1201697.html",
-    "timestamp": "2026-08-21T11:26:32",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "U.S. Air Force Flight Turns Back After Russian Space Activity Warning",
-    "url": "https://www.realcleardefense.com/2026/08/21/us_air_force_flight_turns_back_after_russian_space_activity_warning_1201697.html"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/08/21/bae_debuts_helmet_testbed_for_sixth-gen_aircraft_pilots_1201698.html",
-    "timestamp": "2026-08-21T11:26:32",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "BAE Debuts Helmet Testbed for Sixth-Gen Aircraft Pilots",
-    "url": "https://www.realcleardefense.com/2026/08/21/bae_debuts_helmet_testbed_for_sixth-gen_aircraft_pilots_1201698.html"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/08/21/weary_uss_abraham_lincoln_leaves_middle_east_1201699.html",
-    "timestamp": "2026-08-21T11:26:32",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Weary USS Abraham Lincoln Leaves Middle East",
-    "url": "https://www.realcleardefense.com/2026/08/21/weary_uss_abraham_lincoln_leaves_middle_east_1201699.html"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/08/21/diu_tries_to_transition_tech_to_the_frontlines_faster_1201700.html",
-    "timestamp": "2026-08-21T11:26:32",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "DIU Tries To Transition Tech to the Frontlines Faster",
-    "url": "https://www.realcleardefense.com/2026/08/21/diu_tries_to_transition_tech_to_the_frontlines_faster_1201700.html"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/08/21/spacex_is_racking_up_wins_in_washington_1201725.html",
-    "timestamp": "2026-08-21T11:26:32",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "SpaceX Is Racking Up Wins in Washington",
-    "url": "https://www.realcleardefense.com/2026/08/21/spacex_is_racking_up_wins_in_washington_1201725.html"
   }
 ]
