@@ -1,5 +1,35 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-08-23T15:00:17",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "France links rise in drownings to heatwaves",
+    "url": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.france24.com/en/europe/20260823-thousands-rally-in-sweden-to-protest-climate-policies-ahead-of-general-election",
+    "timestamp": "2026-08-23T14:59:12",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Thousands rally in Sweden to protest climate policies ahead of general election",
+    "url": "https://www.france24.com/en/europe/20260823-thousands-rally-in-sweden-to-protest-climate-policies-ahead-of-general-election"
+  },
+  {
+    "id": "https://www.france24.com/en/zelensky-rejects-wartime-elections-saying-vote-would-split-ukraine",
+    "timestamp": "2026-08-23T14:49:42",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Zelensky rejects wartime elections, saying vote would 'split' Ukraine",
+    "url": "https://www.france24.com/en/zelensky-rejects-wartime-elections-saying-vote-would-split-ukraine"
+  },
+  {
     "id": "https://www.dw.com/en/iran-president-defends-deal-with-us-as-best-option-for-peace/a-78477486?maca=en-rss-en-all-1573-xml-mrss",
     "timestamp": "2026-08-23T14:49:00",
     "source": "DW World",
@@ -8,6 +38,16 @@
     "region": "global",
     "text": "Iran: President defends deal with US as best option for peace",
     "url": "https://www.dw.com/en/iran-president-defends-deal-with-us-as-best-option-for-peace/a-78477486?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.france24.com/en/zelensky-rejects-rival-s-call-for-elections-says-would-be-huge-risk-for-ukraine",
+    "timestamp": "2026-08-23T14:48:39",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Zelensky rejects rival's call for elections, says would be 'huge risk' for Ukraine",
+    "url": "https://www.france24.com/en/zelensky-rejects-rival-s-call-for-elections-says-would-be-huge-risk-for-ukraine"
   },
   {
     "id": "https://www.dw.com/en/could-russia-s-growing-fuel-crisis-help-end-the-ukraine-war/a-78472138?maca=en-rss-en-all-1573-xml-mrss",
@@ -4958,45 +4998,5 @@
     "region": "ru",
     "text": "Russia conducting 'surgical operation' in Ukraine to avoid harming civilians \u2014 TASS chief",
     "url": "https://tass.com/society/2176225"
-  },
-  {
-    "id": "https://tass.com/economy/2176223",
-    "timestamp": "2026-08-21T15:41:12",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian authorities optimizing refineries\u2019 maintenance schedules to stabilize fuel market",
-    "url": "https://tass.com/economy/2176223"
-  },
-  {
-    "id": "https://www.dw.com/en/iran-s-president-time-to-end-war-in-position-of-strength/a-78460267?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-08-21T15:37:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Iran's president: Time to end war in 'position of strength'",
-    "url": "https://www.dw.com/en/iran-s-president-time-to-end-war-in-position-of-strength/a-78460267?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://tass.com/defense/2176221",
-    "timestamp": "2026-08-21T15:35:48",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian forces hit Ukrainian naval patrol boat in port of Chernomorsk",
-    "url": "https://tass.com/defense/2176221"
-  },
-  {
-    "id": "https://www.france24.com/en/who-are-the-eight-candidates-running-to-succeed-antonio-guterres-as-un-chief",
-    "timestamp": "2026-08-21T15:32:13",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Who are the eight candidates running to succeed Antonio Guterres as UN chief?",
-    "url": "https://www.france24.com/en/who-are-the-eight-candidates-running-to-succeed-antonio-guterres-as-un-chief"
   }
 ]
