@@ -1,5 +1,455 @@
 [
   {
+    "id": "https://warontherocks.com/command-and-politics-in-the-war-between-moscow-and-kyiv/",
+    "timestamp": "2026-08-24T13:00:05",
+    "source": "War on the Rocks",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Command and Politics in the War Between Moscow and Kyiv",
+    "url": "https://warontherocks.com/command-and-politics-in-the-war-between-moscow-and-kyiv/"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/08/24/no-gps-no-landmarks-how-ukraines-drones-hunt-russian-spy-drones-far-out-over-the-black-sea/",
+    "timestamp": "2026-08-24T12:58:51",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "No GPS, no landmarks\u2014how Ukraine\u2019s drones hunt Russian spy drones far out over the Black Sea",
+    "url": "https://euromaidanpress.com/2026/08/24/no-gps-no-landmarks-how-ukraines-drones-hunt-russian-spy-drones-far-out-over-the-black-sea/"
+  },
+  {
+    "id": "https://tass.com/society/2177025",
+    "timestamp": "2026-08-24T12:55:07",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Chinese envoy hails Moscow Zoo for creating great atmosphere for pandas",
+    "url": "https://tass.com/society/2177025"
+  },
+  {
+    "id": "https://tass.com/politics/2177021",
+    "timestamp": "2026-08-24T12:51:41",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Kiev sees Leipzig drone incident pushing EU toward more arms supplies \u2014 intel agency",
+    "url": "https://tass.com/politics/2177021"
+  },
+  {
+    "id": "https://www.france24.com/en/middle-east/20260824-middle-east-live-iran-warns-of-a-harsh-response-to-anticipated-us-sanctions",
+    "timestamp": "2026-08-24T12:50:27",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Middle East live: Iran warns of a harsh response to anticipated US sanctions",
+    "url": "https://www.france24.com/en/middle-east/20260824-middle-east-live-iran-warns-of-a-harsh-response-to-anticipated-us-sanctions"
+  },
+  {
+    "id": "https://www.france24.com/en/guinea-searches-for-survivors-after-landfill-landslides-kill-30",
+    "timestamp": "2026-08-24T12:42:59",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Guinea searches for survivors after landfill landslides kill 30",
+    "url": "https://www.france24.com/en/guinea-searches-for-survivors-after-landfill-landslides-kill-30"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/08/24/ukraine-warehouse-strikes-ozon-shares-plunge/",
+    "timestamp": "2026-08-24T12:42:54",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Ukraine\u2019s warehouse campaign reaches Ozon\u2014shares plunge 29%",
+    "url": "https://euromaidanpress.com/2026/08/24/ukraine-warehouse-strikes-ozon-shares-plunge/"
+  },
+  {
+    "id": "https://tass.com/emergencies/2177017",
+    "timestamp": "2026-08-24T12:41:02",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Two civilians killed, nine wounded in Ukrainian drone attacks on LPR",
+    "url": "https://tass.com/emergencies/2177017"
+  },
+  {
+    "id": "https://tass.com/politics/2177019",
+    "timestamp": "2026-08-24T12:39:43",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russian Battlegroup North units push Ukrainian forces back from state border \u2014 top brass",
+    "url": "https://tass.com/politics/2177019"
+  },
+  {
+    "id": "https://tass.com/world/2177013",
+    "timestamp": "2026-08-24T12:36:42",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Iran\u2019s foreign policy now resembles simultaneously playing chess, poker \u2014 diplomat",
+    "url": "https://tass.com/world/2177013"
+  },
+  {
+    "id": "https://www.france24.com/en/us-sanctions-unlikely-to-get-tehran-to-bow-down-despite-effect-on-population",
+    "timestamp": "2026-08-24T12:34:40",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "US sanctions 'unlikely to get Tehran to bow down' despite effect on population",
+    "url": "https://www.france24.com/en/us-sanctions-unlikely-to-get-tehran-to-bow-down-despite-effect-on-population"
+  },
+  {
+    "id": "https://tass.com/world/2177011",
+    "timestamp": "2026-08-24T12:31:46",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Le Pen could lead rivals in French presidential election \u2014 poll",
+    "url": "https://tass.com/world/2177011"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/8/24/south-korea-says-us-cancelled-upcoming-joint-marine-exercises-over-iran-war?traffic_source=rss",
+    "timestamp": "2026-08-24T12:28:26",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "South Korea says US cancelled upcoming joint marine exercises over Iran war",
+    "url": "https://www.aljazeera.com/news/2026/8/24/south-korea-says-us-cancelled-upcoming-joint-marine-exercises-over-iran-war?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/world/2177009",
+    "timestamp": "2026-08-24T12:25:14",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "India hopes for Putin\u2019s participation in BRICS summit \u2014 top diplomat",
+    "url": "https://tass.com/world/2177009"
+  },
+  {
+    "id": "https://tass.com/world/2176999",
+    "timestamp": "2026-08-24T12:22:09",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "IN BRIEF: Armenian Prime Minister Nikol Pashinyan on EU membership bid, CSTO withdrawal",
+    "url": "https://tass.com/world/2176999"
+  },
+  {
+    "id": "https://tass.com/sports/2177005",
+    "timestamp": "2026-08-24T12:19:45",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russia wins silver in men\u2019s relay at 2026 UIPM Pentathlon World Championships",
+    "url": "https://tass.com/sports/2177005"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cj068q7qj19o?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-08-24T12:17:34",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "New Zealand to introduce bill for under-16s social media ban",
+    "url": "https://www.bbc.co.uk/news/articles/cj068q7qj19o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://tass.com/politics/2177001",
+    "timestamp": "2026-08-24T12:17:15",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Germany examines \u2018Ukrainian trace\u2019 in drone incident in Leipzig \u2014 Russia\u2019s SVR",
+    "url": "https://tass.com/politics/2177001"
+  },
+  {
+    "id": "https://tass.com/politics/2176997",
+    "timestamp": "2026-08-24T12:13:22",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russian troops liberate three communities in Ukraine operation over past day \u2014 top brass",
+    "url": "https://tass.com/politics/2176997"
+  },
+  {
+    "id": "https://tass.com/world/2176995",
+    "timestamp": "2026-08-24T12:09:17",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Visit by head of The Vatican's diplomatic service marks return of diplomacy \u2014 expert",
+    "url": "https://tass.com/world/2176995"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/8/24/activists-occupy-uk-aircraft-parts-factory-over-israel-links?traffic_source=rss",
+    "timestamp": "2026-08-24T12:07:44",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Activists occupy UK aircraft parts factory over Israel links",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/activists-occupy-uk-aircraft-parts-factory-over-israel-links?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/sports/2026/8/24/former-nba-player-enes-kanter-ejected-after-confrontation-with-wnbas-cloud?traffic_source=rss",
+    "timestamp": "2026-08-24T12:04:46",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Former NBA player Enes Kanter ejected after confrontation with WNBA\u2019s Cloud",
+    "url": "https://www.aljazeera.com/sports/2026/8/24/former-nba-player-enes-kanter-ejected-after-confrontation-with-wnbas-cloud?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/politics/2176991",
+    "timestamp": "2026-08-24T12:00:17",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "UK regularly adds fuel to fire of Ukrainian conflict \u2014 Kremlin",
+    "url": "https://tass.com/politics/2176991"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/8/24/israel-accused-of-using-kites-as-pretext-to-justify-escalating-gaza-attacks?traffic_source=rss",
+    "timestamp": "2026-08-24T11:57:26",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Israel accused of using kites as pretext to justify escalating Gaza attacks",
+    "url": "https://www.aljazeera.com/news/2026/8/24/israel-accused-of-using-kites-as-pretext-to-justify-escalating-gaza-attacks?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/world/2176989",
+    "timestamp": "2026-08-24T11:56:08",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Ukraine not to join EU while hostilities ongoing \u2014 Polish Foreign Ministry",
+    "url": "https://tass.com/world/2176989"
+  },
+  {
+    "id": "https://www.aljazeera.com/sports/2026/8/24/cambuur-fans-suffer-burns-as-fireworks-set-off-during-dutch-league-match?traffic_source=rss",
+    "timestamp": "2026-08-24T11:54:30",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Cambuur fans suffer burns as fireworks set off during Dutch league match",
+    "url": "https://www.aljazeera.com/sports/2026/8/24/cambuur-fans-suffer-burns-as-fireworks-set-off-during-dutch-league-match?traffic_source=rss"
+  },
+  {
+    "id": "https://www.theguardian.com/world/2026/aug/24/iran-vows-retaliate-countries-cooperate-fresh-us-sanctions",
+    "timestamp": "2026-08-24T11:53:10",
+    "source": "Guardian World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Iran vows to retaliate against countries that cooperate with fresh US sanctions",
+    "url": "https://www.theguardian.com/world/2026/aug/24/iran-vows-retaliate-countries-cooperate-fresh-us-sanctions"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/08/24/the_us_is_losing_the_information_war_1202046.html",
+    "timestamp": "2026-08-24T11:53:07",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "The U.S. Is Losing the Information War",
+    "url": "https://www.realcleardefense.com/2026/08/24/the_us_is_losing_the_information_war_1202046.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/08/24/saudi_arabias_new_maritime_coalition_is_a_warning_for_the_us_1202024.html",
+    "timestamp": "2026-08-24T11:49:51",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Saudi Arabia's New Maritime Coalition Is a Warning for the U.S.",
+    "url": "https://www.realcleardefense.com/2026/08/24/saudi_arabias_new_maritime_coalition_is_a_warning_for_the_us_1202024.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/08/24/trump_is_combining_geoeconomic_and_kinetic_warfare_against_iran_1202022.html",
+    "timestamp": "2026-08-24T11:49:50",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Trump is Combining Geoeconomic and Kinetic Warfare Against Iran",
+    "url": "https://www.realcleardefense.com/2026/08/24/trump_is_combining_geoeconomic_and_kinetic_warfare_against_iran_1202022.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/08/24/stepping_stones_to_security_strait_of_hormuz_1201979.html",
+    "timestamp": "2026-08-24T11:49:45",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Stepping Stones to Security: Strait of Hormuz",
+    "url": "https://www.realcleardefense.com/2026/08/24/stepping_stones_to_security_strait_of_hormuz_1201979.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/08/24/the_military_needs_data_rights_not_an_intellectual_property_grab_1202044.html",
+    "timestamp": "2026-08-24T11:49:44",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "The Military Needs Data Rights, Not an Intellectual Property Grab",
+    "url": "https://www.realcleardefense.com/2026/08/24/the_military_needs_data_rights_not_an_intellectual_property_grab_1202044.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/08/24/the_pentagons_cheapest_weapon_is_its_own_name_1202043.html",
+    "timestamp": "2026-08-24T11:49:43",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "The Pentagon's Cheapest Weapon Is Its Own Name",
+    "url": "https://www.realcleardefense.com/2026/08/24/the_pentagons_cheapest_weapon_is_its_own_name_1202043.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/08/24/the_hidden_slow_wet_and_deadliest_of_drones_1202030.html",
+    "timestamp": "2026-08-24T11:49:42",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "The Hidden, Slow, Wet, & Deadliest of Drones",
+    "url": "https://www.realcleardefense.com/2026/08/24/the_hidden_slow_wet_and_deadliest_of_drones_1202030.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/08/24/us_reaper_drones_near_end_of_the_line_in_a_new_war_era_1202027.html",
+    "timestamp": "2026-08-24T11:49:41",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "U.S. Reaper Drones Near End of the Line in a New War Era",
+    "url": "https://www.realcleardefense.com/2026/08/24/us_reaper_drones_near_end_of_the_line_in_a_new_war_era_1202027.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/08/24/army_cyber_defenses_need_dedicated_funding_for_ai_1202052.html",
+    "timestamp": "2026-08-24T11:49:40",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Army Cyber Defenses Need 'Dedicated Funding' for AI",
+    "url": "https://www.realcleardefense.com/2026/08/24/army_cyber_defenses_need_dedicated_funding_for_ai_1202052.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/08/24/the_us_navys_first_lcu_1700-class_vessel_1202045.html",
+    "timestamp": "2026-08-24T11:49:39",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "The U.S. Navy's First LCU 1700-Class Vessel",
+    "url": "https://www.realcleardefense.com/2026/08/24/the_us_navys_first_lcu_1700-class_vessel_1202045.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/08/24/an_army_modernization_problem_1202040.html",
+    "timestamp": "2026-08-24T11:49:39",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "An Army Modernization Problem",
+    "url": "https://www.realcleardefense.com/2026/08/24/an_army_modernization_problem_1202040.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/08/24/us_navy_hopes_fa-xx_award_comes_soon_as_august_deadline_nears_1202055.html",
+    "timestamp": "2026-08-24T11:49:38",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "U.S. Navy Hopes F/A-XX Award Comes Soon as August Deadline Nears",
+    "url": "https://www.realcleardefense.com/2026/08/24/us_navy_hopes_fa-xx_award_comes_soon_as_august_deadline_nears_1202055.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/08/24/us_navy_reveals_aim-424_malice_missile_for_f-35c_and_future_fa-xx_1202041.html",
+    "timestamp": "2026-08-24T11:49:37",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "U.S. Navy Reveals AIM-424 Malice Missile for F-35C and Future F/A-XX",
+    "url": "https://www.realcleardefense.com/2026/08/24/us_navy_reveals_aim-424_malice_missile_for_f-35c_and_future_fa-xx_1202041.html"
+  },
+  {
+    "id": "https://tass.com/world/2176987",
+    "timestamp": "2026-08-24T11:41:28",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "EU countries\u2019 depleted arsenals limit their ability to provide aid to Ukraine \u2014 portal",
+    "url": "https://tass.com/world/2176987"
+  },
+  {
+    "id": "https://www.aljazeera.com/gallery/2026/8/24/photos-towering-landfill-collapse-kills-30-in-guineas-capital-conakry?traffic_source=rss",
+    "timestamp": "2026-08-24T11:38:43",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Photos: Towering landfill collapse kills 30 in Guinea\u2019s capital, Conakry",
+    "url": "https://www.aljazeera.com/gallery/2026/8/24/photos-towering-landfill-collapse-kills-30-in-guineas-capital-conakry?traffic_source=rss"
+  },
+  {
+    "id": "https://www.gov.uk/government/statistics/announcements/training-and-exercise-deaths-in-the-uk-armed-forces-2026",
+    "timestamp": "2026-08-24T11:35:53",
+    "source": "UK MoD",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Official Statistics: Training and Exercise deaths in the UK armed forces: 2026",
+    "url": "https://www.gov.uk/government/statistics/announcements/training-and-exercise-deaths-in-the-uk-armed-forces-2026"
+  },
+  {
+    "id": "https://www.dw.com/en/star-violinist-anne-sophie-mutter-50-years-on-stage/a-78484739?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-08-24T11:35:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Star violinist Anne-Sophie Mutter: 50 years on stage",
+    "url": "https://www.dw.com/en/star-violinist-anne-sophie-mutter-50-years-on-stage/a-78484739?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.dw.com/en/us-to-unveil-new-iran-sanctions-says-war-entering-endgame/a-78483909?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-08-24T11:35:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "US to unveil new Iran sanctions, says war entering 'endgame'",
+    "url": "https://www.dw.com/en/us-to-unveil-new-iran-sanctions-says-war-entering-endgame/a-78483909?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
     "id": "https://www.dw.com/en/syria-sentences-assad-era-top-muslim-cleric-to-life-in-prison/a-78485344?maca=en-rss-en-all-1573-xml-mrss",
     "timestamp": "2026-08-24T11:32:00",
     "source": "DW World",
@@ -4548,455 +4998,5 @@
     "region": "ru",
     "text": "Lavrov sees West fighting against Russia, using `bodies\u2019 of Ukrainian regime",
     "url": "https://tass.com/politics/2176441"
-  },
-  {
-    "id": "https://www.aljazeera.com/opinions/2026/8/22/is-trump-making-latin-america-great-again?traffic_source=rss",
-    "timestamp": "2026-08-22T13:23:56",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Is Trump making Latin America great again?",
-    "url": "https://www.aljazeera.com/opinions/2026/8/22/is-trump-making-latin-america-great-again?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/politics/2176439",
-    "timestamp": "2026-08-22T13:14:15",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Putin says Russia developing despite all difficulties",
-    "url": "https://tass.com/politics/2176439"
-  },
-  {
-    "id": "https://tass.com/politics/2176437",
-    "timestamp": "2026-08-22T13:11:32",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Kiev\u2019s attacks increasingly barbaric amid worsening front line situation for it \u2014 Putin",
-    "url": "https://tass.com/politics/2176437"
-  },
-  {
-    "id": "https://www.aljazeera.com/features/2026/8/22/as-families-retrive-bodies-gaza-is-running-out-of-places-to-bury-the-dead?traffic_source=rss",
-    "timestamp": "2026-08-22T13:10:45",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "As families retrieve bodies, Gaza is running out of places to bury the dead",
-    "url": "https://www.aljazeera.com/features/2026/8/22/as-families-retrive-bodies-gaza-is-running-out-of-places-to-bury-the-dead?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/politics/2176435",
-    "timestamp": "2026-08-22T13:09:51",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Putin adamant upcoming Duma election will reaffirm nation\u2019s sustainability",
-    "url": "https://tass.com/politics/2176435"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/8/22/jewish-activists-push-back-against-israeli-settlers?traffic_source=rss",
-    "timestamp": "2026-08-22T12:51:55",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Jewish activists push back against Israeli settlers",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/jewish-activists-push-back-against-israeli-settlers?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/dr-congo-receives-ebola-vaccines-in-face-of-exponential-outbreak",
-    "timestamp": "2026-08-22T12:47:14",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "DR Congo receives Ebola vaccines in face of 'exponential' outbreak",
-    "url": "https://www.france24.com/en/dr-congo-receives-ebola-vaccines-in-face-of-exponential-outbreak"
-  },
-  {
-    "id": "https://www.france24.com/en/americas/20260822-contrary-to-law-us-judge-strikes-down-trump-s-75-country-visa-ban",
-    "timestamp": "2026-08-22T12:44:07",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "'Contrary to law': US judge strikes down Trump's 75-country visa ban",
-    "url": "https://www.france24.com/en/americas/20260822-contrary-to-law-us-judge-strikes-down-trump-s-75-country-visa-ban"
-  },
-  {
-    "id": "https://www.dw.com/en/chinese-robot-beats-usain-bolt-s-100m-world-record/a-78468749?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-08-22T12:41:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Chinese robot beats Usain Bolt's 100m world record",
-    "url": "https://www.dw.com/en/chinese-robot-beats-usain-bolt-s-100m-world-record/a-78468749?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/8/22/concacaf-ask-infantino-to-skip-youth-tournament-amid-fifa-governance-crisis?traffic_source=rss",
-    "timestamp": "2026-08-22T12:37:26",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "CONCACAF asks Infantino to skip youth event amid FIFA governance crisis",
-    "url": "https://www.aljazeera.com/sports/2026/8/22/concacaf-ask-infantino-to-skip-youth-tournament-amid-fifa-governance-crisis?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/100-uk-french-ex-ambassadors-accuse-israel-of-ethnic-cleansing-in-open-letter",
-    "timestamp": "2026-08-22T12:32:42",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "100 UK, French ex-ambassadors accuse Israel of ethnic cleansing in open letter",
-    "url": "https://www.france24.com/en/100-uk-french-ex-ambassadors-accuse-israel-of-ethnic-cleansing-in-open-letter"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/08/22/russia-has-burned-13-million-ukrainian-books-in-three-months-nearly-third-of-everything-country-printed-in-2025/",
-    "timestamp": "2026-08-22T12:31:18",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Russia has burned 13 million Ukrainian books in three months, nearly third of everything country printed in 2025",
-    "url": "https://euromaidanpress.com/2026/08/22/russia-has-burned-13-million-ukrainian-books-in-three-months-nearly-third-of-everything-country-printed-in-2025/"
-  },
-  {
-    "id": "https://www.aljazeera.com/features/longform/2026/8/22/the-berlin-wall-separated-his-family-its-legacy-still-endures?traffic_source=rss",
-    "timestamp": "2026-08-22T12:31:00",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "The Berlin Wall separated his family. Its legacy still endures",
-    "url": "https://www.aljazeera.com/features/longform/2026/8/22/the-berlin-wall-separated-his-family-its-legacy-still-endures?traffic_source=rss"
-  },
-  {
-    "id": "https://news.usni.org/2026/08/22/uss-abraham-lincoln-leaves-the-middle-east-after-almost-7-months",
-    "timestamp": "2026-08-22T12:30:27",
-    "source": "USNI News",
-    "platform": "rss",
-    "category": "naval",
-    "region": "global",
-    "text": "USS Abraham Lincoln Leaves the Middle East After Almost 7 Months",
-    "url": "https://news.usni.org/2026/08/22/uss-abraham-lincoln-leaves-the-middle-east-after-almost-7-months"
-  },
-  {
-    "id": "https://www.france24.com/en/100-former-french-and-british-ambassadors-accuse-israel-of-ethnic-cleansing",
-    "timestamp": "2026-08-22T12:30:20",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "100 former French and British ambassadors accuse Israel of ethnic cleansing",
-    "url": "https://www.france24.com/en/100-former-french-and-british-ambassadors-accuse-israel-of-ethnic-cleansing"
-  },
-  {
-    "id": "https://www.theguardian.com/world/2026/aug/22/man-leaves-young-son-mount-fuji-japan",
-    "timestamp": "2026-08-22T12:25:16",
-    "source": "Guardian World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Man leaves young son on Mount Fuji before ascending Japan\u2019s highest peak",
-    "url": "https://www.theguardian.com/world/2026/aug/22/man-leaves-young-son-mount-fuji-japan"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/8/22/russian-strikes-kill-6-people-in-ukraine-day-after-shopping-complex-attack?traffic_source=rss",
-    "timestamp": "2026-08-22T12:09:09",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Russian strikes kill 6 people in Ukraine, day after shopping complex attack",
-    "url": "https://www.aljazeera.com/news/2026/8/22/russian-strikes-kill-6-people-in-ukraine-day-after-shopping-complex-attack?traffic_source=rss"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/08/22/intelligence-putin-ordered-secret-biolab-built-on-island-so-protected-that-fishing-is-banned-and-its-own-guards-fear-infection/",
-    "timestamp": "2026-08-22T12:04:21",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Intelligence: Putin ordered secret biolab built on island, so protected that fishing is banned, and its own guards fear infection",
-    "url": "https://euromaidanpress.com/2026/08/22/intelligence-putin-ordered-secret-biolab-built-on-island-so-protected-that-fishing-is-banned-and-its-own-guards-fear-infection/"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/8/22/hundreds-of-children-take-part-in-swimming-class-on-gazas-shore?traffic_source=rss",
-    "timestamp": "2026-08-22T11:58:55",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Hundreds of children take part in swimming class on Gaza\u2019s shore",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/hundreds-of-children-take-part-in-swimming-class-on-gazas-shore?traffic_source=rss"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/08/22/russia-struck-kyiv-and-boryspil-its-main-airport-hub-with-ballistics-ukraine-cant-stop-without-us-patriots-days-before-independence-day/",
-    "timestamp": "2026-08-22T11:51:42",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Russia struck Kyiv and Boryspil, its main airport hub, twice in 24 hours with ballistics Ukraine can\u2019t stop without US Patriots, days before Independence Day",
-    "url": "https://euromaidanpress.com/2026/08/22/russia-struck-kyiv-and-boryspil-its-main-airport-hub-with-ballistics-ukraine-cant-stop-without-us-patriots-days-before-independence-day/"
-  },
-  {
-    "id": "https://www.dw.com/en/myanmar-military-airstrike-kills-14-at-buddhist-monastery-reports/a-78468290?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-08-22T11:49:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Myanmar military airstrike kills 14 at Buddhist monastery: reports",
-    "url": "https://www.dw.com/en/myanmar-military-airstrike-kills-14-at-buddhist-monastery-reports/a-78468290?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/08/22/why_america_is_running_out_of_missiles_1201884.html",
-    "timestamp": "2026-08-22T11:38:45",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Why America Is Running Out of Missiles",
-    "url": "https://www.realcleardefense.com/2026/08/22/why_america_is_running_out_of_missiles_1201884.html"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/8/22/usain-bolts-100m-record-broken-at-world-humanoid-robot-games?traffic_source=rss",
-    "timestamp": "2026-08-22T11:30:51",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Usain Bolt\u2019s 100m record broken at World Humanoid Robot Games",
-    "url": "https://www.aljazeera.com/sports/2026/8/22/usain-bolts-100m-record-broken-at-world-humanoid-robot-games?traffic_source=rss"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/08/22/china_isnt_winning_the_digital_order__yet_1201872.html",
-    "timestamp": "2026-08-22T11:19:14",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "China Isn't Winning the Digital Order \u2013 Yet",
-    "url": "https://www.realcleardefense.com/2026/08/22/china_isnt_winning_the_digital_order__yet_1201872.html"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/08/21/boeing_on_pace_to_replace_cracked_air_force_one_parts_1201730.html",
-    "timestamp": "2026-08-22T11:19:13",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Boeing On Pace to Replace Cracked Air Force One Parts",
-    "url": "https://www.realcleardefense.com/2026/08/21/boeing_on_pace_to_replace_cracked_air_force_one_parts_1201730.html"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/08/22/the_mecca_defense_agreement_1201880.html",
-    "timestamp": "2026-08-22T11:19:13",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "The Mecca Defense Agreement",
-    "url": "https://www.realcleardefense.com/2026/08/22/the_mecca_defense_agreement_1201880.html"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/08/22/minds_of_marines_marines_need_a_deep_education_of_war_1201875.html",
-    "timestamp": "2026-08-22T11:19:12",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Minds of Marines? Marines Need a Deep Education of War.",
-    "url": "https://www.realcleardefense.com/2026/08/22/minds_of_marines_marines_need_a_deep_education_of_war_1201875.html"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/08/22/is_america_now_a_barbary_pirate_1201877.html",
-    "timestamp": "2026-08-22T11:19:11",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Is America Now a Barbary Pirate?",
-    "url": "https://www.realcleardefense.com/2026/08/22/is_america_now_a_barbary_pirate_1201877.html"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/08/21/150_polymarket_wallets_may_have_traded_on_military_secrets_1201720.html",
-    "timestamp": "2026-08-22T11:19:11",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "150+ Polymarket Wallets May Have Traded on Military Secrets",
-    "url": "https://www.realcleardefense.com/2026/08/21/150_polymarket_wallets_may_have_traded_on_military_secrets_1201720.html"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/08/21/golden_dome_cost_estimate_draws_pentagon_pushback_1201708.html",
-    "timestamp": "2026-08-22T11:19:09",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Golden Dome Cost Estimate Draws Pentagon Pushback",
-    "url": "https://www.realcleardefense.com/2026/08/21/golden_dome_cost_estimate_draws_pentagon_pushback_1201708.html"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/08/22/americas_missing_military_revolution_1201874.html",
-    "timestamp": "2026-08-22T11:19:08",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "America's Missing Military Revolution",
-    "url": "https://www.realcleardefense.com/2026/08/22/americas_missing_military_revolution_1201874.html"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/08/22/the_press_is_covering_the_sparks_not_the_fire_1201876.html",
-    "timestamp": "2026-08-22T11:19:08",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "The Press Is Covering The Sparks, Not The Fire",
-    "url": "https://www.realcleardefense.com/2026/08/22/the_press_is_covering_the_sparks_not_the_fire_1201876.html"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/08/22/building_the_armys_human_advantage_1201873.html",
-    "timestamp": "2026-08-22T11:19:07",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Building the Army's Human Advantage",
-    "url": "https://www.realcleardefense.com/2026/08/22/building_the_armys_human_advantage_1201873.html"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/8/22/ebola-continues-to-spread-in-the-drc-as-16000-vaccine-doses-arrive?traffic_source=rss",
-    "timestamp": "2026-08-22T11:15:39",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Ebola continues to spread in the DRC as 16,000 vaccine doses arrive",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/ebola-continues-to-spread-in-the-drc-as-16000-vaccine-doses-arrive?traffic_source=rss"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/08/21/saildrone_fires_jagm_missile_1201706.html",
-    "timestamp": "2026-08-22T11:08:14",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Saildrone Fires JAGM Missile",
-    "url": "https://www.realcleardefense.com/2026/08/21/saildrone_fires_jagm_missile_1201706.html"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/08/21/tehrans_cognitive_offensive_1201652.html",
-    "timestamp": "2026-08-22T11:08:14",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Tehran's Cognitive Offensive",
-    "url": "https://www.realcleardefense.com/2026/08/21/tehrans_cognitive_offensive_1201652.html"
-  },
-  {
-    "id": "https://www.france24.com/en/video/20260822-antwerp-s-human-zoo-belgium-confronts-shame-of-colonial-past-1",
-    "timestamp": "2026-08-22T11:05:57",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Antwerp's 'human zoo': Belgium confronts shame of colonial past",
-    "url": "https://www.france24.com/en/video/20260822-antwerp-s-human-zoo-belgium-confronts-shame-of-colonial-past-1"
-  },
-  {
-    "id": "https://www.france24.com/en/tupac-murder-trial-cans-the-prosecution-use-the-defendant-s-words-against-him",
-    "timestamp": "2026-08-22T11:03:24",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Tupac murder trial: Cans the prosecution use the defendant's words against him?",
-    "url": "https://www.france24.com/en/tupac-murder-trial-cans-the-prosecution-use-the-defendant-s-words-against-him"
-  },
-  {
-    "id": "https://tass.com/emergencies/2176411",
-    "timestamp": "2026-08-22T11:03:24",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Moscow region targeted with more than 2,500 enemy drones over past week \u2014 mayor",
-    "url": "https://tass.com/emergencies/2176411"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/08/22/ukrainians-rally-11-cities-frozen-russian-assets/",
-    "timestamp": "2026-08-22T10:58:54",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Ukrainians rally in 11 cities worldwide on 22-24 August to demand Europe use Russia\u2019s frozen billions",
-    "url": "https://euromaidanpress.com/2026/08/22/ukrainians-rally-11-cities-frozen-russian-assets/"
-  },
-  {
-    "id": "https://www.france24.com/en/video/20260822-turkey-seeks-arrest-warrant-for-israeli-pm-netanyahu-fueling-tensions",
-    "timestamp": "2026-08-22T10:57:12",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Turkey seeks arrest warrant for Israeli PM Netanyahu, fueling tensions",
-    "url": "https://www.france24.com/en/video/20260822-turkey-seeks-arrest-warrant-for-israeli-pm-netanyahu-fueling-tensions"
-  },
-  {
-    "id": "https://tass.com/sports/2176409",
-    "timestamp": "2026-08-22T10:45:50",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian skating duo Shesheleva, Karnaukhov win final gold medal at ISU Juniors Grand Prix",
-    "url": "https://tass.com/sports/2176409"
-  },
-  {
-    "id": "https://www.france24.com/en/canada-says-will-match-new-us-50-tariffs-dollar-for-dollar",
-    "timestamp": "2026-08-22T10:40:26",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Canada says will match new US 50% tariffs 'dollar for dollar'",
-    "url": "https://www.france24.com/en/canada-says-will-match-new-us-50-tariffs-dollar-for-dollar"
-  },
-  {
-    "id": "https://www.france24.com/en/video/20260822-turkey-accuses-netanyahu-of-genocide-israeli-pm-calls-erdogan-antisemitic-dictator-1",
-    "timestamp": "2026-08-22T10:38:30",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Turkey accuses Netanyahu of 'genocide', Israeli PM calls Erdogan 'antisemitic dictator'",
-    "url": "https://www.france24.com/en/video/20260822-turkey-accuses-netanyahu-of-genocide-israeli-pm-calls-erdogan-antisemitic-dictator-1"
-  },
-  {
-    "id": "https://tass.com/defense/2176403",
-    "timestamp": "2026-08-22T10:31:37",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian forces strike Ukrainian military airfield, energy facilities over past day",
-    "url": "https://tass.com/defense/2176403"
   }
 ]
