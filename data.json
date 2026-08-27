@@ -1,5 +1,395 @@
 [
   {
+    "id": "https://tass.com/economy/2178111",
+    "timestamp": "2026-08-27T00:36:12",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russia\u2019s pivot to East became only option since special military operation \u2014 Kobyakov",
+    "url": "https://tass.com/economy/2178111"
+  },
+  {
+    "id": "https://tass.com/world/2178109",
+    "timestamp": "2026-08-27T00:31:05",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "No need to anticipate Armenia\u2019s withdrawal from CSTO \u2014 secretary general",
+    "url": "https://tass.com/world/2178109"
+  },
+  {
+    "id": "https://tass.com/emergencies/2178105",
+    "timestamp": "2026-08-27T00:22:28",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Wildfires in Algeria leave 12 people dead",
+    "url": "https://tass.com/emergencies/2178105"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/8/27/tim-curry-star-of-the-rocky-horror-picture-show-dies-at-age-80?traffic_source=rss",
+    "timestamp": "2026-08-27T00:07:14",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Tim Curry, star of The Rocky Horror Picture Show, dies at age 80",
+    "url": "https://www.aljazeera.com/news/2026/8/27/tim-curry-star-of-the-rocky-horror-picture-show-dies-at-age-80?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/liveblog/2026/8/27/iran-war-live-trump-not-in-hurry-over-talks-tehran-defends-us-dialogue?traffic_source=rss",
+    "timestamp": "2026-08-27T00:00:00",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Iran war live: Qatar PM to visit Tehran; Trump \u2018not in a hurry\u2019 over talks",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/8/27/iran-war-live-trump-not-in-hurry-over-talks-tehran-defends-us-dialogue?traffic_source=rss"
+  },
+  {
+    "id": "https://www.france24.com/en/africa/20260826-wildfires-algeria-severe-heatwave-sweeps-north-africa",
+    "timestamp": "2026-08-26T23:46:52",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Wildfires kill 12 in Algeria as severe heatwave sweeps North Africa",
+    "url": "https://www.france24.com/en/africa/20260826-wildfires-algeria-severe-heatwave-sweeps-north-africa"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/8/26/world-health-organization-says-ebola-outbreak-in-uganda-is-over?traffic_source=rss",
+    "timestamp": "2026-08-26T23:46:49",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "World Health Organization says Ebola outbreak in Uganda is over",
+    "url": "https://www.aljazeera.com/news/2026/8/26/world-health-organization-says-ebola-outbreak-in-uganda-is-over?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/world/2178101",
+    "timestamp": "2026-08-26T23:34:22",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "UN needs to rebuild trust with major donors \u2014 Grossi",
+    "url": "https://tass.com/world/2178101"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/8/26/spains-tomato-food-fight-leaves-thousands-covered-in-pulp?traffic_source=rss",
+    "timestamp": "2026-08-26T23:23:18",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Spain\u2019s tomato food fight leaves thousands covered in pulp",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/spains-tomato-food-fight-leaves-thousands-covered-in-pulp?traffic_source=rss"
+  },
+  {
+    "id": "https://www.france24.com/en/americas/20260826-fda-approves-new-drug-rasonque-to-treat-advanced-pancreatic-cancer",
+    "timestamp": "2026-08-26T23:09:02",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "FDA approves new drug Rasonque to treat advanced pancreatic cancer",
+    "url": "https://www.france24.com/en/americas/20260826-fda-approves-new-drug-rasonque-to-treat-advanced-pancreatic-cancer"
+  },
+  {
+    "id": "https://tass.com/world/2178099",
+    "timestamp": "2026-08-26T23:04:20",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Grossi says relations with Russia would be serious if elected UN secretary-general",
+    "url": "https://tass.com/world/2178099"
+  },
+  {
+    "id": "https://www.aljazeera.com/sports/2026/8/26/barcelona-vs-athletic-club-la-liga-prediction-teams-lineups?traffic_source=rss",
+    "timestamp": "2026-08-26T22:56:33",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Barcelona vs Athletic Club: La Liga \u2013 prediction, teams, lineups",
+    "url": "https://www.aljazeera.com/sports/2026/8/26/barcelona-vs-athletic-club-la-liga-prediction-teams-lineups?traffic_source=rss"
+  },
+  {
+    "id": "https://www.dw.com/en/france-car-rams-crowd-at-bus-stop-in-caen/a-78518309?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-08-26T22:56:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "France: Car rams crowd at bus stop in Caen",
+    "url": "https://www.dw.com/en/france-car-rams-crowd-at-bus-stop-in-caen/a-78518309?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://tass.com/emergencies/2178097",
+    "timestamp": "2026-08-26T22:54:32",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Death toll from Nepal flooding reaches 157",
+    "url": "https://tass.com/emergencies/2178097"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/8/26/us-judge-declines-minnesotas-effort-to-force-texas-to-extradite-ice-agent?traffic_source=rss",
+    "timestamp": "2026-08-26T22:49:49",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "US judge declines Minnesota\u2019s effort to force Texas to extradite ICE agent",
+    "url": "https://www.aljazeera.com/news/2026/8/26/us-judge-declines-minnesotas-effort-to-force-texas-to-extradite-ice-agent?traffic_source=rss"
+  },
+  {
+    "id": "https://www.twz.com/air/blackbeard-low-cost-hypersonic-missile-testing-on-the-f-a-18-super-hornet-has-begun",
+    "timestamp": "2026-08-26T22:42:15",
+    "source": "The Drive WarZone",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Blackbeard Low-Cost Hypersonic Missile Testing On The F/A-18 Super Hornet Has Begun",
+    "url": "https://www.twz.com/air/blackbeard-low-cost-hypersonic-missile-testing-on-the-f-a-18-super-hornet-has-begun"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/8/26/tribe-accuses-us-federal-agents-of-trespassing-on-indigenous-border-land?traffic_source=rss",
+    "timestamp": "2026-08-26T22:38:33",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Tribe accuses US federal agents of \u2018trespassing\u2019 on indigenous border land",
+    "url": "https://www.aljazeera.com/news/2026/8/26/tribe-accuses-us-federal-agents-of-trespassing-on-indigenous-border-land?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/world/2178093",
+    "timestamp": "2026-08-26T22:35:45",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Armenia\u2019s expulsion from CSTO up to supreme commanders \u2014 secretary general",
+    "url": "https://tass.com/world/2178093"
+  },
+  {
+    "id": "https://tass.com/defense/2178091",
+    "timestamp": "2026-08-26T22:07:05",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Ukrainian forces shell DPR populated areas 17 times over past day",
+    "url": "https://tass.com/defense/2178091"
+  },
+  {
+    "id": "https://www.aljazeera.com/sports/2026/8/26/mbappe-hat-trick-fires-real-madrid-to-4-1-win-against-sociedad?traffic_source=rss",
+    "timestamp": "2026-08-26T22:04:48",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Mbappe hat-trick fires Real Madrid to 4-1 win against Sociedad",
+    "url": "https://www.aljazeera.com/sports/2026/8/26/mbappe-hat-trick-fires-real-madrid-to-4-1-win-against-sociedad?traffic_source=rss"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/08/27/iskander-russia-fired-at-kyiv-oblast-in-july-held-62-american-parts-ukraine-has-now-named-more-than-100-russian-ballistics-producers-and-wants-its-allies-to-sanction-all-of-them/",
+    "timestamp": "2026-08-26T22:02:31",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Iskander Russia fired at Kyiv Oblast in July held 62 American parts. Ukraine has now named more than 100 Russian ballistics producers and wants its allies to sanction all of them",
+    "url": "https://euromaidanpress.com/2026/08/27/iskander-russia-fired-at-kyiv-oblast-in-july-held-62-american-parts-ukraine-has-now-named-more-than-100-russian-ballistics-producers-and-wants-its-allies-to-sanction-all-of-them/"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/clyq4ge4wk9o?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-08-26T22:02:18",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "US drug agency approves breakthrough treatment for pancreatic cancer",
+    "url": "https://www.bbc.co.uk/news/articles/clyq4ge4wk9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://tass.com/world/2178087",
+    "timestamp": "2026-08-26T22:02:16",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Armenia de facto not participating in CSTO discussions \u2014 secretary general",
+    "url": "https://tass.com/world/2178087"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/08/27/three-ukrainian-units-received-kit-that-makes-an-uncrewed-vehicle-out-of-whatever-theyre-already-driving/",
+    "timestamp": "2026-08-26T21:48:59",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Three Ukrainian units received kit that makes an uncrewed vehicle out of whatever they\u2019re already driving",
+    "url": "https://euromaidanpress.com/2026/08/27/three-ukrainian-units-received-kit-that-makes-an-uncrewed-vehicle-out-of-whatever-theyre-already-driving/"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/08/27/russo-ukrainian-war-day-1645-kyiv-sends-azov-commanders-to-defend-fortress-cities/",
+    "timestamp": "2026-08-26T21:39:45",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Russo-Ukrainian war, day 1645: Kyiv sends Azov commanders to defend fortress cities",
+    "url": "https://euromaidanpress.com/2026/08/27/russo-ukrainian-war-day-1645-kyiv-sends-azov-commanders-to-defend-fortress-cities/"
+  },
+  {
+    "id": "https://news.usni.org/2026/08/26/navy-planning-for-extended-carrier-deployments-as-iran-conflict-continues-cno-mcpon-say",
+    "timestamp": "2026-08-26T21:36:38",
+    "source": "USNI News",
+    "platform": "rss",
+    "category": "naval",
+    "region": "global",
+    "text": "Navy Planning for Extended Carrier Deployments as Iran Conflict Continues, CNO, MCPON Say",
+    "url": "https://news.usni.org/2026/08/26/navy-planning-for-extended-carrier-deployments-as-iran-conflict-continues-cno-mcpon-say"
+  },
+  {
+    "id": "https://tass.com/world/2178085",
+    "timestamp": "2026-08-26T21:35:24",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "UN efforts to resolve Ukraine, other crises not visible \u2014 Grossi",
+    "url": "https://tass.com/world/2178085"
+  },
+  {
+    "id": "https://www.militarytimes.com/veterans/2026/08/26/lawmakers-demand-va-bring-back-lgbtq-care-coordinators/",
+    "timestamp": "2026-08-26T21:33:21",
+    "source": "Military Times",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Lawmakers demand VA bring back LGBTQ+ care coordinators",
+    "url": "https://www.militarytimes.com/veterans/2026/08/26/lawmakers-demand-va-bring-back-lgbtq-care-coordinators/"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/8/26/meta-agrees-to-17b-settlement-in-landmark-child-safety-case?traffic_source=rss",
+    "timestamp": "2026-08-26T21:21:14",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Meta agrees to $17B settlement in landmark child-safety case",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/meta-agrees-to-17b-settlement-in-landmark-child-safety-case?traffic_source=rss"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/08/27/new-way-of-war/",
+    "timestamp": "2026-08-26T21:16:48",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Glide bomb then infiltrate. This is Russia\u2019s new way of war.",
+    "url": "https://euromaidanpress.com/2026/08/27/new-way-of-war/"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/08/27/lyman-salient/",
+    "timestamp": "2026-08-26T21:15:53",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Ukraine\u2019s secret counteroffensive is more successful than we thought",
+    "url": "https://euromaidanpress.com/2026/08/27/lyman-salient/"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/8/26/video-survivors-recount-moment-flash-floods-hit-nepal?traffic_source=rss",
+    "timestamp": "2026-08-26T21:15:45",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Video: Survivors recount moment flash floods hit Nepal",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/video-survivors-recount-moment-flash-floods-hit-nepal?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/8/26/26-08-sv-unrwa-responds-to-aljazeera-fm?traffic_source=rss",
+    "timestamp": "2026-08-26T21:09:57",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "UNRWA chief: Israel seeks to eliminate agency and Palestinian refugee issue",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/26-08-sv-unrwa-responds-to-aljazeera-fm?traffic_source=rss"
+  },
+  {
+    "id": "https://www.defensenews.com/news/your-military/2026/08/26/us-navy-eyes-port-stops-in-africa-india-after-uss-abraham-lincolns-marathon-deployment/",
+    "timestamp": "2026-08-26T21:08:19",
+    "source": "Defense News",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "US Navy eyes port stops in Africa, India after USS Abraham Lincoln\u2019s marathon deployment",
+    "url": "https://www.defensenews.com/news/your-military/2026/08/26/us-navy-eyes-port-stops-in-africa-india-after-uss-abraham-lincolns-marathon-deployment/"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/8/26/palestinians-demand-return-of-1700-bodies-held-by-israel?traffic_source=rss",
+    "timestamp": "2026-08-26T21:07:50",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Palestinians demand return of 1,700 bodies held by Israel",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/palestinians-demand-return-of-1700-bodies-held-by-israel?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/world/2178083",
+    "timestamp": "2026-08-26T21:06:22",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "UN says attacks on civilians unacceptable after Ukraine strikes bus in LPR",
+    "url": "https://tass.com/world/2178083"
+  },
+  {
+    "id": "https://www.twz.com/sea/how-marine-rifle-squads-plan-to-fight-future-wars-dominated-by-drones",
+    "timestamp": "2026-08-26T21:01:15",
+    "source": "The Drive WarZone",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "How Marine Rifle Squads Plan To Fight Future Wars Dominated By Drones",
+    "url": "https://www.twz.com/sea/how-marine-rifle-squads-plan-to-fight-future-wars-dominated-by-drones"
+  },
+  {
+    "id": "https://tass.com/world/2178081",
+    "timestamp": "2026-08-26T21:00:19",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "CIA, Pentagon chiefs hold meeting at White House \u2014 pool reporters",
+    "url": "https://tass.com/world/2178081"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/8/26/us-says-chinese-linked-hackers-attacked-nasa-senate-and-govt-agencies?traffic_source=rss",
+    "timestamp": "2026-08-26T20:59:10",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "US says Chinese-linked hackers attacked NASA, Senate, and gov\u2019t agencies",
+    "url": "https://www.aljazeera.com/news/2026/8/26/us-says-chinese-linked-hackers-attacked-nasa-senate-and-govt-agencies?traffic_source=rss"
+  },
+  {
     "id": "https://taskandpurpose.com/news/abbey-gate-award-upgrades/",
     "timestamp": "2026-08-26T20:51:14",
     "source": "Task & Purpose",
@@ -18,6 +408,26 @@
     "region": "global",
     "text": "US Army taps 5 firms to build on-base microreactors in nuclear energy push",
     "url": "https://www.defensenews.com/industry/techwatch/2026/08/26/us-army-taps-5-firms-to-build-on-base-microreactors-in-nuclear-energy-push/"
+  },
+  {
+    "id": "https://www.france24.com/en/south-africa-kingpin-and-the-corruption-commission",
+    "timestamp": "2026-08-26T20:48:12",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "South-Africa kingpin and the corruption commission",
+    "url": "https://www.france24.com/en/south-africa-kingpin-and-the-corruption-commission"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/8/26/nigeria-launches-hunt-for-hundreds-of-kidnapped-mosque-worshippers?traffic_source=rss",
+    "timestamp": "2026-08-26T20:45:35",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Nigeria launches hunt for hundreds of kidnapped mosque worshippers",
+    "url": "https://www.aljazeera.com/news/2026/8/26/nigeria-launches-hunt-for-hundreds-of-kidnapped-mosque-worshippers?traffic_source=rss"
   },
   {
     "id": "https://tass.com/world/2178079",
@@ -4588,415 +4998,5 @@
     "region": "global",
     "text": "Marine, actor, spy: \u2018Ortiz\u2019s War\u2019 depicts pursuits of World War II commando",
     "url": "https://www.militarytimes.com/veterans/military-history/2026/08/25/marine-actor-spy-ortizs-war-depicts-pursuits-of-world-war-ii-commando/"
-  },
-  {
-    "id": "https://tass.com/emergencies/2177607",
-    "timestamp": "2026-08-25T17:45:19",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Slovak police foils attempted arson at drone production facility",
-    "url": "https://tass.com/emergencies/2177607"
-  },
-  {
-    "id": "https://tass.com/economy/2177605",
-    "timestamp": "2026-08-25T17:42:53",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "EEF can't be called SPIEF's 'little brother' anymore \u2014 official",
-    "url": "https://tass.com/economy/2177605"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/8/25/fatah-dahlan-bloc-hold-reconciliation-talks-ahead-of-palestinian-elections?traffic_source=rss",
-    "timestamp": "2026-08-25T17:39:22",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Fatah, Dahlan bloc hold reconciliation talks ahead of Palestinian elections",
-    "url": "https://www.aljazeera.com/news/2026/8/25/fatah-dahlan-bloc-hold-reconciliation-talks-ahead-of-palestinian-elections?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/world/2177603",
-    "timestamp": "2026-08-25T17:36:52",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Iran has legitimate right to wield control over Strait of Hormuz \u2014 Vice President Aref",
-    "url": "https://tass.com/world/2177603"
-  },
-  {
-    "id": "https://www.theguardian.com/world/2026/aug/25/gang-attack-kenscoff-port-au-prince-haiti",
-    "timestamp": "2026-08-25T17:35:16",
-    "source": "Guardian World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "At least 47 killed and dozens kidnapped in gang attack near Haiti capital",
-    "url": "https://www.theguardian.com/world/2026/aug/25/gang-attack-kenscoff-port-au-prince-haiti"
-  },
-  {
-    "id": "https://tass.com/economy/2177601",
-    "timestamp": "2026-08-25T17:33:01",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian authorities will decide on extending ban on diesel exports soon",
-    "url": "https://tass.com/economy/2177601"
-  },
-  {
-    "id": "https://tass.com/sports/2177599",
-    "timestamp": "2026-08-25T17:31:18",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russia\u2019s Pomoshnikov wins gold at 2026 World Aquatics Junior Diving Championships",
-    "url": "https://tass.com/sports/2177599"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/8/25/spain-requests-emergency-funding-from-the-eu-over-ceuta-migrants?traffic_source=rss",
-    "timestamp": "2026-08-25T17:31:09",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Spain requests emergency funding from the EU over Ceuta migrants",
-    "url": "https://www.aljazeera.com/news/2026/8/25/spain-requests-emergency-funding-from-the-eu-over-ceuta-migrants?traffic_source=rss"
-  },
-  {
-    "id": "https://www.militarytimes.com/news/your-navy/2026/08/25/navy-instructs-military-personnel-and-families-to-scrub-social-media-of-personal-information/",
-    "timestamp": "2026-08-25T17:27:46",
-    "source": "Military Times",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Navy instructs troops, families to scrub social media of personal information",
-    "url": "https://www.militarytimes.com/news/your-navy/2026/08/25/navy-instructs-military-personnel-and-families-to-scrub-social-media-of-personal-information/"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/8/25/most-us-democrats-in-early-2028-primary-states-oppose-aid-to-israel-poll?traffic_source=rss",
-    "timestamp": "2026-08-25T17:27:01",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Most US Democrats in early 2028 primary states oppose aid to Israel: Poll",
-    "url": "https://www.aljazeera.com/news/2026/8/25/most-us-democrats-in-early-2028-primary-states-oppose-aid-to-israel-poll?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/society/2177595",
-    "timestamp": "2026-08-25T17:18:59",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russia\u2019s Il-76 aircraft prevents fire from spreading to populated areas in Serbia",
-    "url": "https://tass.com/society/2177595"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cddv71p4j2jo?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-08-25T17:12:21",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Germany's Merz warns attackers will 'pay price' after drone incident",
-    "url": "https://www.bbc.co.uk/news/articles/cddv71p4j2jo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.theguardian.com/world/2026/aug/25/china-us-sanctions-iran-oil",
-    "timestamp": "2026-08-25T17:11:21",
-    "source": "Guardian World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "China denounces US threat of sanctions over trade with Iran",
-    "url": "https://www.theguardian.com/world/2026/aug/25/china-us-sanctions-iran-oil"
-  },
-  {
-    "id": "https://www.france24.com/en/africa/20260825-nigeria-president-orders-rescue-after-mass-kidnapping-during-mosque-attack",
-    "timestamp": "2026-08-25T17:10:23",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Nigeria\u2019s president orders rescue operation after mass kidnapping at mosque",
-    "url": "https://www.france24.com/en/africa/20260825-nigeria-president-orders-rescue-after-mass-kidnapping-during-mosque-attack"
-  },
-  {
-    "id": "https://www.aljazeera.com/economy/2026/8/25/canada-hits-us-with-counter-tariffs-targeting-hundreds-of-products?traffic_source=rss",
-    "timestamp": "2026-08-25T17:08:54",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Canada hits US with counter-tariffs on more than 700 products",
-    "url": "https://www.aljazeera.com/economy/2026/8/25/canada-hits-us-with-counter-tariffs-targeting-hundreds-of-products?traffic_source=rss"
-  },
-  {
-    "id": "https://www.militarytimes.com/news/your-military/2026/08/25/wife-of-active-duty-army-sergeant-deported-to-honduras/",
-    "timestamp": "2026-08-25T17:04:00",
-    "source": "Military Times",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Wife of active-duty Army sergeant deported to Honduras",
-    "url": "https://www.militarytimes.com/news/your-military/2026/08/25/wife-of-active-duty-army-sergeant-deported-to-honduras/"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/8/25/us-judge-denies-ghislaine-maxwells-frivolous-bid-to-throw-out-conviction?traffic_source=rss",
-    "timestamp": "2026-08-25T17:02:29",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "US judge denies Ghislaine Maxwell\u2019s \u2018frivolous\u2019 bid to throw out conviction",
-    "url": "https://www.aljazeera.com/news/2026/8/25/us-judge-denies-ghislaine-maxwells-frivolous-bid-to-throw-out-conviction?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/economy/2177591",
-    "timestamp": "2026-08-25T17:01:57",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian stocks close in the green on Tuesday",
-    "url": "https://tass.com/economy/2177591"
-  },
-  {
-    "id": "https://tass.com/world/2177589",
-    "timestamp": "2026-08-25T16:58:48",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "France wants to restrict Ukraine\u2019s arms purchases from non EU countries \u2014 TV",
-    "url": "https://tass.com/world/2177589"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/8/25/carlos-baleba-joins-manchester-united-in-transfer-from-brighton?traffic_source=rss",
-    "timestamp": "2026-08-25T16:55:29",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Carlos Baleba joins Manchester United in transfer from Brighton",
-    "url": "https://www.aljazeera.com/sports/2026/8/25/carlos-baleba-joins-manchester-united-in-transfer-from-brighton?traffic_source=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c0rewkerdpyo?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-08-25T16:40:11",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Nigeria's president orders manhunt after kidnappers upload victim video",
-    "url": "https://www.bbc.co.uk/news/articles/c0rewkerdpyo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://tass.com/economy/2177585",
-    "timestamp": "2026-08-25T16:39:41",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Growing interest in Russia in Asia reflects credit on Eastern Economic Forum \u2014 official",
-    "url": "https://tass.com/economy/2177585"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/08/25/russias-attack-drones-now-jam-the-cheap-interceptors-sent-to-kill-them/",
-    "timestamp": "2026-08-25T16:39:38",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Russia\u2019s attack drones now jam the cheap interceptors sent to kill them",
-    "url": "https://euromaidanpress.com/2026/08/25/russias-attack-drones-now-jam-the-cheap-interceptors-sent-to-kill-them/"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/8/25/sanctions-or-missiles-why-gulf-may-not-relish-trumps-new-iran-approach?traffic_source=rss",
-    "timestamp": "2026-08-25T16:39:24",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Sanctions or missiles? Why Gulf may not relish Trump\u2019s new Iran approach",
-    "url": "https://www.aljazeera.com/news/2026/8/25/sanctions-or-missiles-why-gulf-may-not-relish-trumps-new-iran-approach?traffic_source=rss"
-  },
-  {
-    "id": "https://www.twz.com/sea/ukraines-newest-usv-is-a-super-sized-mothership-packed-with-anti-drone-interceptors",
-    "timestamp": "2026-08-25T16:38:51",
-    "source": "The Drive WarZone",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Ukraine\u2019s Newest USV Is A Super Sized Mothership Packed With Anti-Drone Interceptors",
-    "url": "https://www.twz.com/sea/ukraines-newest-usv-is-a-super-sized-mothership-packed-with-anti-drone-interceptors"
-  },
-  {
-    "id": "https://tass.com/science/2177583",
-    "timestamp": "2026-08-25T16:35:26",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "In case of catastrophe on Earth the Moon could be humanity's salvation \u2014 Roscosmos CEO",
-    "url": "https://tass.com/science/2177583"
-  },
-  {
-    "id": "https://www.defenseone.com/policy/2026/08/hegseth-civilian-protection-axed/415621/",
-    "timestamp": "2026-08-25T16:35:21",
-    "source": "Defense One",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Senior officers advised Hegseth to keep civilian-protection program. He axed it anyway",
-    "url": "https://www.defenseone.com/policy/2026/08/hegseth-civilian-protection-axed/415621/"
-  },
-  {
-    "id": "https://www.france24.com/en/video/20260825-japan-1-800-people-pull-360-tonne-hirosaki-castle-keep-by-hand",
-    "timestamp": "2026-08-25T16:33:12",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Japan: 1,800 people pull 360-tonne Hirosaki Castle keep by hand",
-    "url": "https://www.france24.com/en/video/20260825-japan-1-800-people-pull-360-tonne-hirosaki-castle-keep-by-hand"
-  },
-  {
-    "id": "https://tass.com/world/2177581",
-    "timestamp": "2026-08-25T16:33:08",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "US lawmaker Luna lauds reports about CIA chief\u2019s trip to Russia",
-    "url": "https://tass.com/world/2177581"
-  },
-  {
-    "id": "https://tass.com/emergencies/2177579",
-    "timestamp": "2026-08-25T16:31:21",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Death toll from fire at gas plant in Siberia rises to three, 146 people injured",
-    "url": "https://tass.com/emergencies/2177579"
-  },
-  {
-    "id": "https://tass.com/world/2177577",
-    "timestamp": "2026-08-25T16:29:12",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Dodon does not rule out provocations at Russia-protected ammunition depots in Transnistria",
-    "url": "https://tass.com/world/2177577"
-  },
-  {
-    "id": "https://www.aljazeera.com/gallery/2026/8/25/photos-rohingya-refugees-rally-nine-years-after-myanmar-exodus?traffic_source=rss",
-    "timestamp": "2026-08-25T16:28:01",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Photos: Rohingya refugees rally nine years after Myanmar exodus",
-    "url": "https://www.aljazeera.com/gallery/2026/8/25/photos-rohingya-refugees-rally-nine-years-after-myanmar-exodus?traffic_source=rss"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/08/25/ukrainian-drone-maker-is-pitching-its-new-five-inch-strike-fpv-as-assault-squads-mortar/",
-    "timestamp": "2026-08-25T16:24:32",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Ukrainian drone maker is pitching its new five-inch strike FPV as assault squad\u2019s mortar",
-    "url": "https://euromaidanpress.com/2026/08/25/ukrainian-drone-maker-is-pitching-its-new-five-inch-strike-fpv-as-assault-squads-mortar/"
-  },
-  {
-    "id": "https://www.dw.com/en/cia-director-in-moscow-for-meetings-us-media-reports/a-78500042?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-08-25T16:23:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "CIA director in Moscow for meetings \u2014 US media reports",
-    "url": "https://www.dw.com/en/cia-director-in-moscow-for-meetings-us-media-reports/a-78500042?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://tass.com/sports/2177575",
-    "timestamp": "2026-08-25T16:19:25",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russia wins silver in girls 3-m synchro at 2026 World Aquatics Junior Diving Championships",
-    "url": "https://tass.com/sports/2177575"
-  },
-  {
-    "id": "https://www.france24.com/en/video/20260825-cyberattacks-target-french-government-agencies",
-    "timestamp": "2026-08-25T16:16:17",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Cyberattacks target French government agencies",
-    "url": "https://www.france24.com/en/video/20260825-cyberattacks-target-french-government-agencies"
-  },
-  {
-    "id": "https://www.france24.com/en/americas/20260825-canada-strikes-back-trump-with-retaliatory-tariffs-us-trade-war-escalates",
-    "timestamp": "2026-08-25T16:15:47",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Canada strikes back at Trump with retaliatory tariffs as US trade war escalates",
-    "url": "https://www.france24.com/en/americas/20260825-canada-strikes-back-trump-with-retaliatory-tariffs-us-trade-war-escalates"
-  },
-  {
-    "id": "https://tass.com/world/2177573",
-    "timestamp": "2026-08-25T16:15:29",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Nearly 20 seafarers killed while crossing Hormuz since Iran war started in February",
-    "url": "https://tass.com/world/2177573"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-08-25T16:08:26",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "CIA chief in Moscow for unannounced talks, US media reports",
-    "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://tass.com/sports/2177569",
-    "timestamp": "2026-08-25T16:05:06",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Sixteen Russian athletes to participate in 2026 ICF Canoe Sprint World Championships",
-    "url": "https://tass.com/sports/2177569"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/8/25/students-clash-with-police-in-india-in-a-new-protest-over-exam-leaks?traffic_source=rss",
-    "timestamp": "2026-08-25T16:04:25",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Students clash with police in India in a new protest over exam leaks",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/students-clash-with-police-in-india-in-a-new-protest-over-exam-leaks?traffic_source=rss"
   }
 ]
