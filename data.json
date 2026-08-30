@@ -1,5 +1,405 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-08-30T08:08:30",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Iceland on track to reject EU referendum as counting nears end",
+    "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-08-30T08:06:13",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Manhunt after one killed and five injured in Swiss shooting, police say",
+    "url": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/8/30/one-person-killed-five-wounded-in-shooting-at-rave-in-switzerland?traffic_source=rss",
+    "timestamp": "2026-08-30T08:02:35",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "One person killed, five wounded in shooting at rave in Switzerland",
+    "url": "https://www.aljazeera.com/news/2026/8/30/one-person-killed-five-wounded-in-shooting-at-rave-in-switzerland?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/8/30/iceland-rejects-eu-membership-plan-in-referendum?traffic_source=rss",
+    "timestamp": "2026-08-30T07:57:18",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Iceland rejects EU membership plan in referendum",
+    "url": "https://www.aljazeera.com/news/2026/8/30/iceland-rejects-eu-membership-plan-in-referendum?traffic_source=rss"
+  },
+  {
+    "id": "https://www.dw.com/en/iceland-s-eu-referendum-edges-closer-to-no/a-78560633?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-08-30T07:42:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Iceland's EU referendum edges closer to 'no'",
+    "url": "https://www.dw.com/en/iceland-s-eu-referendum-edges-closer-to-no/a-78560633?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.aljazeera.com/opinions/2026/8/30/the-toxic-waste-of-the-gaza-war-has-reached-israel?traffic_source=rss",
+    "timestamp": "2026-08-30T07:41:08",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "The toxic waste of the Gaza war has reached Israel",
+    "url": "https://www.aljazeera.com/opinions/2026/8/30/the-toxic-waste-of-the-gaza-war-has-reached-israel?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/8/30/nepal-rescuers-drill-into-tunnels-in-bid-to-reach-trapped-workers?traffic_source=rss",
+    "timestamp": "2026-08-30T07:37:44",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Nepal rescuers drill into tunnels in bid to reach trapped workers",
+    "url": "https://www.aljazeera.com/news/2026/8/30/nepal-rescuers-drill-into-tunnels-in-bid-to-reach-trapped-workers?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/defense/2179421",
+    "timestamp": "2026-08-30T07:32:56",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russian air defenses down 494 Ukrainian drones overnight \u2014 top brass",
+    "url": "https://tass.com/defense/2179421"
+  },
+  {
+    "id": "https://tass.com/world/2179427",
+    "timestamp": "2026-08-30T07:16:45",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "CIA chief proposes Putin-Trump-Zelensky meeting during visit to Moscow \u2014 Axios",
+    "url": "https://tass.com/world/2179427"
+  },
+  {
+    "id": "https://www.aljazeera.com/sports/2026/8/30/ethiopias-gobena-kenyas-olympic-champion-jepchirchir-win-sydney-marathon?traffic_source=rss",
+    "timestamp": "2026-08-30T07:15:11",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Ethiopia\u2019s Gobena, Kenya\u2019s Olympic champion Jepchirchir win Sydney Marathon",
+    "url": "https://www.aljazeera.com/sports/2026/8/30/ethiopias-gobena-kenyas-olympic-champion-jepchirchir-win-sydney-marathon?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/sports/2026/8/30/messi-scores-four-goals-inspires-inter-miami-to-7-1-win-over-montreal?traffic_source=rss",
+    "timestamp": "2026-08-30T07:14:37",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Messi scores four goals, inspires Inter Miami to 7-1 win over Montreal",
+    "url": "https://www.aljazeera.com/sports/2026/8/30/messi-scores-four-goals-inspires-inter-miami-to-7-1-win-over-montreal?traffic_source=rss"
+  },
+  {
+    "id": "https://www.dw.com/en/nepal-issues-fresh-flood-warning-as-3-000-still-missing/a-78561068?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-08-30T06:59:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Nepal issues fresh flood warning as 3,000 still missing",
+    "url": "https://www.dw.com/en/nepal-issues-fresh-flood-warning-as-3-000-still-missing/a-78561068?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.france24.com/en/europe/20260830-one-killed-five-injured-in-shooting-at-rave-in-switzerland",
+    "timestamp": "2026-08-30T06:52:02",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "At least one dead, five injured in shooting at rave in Switzerland",
+    "url": "https://www.france24.com/en/europe/20260830-one-killed-five-injured-in-shooting-at-rave-in-switzerland"
+  },
+  {
+    "id": "https://www.dw.com/en/swiss-police-report-1-dead-5-injured-in-aarau-shooting/a-78561106?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-08-30T06:49:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Swiss police report 1 dead, 5 injured  in Aarau shooting",
+    "url": "https://www.dw.com/en/swiss-police-report-1-dead-5-injured-in-aarau-shooting/a-78561106?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://tass.com/politics/2179423",
+    "timestamp": "2026-08-30T06:35:23",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Putin congratulates Lukashenko on his birthday",
+    "url": "https://tass.com/politics/2179423"
+  },
+  {
+    "id": "https://tass.com/world/2179417",
+    "timestamp": "2026-08-30T06:00:51",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "French journalist says over third of French mercenaries fighting for Ukraine are neo-Nazis",
+    "url": "https://tass.com/world/2179417"
+  },
+  {
+    "id": "https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid",
+    "timestamp": "2026-08-30T06:00:48",
+    "source": "Guardian World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Humanitarian crisis worsening in refuge for civilians fleeing Sudan\u2019s civil war",
+    "url": "https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid"
+  },
+  {
+    "id": "https://tass.com/world/2179415",
+    "timestamp": "2026-08-30T06:00:00",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Finnish citizens outraged by their president\u2019s policy toward Russia \u2014 politician",
+    "url": "https://tass.com/world/2179415"
+  },
+  {
+    "id": "https://www.aljazeera.com/sports/2026/8/30/hrgovic-wins-ibf-world-heavyweight-boxing-title-as-itauma-hospitalised?traffic_source=rss",
+    "timestamp": "2026-08-30T05:58:28",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Hrgovic wins IBF world heavyweight boxing title as Itauma hospitalised",
+    "url": "https://www.aljazeera.com/sports/2026/8/30/hrgovic-wins-ibf-world-heavyweight-boxing-title-as-itauma-hospitalised?traffic_source=rss"
+  },
+  {
+    "id": "https://www.france24.com/en/asia-pacific/20260830-putin-xi-set-for-central-asia-summit-as-russia-china-seek-to-counter-western-influence",
+    "timestamp": "2026-08-30T05:51:53",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Putin, Xi set for Central Asia summit as Russia, China seek to counter Western influence",
+    "url": "https://www.france24.com/en/asia-pacific/20260830-putin-xi-set-for-central-asia-summit-as-russia-china-seek-to-counter-western-influence"
+  },
+  {
+    "id": "https://www.france24.com/en/americas/20260830-nasa-set-to-launch-roman-telescope-to-map-the-universe",
+    "timestamp": "2026-08-30T05:26:07",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "NASA set to launch Roman telescope to map the universe",
+    "url": "https://www.france24.com/en/americas/20260830-nasa-set-to-launch-roman-telescope-to-map-the-universe"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/08/30/ukrainian-ground-robot-maker-has-moved-into-air-ratels-first-strike-drone-flies-30-kilometers-on-starlink-link/",
+    "timestamp": "2026-08-30T05:14:02",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Ukrainian ground-robot maker has moved into air: Ratel\u2019s first strike drone flies 30 kilometers on Starlink link",
+    "url": "https://euromaidanpress.com/2026/08/30/ukrainian-ground-robot-maker-has-moved-into-air-ratels-first-strike-drone-flies-30-kilometers-on-starlink-link/"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/8/30/mapping-the-iran-wars-strikes-on-gulf-energy-and-what-comes-next-for-oil?traffic_source=rss",
+    "timestamp": "2026-08-30T05:09:11",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Mapping Iran war\u2019s strikes on Gulf energy \u2013 and what comes next for oil",
+    "url": "https://www.aljazeera.com/news/2026/8/30/mapping-the-iran-wars-strikes-on-gulf-energy-and-what-comes-next-for-oil?traffic_source=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-08-30T04:59:56",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "WhatsApp chat used to send cash for crime and extremism",
+    "url": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.france24.com/en/asia-pacific/20260830-nepal-tibet-floods-live-at-least-750-dead-as-death-toll-rises",
+    "timestamp": "2026-08-30T04:59:36",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Nepal-Tibet floods live: At least 750 dead as rising water levels hamper rescue efforts",
+    "url": "https://www.france24.com/en/asia-pacific/20260830-nepal-tibet-floods-live-at-least-750-dead-as-death-toll-rises"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/8/30/us-police-officer-pulls-hair-throws-punches-during-arrest-in-arkansas?traffic_source=rss",
+    "timestamp": "2026-08-30T04:50:17",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "US police officer pulls hair, throws punches during arrest in Arkansas",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/us-police-officer-pulls-hair-throws-punches-during-arrest-in-arkansas?traffic_source=rss"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/08/30/russo-ukrainian-war-day-1648-russia-hunts-ukraines-grain-trains/",
+    "timestamp": "2026-08-30T04:31:20",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Russo-Ukrainian war, day 1648: Russia hunts Ukraine\u2019s grain trains",
+    "url": "https://euromaidanpress.com/2026/08/30/russo-ukrainian-war-day-1648-russia-hunts-ukraines-grain-trains/"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/8/30/protests-as-indias-hindu-nationalists-take-centre-stage-in-new-york?traffic_source=rss",
+    "timestamp": "2026-08-30T04:31:06",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Protests as India\u2019s Hindu nationalists take centre stage in New York",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/protests-as-indias-hindu-nationalists-take-centre-stage-in-new-york?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/8/30/air-raids-conscripts-and-china-how-myanmars-military-is-regaining-ground?traffic_source=rss",
+    "timestamp": "2026-08-30T04:28:10",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Air raids, conscripts and China: How Myanmar\u2019s military is regaining ground",
+    "url": "https://www.aljazeera.com/news/2026/8/30/air-raids-conscripts-and-china-how-myanmars-military-is-regaining-ground?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/emergencies/2179413",
+    "timestamp": "2026-08-30T04:22:01",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Nepal flood death toll reaches 734, disaster agency says",
+    "url": "https://tass.com/emergencies/2179413"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/8/30/sudanese-repair-roads-by-hand-in-darfur-to-improve-emergency-access?traffic_source=rss",
+    "timestamp": "2026-08-30T04:05:04",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Sudanese repair roads by hand in Darfur to improve emergency access",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/sudanese-repair-roads-by-hand-in-darfur-to-improve-emergency-access?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/8/30/venezuela-says-it-retains-sovereignty-following-us-oil-deal?traffic_source=rss",
+    "timestamp": "2026-08-30T03:51:26",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Venezuela says it retains \u2018sovereignty\u2019 following US oil deal",
+    "url": "https://www.aljazeera.com/news/2026/8/30/venezuela-says-it-retains-sovereignty-following-us-oil-deal?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/politics/2179411",
+    "timestamp": "2026-08-30T03:37:00",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russia's trust in Switzerland as talks venue is nearly exhausted \u2014 envoy",
+    "url": "https://tass.com/politics/2179411"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/8/30/us-deports-relative-of-afghans-who-aided-military-to-africa?traffic_source=rss",
+    "timestamp": "2026-08-30T03:10:06",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "US deports relative of Afghans who aided military to Africa",
+    "url": "https://www.aljazeera.com/news/2026/8/30/us-deports-relative-of-afghans-who-aided-military-to-africa?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/economy/2179409",
+    "timestamp": "2026-08-30T03:05:01",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Ukraine's national debt grows by $4-5 bln each month",
+    "url": "https://tass.com/economy/2179409"
+  },
+  {
+    "id": "https://tass.com/science/2179407",
+    "timestamp": "2026-08-30T02:40:01",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "NASA postpones Crew-13 launch with Russian cosmonaut",
+    "url": "https://tass.com/science/2179407"
+  },
+  {
+    "id": "https://tass.com/emergencies/2179405",
+    "timestamp": "2026-08-30T02:00:00",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Japan's highest heavy rain alert covers 244,000 residents",
+    "url": "https://tass.com/emergencies/2179405"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/8/30/bullet-riddled-car-on-display-in-berlin-to-remember-hind-rajab?traffic_source=rss",
+    "timestamp": "2026-08-30T01:43:52",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Bullet-riddled car on display in Berlin to remember Hind Rajab",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/bullet-riddled-car-on-display-in-berlin-to-remember-hind-rajab?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/emergencies/2179403",
+    "timestamp": "2026-08-30T01:36:00",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Tibet landslide death toll rises to 16 with 546 people still missing",
+    "url": "https://tass.com/emergencies/2179403"
+  },
+  {
+    "id": "https://tass.com/emergencies/2179401",
+    "timestamp": "2026-08-30T01:15:00",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Moscow court sentences US citizen to 3.3 years over undeclared Colt pistol",
+    "url": "https://tass.com/emergencies/2179401"
+  },
+  {
     "id": "https://tass.com/world/2179399",
     "timestamp": "2026-08-30T00:50:00",
     "source": "TASS English",
@@ -4598,405 +4998,5 @@
     "region": "mena",
     "text": "Al Jazeera reporter witnesses wildfire smoke toll on kids inside Indonesia",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/08-27-26-jess-wt-kalimantan-fires-reported?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/8/27/trump-executive-order-bans-some-foreign-equipment-in-us-energy-grid?traffic_source=rss",
-    "timestamp": "2026-08-27T20:15:55",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Trump executive order bans some foreign equipment in US energy grid",
-    "url": "https://www.aljazeera.com/news/2026/8/27/trump-executive-order-bans-some-foreign-equipment-in-us-energy-grid?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/8/27/zambia-opposition-leader-questioned-over-treason-amid-election-fallout?traffic_source=rss",
-    "timestamp": "2026-08-27T20:13:31",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Zambia opposition leader questioned over \u2018treason\u2019 amid election fallout",
-    "url": "https://www.aljazeera.com/news/2026/8/27/zambia-opposition-leader-questioned-over-treason-amid-election-fallout?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/8/27/video-israeli-strike-kills-newlywed-woman-in-south-lebanon?traffic_source=rss",
-    "timestamp": "2026-08-27T20:11:41",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Video: Israeli strike kills newlywed woman in south Lebanon",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/video-israeli-strike-kills-newlywed-woman-in-south-lebanon?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/politics/2178597",
-    "timestamp": "2026-08-27T20:10:15",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian UN envoy urges Israel to halt military adventurism",
-    "url": "https://tass.com/politics/2178597"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/8/27/us-president-trump-signs-order-renaming-lake-ontario-to-lake?traffic_source=rss",
-    "timestamp": "2026-08-27T20:06:46",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "US President Trump signs order renaming Lake Ontario to \u2018Lake America\u2019",
-    "url": "https://www.aljazeera.com/news/2026/8/27/us-president-trump-signs-order-renaming-lake-ontario-to-lake?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/8/27/trade-war-between-us-and-canada-could-cost-90000-jobs?traffic_source=rss",
-    "timestamp": "2026-08-27T20:06:09",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Trade war between US and Canada could cost 90,000 jobs",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/trade-war-between-us-and-canada-could-cost-90000-jobs?traffic_source=rss"
-  },
-  {
-    "id": "https://news.usni.org/2026/08/27/navy-receives-its-final-expeditionary-sea-base",
-    "timestamp": "2026-08-27T20:02:59",
-    "source": "USNI News",
-    "platform": "rss",
-    "category": "naval",
-    "region": "global",
-    "text": "Navy Receives its Final Expeditionary Sea Base",
-    "url": "https://news.usni.org/2026/08/27/navy-receives-its-final-expeditionary-sea-base"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/8/27/nigerias-football-federation-chief-resigns-amid-corruption-allegations?traffic_source=rss",
-    "timestamp": "2026-08-27T19:57:13",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Nigeria\u2019s football federation chief resigns amid corruption allegations",
-    "url": "https://www.aljazeera.com/sports/2026/8/27/nigerias-football-federation-chief-resigns-amid-corruption-allegations?traffic_source=rss"
-  },
-  {
-    "id": "https://www.defensenews.com/industry/techwatch/2026/08/27/15000-operational-days-lost-in-10-years-due-to-us-submarine-maintenance-delays-gao/",
-    "timestamp": "2026-08-27T19:46:27",
-    "source": "Defense News",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "15,000 operational days lost due to US submarine maintenance delays, GAO finds",
-    "url": "https://www.defensenews.com/industry/techwatch/2026/08/27/15000-operational-days-lost-in-10-years-due-to-us-submarine-maintenance-delays-gao/"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/8/27/how-a-glacial-collapse-caused-nepals-catastrophic-floods?traffic_source=rss",
-    "timestamp": "2026-08-27T19:43:24",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "How a glacial collapse caused Nepal\u2019s catastrophic floods",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/how-a-glacial-collapse-caused-nepals-catastrophic-floods?traffic_source=rss"
-  },
-  {
-    "id": "https://www.militarytimes.com/news/your-navy/2026/08/27/navys-billet-based-advancement-shift-leaves-nuclear-sailors-on-separate-path/",
-    "timestamp": "2026-08-27T19:42:12",
-    "source": "Military Times",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Navy\u2019s billet-based advancement shift leaves nuclear sailors on separate path",
-    "url": "https://www.militarytimes.com/news/your-navy/2026/08/27/navys-billet-based-advancement-shift-leaves-nuclear-sailors-on-separate-path/"
-  },
-  {
-    "id": "https://tass.com/world/2178595",
-    "timestamp": "2026-08-27T19:40:59",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "'We don't want to speak to them': Trump on negotiations with Iran",
-    "url": "https://tass.com/world/2178595"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/8/27/people-in-bosnia-react-to-the-death-of-ratko-mladic-butcher-of?traffic_source=rss",
-    "timestamp": "2026-08-27T19:38:18",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "People in Bosnia react to the death of Ratko Mladic, \u2018butcher of Bosnia\u2019",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/people-in-bosnia-react-to-the-death-of-ratko-mladic-butcher-of?traffic_source=rss"
-  },
-  {
-    "id": "https://www.dw.com/en/spain-thieves-steal-bronze-age-gold-in-lightning-raid-on-villena-museum/a-78538027?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-08-27T19:38:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Spain: Thieves steal Bronze Age gold in lightning raid on Villena Museum",
-    "url": "https://www.dw.com/en/spain-thieves-steal-bronze-age-gold-in-lightning-raid-on-villena-museum/a-78538027?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.militarytimes.com/news/your-military/2026/08/27/joint-base-andrews-airmen-reflect-on-hueys-legacy-ahead-of-switch-to-hh-60ws/",
-    "timestamp": "2026-08-27T19:35:00",
-    "source": "Military Times",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Joint Base Andrews airmen reflect on Huey\u2019s legacy ahead of switch to HH-60Ws",
-    "url": "https://www.militarytimes.com/news/your-military/2026/08/27/joint-base-andrews-airmen-reflect-on-hueys-legacy-ahead-of-switch-to-hh-60ws/"
-  },
-  {
-    "id": "https://www.dw.com/en/the-man-behind-srebrenica-ratko-mladic-dies-at-84/a-78536491?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-08-27T19:28:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "The man behind Srebrenica: Ratko Mladic dies at 84",
-    "url": "https://www.dw.com/en/the-man-behind-srebrenica-ratko-mladic-dies-at-84/a-78536491?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://tass.com/world/2178593",
-    "timestamp": "2026-08-27T19:26:03",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Patriot missile shortage in Europe reaches 'beyond critical' level \u2014 media",
-    "url": "https://tass.com/world/2178593"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/inside-story/2026/8/27/why-are-kidnappings-recurrent-in-nigeria?traffic_source=rss",
-    "timestamp": "2026-08-27T19:20:31",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Why are kidnappings recurrent in Nigeria?",
-    "url": "https://www.aljazeera.com/video/inside-story/2026/8/27/why-are-kidnappings-recurrent-in-nigeria?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/economy/2026/8/27/parents-who-lost-children-to-social-media-harms-question-meta?traffic_source=rss",
-    "timestamp": "2026-08-27T19:15:37",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Parents who lost children to social media harms question Meta settlement",
-    "url": "https://www.aljazeera.com/economy/2026/8/27/parents-who-lost-children-to-social-media-harms-question-meta?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/france/20260827-french-presidential-candidates-clash-at-first-debate-before-upcoming-elections",
-    "timestamp": "2026-08-27T19:12:55",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "French presidential candidates clash at first debate before upcoming elections",
-    "url": "https://www.france24.com/en/france/20260827-french-presidential-candidates-clash-at-first-debate-before-upcoming-elections"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/8/27/abbas-gives-pakistan-edge-with-four-wickets-against-england-in-second-test?traffic_source=rss",
-    "timestamp": "2026-08-27T19:05:32",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Abbas gives Pakistan edge with four wickets against England in second Test",
-    "url": "https://www.aljazeera.com/sports/2026/8/27/abbas-gives-pakistan-edge-with-four-wickets-against-england-in-second-test?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/world/2178591",
-    "timestamp": "2026-08-27T18:47:38",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "US does not plan to restore memorandum with Iran \u2014 media",
-    "url": "https://tass.com/world/2178591"
-  },
-  {
-    "id": "https://tass.com/economy/2178587",
-    "timestamp": "2026-08-27T18:45:52",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian stocks close mixed on Thursday",
-    "url": "https://tass.com/economy/2178587"
-  },
-  {
-    "id": "https://www.theguardian.com/us-news/2026/aug/27/trump-renames-lake-ontario-america",
-    "timestamp": "2026-08-27T18:44:35",
-    "source": "Guardian World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Trump signs executive order to rename Lake Ontario as Lake America",
-    "url": "https://www.theguardian.com/us-news/2026/aug/27/trump-renames-lake-ontario-america"
-  },
-  {
-    "id": "https://tass.com/sports/2178583",
-    "timestamp": "2026-08-27T18:44:29",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "US Open men\u2019s draw pits Russian Safiullin against defending champ Alcaraz in opener",
-    "url": "https://tass.com/sports/2178583"
-  },
-  {
-    "id": "https://tass.com/world/2178579",
-    "timestamp": "2026-08-27T18:38:49",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian, US intel chiefs on good terms, talk regularly \u2014 Trump",
-    "url": "https://tass.com/world/2178579"
-  },
-  {
-    "id": "https://www.militarytimes.com/news/your-military/2026/08/27/marine-one-crew-failed-to-reach-air-traffic-control-before-safety-incident-ntsb-says/",
-    "timestamp": "2026-08-27T18:32:05",
-    "source": "Military Times",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Marine One crew failed to reach air traffic control before safety incident, NTSB says",
-    "url": "https://www.militarytimes.com/news/your-military/2026/08/27/marine-one-crew-failed-to-reach-air-traffic-control-before-safety-incident-ntsb-says/"
-  },
-  {
-    "id": "https://tass.com/economy/2178575",
-    "timestamp": "2026-08-27T18:29:15",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Von der Leyen admits EU economy relied on energy from Russia, exports to China",
-    "url": "https://tass.com/economy/2178575"
-  },
-  {
-    "id": "https://breakingdefense.com/2026/08/how-the-army-benefits-from-diverse-interceptors-plus-a-window-into-modernization/",
-    "timestamp": "2026-08-27T18:26:47",
-    "source": "Breaking Defense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "How the Army benefits from diverse interceptors, plus a window into modernization",
-    "url": "https://breakingdefense.com/2026/08/how-the-army-benefits-from-diverse-interceptors-plus-a-window-into-modernization/"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/08/27/what_mearsheimer_gets_wrong_about_hormuz_1202621.html",
-    "timestamp": "2026-08-27T18:25:08",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "What Mearsheimer Gets Wrong About Hormuz",
-    "url": "https://www.realcleardefense.com/2026/08/27/what_mearsheimer_gets_wrong_about_hormuz_1202621.html"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/08/27/the_ukraine_and_iran_wars_are_a_wake_up_call_1202717.html",
-    "timestamp": "2026-08-27T18:25:07",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "The Ukraine and Iran Wars Are a Wake Up Call",
-    "url": "https://www.realcleardefense.com/2026/08/27/the_ukraine_and_iran_wars_are_a_wake_up_call_1202717.html"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/08/27/navy_warns_all_sailors_to_be_vigilant_against_increased_threats_1202727.html",
-    "timestamp": "2026-08-27T18:25:06",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Navy Warns All Sailors To Be Vigilant Against Increased Threats",
-    "url": "https://www.realcleardefense.com/2026/08/27/navy_warns_all_sailors_to_be_vigilant_against_increased_threats_1202727.html"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/08/27/navy_planning_for_extended_carrier_deployments_1202773.html",
-    "timestamp": "2026-08-27T18:25:06",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Navy Planning for Extended Carrier Deployments",
-    "url": "https://www.realcleardefense.com/2026/08/27/navy_planning_for_extended_carrier_deployments_1202773.html"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/08/27/army_awards_22b_in_contracts_for_nuclear_microreactors_1202725.html",
-    "timestamp": "2026-08-27T18:25:05",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Army Awards $2.2B in Contracts for Nuclear Microreactors",
-    "url": "https://www.realcleardefense.com/2026/08/27/army_awards_22b_in_contracts_for_nuclear_microreactors_1202725.html"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/08/27/marines_receive_upgraded_valor_awards_for_afghanistan_withdrawal_1202761.html",
-    "timestamp": "2026-08-27T18:25:05",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Marines Receive Upgraded Valor Awards for Afghanistan Withdrawal",
-    "url": "https://www.realcleardefense.com/2026/08/27/marines_receive_upgraded_valor_awards_for_afghanistan_withdrawal_1202761.html"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/08/27/armys_bradley_deploys_swarming_ground_drones_1202770.html",
-    "timestamp": "2026-08-27T18:25:04",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Army's Bradley Deploys Swarming Ground Drones",
-    "url": "https://www.realcleardefense.com/2026/08/27/armys_bradley_deploys_swarming_ground_drones_1202770.html"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/08/27/us-based_seaglider_maker_regent_lands_240m_in_new_funding_1202732.html",
-    "timestamp": "2026-08-27T18:25:03",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "U.S.-Based Seaglider Maker REGENT Lands $240M in New Funding",
-    "url": "https://www.realcleardefense.com/2026/08/27/us-based_seaglider_maker_regent_lands_240m_in_new_funding_1202732.html"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/08/27/action_memo_from_the_gulf_trump_needs_a_war_czar_1202718.html",
-    "timestamp": "2026-08-27T18:25:03",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "ACTION MEMO FROM THE GULF: Trump Needs a War Czar",
-    "url": "https://www.realcleardefense.com/2026/08/27/action_memo_from_the_gulf_trump_needs_a_war_czar_1202718.html"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/08/27/uss_boxer_to_get_1498m_modernization_upgrades_1202720.html",
-    "timestamp": "2026-08-27T18:25:02",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "USS Boxer to Get $149.8M Modernization Upgrades",
-    "url": "https://www.realcleardefense.com/2026/08/27/uss_boxer_to_get_1498m_modernization_upgrades_1202720.html"
-  },
-  {
-    "id": "https://www.realcleardefense.com/2026/08/27/pentagon_uncovers_classified_documents_of_abbey_gate_massacre_1202726.html",
-    "timestamp": "2026-08-27T18:25:02",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Pentagon Uncovers Classified Documents of Abbey Gate Massacre",
-    "url": "https://www.realcleardefense.com/2026/08/27/pentagon_uncovers_classified_documents_of_abbey_gate_massacre_1202726.html"
   }
 ]
