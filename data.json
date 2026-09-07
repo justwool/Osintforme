@@ -1,5 +1,365 @@
 [
   {
+    "id": "https://tass.com/society/2183859",
+    "timestamp": "2026-09-07T22:39:21",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Ukraine\u2019s prosecutor general on Russia\u2019s wanted list again",
+    "url": "https://tass.com/society/2183859"
+  },
+  {
+    "id": "https://tass.com/defense/2183857",
+    "timestamp": "2026-09-07T22:26:28",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Ukrainian forces shell DPR settlements 53 times over past day",
+    "url": "https://tass.com/defense/2183857"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-09-07T22:23:03",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
+    "url": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.dw.com/en/eiffel-tower-employees-strike-after-female-workers-removal/a-79152603?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-09-07T22:23:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Eiffel Tower employees strike after female workers removal",
+    "url": "https://www.dw.com/en/eiffel-tower-employees-strike-after-female-workers-removal/a-79152603?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://tass.com/politics/2183855",
+    "timestamp": "2026-09-07T22:06:15",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Three-day moratorium on strikes on Kiev expires",
+    "url": "https://tass.com/politics/2183855"
+  },
+  {
+    "id": "https://tass.com/sports/2183853",
+    "timestamp": "2026-09-07T21:55:31",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "ECHR takes up Russian figure skater\u2019s complaint over ban",
+    "url": "https://tass.com/sports/2183853"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/09/08/russo-ukrainian-war-day-1657-ukraines-newly-appointed-top-commander-wants-to-break-with-a-soviet-inherited-system/",
+    "timestamp": "2026-09-07T21:49:58",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Russo-Ukrainian war, day 1657: Ukraine\u2019s newly appointed top commander wants to break with a Soviet-inherited system",
+    "url": "https://euromaidanpress.com/2026/09/08/russo-ukrainian-war-day-1657-ukraines-newly-appointed-top-commander-wants-to-break-with-a-soviet-inherited-system/"
+  },
+  {
+    "id": "https://www.france24.com/en/eiffel-tower-closed-in-row-over-women-removed-for-hindu-group",
+    "timestamp": "2026-09-07T21:38:39",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Eiffel Tower closed in row over women removed for Hindu group",
+    "url": "https://www.france24.com/en/eiffel-tower-closed-in-row-over-women-removed-for-hindu-group"
+  },
+  {
+    "id": "https://tass.com/world/2183851",
+    "timestamp": "2026-09-07T21:37:48",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "German chancellor pledges to maintain tough Russia policy after Saxony-Anhalt election",
+    "url": "https://tass.com/world/2183851"
+  },
+  {
+    "id": "https://www.france24.com/en/eu-says-no-place-for-glorification-of-war-criminals-as-mladic-buried",
+    "timestamp": "2026-09-07T21:35:17",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "EU says no place for 'glorification of war criminals' as Mladic buried",
+    "url": "https://www.france24.com/en/eu-says-no-place-for-glorification-of-war-criminals-as-mladic-buried"
+  },
+  {
+    "id": "https://www.france24.com/en/middle-east/20260907-israeli-strikes-south-lebanon-violence",
+    "timestamp": "2026-09-07T21:32:03",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Israel intensifies South Lebanon strikes, killing 13 after weeks-long lull",
+    "url": "https://www.france24.com/en/middle-east/20260907-israeli-strikes-south-lebanon-violence"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/09/08/ukraines-new-top-commander-is-pushing-to-unwind-a-soviet-inherited-command-model-mid-war-he-wants-combat-tested-sergeants-to-have-real-authority/",
+    "timestamp": "2026-09-07T21:17:52",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Ukraine\u2019s new top commander is pushing to unwind a Soviet-inherited command model mid-war. He wants combat-tested sergeants to have real authority",
+    "url": "https://euromaidanpress.com/2026/09/08/ukraines-new-top-commander-is-pushing-to-unwind-a-soviet-inherited-command-model-mid-war-he-wants-combat-tested-sergeants-to-have-real-authority/"
+  },
+  {
+    "id": "https://www.aljazeera.com/economy/2026/9/7/oil-prices-surge-as-us-iran-strikes-intensify-in-strait-of-hormuz?traffic_source=rss",
+    "timestamp": "2026-09-07T21:17:12",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz",
+    "url": "https://www.aljazeera.com/economy/2026/9/7/oil-prices-surge-as-us-iran-strikes-intensify-in-strait-of-hormuz?traffic_source=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-09-07T21:12:37",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Palestinian parents fear for children's lives at school as settler attacks grow",
+    "url": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/9/7/indian-temple-collapses-into-ganges-as-riverbank-erodes?traffic_source=rss",
+    "timestamp": "2026-09-07T21:09:44",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Indian temple collapses into Ganges as riverbank erodes",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/indian-temple-collapses-into-ganges-as-riverbank-erodes?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/world/2183849",
+    "timestamp": "2026-09-07T21:04:55",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Oman evacuates crew members of Saudi tanker attacked in Hormuz Strait",
+    "url": "https://tass.com/world/2183849"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/9/7/israels-removal-of-gaza-rubble-risk-to-war-crimes-evidence-un?traffic_source=rss",
+    "timestamp": "2026-09-07T21:00:58",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Israel\u2019s removal of Gaza rubble risk to war crimes evidence: UN",
+    "url": "https://www.aljazeera.com/news/2026/9/7/israels-removal-of-gaza-rubble-risk-to-war-crimes-evidence-un?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/9/7/yemen-fighting-escalates-as-forces-battle-for-bab-al-mandeb-strait?traffic_source=rss",
+    "timestamp": "2026-09-07T20:59:56",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Yemen fighting escalates as forces battle for Bab al-Mandeb Strait",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/yemen-fighting-escalates-as-forces-battle-for-bab-al-mandeb-strait?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/world/2183845",
+    "timestamp": "2026-09-07T20:59:52",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "At least two killed in Houthi missile attack on refugee camp \u2014 TV",
+    "url": "https://tass.com/world/2183845"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/9/7/robots-protest-in-poland-over-ai-regulation-concerns?traffic_source=rss",
+    "timestamp": "2026-09-07T20:59:12",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Robots protest in Poland over AI regulation concerns",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/robots-protest-in-poland-over-ai-regulation-concerns?traffic_source=rss"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/09/07/russia-burns-occupied-zaporizhzhia-nuclear-plants-last-resort-generators-as-everyday-power-ukraine-says/",
+    "timestamp": "2026-09-07T20:58:41",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Russia burns occupied Zaporizhzhia nuclear plant\u2019s last-resort generators as everyday power, Ukraine says",
+    "url": "https://euromaidanpress.com/2026/09/07/russia-burns-occupied-zaporizhzhia-nuclear-plants-last-resort-generators-as-everyday-power-ukraine-says/"
+  },
+  {
+    "id": "https://www.france24.com/en/tv-shows/business/20260907-volkswagen-s-osnabr%C3%BCck-plant-to-switch-from-cars-to-defence",
+    "timestamp": "2026-09-07T20:52:55",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Volkswagen's Osnabr\u00fcck plant to switch from cars to defence",
+    "url": "https://www.france24.com/en/tv-shows/business/20260907-volkswagen-s-osnabr%C3%BCck-plant-to-switch-from-cars-to-defence"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/09/07/now-on-the-1657th-day-ukraines-crews-restored-power-to-over-900000-homes-last-week-as-russia-keeps-striking-grid-before-winter/",
+    "timestamp": "2026-09-07T20:51:02",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "\u201cNow on the 1,657th day\u201d: Ukraine\u2019s crews restored power to over 900,000 homes last week as Russia keeps striking grid before winter",
+    "url": "https://euromaidanpress.com/2026/09/07/now-on-the-1657th-day-ukraines-crews-restored-power-to-over-900000-homes-last-week-as-russia-keeps-striking-grid-before-winter/"
+  },
+  {
+    "id": "https://tass.com/world/2183843",
+    "timestamp": "2026-09-07T20:50:48",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "EU\u2019s executive arm approves Kiev\u2019s request for Patriot interceptors \u2014 portal",
+    "url": "https://tass.com/world/2183843"
+  },
+  {
+    "id": "https://tass.com/world/2183841",
+    "timestamp": "2026-09-07T20:42:19",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Ukraine\u2019s prosecutor general tenders resignation",
+    "url": "https://tass.com/world/2183841"
+  },
+  {
+    "id": "https://www.france24.com/en/egyptian-influencer-s-death-penalty-over-drug-charges",
+    "timestamp": "2026-09-07T20:27:19",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Egyptian influencer's death penalty over drug charges",
+    "url": "https://www.france24.com/en/egyptian-influencer-s-death-penalty-over-drug-charges"
+  },
+  {
+    "id": "https://tass.com/world/2183839",
+    "timestamp": "2026-09-07T20:24:10",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Yemeni authorities intend to regain control over capital city of Sana \u2014 TV",
+    "url": "https://tass.com/world/2183839"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/09/07/ukrainian-ai-targeting-module-placed-third-among-60-plus-entries-in-nato-contest/",
+    "timestamp": "2026-09-07T20:20:48",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Ukrainian AI targeting module placed third among 60-plus entries in NATO contest",
+    "url": "https://euromaidanpress.com/2026/09/07/ukrainian-ai-targeting-module-placed-third-among-60-plus-entries-in-nato-contest/"
+  },
+  {
+    "id": "https://tass.com/science/2183837",
+    "timestamp": "2026-09-07T20:18:41",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russia approves agreement on peaceful cooperation in space with Serbia",
+    "url": "https://tass.com/science/2183837"
+  },
+  {
+    "id": "https://tass.com/science/2183835",
+    "timestamp": "2026-09-07T20:10:35",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Progress MS-33 ends its 6-month mission \u2014 Roscosmos",
+    "url": "https://tass.com/science/2183835"
+  },
+  {
+    "id": "https://tass.com/world/2183833",
+    "timestamp": "2026-09-07T20:06:50",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Morocco reports deportation of some 1,500 illegal migrants seeking to reach Ceuta",
+    "url": "https://tass.com/world/2183833"
+  },
+  {
+    "id": "https://www.aljazeera.com/economy/2026/9/7/cuba-says-no-negotiations-with-us-despite-genocidal-blockade?traffic_source=rss",
+    "timestamp": "2026-09-07T19:58:48",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Cuba says no negotiations with US despite \u2018genocidal\u2019 blockade",
+    "url": "https://www.aljazeera.com/economy/2026/9/7/cuba-says-no-negotiations-with-us-despite-genocidal-blockade?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/politics/2183831",
+    "timestamp": "2026-09-07T19:54:27",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Situation around Iran is most pressing political issue for BRICS, says Russian diplomat",
+    "url": "https://tass.com/politics/2183831"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/inside-story/2026/9/7/what-are-the-implications-of-afds-electoral-rise-for-germany-and-europe?traffic_source=rss",
+    "timestamp": "2026-09-07T19:50:05",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "What are the implications of AfD\u2019s electoral rise for Germany and Europe?",
+    "url": "https://www.aljazeera.com/video/inside-story/2026/9/7/what-are-the-implications-of-afds-electoral-rise-for-germany-and-europe?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/9/7/uk-government-refuses-slavery-reparations-as-jamaica-urges-king-to-act?traffic_source=rss",
+    "timestamp": "2026-09-07T19:48:48",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "UK government refuses slavery reparations as Jamaica urges king to act",
+    "url": "https://www.aljazeera.com/news/2026/9/7/uk-government-refuses-slavery-reparations-as-jamaica-urges-king-to-act?traffic_source=rss"
+  },
+  {
+    "id": "https://www.france24.com/en/tv-shows/the-debate/20260907-only-the-beginning-german-far-right-s-breakthrough-shakes-europe-to-its-core",
+    "timestamp": "2026-09-07T19:38:44",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Only the beginning? German far-right's breakthrough shakes Europe to its core",
+    "url": "https://www.france24.com/en/tv-shows/the-debate/20260907-only-the-beginning-german-far-right-s-breakthrough-shakes-europe-to-its-core"
+  },
+  {
     "id": "https://tass.com/emergencies/2183829",
     "timestamp": "2026-09-07T19:31:51",
     "source": "TASS English",
@@ -8,6 +368,16 @@
     "region": "ru",
     "text": "Rescue operation in wake of deadly Bezengi avalanche on hold until tomorrow\u2019s dawn",
     "url": "https://tass.com/emergencies/2183829"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/9/7/syrias-assad-era-reactor-configured-for-nuclear-weapons-iaea?traffic_source=rss",
+    "timestamp": "2026-09-07T19:31:05",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Syria\u2019s Assad-era reactor configured for nuclear weapons: IAEA",
+    "url": "https://www.aljazeera.com/news/2026/9/7/syrias-assad-era-reactor-configured-for-nuclear-weapons-iaea?traffic_source=rss"
   },
   {
     "id": "https://www.aljazeera.com/video/newsfeed/2026/9/7/moment-shop-worker-dives-into-traffic-to-save-child?traffic_source=rss",
@@ -720,6 +1090,16 @@
     "url": "https://www.navalnews.com/naval-news/2026/09/north-korea-commissions-second-choe-hyon-class-destroyer-kang-kon/"
   },
   {
+    "id": "https://www.france24.com/en/france/20260907-macron-hosts-summit-to-urge-support-for-cinema-amid-impact-of-ai-streaming",
+    "timestamp": "2026-09-07T14:23:25",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Macron hosts summit to urge support for cinema amid impact of AI, streaming",
+    "url": "https://www.france24.com/en/france/20260907-macron-hosts-summit-to-urge-support-for-cinema-amid-impact-of-ai-streaming"
+  },
+  {
     "id": "https://www.aljazeera.com/opinions/2026/9/7/will-trump-succeed-in-restarting-russia-ukraine-peace-talks?traffic_source=rss",
     "timestamp": "2026-09-07T14:22:58",
     "source": "Al Jazeera",
@@ -1260,6 +1640,16 @@
     "url": "https://www.navalnews.com/naval-news/2026/09/saab-mcmv-24-mine-countermeasures-vessel/"
   },
   {
+    "id": "https://www.realcleardefense.com/2026/09/05/us_carrier_aviation_and_the_institutional_learning_curve_19291944_1204516.html",
+    "timestamp": "2026-09-07T11:08:07",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "U.S. Carrier Aviation and the Institutional Learning Curve, 1929\u20131944",
+    "url": "https://www.realcleardefense.com/2026/09/05/us_carrier_aviation_and_the_institutional_learning_curve_19291944_1204516.html"
+  },
+  {
     "id": "https://euromaidanpress.com/2026/09/07/russia-deploys-missile-brigade-to-belarus/",
     "timestamp": "2026-09-07T10:56:54",
     "source": "Euromaidan Press",
@@ -1278,6 +1668,16 @@
     "region": "ua",
     "text": "Ukrainian journalist asks Trump\u2019s envoy to his face whether he was disgusted to sit across from \u201cinternational criminal\u201d Putin. Witkoff wouldn\u2019t answer directly",
     "url": "https://euromaidanpress.com/2026/09/07/ukrainian-journalist-asks-trumps-envoy-to-his-face-whether-he-was-disgusted-to-sit-across-from-international-criminal-and-butcher-of-ukrainian-people-putin-witkoff-wouldnt-answer-directly/"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/09/05/friction_at_the_source_1204198.html",
+    "timestamp": "2026-09-07T10:24:15",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Friction at the Source",
+    "url": "https://www.realcleardefense.com/2026/09/05/friction_at_the_source_1204198.html"
   },
   {
     "id": "https://www.dw.com/en/russia-opens-first-road-bridge-with-north-korea/a-79142595?maca=en-rss-en-all-1573-xml-mrss",
@@ -4598,405 +4998,5 @@
     "region": "ru",
     "text": "Putin notes at meeting with US negotiators that situation is difficult to discuss",
     "url": "https://tass.com/politics/2183191"
-  },
-  {
-    "id": "https://tass.com/politics/2183189",
-    "timestamp": "2026-09-05T17:15:14",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Putin meets with Witkoff and Kushner in the Kremlin",
-    "url": "https://tass.com/politics/2183189"
-  },
-  {
-    "id": "https://tass.com/economy/2183187",
-    "timestamp": "2026-09-05T17:14:52",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Rosneft to supply 30 million tons of oil from Vostok Oil in 2027",
-    "url": "https://tass.com/economy/2183187"
-  },
-  {
-    "id": "https://tass.com/world/2183185",
-    "timestamp": "2026-09-05T17:13:13",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Witkoff, Kushner arrive in Kremlin, where they may meet with Putin",
-    "url": "https://tass.com/world/2183185"
-  },
-  {
-    "id": "https://tass.com/politics/2183183",
-    "timestamp": "2026-09-05T17:12:56",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Shootout in Kiev between special services testifies to Ukraine's looming collapse \u2014 expert",
-    "url": "https://tass.com/politics/2183183"
-  },
-  {
-    "id": "https://tass.com/world/2183181",
-    "timestamp": "2026-09-05T17:11:18",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Merz acknowledges Germany\u2019s loss of industrial jobs",
-    "url": "https://tass.com/world/2183181"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/9/5/haaland-head-man-city-to-the-top-of-premier-league-with-win-over-coventry?traffic_source=rss",
-    "timestamp": "2026-09-05T16:47:17",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Haaland heads Man City to the top of Premier League with win over Coventry",
-    "url": "https://www.aljazeera.com/sports/2026/9/5/haaland-head-man-city-to-the-top-of-premier-league-with-win-over-coventry?traffic_source=rss"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/09/05/ukraines-lasars-group-says-its-bomber-drones-destroyed-rare-russian-zhitel-jammer-55-km-behind-front/",
-    "timestamp": "2026-09-05T16:36:23",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Ukraine\u2019s Lasar\u2019s Group says its bomber drones destroyed rare Russian Zhitel jammer 55 km behind front",
-    "url": "https://euromaidanpress.com/2026/09/05/ukraines-lasars-group-says-its-bomber-drones-destroyed-rare-russian-zhitel-jammer-55-km-behind-front/"
-  },
-  {
-    "id": "https://www.france24.com/en/video/20260905-the-closely-watched-lindsay-clancy-trial-ends-with-one-last-dramatic-moment",
-    "timestamp": "2026-09-05T16:31:52",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "The closely-watched Lindsay Clancy trial ends with one last dramatic moment",
-    "url": "https://www.france24.com/en/video/20260905-the-closely-watched-lindsay-clancy-trial-ends-with-one-last-dramatic-moment"
-  },
-  {
-    "id": "https://www.france24.com/en/video/20260905-wallace-gromit-creators-turn-50-with-spook-tacular-shaun-yarn",
-    "timestamp": "2026-09-05T16:29:18",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "'Wallace & Gromit' creators turn 50 with spook-tacular Shaun yarn",
-    "url": "https://www.france24.com/en/video/20260905-wallace-gromit-creators-turn-50-with-spook-tacular-shaun-yarn"
-  },
-  {
-    "id": "https://www.france24.com/en/video/20260905-un-approves-resolution-in-support-of-map-that-shows-africa-s-true-size",
-    "timestamp": "2026-09-05T16:23:58",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "UN approves resolution in support of map\u00a0that shows Africa's true size",
-    "url": "https://www.france24.com/en/video/20260905-un-approves-resolution-in-support-of-map-that-shows-africa-s-true-size"
-  },
-  {
-    "id": "https://www.france24.com/en/france/20260905-rain-man-france-ex-president-francois-hollande-unlikely-comeback-presidential-election",
-    "timestamp": "2026-09-05T16:22:05",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "\u2018Rain man\u2019 to the rescue? France\u2019s ex-president Hollande plots unlikely comeback",
-    "url": "https://www.france24.com/en/france/20260905-rain-man-france-ex-president-francois-hollande-unlikely-comeback-presidential-election"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/9/5/gaza-teams-recover-remains-of-55-people-nearly-3-years-after-israeli-strike?traffic_source=rss",
-    "timestamp": "2026-09-05T16:17:47",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Gaza teams recover remains of 55 people nearly 3 years after Israeli strike",
-    "url": "https://www.aljazeera.com/news/2026/9/5/gaza-teams-recover-remains-of-55-people-nearly-3-years-after-israeli-strike?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/video/20260905-chinese-national-rescued-from-nepal-tunnel-10-days-after-flash-flood",
-    "timestamp": "2026-09-05T16:17:10",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Chinese national rescued from Nepal tunnel 10 days after flash flood",
-    "url": "https://www.france24.com/en/video/20260905-chinese-national-rescued-from-nepal-tunnel-10-days-after-flash-flood"
-  },
-  {
-    "id": "https://www.france24.com/en/video/20260905-war-in-ukraine-putin-zelensky-order-pause-in-strikes",
-    "timestamp": "2026-09-05T16:15:40",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "War in Ukraine: Putin, Zelensky order pause in strikes",
-    "url": "https://www.france24.com/en/video/20260905-war-in-ukraine-putin-zelensky-order-pause-in-strikes"
-  },
-  {
-    "id": "https://www.france24.com/en/video/20260905-us-envoys-witkoff-kushner-arrive-in-moscow-for-talks-on-peace-in-ukraine",
-    "timestamp": "2026-09-05T16:14:00",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "US envoys Witkoff, Kushner arrive in Moscow for talks on peace in Ukraine",
-    "url": "https://www.france24.com/en/video/20260905-us-envoys-witkoff-kushner-arrive-in-moscow-for-talks-on-peace-in-ukraine"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/9/5/israel-claims-control-of-lebanons-key-ali-al-taher-ridge-what-that-means?traffic_source=rss",
-    "timestamp": "2026-09-05T16:04:01",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Israel claims control of Lebanon\u2019s key Ali al-Taher ridge: What that means",
-    "url": "https://www.aljazeera.com/news/2026/9/5/israel-claims-control-of-lebanons-key-ali-al-taher-ridge-what-that-means?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/culture-of-fear-within-us-defence-department-slow-leakage-of-dissent-against-the-administration",
-    "timestamp": "2026-09-05T15:55:59",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "'Culture of fear within US Defence Department: Slow leakage of dissent against the administration'",
-    "url": "https://www.france24.com/en/culture-of-fear-within-us-defence-department-slow-leakage-of-dissent-against-the-administration"
-  },
-  {
-    "id": "https://tass.com/defense/2183179",
-    "timestamp": "2026-09-05T15:54:34",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Dry cargo ship carrying military equipment hit in port of Chernomorsk",
-    "url": "https://tass.com/defense/2183179"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-says-it-hit-three-iranian-oil-tankers-after-attacks-on-warships?traffic_source=rss",
-    "timestamp": "2026-09-05T15:49:44",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "US says it hit three Iranian oil tankers after attacks on warships",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-says-it-hit-three-iranian-oil-tankers-after-attacks-on-warships?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/features/2026/9/5/israeli-campaign-of-west-bank-destruction-moves-on-to-regions-food-basket?traffic_source=rss",
-    "timestamp": "2026-09-05T15:37:12",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Israeli campaign of West Bank destruction moves on to region\u2019s food basket",
-    "url": "https://www.aljazeera.com/features/2026/9/5/israeli-campaign-of-west-bank-destruction-moves-on-to-regions-food-basket?traffic_source=rss"
-  },
-  {
-    "id": "https://taskandpurpose.com/news/us-hits-three-tankers-strait-hormuz-iran/",
-    "timestamp": "2026-09-05T15:33:58",
-    "source": "Task & Purpose",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "US forces hit three Iranian tankers after carrier attacked",
-    "url": "https://taskandpurpose.com/news/us-hits-three-tankers-strait-hormuz-iran/"
-  },
-  {
-    "id": "https://tass.com/defense/2183177",
-    "timestamp": "2026-09-05T15:33:20",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian forces hit Black Ammo explosives manufacturer in Borispol",
-    "url": "https://tass.com/defense/2183177"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/9/5/rescuers-pull-chinese-worker-nepali-woman-from-flood-wreckage-alive?traffic_source=rss",
-    "timestamp": "2026-09-05T15:33:02",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Rescuers pull Chinese worker, Nepali woman from flood wreckage alive",
-    "url": "https://www.aljazeera.com/news/2026/9/5/rescuers-pull-chinese-worker-nepali-woman-from-flood-wreckage-alive?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/defense/2183175",
-    "timestamp": "2026-09-05T15:25:23",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian forces destroy two Ukrainian UAV command centers in Kharkov Region",
-    "url": "https://tass.com/defense/2183175"
-  },
-  {
-    "id": "https://www.france24.com/en/video/20260905-paris-hosts-african-diaspora-international-film-festival",
-    "timestamp": "2026-09-05T15:22:32",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Paris hosts African Diaspora International Film Festival",
-    "url": "https://www.france24.com/en/video/20260905-paris-hosts-african-diaspora-international-film-festival"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/09/05/r-73-shortage/",
-    "timestamp": "2026-09-05T15:21:06",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Ukraine is running short of its best missiles for hunting Russia\u2019s jet drones. Now MiG-29s are firing 1970s weapons",
-    "url": "https://euromaidanpress.com/2026/09/05/r-73-shortage/"
-  },
-  {
-    "id": "https://www.france24.com/en/video/20260905-uber-announces-immediate-withdrawal-from-nigeria-and-uganda",
-    "timestamp": "2026-09-05T15:20:59",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Uber announces immediate withdrawal from Nigeria and Uganda",
-    "url": "https://www.france24.com/en/video/20260905-uber-announces-immediate-withdrawal-from-nigeria-and-uganda"
-  },
-  {
-    "id": "https://www.france24.com/en/video/20260905-un-experts-urge-sudan-wide-arms-embargo",
-    "timestamp": "2026-09-05T15:16:39",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "UN experts urge Sudan-wide arms embargo",
-    "url": "https://www.france24.com/en/video/20260905-un-experts-urge-sudan-wide-arms-embargo"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-09-05T15:14:21",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "US hits three Iranian oil tankers after saying its warships were targeted",
-    "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/video/20260905-nepal-two-more-people-rescued-alive",
-    "timestamp": "2026-09-05T15:12:00",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Nepal: Two more people rescued alive",
-    "url": "https://www.france24.com/en/video/20260905-nepal-two-more-people-rescued-alive"
-  },
-  {
-    "id": "https://tass.com/politics/2183173",
-    "timestamp": "2026-09-05T15:10:08",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russia works to restore rights of Russian speakers in Ukraine \u2014 Lavrov",
-    "url": "https://tass.com/politics/2183173"
-  },
-  {
-    "id": "https://www.france24.com/en/video/20260905-witkoff-and-kushner-are-in-moscow-in-a-new-push-for-peace-between-russia-and-ukraine",
-    "timestamp": "2026-09-05T15:09:22",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Witkoff and Kushner are in Moscow in a new push for peace between Russia and Ukraine",
-    "url": "https://www.france24.com/en/video/20260905-witkoff-and-kushner-are-in-moscow-in-a-new-push-for-peace-between-russia-and-ukraine"
-  },
-  {
-    "id": "https://www.france24.com/en/video/20260905-france-emmanuel-macron-unveils-new-disability-strategy",
-    "timestamp": "2026-09-05T15:02:32",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "France: Emmanuel Macron unveils new disability strategy",
-    "url": "https://www.france24.com/en/video/20260905-france-emmanuel-macron-unveils-new-disability-strategy"
-  },
-  {
-    "id": "https://tass.com/society/2183171",
-    "timestamp": "2026-09-05T14:56:46",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Moscow mayor describes Dream Island park as Disneyland\u2019s worthy rival",
-    "url": "https://tass.com/society/2183171"
-  },
-  {
-    "id": "https://www.aljazeera.com/opinions/2026/9/5/multipolarity-gives-middle-powers-more-choices-but-fewer-guarantees?traffic_source=rss",
-    "timestamp": "2026-09-05T14:51:08",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Multipolarity gives middle powers more choices, but fewer guarantees",
-    "url": "https://www.aljazeera.com/opinions/2026/9/5/multipolarity-gives-middle-powers-more-choices-but-fewer-guarantees?traffic_source=rss"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/09/05/more-than-400-defense-firms-ask-kyiv-to-create-one-state-body-with-real-authority-over-6-8-billion-industry/",
-    "timestamp": "2026-09-05T14:50:03",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "More than 400 defense firms ask Kyiv to create one state body with real authority over $6.8 billion industry",
-    "url": "https://euromaidanpress.com/2026/09/05/more-than-400-defense-firms-ask-kyiv-to-create-one-state-body-with-real-authority-over-6-8-billion-industry/"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/9/5/us-says-it-hit-iran-oil-tankers-helping-finance-regional-proxies?traffic_source=rss",
-    "timestamp": "2026-09-05T14:49:36",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "US says it hit Iran oil tankers helping finance \u2018regional proxies\u2019",
-    "url": "https://www.aljazeera.com/news/2026/9/5/us-says-it-hit-iran-oil-tankers-helping-finance-regional-proxies?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/features/2026/9/5/relatives-hold-cremations-without-bodies-for-nepals-missing-flood-victims?traffic_source=rss",
-    "timestamp": "2026-09-05T14:40:38",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Relatives hold cremations without bodies for Nepal\u2019s missing flood victims",
-    "url": "https://www.aljazeera.com/features/2026/9/5/relatives-hold-cremations-without-bodies-for-nepals-missing-flood-victims?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/economy/2183167",
-    "timestamp": "2026-09-05T14:36:39",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "AI is merely tool in judge\u2019s hands \u2014 Russian Supreme Court\u2019s chief",
-    "url": "https://tass.com/economy/2183167"
-  },
-  {
-    "id": "https://tass.com/politics/2183165",
-    "timestamp": "2026-09-05T14:35:15",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "People see special military operation\u2019s task in suppressing Nazism \u2014 Lavrov",
-    "url": "https://tass.com/politics/2183165"
   }
 ]
