@@ -1,5 +1,285 @@
 [
   {
+    "id": "https://tass.com/world/2190023",
+    "timestamp": "2026-09-19T04:38:00",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Current Ukrainian regime focused solely on war \u2014 Ukraine\u2019s ex PM",
+    "url": "https://tass.com/world/2190023"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/9/19/japan-has-record-100000-people-aged-over-100-how-societies-are-ageing?traffic_source=rss",
+    "timestamp": "2026-09-19T04:31:06",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Japan has record 100,000 people aged over 100: How societies are ageing",
+    "url": "https://www.aljazeera.com/news/2026/9/19/japan-has-record-100000-people-aged-over-100-how-societies-are-ageing?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/9/19/trump-bans-cnn-ms-now-politico-from-the-white-house?traffic_source=rss",
+    "timestamp": "2026-09-19T04:28:54",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Trump bans CNN, MS NOW, Politico from the White House",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/trump-bans-cnn-ms-now-politico-from-the-white-house?traffic_source=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-09-19T04:27:11",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Google's Gemini AI hacked three companies in security test",
+    "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/9/19/the-nepal-floods-question-when-the-himalayas-collapse-who-gets-warned?traffic_source=rss",
+    "timestamp": "2026-09-19T04:25:42",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "The Nepal floods question: When the Himalayas collapse, who gets warned?",
+    "url": "https://www.aljazeera.com/news/2026/9/19/the-nepal-floods-question-when-the-himalayas-collapse-who-gets-warned?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/9/19/bolivias-congress-approves-1-9bn-imf-loan-amid-protest-threats?traffic_source=rss",
+    "timestamp": "2026-09-19T04:22:47",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Bolivia\u2019s Congress approves $1.9bn IMF loan amid protest threats",
+    "url": "https://www.aljazeera.com/news/2026/9/19/bolivias-congress-approves-1-9bn-imf-loan-amid-protest-threats?traffic_source=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-09-19T04:20:47",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
+    "url": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://tass.com/world/2190021",
+    "timestamp": "2026-09-19T03:58:58",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "US envoy to UN confirms Trump-Rodriguez meeting on General Assembly sidelines \u2014 AP",
+    "url": "https://tass.com/world/2190021"
+  },
+  {
+    "id": "https://www.dw.com/en/cuba-faces-another-nationwide-blackout-amid-us-fuel-blockade/a-79335396?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-09-19T03:57:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Cuba faces another nationwide blackout amid US fuel blockade",
+    "url": "https://www.dw.com/en/cuba-faces-another-nationwide-blackout-amid-us-fuel-blockade/a-79335396?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.dw.com/en/google-s-gemini-ai-hacked-3-companies-during-testing/a-79335273?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-09-19T03:36:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Google's Gemini AI hacked 3 companies during testing",
+    "url": "https://www.dw.com/en/google-s-gemini-ai-hacked-3-companies-during-testing/a-79335273?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://tass.com/economy/2190019",
+    "timestamp": "2026-09-19T03:35:00",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Ukraine drone incident fails to disrupt operations at Kursk NPP-2 Unit 1 \u2014 Rosatom",
+    "url": "https://tass.com/economy/2190019"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/9/19/north-korea-dismisses-un-nuclear-watchdog-resolution?traffic_source=rss",
+    "timestamp": "2026-09-19T03:29:54",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "North Korea dismisses UN nuclear watchdog resolution",
+    "url": "https://www.aljazeera.com/news/2026/9/19/north-korea-dismisses-un-nuclear-watchdog-resolution?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/world/2190017",
+    "timestamp": "2026-09-19T03:10:48",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "EU cannot buy Patriot missiles for Kiev yet due to lack of contracts",
+    "url": "https://tass.com/world/2190017"
+  },
+  {
+    "id": "https://tass.com/world/2190015",
+    "timestamp": "2026-09-19T03:03:00",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "White House Correspondents' Association accuses Trump of targeting media",
+    "url": "https://tass.com/world/2190015"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/9/19/report-more-us-troops-have-died-in-iran-war-than-pentagon-says?traffic_source=rss",
+    "timestamp": "2026-09-19T03:02:51",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Report: More US troops have died in Iran war than Pentagon says",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/report-more-us-troops-have-died-in-iran-war-than-pentagon-says?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/9/19/south-africans-voice-their-anger-as-hundreds-hold-femicide-vigil?traffic_source=rss",
+    "timestamp": "2026-09-19T02:41:57",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "South Africans voice their anger as hundreds hold femicide vigil",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/south-africans-voice-their-anger-as-hundreds-hold-femicide-vigil?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/politics/2190013",
+    "timestamp": "2026-09-19T02:32:01",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russian forces drawing a noose around Ukrainian troops in Kharkov area",
+    "url": "https://tass.com/politics/2190013"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/9/19/us-court-blocks-trump-plan-to-deport-migrants-to-third-countries?traffic_source=rss",
+    "timestamp": "2026-09-19T02:16:45",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "US court blocks Trump plan to deport migrants to third countries",
+    "url": "https://www.aljazeera.com/news/2026/9/19/us-court-blocks-trump-plan-to-deport-migrants-to-third-countries?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/9/19/iranian-women-defy-law-and-run-tehran-race-without-hijab?traffic_source=rss",
+    "timestamp": "2026-09-19T01:45:36",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Iranian women defy law and run Tehran race without hijab",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/iranian-women-defy-law-and-run-tehran-race-without-hijab?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/9/19/googles-gemini-ai-hacks-3-companies-in-security-test-then-stops?traffic_source=rss",
+    "timestamp": "2026-09-19T01:38:02",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Google\u2019s Gemini AI hacks 3 companies in security test, then stops",
+    "url": "https://www.aljazeera.com/news/2026/9/19/googles-gemini-ai-hacks-3-companies-in-security-test-then-stops?traffic_source=rss"
+  },
+  {
+    "id": "https://www.dw.com/en/trump-signs-broad-russia-sanctions-bill/a-79335115?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-09-19T01:27:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Trump signs broad Russia sanctions bill",
+    "url": "https://www.dw.com/en/trump-signs-broad-russia-sanctions-bill/a-79335115?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://tass.com/world/2190007",
+    "timestamp": "2026-09-19T01:10:00",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Denmark accepts Greenland deal due to lack of defense funds, Rubio says",
+    "url": "https://tass.com/world/2190007"
+  },
+  {
+    "id": "https://tass.com/politics/2190003",
+    "timestamp": "2026-09-19T00:48:00",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russian forces advance on Nadiya from DPR\u2019s Dobropolye, expert says",
+    "url": "https://tass.com/politics/2190003"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/9/19/trump-signs-sweeping-russia-sanctions-over-ukraine-war?traffic_source=rss",
+    "timestamp": "2026-09-19T00:46:04",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Trump signs sweeping Russia sanctions over Ukraine war",
+    "url": "https://www.aljazeera.com/news/2026/9/19/trump-signs-sweeping-russia-sanctions-over-ukraine-war?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/politics/2190001",
+    "timestamp": "2026-09-19T00:44:00",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russian forces capture new lines in two sectors near DPR\u2019s Druzhkovka \u2014 military expert",
+    "url": "https://tass.com/politics/2190001"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/9/19/israeli-strike-on-motorcycle-in-gaza-city-kills-one-injures-child?traffic_source=rss",
+    "timestamp": "2026-09-19T00:02:03",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Israeli strike on motorcycle kills Palestinian in Gaza City, injures child",
+    "url": "https://www.aljazeera.com/news/2026/9/19/israeli-strike-on-motorcycle-in-gaza-city-kills-one-injures-child?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/liveblog/2026/9/19/iran-war-live-trump-extends-sanctions-on-iran-houthi-supporters-in-sanaa?traffic_source=rss",
+    "timestamp": "2026-09-19T00:00:26",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Iran war live: Saudi danger alerts blare, Trump extends Iran sanctions",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/9/19/iran-war-live-trump-extends-sanctions-on-iran-houthi-supporters-in-sanaa?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/politics/2189999",
+    "timestamp": "2026-09-19T00:00:01",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Lavrov-Rubio meeting in New York being arranged, Russian diplomat says",
+    "url": "https://tass.com/politics/2189999"
+  },
+  {
     "id": "https://www.aljazeera.com/video/newsfeed/2026/9/18/trump-says-denmark-deal-gives-us-security-control-over-greenland?traffic_source=rss",
     "timestamp": "2026-09-18T23:56:09",
     "source": "Al Jazeera",
@@ -8,6 +288,16 @@
     "region": "mena",
     "text": "Trump says Denmark deal gives US security \u2018control\u2019 over Greenland",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/trump-says-denmark-deal-gives-us-security-control-over-greenland?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/world/2189997",
+    "timestamp": "2026-09-18T23:55:01",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "US, Denmark, and Greenland to sign security agreement at UN General Assembly",
+    "url": "https://tass.com/world/2189997"
   },
   {
     "id": "https://www.militarytimes.com/news/your-military/2026/09/18/pentagon-updates-guidance-on-low-testosterone-testing-for-males/",
@@ -4708,295 +4998,5 @@
     "region": "ua",
     "text": "From the frontline to a rehab center: a rescued dog from Pokrovsk now helps wounded Ukrainians on the other side of the country",
     "url": "https://euromaidanpress.com/2026/09/17/from-the-frontline-to-a-rehab-center-a-rescued-dog-from-pokrovsk-now-helps-wounded-ukrainians-on-the-other-side-of-the-country/"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/9/17/five-killed-as-saudi-arabia-and-yemens-houthis-trade-attacks?traffic_source=rss",
-    "timestamp": "2026-09-17T16:10:49",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Five killed as Saudi Arabia and Yemen\u2019s Houthis trade attacks",
-    "url": "https://www.aljazeera.com/news/2026/9/17/five-killed-as-saudi-arabia-and-yemens-houthis-trade-attacks?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/video/20260917-climate-change-glacier-loss-and-dry-rivers-threaten-water-security",
-    "timestamp": "2026-09-17T16:10:02",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Climate change: Glacier loss and dry rivers threaten water security",
-    "url": "https://www.france24.com/en/video/20260917-climate-change-glacier-loss-and-dry-rivers-threaten-water-security"
-  },
-  {
-    "id": "https://www.france24.com/en/tv-shows/perspective/20260917-sanctions-won-t-prevent-us-from-doing-our-job-says-icc-prosecutor-mame-mandiaye-niang",
-    "timestamp": "2026-09-17T16:02:51",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "'Sanctions won\u2019t prevent us from doing our job' says ICC Prosecutor Mame Mandiaye Niang",
-    "url": "https://www.france24.com/en/tv-shows/perspective/20260917-sanctions-won-t-prevent-us-from-doing-our-job-says-icc-prosecutor-mame-mandiaye-niang"
-  },
-  {
-    "id": "https://www.dw.com/en/alexander-ovechkin-backs-putin-party-in-campaign-video/a-79277772?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-09-17T16:02:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Alexander Ovechkin backs Putin party in campaign video",
-    "url": "https://www.dw.com/en/alexander-ovechkin-backs-putin-party-in-campaign-video/a-79277772?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/09/17/slovakia-snina-ammunition-plant-fire/",
-    "timestamp": "2026-09-17T16:01:56",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Fire temporarily shuts part of Slovak ammunition plant amid plans to triple capacity",
-    "url": "https://euromaidanpress.com/2026/09/17/slovakia-snina-ammunition-plant-fire/"
-  },
-  {
-    "id": "https://breakingdefense.com/2026/09/lockheed-reaches-deal-to-boost-production-of-secretive-jatm-missile/",
-    "timestamp": "2026-09-17T15:57:09",
-    "source": "Breaking Defense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Lockheed reaches deal to boost production of secretive JATM missile",
-    "url": "https://breakingdefense.com/2026/09/lockheed-reaches-deal-to-boost-production-of-secretive-jatm-missile/"
-  },
-  {
-    "id": "https://tass.com/economy/2189171",
-    "timestamp": "2026-09-17T15:55:29",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Ukraine's economy loses $22-$44 mln per hour during air raid downtime \u2014 minister",
-    "url": "https://tass.com/economy/2189171"
-  },
-  {
-    "id": "https://tass.com/politics/2189169",
-    "timestamp": "2026-09-17T15:53:32",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russia won\u2019t go for truce without tackling root causes of Ukraine crisis \u2014 envoy to OSCE",
-    "url": "https://tass.com/politics/2189169"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/9/17/rare-ethiopian-manuscript-stolen-by-british-triggers-restitution-row?traffic_source=rss",
-    "timestamp": "2026-09-17T15:52:04",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Rare Ethiopian manuscript stolen by British forces triggers restitution row",
-    "url": "https://www.aljazeera.com/news/2026/9/17/rare-ethiopian-manuscript-stolen-by-british-triggers-restitution-row?traffic_source=rss"
-  },
-  {
-    "id": "https://news.usni.org/2026/09/17/marines-test-usv-for-littoral-explosive-ordnance-disposal-operations",
-    "timestamp": "2026-09-17T15:48:04",
-    "source": "USNI News",
-    "platform": "rss",
-    "category": "naval",
-    "region": "global",
-    "text": "Marines Test USV for Littoral Explosive Ordnance Disposal Operations",
-    "url": "https://news.usni.org/2026/09/17/marines-test-usv-for-littoral-explosive-ordnance-disposal-operations"
-  },
-  {
-    "id": "https://www.theguardian.com/world/2026/sep/17/smiles-strasbourg-uncertainty-canada-eu-membership-plan-mark-carney",
-    "timestamp": "2026-09-17T15:46:15",
-    "source": "Guardian World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "All smiles in Strasbourg but uncertainty clouds Canada\u2019s EU membership plan",
-    "url": "https://www.theguardian.com/world/2026/sep/17/smiles-strasbourg-uncertainty-canada-eu-membership-plan-mark-carney"
-  },
-  {
-    "id": "https://tass.com/world/2189163",
-    "timestamp": "2026-09-17T15:44:18",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Iran\u2019s UN mission objects to US designation for IAEA Board membership",
-    "url": "https://tass.com/world/2189163"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/09/17/russia-strikes-kyiv-water-infrastructure/",
-    "timestamp": "2026-09-17T15:44:16",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "No missiles intercepted again: Russia strikes Kyiv water infrastructure amid warnings of harsher winter attacks",
-    "url": "https://euromaidanpress.com/2026/09/17/russia-strikes-kyiv-water-infrastructure/"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/9/17/ireland-boycotts-eurovision-for-second-year-over-israels-inclusion?traffic_source=rss",
-    "timestamp": "2026-09-17T15:40:48",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Ireland boycotts Eurovision for second year over Israel\u2019s inclusion",
-    "url": "https://www.aljazeera.com/news/2026/9/17/ireland-boycotts-eurovision-for-second-year-over-israels-inclusion?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/world/2189161",
-    "timestamp": "2026-09-17T15:40:34",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Iran summons German ambassador over alleged interference in domestic affairs",
-    "url": "https://tass.com/world/2189161"
-  },
-  {
-    "id": "https://www.dw.com/en/saudi-arabia-houthis-exchange-blows-as-conflict-escalates/a-79313776?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-09-17T15:40:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Saudi Arabia, Houthis exchange blows as conflict escalates",
-    "url": "https://www.dw.com/en/saudi-arabia-houthis-exchange-blows-as-conflict-escalates/a-79313776?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.france24.com/en/tv-shows/arts24/20260917-nicolas-winding-refn-on-nearly-dying-reuniting-with-ryan-gosling-and-why-polarisation-is-success",
-    "timestamp": "2026-09-17T15:38:33",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Nicolas Winding Refn on nearly dying, reuniting with Ryan Gosling and why 'polarisation is success'",
-    "url": "https://www.france24.com/en/tv-shows/arts24/20260917-nicolas-winding-refn-on-nearly-dying-reuniting-with-ryan-gosling-and-why-polarisation-is-success"
-  },
-  {
-    "id": "https://tass.com/world/2189157",
-    "timestamp": "2026-09-17T15:38:09",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russia now has every right to end Ukrainian conflict on its terms \u2014 Brazilian expert",
-    "url": "https://tass.com/world/2189157"
-  },
-  {
-    "id": "https://tass.com/politics/2189155",
-    "timestamp": "2026-09-17T15:36:04",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russia says report on Bucha falsification to be submitted to international courts",
-    "url": "https://tass.com/politics/2189155"
-  },
-  {
-    "id": "https://www.defensenews.com/news/your-navy/2026/09/17/us-navy-awards-defense-startup-200-million-for-blackbeard-hypersonic-missile/",
-    "timestamp": "2026-09-17T15:35:43",
-    "source": "Defense News",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "US Navy awards defense startup $200 million for Blackbeard hypersonic missile",
-    "url": "https://www.defensenews.com/news/your-navy/2026/09/17/us-navy-awards-defense-startup-200-million-for-blackbeard-hypersonic-missile/"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/9/17/ninth-womans-body-found-as-south-africa-probes-series-of-killings?traffic_source=rss",
-    "timestamp": "2026-09-17T15:34:09",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Ninth woman\u2019s body found as South Africa probes series of killings",
-    "url": "https://www.aljazeera.com/news/2026/9/17/ninth-womans-body-found-as-south-africa-probes-series-of-killings?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/world/2189153",
-    "timestamp": "2026-09-17T15:31:54",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Iran proposes suspending IAEA Board membership for US \u2014 statement",
-    "url": "https://tass.com/world/2189153"
-  },
-  {
-    "id": "https://tass.com/world/2189151",
-    "timestamp": "2026-09-17T15:27:36",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian Emergencies Ministry Il-76 crew honored in Serbia for fighting wildfires",
-    "url": "https://tass.com/world/2189151"
-  },
-  {
-    "id": "https://www.france24.com/en/middle-east/20260917-gaza-documentary-naza-sparks-political-storm-in-israel",
-    "timestamp": "2026-09-17T15:24:40",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Gaza documentary 'NAZA' sparks political storm, threats against directors in Israel",
-    "url": "https://www.france24.com/en/middle-east/20260917-gaza-documentary-naza-sparks-political-storm-in-israel"
-  },
-  {
-    "id": "https://www.france24.com/en/video/20260917-spain-images-of-floods-after-torrential-rain",
-    "timestamp": "2026-09-17T15:23:17",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Spain: Images of floods after torrential rain",
-    "url": "https://www.france24.com/en/video/20260917-spain-images-of-floods-after-torrential-rain"
-  },
-  {
-    "id": "https://tass.com/society/2189149",
-    "timestamp": "2026-09-17T15:22:44",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russia presents report proving Kiev staged Bucha incident",
-    "url": "https://tass.com/society/2189149"
-  },
-  {
-    "id": "https://tass.com/society/2189147",
-    "timestamp": "2026-09-17T15:21:16",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Azov militants passed off as civilians allegedly killed in Bucha \u2014 Ukraine tribunal",
-    "url": "https://tass.com/society/2189147"
-  },
-  {
-    "id": "https://tass.com/economy/2189145",
-    "timestamp": "2026-09-17T15:18:39",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Bank of Russia raises dollar exchange rate to 84.5 rubles for September 18",
-    "url": "https://tass.com/economy/2189145"
-  },
-  {
-    "id": "https://www.dw.com/en/judges-as-afd-ascends-germany-must-bolster-justice-system/a-79314333?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-09-17T15:18:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Judges: As AfD ascends, Germany must bolster justice system",
-    "url": "https://www.dw.com/en/judges-as-afd-ascends-germany-must-bolster-justice-system/a-79314333?maca=en-rss-en-all-1573-xml-mrss"
   }
 ]
