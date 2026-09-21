@@ -1,5 +1,105 @@
 [
   {
+    "id": "https://www.dw.com/en/iran-closes-language-center-in-tehran-france-vows-response/a-79348984?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-09-21T01:20:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Iran closes language center in Tehran, France vows response",
+    "url": "https://www.dw.com/en/iran-closes-language-center-in-tehran-france-vows-response/a-79348984?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.theguardian.com/world/2026/sep/21/france-canada-relations-eu-europe-macron-carney",
+    "timestamp": "2026-09-21T01:09:23",
+    "source": "Guardian World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Macron and Carney announce closer France-Canada ties amid Trump tensions",
+    "url": "https://www.theguardian.com/world/2026/sep/21/france-canada-relations-eu-europe-macron-carney"
+  },
+  {
+    "id": "https://tass.com/politics/2190369",
+    "timestamp": "2026-09-21T01:03:16",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russian diplomat sure history will `cancel\u2019 Zelensky",
+    "url": "https://tass.com/politics/2190369"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/9/21/the-sahel-and-the-un-a-smaller-footprint-a-different-role?traffic_source=rss",
+    "timestamp": "2026-09-21T00:53:15",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "The Sahel and the UN: a smaller footprint, a different role",
+    "url": "https://www.aljazeera.com/news/2026/9/21/the-sahel-and-the-un-a-smaller-footprint-a-different-role?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/9/21/ethiopian-armed-groups-forge-alliance-against-government?traffic_source=rss",
+    "timestamp": "2026-09-21T00:34:30",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Ethiopian armed groups forge alliance against government",
+    "url": "https://www.aljazeera.com/news/2026/9/21/ethiopian-armed-groups-forge-alliance-against-government?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/economy/2190367",
+    "timestamp": "2026-09-21T00:26:33",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Moscow to host financial forum on Monday",
+    "url": "https://tass.com/economy/2190367"
+  },
+  {
+    "id": "https://tass.com/politics/2190365",
+    "timestamp": "2026-09-21T00:07:57",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russia\u2019s electoral body to announce preliminary results of Duma election",
+    "url": "https://tass.com/politics/2190365"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/liveblog/2026/9/21/iran-war-live-tehran-warns-us-against-new-strikes-fighting-rages-in-yemen?traffic_source=rss",
+    "timestamp": "2026-09-21T00:00:47",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Iran war live: Tehran warns US against new strikes; fighting rages in Yemen",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/9/21/iran-war-live-tehran-warns-us-against-new-strikes-fighting-rages-in-yemen?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/9/20/ice-officer-shoots-and-wounds-man-in-austin-texas-officials-say?traffic_source=rss",
+    "timestamp": "2026-09-20T23:59:28",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "ICE officer shoots and wounds man in Austin, Texas, officials say",
+    "url": "https://www.aljazeera.com/news/2026/9/20/ice-officer-shoots-and-wounds-man-in-austin-texas-officials-say?traffic_source=rss"
+  },
+  {
+    "id": "https://www.france24.com/en/france/20260920-thousands-protest-in-france-against-bill-expanding-protections-for-police-use-of-force",
+    "timestamp": "2026-09-20T23:56:23",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Thousands protest in France against bill expanding protections for police use of force",
+    "url": "https://www.france24.com/en/france/20260920-thousands-protest-in-france-against-bill-expanding-protections-for-police-use-of-force"
+  },
+  {
     "id": "https://tass.com/world/2190359",
     "timestamp": "2026-09-20T22:55:36",
     "source": "TASS English",
@@ -8,6 +108,16 @@
     "region": "ru",
     "text": "Merz\u2019s CDU loses vote in Mecklenburg-Western Pomerania \u2014 electoral body",
     "url": "https://tass.com/world/2190359"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/9/20/polls-close-in-russian-wartime-election-with-ruling-party-set-to-dominate?traffic_source=rss",
+    "timestamp": "2026-09-20T22:54:00",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Polls close in Russian wartime election with ruling party set to dominate",
+    "url": "https://www.aljazeera.com/news/2026/9/20/polls-close-in-russian-wartime-election-with-ruling-party-set-to-dominate?traffic_source=rss"
   },
   {
     "id": "https://www.aljazeera.com/news/2026/9/20/france-to-summon-iran-envoy-after-language-centre-closure-in-tehran?traffic_source=rss",
@@ -920,6 +1030,16 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/pro-palestine-protesters-demonstrate-outside-ed-sheeran-concert?traffic_source=rss"
   },
   {
+    "id": "https://www.airandspaceforces.com/f-117-see-stealth-in-the-light-of-history/",
+    "timestamp": "2026-09-20T12:00:00",
+    "source": "Air Force Mag",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "The F-117: Now Washington Can See Stealth in the Light of History",
+    "url": "https://www.airandspaceforces.com/f-117-see-stealth-in-the-light-of-history/"
+  },
+  {
     "id": "https://www.defenseone.com/technology/2026/09/will-airmen-trust-ai-air-forces-future-plans-depend-it/416098/",
     "timestamp": "2026-09-20T12:00:00",
     "source": "Defense One",
@@ -1408,6 +1528,16 @@
     "region": "global",
     "text": "Why China is pushing back on US warnings over rapid AI development",
     "url": "https://www.theguardian.com/world/2026/sep/20/why-china-is-pushing-back-on-us-warnings-over-rapid-ai-development"
+  },
+  {
+    "id": "https://www.dw.com/en/germany-afd-wins-in-northeastern-state-left-in-berlin/live-79322092?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-09-20T06:00:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Germany: AfD wins in northeastern state, Left in Berlin",
+    "url": "https://www.dw.com/en/germany-afd-wins-in-northeastern-state-left-in-berlin/live-79322092?maca=en-rss-en-all-1573-xml-mrss"
   },
   {
     "id": "https://www.dw.com/en/far-right-afd-wins-state-election-in-mecklenburg-western-pomerania-cdu-fails-to-enter-parliament/live-79322092?maca=en-rss-en-all-1573-xml-mrss",
@@ -4868,135 +4998,5 @@
     "region": "global",
     "text": "Marine Colonel Who Led Mideast Combat Deployment Wants His Own Drone Boats",
     "url": "https://www.twz.com/sea/marine-colonel-who-led-mideast-combat-deployment-wants-his-own-drone-boats"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-09-18T17:57:30",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
-    "url": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://tass.com/economy/2189875",
-    "timestamp": "2026-09-18T17:57:00",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian stocks close in the green on Friday",
-    "url": "https://tass.com/economy/2189875"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/9/18/swedens-left-wing-opposition-leader-begins-efforts-to-form-government?traffic_source=rss",
-    "timestamp": "2026-09-18T17:55:38",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Sweden\u2019s left-wing opposition leader begins efforts to form government",
-    "url": "https://www.aljazeera.com/news/2026/9/18/swedens-left-wing-opposition-leader-begins-efforts-to-form-government?traffic_source=rss"
-  },
-  {
-    "id": "https://www.defenseone.com/ideas/2026/09/pete-hegseth-military-brass-ceiling/416082/",
-    "timestamp": "2026-09-18T17:48:16",
-    "source": "Defense One",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Pete Hegseth is rebuilding the military's \u2018brass\u00a0ceiling\u2019",
-    "url": "https://www.defenseone.com/ideas/2026/09/pete-hegseth-military-brass-ceiling/416082/"
-  },
-  {
-    "id": "https://www.defensenews.com/industry/techwatch/2026/09/18/us-clears-way-for-243-billion-fighter-jet-sale-to-saudi-arabia/",
-    "timestamp": "2026-09-18T17:44:31",
-    "source": "Defense News",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "US clears way for $24.3 billion fighter jet sale to Saudi Arabia",
-    "url": "https://www.defensenews.com/industry/techwatch/2026/09/18/us-clears-way-for-243-billion-fighter-jet-sale-to-saudi-arabia/"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/09/18/one-machine-handles-52-of-a-russian-oil-plant-ukrainian-drones-just-hit-it/",
-    "timestamp": "2026-09-18T17:41:43",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "One machine handles 52% of a Russian oil plant\u2014Ukrainian drones just hit it",
-    "url": "https://euromaidanpress.com/2026/09/18/one-machine-handles-52-of-a-russian-oil-plant-ukrainian-drones-just-hit-it/"
-  },
-  {
-    "id": "https://tass.com/politics/2189869",
-    "timestamp": "2026-09-18T17:39:38",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "DPR polling stations wrap up first day of State Duma elections",
-    "url": "https://tass.com/politics/2189869"
-  },
-  {
-    "id": "https://tass.com/politics/2189867",
-    "timestamp": "2026-09-18T17:37:51",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Election commission rates first voting day in Kherson Region 'excellent'",
-    "url": "https://tass.com/politics/2189867"
-  },
-  {
-    "id": "https://www.dw.com/en/zelenskyy-holds-inaugural-carpathian-eight-regional-summit/a-79333437?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-09-18T17:36:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Zelenskyy holds inaugural 'Carpathian Eight' regional summit",
-    "url": "https://www.dw.com/en/zelenskyy-holds-inaugural-carpathian-eight-regional-summit/a-79333437?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.airandspaceforces.com/pentagon-picks-2-companies-for-reconnaissance-satellite-demo/",
-    "timestamp": "2026-09-18T17:30:12",
-    "source": "Air Force Mag",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Pentagon Picks 2 Companies for Reconnaissance Satellite Demo",
-    "url": "https://www.airandspaceforces.com/pentagon-picks-2-companies-for-reconnaissance-satellite-demo/"
-  },
-  {
-    "id": "https://taskandpurpose.com/news/medical-shaving-waivers/",
-    "timestamp": "2026-09-18T17:27:48",
-    "source": "Task & Purpose",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "More than 16,000 troops could face stricter rules with medical shaving waivers",
-    "url": "https://taskandpurpose.com/news/medical-shaving-waivers/"
-  },
-  {
-    "id": "https://www.theguardian.com/world/2026/sep/18/survivor-panic-struggle-breathe-nigeria-prison-cell-died-minna",
-    "timestamp": "2026-09-18T17:27:39",
-    "source": "Guardian World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Survivors recount panic and struggle to breathe in Nigerian prison cell where 37 died",
-    "url": "https://www.theguardian.com/world/2026/sep/18/survivor-panic-struggle-breathe-nigeria-prison-cell-died-minna"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/9/18/iranians-rally-in-biggest-show-of-defiance-against-us-since-war-began?traffic_source=rss",
-    "timestamp": "2026-09-18T17:23:23",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Iranians rally in biggest show of defiance against US since war began",
-    "url": "https://www.aljazeera.com/news/2026/9/18/iranians-rally-in-biggest-show-of-defiance-against-us-since-war-began?traffic_source=rss"
   }
 ]
