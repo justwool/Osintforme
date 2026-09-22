@@ -1,5 +1,915 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-09-22T13:17:39",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
+    "url": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://tass.com/emergencies/2191167",
+    "timestamp": "2026-09-22T13:11:10",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Four dead and five injured: fire in southern Urals mall",
+    "url": "https://tass.com/emergencies/2191167"
+  },
+  {
+    "id": "https://tass.com/politics/2191159",
+    "timestamp": "2026-09-22T13:07:45",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russian forces strike Ukrainian metallurgical, chemical industry sites \u2014 top brass",
+    "url": "https://tass.com/politics/2191159"
+  },
+  {
+    "id": "https://www.aljazeera.com/sports/2026/9/22/disgraceful-did-india-bully-umpires-to-win-japan-t20-cricket-match?traffic_source=rss",
+    "timestamp": "2026-09-22T13:05:30",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "\u2018Disgraceful\u2019: Did India bully umpires to win Japan T20 cricket match?",
+    "url": "https://www.aljazeera.com/sports/2026/9/22/disgraceful-did-india-bully-umpires-to-win-japan-t20-cricket-match?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/politics/2191161",
+    "timestamp": "2026-09-22T13:04:48",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Putin speaks by phone with Saudi Arabia's Crown Prince",
+    "url": "https://tass.com/politics/2191161"
+  },
+  {
+    "id": "https://www.defensenews.com/global/europe/2026/09/22/us-to-open-two-new-military-bases-in-greenland-sources-say/",
+    "timestamp": "2026-09-22T13:03:04",
+    "source": "Defense News",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "US to open two new military bases in Greenland, sources say",
+    "url": "https://www.defensenews.com/global/europe/2026/09/22/us-to-open-two-new-military-bases-in-greenland-sources-say/"
+  },
+  {
+    "id": "https://www.france24.com/en/tv-shows/entre-nous/20260922-nutrition-expert-shares-easy-steps-to-healthier-eating",
+    "timestamp": "2026-09-22T13:02:00",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Nutrition expert shares easy steps to healthier eating",
+    "url": "https://www.france24.com/en/tv-shows/entre-nous/20260922-nutrition-expert-shares-easy-steps-to-healthier-eating"
+  },
+  {
+    "id": "https://tass.com/politics/2191157",
+    "timestamp": "2026-09-22T13:00:00",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Debunking Bucha false-flag operation, UN\u2019s confusing reports: top diplomat\u2019s statements",
+    "url": "https://tass.com/politics/2191157"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/9/22/un-warns-of-rising-yemen-displacement-as-thousands-flee-to-djibouti?traffic_source=rss",
+    "timestamp": "2026-09-22T12:58:29",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "UN warns of rising Yemen displacement as thousands flee to Djibouti",
+    "url": "https://www.aljazeera.com/news/2026/9/22/un-warns-of-rising-yemen-displacement-as-thousands-flee-to-djibouti?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/9/22/white-house-launches-trump-tv-after-press-bans?traffic_source=rss",
+    "timestamp": "2026-09-22T12:57:24",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "White House launches \u2018Trump TV\u2019 after press bans",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/white-house-launches-trump-tv-after-press-bans?traffic_source=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-09-22T12:54:14",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Developing El Ni\u00f1o becomes strongest on record weeks before expected peak",
+    "url": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/9/22/iran-president-heads-to-unga-vows-to-highlight-us-oppression?traffic_source=rss",
+    "timestamp": "2026-09-22T12:51:53",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Iran president heads to UNGA, vows to highlight US \u2018oppression\u2019",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/iran-president-heads-to-unga-vows-to-highlight-us-oppression?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/9/22/sri-lanka-court-convicts-14-over-deadly-easter-bombings?traffic_source=rss",
+    "timestamp": "2026-09-22T12:48:42",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Sri Lanka court convicts 14 over deadly Easter bombings",
+    "url": "https://www.aljazeera.com/news/2026/9/22/sri-lanka-court-convicts-14-over-deadly-easter-bombings?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/society/2191151",
+    "timestamp": "2026-09-22T12:43:01",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "TASS director general calls for unified verification standards to counter disinformation",
+    "url": "https://tass.com/society/2191151"
+  },
+  {
+    "id": "https://www.dw.com/en/after-floods-nepal-minister-demands-climate-justice/a-79372239?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-09-22T12:37:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "After floods, Nepal minister demands 'climate justice'",
+    "url": "https://www.dw.com/en/after-floods-nepal-minister-demands-climate-justice/a-79372239?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://tass.com/sports/2191147",
+    "timestamp": "2026-09-22T12:35:24",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "ISU grants neutral status to 13 more Russian figure skaters \u2014 statement",
+    "url": "https://tass.com/sports/2191147"
+  },
+  {
+    "id": "https://www.france24.com/en/tv-shows/business/20260922-new-report-tackles-problem-of-governments-overreliance-on-consulting-firms",
+    "timestamp": "2026-09-22T12:35:18",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "New report tackles problem of governments' overreliance on consulting firms",
+    "url": "https://www.france24.com/en/tv-shows/business/20260922-new-report-tackles-problem-of-governments-overreliance-on-consulting-firms"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/09/22/ukraine-shut-down-this-samara-refinery-in-june-now-its-drones-are-back-and-both-distillation-units-are-burning-again/",
+    "timestamp": "2026-09-22T12:35:16",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Ukraine shut down this Samara refinery in June\u2014now its drones are back, and both distillation units are burning again",
+    "url": "https://euromaidanpress.com/2026/09/22/ukraine-shut-down-this-samara-refinery-in-june-now-its-drones-are-back-and-both-distillation-units-are-burning-again/"
+  },
+  {
+    "id": "https://tass.com/politics/2191143",
+    "timestamp": "2026-09-22T12:35:06",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Kremlin comments on US denying visa to senior Russian diplomat, Zelensky\u2019s statements",
+    "url": "https://tass.com/politics/2191143"
+  },
+  {
+    "id": "https://taskandpurpose.com/news/alaska-rescue-river-rafting-hunters/",
+    "timestamp": "2026-09-22T12:30:00",
+    "source": "Task & Purpose",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Rescue team parachutes to remote Alaska river, rafts across to reach hunters",
+    "url": "https://taskandpurpose.com/news/alaska-rescue-river-rafting-hunters/"
+  },
+  {
+    "id": "https://tass.com/defense/2191137",
+    "timestamp": "2026-09-22T12:28:28",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "IN BRIEF: Russian army completes encirclement of Ukraine\u2019s strongpoint in Dobropolye",
+    "url": "https://tass.com/defense/2191137"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/09/22/the_uss_doris_miller_is_americas_aircraft_carrier_1207391.html",
+    "timestamp": "2026-09-22T12:28:13",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "The USS Doris Miller Is America's Aircraft Carrier",
+    "url": "https://www.realcleardefense.com/2026/09/22/the_uss_doris_miller_is_americas_aircraft_carrier_1207391.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/09/22/refrigerators_the_next_battle_frontier_1207493.html",
+    "timestamp": "2026-09-22T12:28:13",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Refrigerators: The Next Battle Frontier?",
+    "url": "https://www.realcleardefense.com/2026/09/22/refrigerators_the_next_battle_frontier_1207493.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/09/22/air_force_to_get_first_next-gen_tactical_c2_centers_1207474.html",
+    "timestamp": "2026-09-22T12:28:07",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Air Force to Get First Next-Gen Tactical C2 Centers",
+    "url": "https://www.realcleardefense.com/2026/09/22/air_force_to_get_first_next-gen_tactical_c2_centers_1207474.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/09/22/corruptio_optimi_pessima_corruption_of_the_best_is_the_worst_1207490.html",
+    "timestamp": "2026-09-22T12:28:06",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Corruptio Optimi Pessima (Corruption of the Best is the Worst)",
+    "url": "https://www.realcleardefense.com/2026/09/22/corruptio_optimi_pessima_corruption_of_the_best_is_the_worst_1207490.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/09/22/fq-42_vengeance_cca_arrives_for_us_air_force_tests_1207427.html",
+    "timestamp": "2026-09-22T12:28:04",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "FQ-42 Vengeance CCA Arrives for U.S. Air Force Tests",
+    "url": "https://www.realcleardefense.com/2026/09/22/fq-42_vengeance_cca_arrives_for_us_air_force_tests_1207427.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/09/22/the_military_decline_since_desert_storm_1207394.html",
+    "timestamp": "2026-09-22T12:28:04",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "The Military Decline Since Desert Storm",
+    "url": "https://www.realcleardefense.com/2026/09/22/the_military_decline_since_desert_storm_1207394.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/09/22/after_hitting_pilot_training_goal_resolving_shortage_will_take_years_1207473.html",
+    "timestamp": "2026-09-22T12:27:59",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "After Hitting Pilot Training Goal, Resolving Shortage Will Take Years",
+    "url": "https://www.realcleardefense.com/2026/09/22/after_hitting_pilot_training_goal_resolving_shortage_will_take_years_1207473.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/09/22/us_navys_sub_tsar_unveils_four-pillar_plan_1207504.html",
+    "timestamp": "2026-09-22T12:27:58",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "U.S. Navy's 'Sub Tsar' Unveils Four-Pillar Plan",
+    "url": "https://www.realcleardefense.com/2026/09/22/us_navys_sub_tsar_unveils_four-pillar_plan_1207504.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/09/22/the_unpopular_ones_who_were_right_1207392.html",
+    "timestamp": "2026-09-22T12:27:55",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "The Unpopular Ones Who Were Right",
+    "url": "https://www.realcleardefense.com/2026/09/22/the_unpopular_ones_who_were_right_1207392.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/09/22/airmen_cant_get_enough_of_new_warlike_basic_training_1207502.html",
+    "timestamp": "2026-09-22T12:27:53",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Airmen Can't Get Enough of New, Warlike Basic Training",
+    "url": "https://www.realcleardefense.com/2026/09/22/airmen_cant_get_enough_of_new_warlike_basic_training_1207502.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/09/22/uss_wisonsin_is_a_floating_history_lesson_for_the_us_navy_in_2026_1207465.html",
+    "timestamp": "2026-09-22T12:27:51",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "USS Wisonsin Is a Floating History Lesson for the U.S. Navy in 2026",
+    "url": "https://www.realcleardefense.com/2026/09/22/uss_wisonsin_is_a_floating_history_lesson_for_the_us_navy_in_2026_1207465.html"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/09/22/f-47_to_fire_lethal_stand-in_attack_weapon_1207475.html",
+    "timestamp": "2026-09-22T12:27:49",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "F-47 to Fire Lethal 'Stand-in Attack Weapon'",
+    "url": "https://www.realcleardefense.com/2026/09/22/f-47_to_fire_lethal_stand-in_attack_weapon_1207475.html"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c8dx5dy5rzz2o?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-09-22T12:26:31",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "How Trump's media ban sparked a broadcaster boycott",
+    "url": "https://www.bbc.co.uk/news/articles/c8dx5dy5rzz2o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://tass.com/politics/2191129",
+    "timestamp": "2026-09-22T12:23:49",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russia\u2019s top diplomat Lavrov to hold over 30 bilateral meetings at UN General Assembly",
+    "url": "https://tass.com/politics/2191129"
+  },
+  {
+    "id": "https://tass.com/society/2191125",
+    "timestamp": "2026-09-22T12:21:36",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Media should pool efforts to combat virus of deepfakes \u2014 OANA Secretary General",
+    "url": "https://tass.com/society/2191125"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/09/22/americas_next_military_advantage_is_trusted_data_1207496.html",
+    "timestamp": "2026-09-22T12:19:10",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "America's Next Military Advantage is Trusted Data",
+    "url": "https://www.realcleardefense.com/2026/09/22/americas_next_military_advantage_is_trusted_data_1207496.html"
+  },
+  {
+    "id": "https://www.dw.com/en/could-we-see-mma-at-the-olympics/a-79369605?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-09-22T12:14:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Could we see MMA at the Olympics?",
+    "url": "https://www.dw.com/en/could-we-see-mma-at-the-olympics/a-79369605?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.aljazeera.com/sports/2026/9/22/la-liga-president-tebas-slams-real-madrid-refereeing-conspiracy-claims?traffic_source=rss",
+    "timestamp": "2026-09-22T12:11:18",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "La Liga President Tebas slams Real Madrid refereeing \u2018conspiracy\u2019 claims",
+    "url": "https://www.aljazeera.com/sports/2026/9/22/la-liga-president-tebas-slams-real-madrid-refereeing-conspiracy-claims?traffic_source=rss"
+  },
+  {
+    "id": "https://www.france24.com/en/video/20260922-new-book-by-princess-diana-s-brother-sparks-royal-ruckus",
+    "timestamp": "2026-09-22T12:09:57",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "New book by Princess Diana's brother sparks royal ruckus",
+    "url": "https://www.france24.com/en/video/20260922-new-book-by-princess-diana-s-brother-sparks-royal-ruckus"
+  },
+  {
+    "id": "https://www.france24.com/en/video/20260922-macron-calls-on-eu-to-tackle-soaring-energy-prices",
+    "timestamp": "2026-09-22T12:08:48",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Macron calls on EU to tackle soaring energy prices",
+    "url": "https://www.france24.com/en/video/20260922-macron-calls-on-eu-to-tackle-soaring-energy-prices"
+  },
+  {
+    "id": "https://www.france24.com/en/video/20260922-media-ban-an-escalation-even-for-trump",
+    "timestamp": "2026-09-22T12:07:29",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Media ban 'an escalation even for Trump'",
+    "url": "https://www.france24.com/en/video/20260922-media-ban-an-escalation-even-for-trump"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/liveblog/2026/9/22/un-general-assembly-live-trump-qatar-emir-to-speak-as-iran-war-dominates?traffic_source=rss",
+    "timestamp": "2026-09-22T12:00:00",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "UN General Assembly live: Trump, Qatar emir to speak as Iran war dominates",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/9/22/un-general-assembly-live-trump-qatar-emir-to-speak-as-iran-war-dominates?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/sports/2026/9/22/afghan-cyclist-who-escaped-taliban-wins-asian-games-silver-medal?traffic_source=rss",
+    "timestamp": "2026-09-22T11:48:57",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Afghan cyclist who escaped Taliban wins Asian Games silver medal",
+    "url": "https://www.aljazeera.com/sports/2026/9/22/afghan-cyclist-who-escaped-taliban-wins-asian-games-silver-medal?traffic_source=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/football/articles/ckd68e40ze3jo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-09-22T11:48:23",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Arteta agrees new deal with Premier League champions Arsenal",
+    "url": "https://www.bbc.co.uk/sport/football/articles/ckd68e40ze3jo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cx8d38djqm25o?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-09-22T11:44:34",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "British man missing after diving into Lake Como to rescue teenager",
+    "url": "https://www.bbc.co.uk/news/articles/cx8d38djqm25o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://tass.com/economy/2191111",
+    "timestamp": "2026-09-22T11:43:46",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Poland aims to become gas hub for Europe, minister says",
+    "url": "https://tass.com/economy/2191111"
+  },
+  {
+    "id": "https://tass.com/politics/2191109",
+    "timestamp": "2026-09-22T11:41:28",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russia\u2019s SVR comments on yet another EU\u2019s attempt to seize sovereign Russian assets",
+    "url": "https://tass.com/politics/2191109"
+  },
+  {
+    "id": "https://tass.com/politics/2191107",
+    "timestamp": "2026-09-22T11:38:36",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Globalists will replace Merz after CDU election failure, RDIF chief says",
+    "url": "https://tass.com/politics/2191107"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/9/22/trump-gcc-summit-in-new-york-what-does-each-side-want?traffic_source=rss",
+    "timestamp": "2026-09-22T11:33:56",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Trump-GCC Summit in New York: What does each side want?",
+    "url": "https://www.aljazeera.com/news/2026/9/22/trump-gcc-summit-in-new-york-what-does-each-side-want?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/economy/2191105",
+    "timestamp": "2026-09-22T11:32:29",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Only 22% of Russian gold consumed domestically",
+    "url": "https://tass.com/economy/2191105"
+  },
+  {
+    "id": "https://www.france24.com/en/tv-shows/focus/20260922-climate-change-overfishing-lake-chad-sees-fish-stocks-dwindle",
+    "timestamp": "2026-09-22T11:30:56",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Climate change, overfishing: Lake Chad sees fish stocks dwindle",
+    "url": "https://www.france24.com/en/tv-shows/focus/20260922-climate-change-overfishing-lake-chad-sees-fish-stocks-dwindle"
+  },
+  {
+    "id": "https://www.dw.com/en/iran-war-spreads-through-region-as-trump-seeks-way-out/a-79370506?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-09-22T11:29:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Iran war spreads through region as Trump seeks way out",
+    "url": "https://www.dw.com/en/iran-war-spreads-through-region-as-trump-seeks-way-out/a-79370506?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.france24.com/en/tv-shows/spotlight/20260922-trump-admin-s-hardline-deportation-policy-an-attempt-to-break-the-global-refugee-and-asylum-system",
+    "timestamp": "2026-09-22T11:28:40",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Trump admin's hardline deportation policy an 'attempt to break the global refugee and asylum system'",
+    "url": "https://www.france24.com/en/tv-shows/spotlight/20260922-trump-admin-s-hardline-deportation-policy-an-attempt-to-break-the-global-refugee-and-asylum-system"
+  },
+  {
+    "id": "https://tass.com/politics/2191103",
+    "timestamp": "2026-09-22T11:27:39",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Lavrov says truth will prevail, answer to Western information aggression",
+    "url": "https://tass.com/politics/2191103"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c6790y1gj247o?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-09-22T11:25:19",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Doctor in court to face Rwanda genocide charges in UK",
+    "url": "https://www.bbc.co.uk/news/articles/c6790y1gj247o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/features/2026/9/22/palestine-weekly-violent-disruptions-from-olive-groves-to-al-aqsa-mosque?traffic_source=rss",
+    "timestamp": "2026-09-22T11:22:51",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Palestine weekly: Violent disruptions from olive groves to Al-Aqsa Mosque",
+    "url": "https://www.aljazeera.com/features/2026/9/22/palestine-weekly-violent-disruptions-from-olive-groves-to-al-aqsa-mosque?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/9/22/why-the-world-should-care-about-the-far-rights-rise-in-germany?traffic_source=rss",
+    "timestamp": "2026-09-22T11:20:38",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Why the world should care about the far right\u2019s rise in Germany",
+    "url": "https://www.aljazeera.com/news/2026/9/22/why-the-world-should-care-about-the-far-rights-rise-in-germany?traffic_source=rss"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/09/22/old_military_networks_new_cyber_shield_1207470.html",
+    "timestamp": "2026-09-22T11:19:55",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Old Military Networks, New Cyber Shield",
+    "url": "https://www.realcleardefense.com/2026/09/22/old_military_networks_new_cyber_shield_1207470.html"
+  },
+  {
+    "id": "https://www.aljazeera.com/features/2026/9/22/can-the-us-ban-iranian-airlines-worldwide-and-what-would-it-mean?traffic_source=rss",
+    "timestamp": "2026-09-22T11:19:08",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Can the US ban Iranian airlines worldwide \u2013 and what would it mean?",
+    "url": "https://www.aljazeera.com/features/2026/9/22/can-the-us-ban-iranian-airlines-worldwide-and-what-would-it-mean?traffic_source=rss"
+  },
+  {
+    "id": "https://www.france24.com/en/video/20260922-wars-ai-and-climate-on-agenda-as-world-leaders-meet-at-un",
+    "timestamp": "2026-09-22T11:17:32",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Wars, AI and climate on agenda as world leaders meet at UN",
+    "url": "https://www.france24.com/en/video/20260922-wars-ai-and-climate-on-agenda-as-world-leaders-meet-at-un"
+  },
+  {
+    "id": "https://www.france24.com/en/video/20260922-americas-feel-effects-of-record-el-nino",
+    "timestamp": "2026-09-22T11:16:03",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Americas feel effects of record El Nino",
+    "url": "https://www.france24.com/en/video/20260922-americas-feel-effects-of-record-el-nino"
+  },
+  {
+    "id": "https://www.realcleardefense.com/2026/09/22/not_only_robots_warfare_will_still_need_humans_1207399.html",
+    "timestamp": "2026-09-22T11:15:48",
+    "source": "RealClearDefense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Not Only Robots: Warfare Will Still Need Humans",
+    "url": "https://www.realcleardefense.com/2026/09/22/not_only_robots_warfare_will_still_need_humans_1207399.html"
+  },
+  {
+    "id": "https://www.france24.com/en/tv-shows/perspective/20260922-greenland-agreement-doesn-t-really-give-the-us-many-more-rights-expert-says",
+    "timestamp": "2026-09-22T11:07:30",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Greenland agreement 'doesn't really give the US many more rights', expert says",
+    "url": "https://www.france24.com/en/tv-shows/perspective/20260922-greenland-agreement-doesn-t-really-give-the-us-many-more-rights-expert-says"
+  },
+  {
+    "id": "https://www.dw.com/en/turkey-several-pupils-injured-in-shooting-outside-school/a-79368728?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-09-22T11:03:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Turkey: Several pupils injured in shooting outside school",
+    "url": "https://www.dw.com/en/turkey-several-pupils-injured-in-shooting-outside-school/a-79368728?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.gov.uk/government/publications/competition-innovation-support-to-operations-cycle-8",
+    "timestamp": "2026-09-22T11:02:33",
+    "source": "UK MoD",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Notice: Competition: Innovation Support to Operations (Cycle 8)",
+    "url": "https://www.gov.uk/government/publications/competition-innovation-support-to-operations-cycle-8"
+  },
+  {
+    "id": "https://www.france24.com/en/americas/20260922-top-tv-networks-%E2%80%93-including-fox-%E2%80%93-revolt-in-solidarity-with-media-banned-by-trump",
+    "timestamp": "2026-09-22T10:59:33",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Top TV networks \u2013 including Fox \u2013 revolt in solidarity with media banned by Trump",
+    "url": "https://www.france24.com/en/americas/20260922-top-tv-networks-%E2%80%93-including-fox-%E2%80%93-revolt-in-solidarity-with-media-banned-by-trump"
+  },
+  {
+    "id": "https://www.france24.com/en/video/20260922-donald-trump-us-outlets-boycott-trump-over-media-ban",
+    "timestamp": "2026-09-22T10:53:16",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Donald Trump: US outlets boycott Trump over media ban",
+    "url": "https://www.france24.com/en/video/20260922-donald-trump-us-outlets-boycott-trump-over-media-ban"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/09/22/russia-child-militarization-occupied-ukraine-schools/",
+    "timestamp": "2026-09-22T10:48:28",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Russia militarizes children from kindergarten to drone training in occupied Ukraine, monitor says",
+    "url": "https://euromaidanpress.com/2026/09/22/russia-child-militarization-occupied-ukraine-schools/"
+  },
+  {
+    "id": "https://www.france24.com/en/video/20260922-hope-and-scepticism-among-youth-as-morocco-goes-to-the-polls",
+    "timestamp": "2026-09-22T10:46:02",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Hope and scepticism among youth as Morocco goes to the polls",
+    "url": "https://www.france24.com/en/video/20260922-hope-and-scepticism-among-youth-as-morocco-goes-to-the-polls"
+  },
+  {
+    "id": "https://www.france24.com/en/video/20260922-uk-to-offer-saudi-arabia-aerial-refueling-to-counter-houthi-attacks",
+    "timestamp": "2026-09-22T10:44:22",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "UK to offer Saudi Arabia aerial refueling to counter Houthi attacks",
+    "url": "https://www.france24.com/en/video/20260922-uk-to-offer-saudi-arabia-aerial-refueling-to-counter-houthi-attacks"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c6y0z4gv0le4o?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-09-22T10:42:47",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Eleven injured in shooting outside Turkish school",
+    "url": "https://www.bbc.co.uk/news/articles/c6y0z4gv0le4o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/9/22/man-shot-by-ice-agent-is-in-detention-with-bullet-in-his-back?traffic_source=rss",
+    "timestamp": "2026-09-22T10:41:21",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Man shot by ICE agent is in detention with bullet in his back",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/man-shot-by-ice-agent-is-in-detention-with-bullet-in-his-back?traffic_source=rss"
+  },
+  {
+    "id": "https://www.france24.com/en/video/20260922-eu-fails-to-reach-deal-to-lift-sanctions-on-russian-oligarchs",
+    "timestamp": "2026-09-22T10:38:21",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "EU fails to reach deal to lift sanctions on Russian oligarchs",
+    "url": "https://www.france24.com/en/video/20260922-eu-fails-to-reach-deal-to-lift-sanctions-on-russian-oligarchs"
+  },
+  {
+    "id": "https://www.defensenews.com/opinion/2026/09/22/the-golden-dome-czar-must-get-control-of-all-us-missile-defense-programs/",
+    "timestamp": "2026-09-22T10:30:53",
+    "source": "Defense News",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "The Golden Dome czar must get control of all US missile defense programs",
+    "url": "https://www.defensenews.com/opinion/2026/09/22/the-golden-dome-czar-must-get-control-of-all-us-missile-defense-programs/"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/9/22/why-united-nations-says-us-boat-strikes-may-be-crimes-against-humanity?traffic_source=rss",
+    "timestamp": "2026-09-22T10:30:42",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Why United Nations says US boat strikes may be \u2018crimes against humanity\u2019",
+    "url": "https://www.aljazeera.com/news/2026/9/22/why-united-nations-says-us-boat-strikes-may-be-crimes-against-humanity?traffic_source=rss"
+  },
+  {
+    "id": "https://www.dw.com/en/russia-ukraine-trade-deadly-strikes-as-zelenskyy-attends-unga/a-79366022?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-09-22T10:07:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Russia, Ukraine trade deadly strikes as Zelenskyy attends UNGA",
+    "url": "https://www.dw.com/en/russia-ukraine-trade-deadly-strikes-as-zelenskyy-attends-unga/a-79366022?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.theguardian.com/world/2026/sep/22/australia-investigating-how-f-35-fighter-jet-parts-bound-for-us-went-missing-in-hong-kong",
+    "timestamp": "2026-09-22T10:00:15",
+    "source": "Guardian World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Australia investigating how F-35 fighter jet parts bound for US went missing in Hong Kong",
+    "url": "https://www.theguardian.com/world/2026/sep/22/australia-investigating-how-f-35-fighter-jet-parts-bound-for-us-went-missing-in-hong-kong"
+  },
+  {
+    "id": "https://www.dw.com/en/male-infertility-is-grossly-underreported/a-79368722?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-09-22T10:00:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Male infertility is 'grossly underreported'",
+    "url": "https://www.dw.com/en/male-infertility-is-grossly-underreported/a-79368722?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cklyjz20pd22o?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-09-22T09:27:28",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Can you take the 'London' out of London Fashion Week?",
+    "url": "https://www.bbc.co.uk/news/articles/cklyjz20pd22o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/09/22/moldova-counted-39-russian-drone-incursions-in-eight-months-against-17-in-all-of-2025/",
+    "timestamp": "2026-09-22T09:21:35",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Moldova counted 39 Russian drone incursions in eight months, against 17 in all of 2025",
+    "url": "https://euromaidanpress.com/2026/09/22/moldova-counted-39-russian-drone-incursions-in-eight-months-against-17-in-all-of-2025/"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/09/22/trump-demanded-zelenskyy-stop-hitting-russian-refineries-for-the-second-time-in-a-week/",
+    "timestamp": "2026-09-22T09:16:41",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Trump demanded Zelenskyy stop hitting Russian refineries\u2014for the second time in a week",
+    "url": "https://euromaidanpress.com/2026/09/22/trump-demanded-zelenskyy-stop-hitting-russian-refineries-for-the-second-time-in-a-week/"
+  },
+  {
+    "id": "https://www.gov.uk/government/news/uk-military-support-to-the-kingdom-of-saudi-arabia",
+    "timestamp": "2026-09-22T08:56:00",
+    "source": "UK MoD",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "UK military support to the Kingdom of Saudi Arabia",
+    "url": "https://www.gov.uk/government/news/uk-military-support-to-the-kingdom-of-saudi-arabia"
+  },
+  {
+    "id": "https://www.dw.com/en/unga-leaders-gather-as-general-assembly-kicks-off/live-79366211?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-09-22T08:55:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "UNGA: Leaders gather as General Assembly kicks off",
+    "url": "https://www.dw.com/en/unga-leaders-gather-as-general-assembly-kicks-off/live-79366211?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/09/22/russias-mercenaries-brought-a-ukraine-war-drone-to-mali-it-came-down-near-al-qaedas-fighters/",
+    "timestamp": "2026-09-22T08:41:35",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Russia\u2019s mercenaries brought a Ukraine-war drone to Mali. It came down near al-Qaeda\u2019s fighters",
+    "url": "https://euromaidanpress.com/2026/09/22/russias-mercenaries-brought-a-ukraine-war-drone-to-mali-it-came-down-near-al-qaedas-fighters/"
+  },
+  {
+    "id": "https://www.dw.com/en/swan-song-new-book-by-princess-diana-s-brother-drops/a-79365835?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-09-22T08:36:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "'Swan Song': New book by Princess Diana's brother drops",
+    "url": "https://www.dw.com/en/swan-song-new-book-by-princess-diana-s-brother-drops/a-79365835?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.gov.uk/government/publications/military-court-service-sentencing-remarks-2026",
+    "timestamp": "2026-09-22T08:34:00",
+    "source": "UK MoD",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Transparency data: Military Court Service sentencing remarks 2026",
+    "url": "https://www.gov.uk/government/publications/military-court-service-sentencing-remarks-2026"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/09/22/born-in-the-ussr-claimed-stateless-in-finland-fighting-for-ukraine-now-jailed-in-russia/",
+    "timestamp": "2026-09-22T08:28:08",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Born in the USSR, claimed stateless in Finland, fighting for Ukraine\u2014now jailed in Russia",
+    "url": "https://euromaidanpress.com/2026/09/22/born-in-the-ussr-claimed-stateless-in-finland-fighting-for-ukraine-now-jailed-in-russia/"
+  },
+  {
+    "id": "https://www.dw.com/en/will-germany-have-enough-gas-this-winter/a-79360317?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-09-22T08:25:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Will Germany have enough gas this winter?",
+    "url": "https://www.dw.com/en/will-germany-have-enough-gas-this-winter/a-79360317?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cje3rezd92y3o?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-09-22T08:17:15",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Major US outlets boycott shared Trump coverage in protest at media ban",
+    "url": "https://www.bbc.co.uk/news/articles/cje3rezd92y3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.dw.com/en/germany-news-vw-to-step-up-cost-cutting-program/live-79365190?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-09-22T07:51:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Germany news: VW to step up cost-cutting program",
+    "url": "https://www.dw.com/en/germany-news-vw-to-step-up-cost-cutting-program/live-79365190?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
     "id": "https://www.gov.uk/government/publications/dao-policies",
     "timestamp": "2026-09-22T07:30:10",
     "source": "UK MoD",
@@ -20,6 +930,16 @@
     "url": "https://warontherocks.com/missed-the-marque-cyber-privateers-wanted-compensation-to-be-determined/"
   },
   {
+    "id": "https://www.dw.com/en/germany-chancellor-merz-braces-for-difficult-days-ahead/a-79365325?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-09-22T07:28:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Germany: Chancellor Merz braces for difficult days ahead",
+    "url": "https://www.dw.com/en/germany-chancellor-merz-braces-for-difficult-days-ahead/a-79365325?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
     "id": "https://www.dw.com/en/germany-difficult-days-for-chancellor-merz/a-79365325?maca=en-rss-en-all-1573-xml-mrss",
     "timestamp": "2026-09-22T07:28:00",
     "source": "DW World",
@@ -28,6 +948,16 @@
     "region": "global",
     "text": "Germany: Difficult days for Chancellor Merz",
     "url": "https://www.dw.com/en/germany-difficult-days-for-chancellor-merz/a-79365325?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.dw.com/en/princess-diana-s-brother-makes-explosive-claims-about-royals-in-new-memoir/a-79309465?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-09-22T07:23:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Princess Diana's brother makes explosive claims about royals in new memoir",
+    "url": "https://www.dw.com/en/princess-diana-s-brother-makes-explosive-claims-about-royals-in-new-memoir/a-79309465?maca=en-rss-en-all-1573-xml-mrss"
   },
   {
     "id": "https://www.dw.com/en/princess-diana-s-brother-makes-explosive-claims-on-royals-in-new-memoir/a-79309465?maca=en-rss-en-all-1573-xml-mrss",
@@ -208,6 +1138,26 @@
     "region": "mena",
     "text": "Why does the US want to send Israel 40,000 bombs?",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/why-does-the-us-want-to-send-israel-40000-bombs?traffic_source=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cmz6z2vx65jeo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-09-22T05:14:42",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Outrage in India over viral video of teen molested and her friend beaten",
+    "url": "https://www.bbc.co.uk/news/articles/cmz6z2vx65jeo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.dw.com/en/g7-demands-houthis-immediately-cease-saudi-strikes/a-79364964?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-09-22T04:58:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "G7 demands Houthis 'immediately' cease Saudi strikes",
+    "url": "https://www.dw.com/en/g7-demands-houthis-immediately-cease-saudi-strikes/a-79364964?maca=en-rss-en-all-1573-xml-mrss"
   },
   {
     "id": "https://www.dw.com/en/uk-to-refuel-saudi-jets-amid-conflict-with-yemen-s-houthis/a-79364964?maca=en-rss-en-all-1573-xml-mrss",
@@ -4048,955 +4998,5 @@
     "region": "mena",
     "text": "Moscow attacked by more than 1,000 Ukrainian drones",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/moscow-attacked-by-more-than-1000-ukrainian-drones?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/9/20/former-pakistan-pm-imran-khans-sister-arrested-ahead-of-planned-pti-march?traffic_source=rss",
-    "timestamp": "2026-09-20T12:57:57",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Former Pakistan PM Imran Khan\u2019s sister arrested before planned PTI march",
-    "url": "https://www.aljazeera.com/news/2026/9/20/former-pakistan-pm-imran-khans-sister-arrested-ahead-of-planned-pti-march?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/9/20/gazas-children-return-to-classrooms-after-years-of-israeli-attacks?traffic_source=rss",
-    "timestamp": "2026-09-20T12:38:21",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Gaza\u2019s children return to classrooms after years of Israeli attacks",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/gazas-children-return-to-classrooms-after-years-of-israeli-attacks?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/world/2190301",
-    "timestamp": "2026-09-20T12:38:12",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Trump orders triumphal arch converted into military complex",
-    "url": "https://tass.com/world/2190301"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/liveblog/2026/9/20/live-fulham-vs-manchester-united-premier-league?traffic_source=rss",
-    "timestamp": "2026-09-20T12:33:08",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "LIVE: Fulham vs Manchester United \u2013 Premier League",
-    "url": "https://www.aljazeera.com/sports/liveblog/2026/9/20/live-fulham-vs-manchester-united-premier-league?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/houthi-attacks-and-no-western-support-what-are-saudi-arabia-s-options",
-    "timestamp": "2026-09-20T12:24:19",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Houthi attacks and no Western support: What are Saudi Arabia's options ?",
-    "url": "https://www.france24.com/en/houthi-attacks-and-no-western-support-what-are-saudi-arabia-s-options"
-  },
-  {
-    "id": "https://www.france24.com/en/naza-documentary-about-gaza-war-sparks-political-storm-in-israel",
-    "timestamp": "2026-09-20T12:22:26",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "'NAZA' documentary about Gaza war sparks political storm in Israel",
-    "url": "https://www.france24.com/en/naza-documentary-about-gaza-war-sparks-political-storm-in-israel"
-  },
-  {
-    "id": "https://www.france24.com/en/why-doesn-t-the-us-intervene-to-defend-saudi-arabia-against-the-houthis",
-    "timestamp": "2026-09-20T12:20:38",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Why doesn't the US intervene to defend Saudi Arabia against the Houthis?",
-    "url": "https://www.france24.com/en/why-doesn-t-the-us-intervene-to-defend-saudi-arabia-against-the-houthis"
-  },
-  {
-    "id": "https://tass.com/world/2190299",
-    "timestamp": "2026-09-20T12:20:24",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Vucic plans to meet with Lavrov at UN General Assembly session",
-    "url": "https://tass.com/world/2190299"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/9/20/israeli-forces-kill-palestinian-near-jenin-in-occupied-west-bank?traffic_source=rss",
-    "timestamp": "2026-09-20T12:11:22",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Israeli forces kill Palestinian near Jenin in occupied West Bank",
-    "url": "https://www.aljazeera.com/news/2026/9/20/israeli-forces-kill-palestinian-near-jenin-in-occupied-west-bank?traffic_source=rss"
-  },
-  {
-    "id": "https://www.theguardian.com/world/2026/sep/20/former-president-of-chile-withdraws-from-race-to-become-un-secretary-general",
-    "timestamp": "2026-09-20T12:04:08",
-    "source": "Guardian World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Michelle Bachelet withdraws from race to become UN secretary general",
-    "url": "https://www.theguardian.com/world/2026/sep/20/former-president-of-chile-withdraws-from-race-to-become-un-secretary-general"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/9/20/pro-palestine-protesters-demonstrate-outside-ed-sheeran-concert?traffic_source=rss",
-    "timestamp": "2026-09-20T12:00:16",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Pro-Palestine protesters demonstrate outside Ed Sheeran concert",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/pro-palestine-protesters-demonstrate-outside-ed-sheeran-concert?traffic_source=rss"
-  },
-  {
-    "id": "https://www.airandspaceforces.com/f-117-see-stealth-in-the-light-of-history/",
-    "timestamp": "2026-09-20T12:00:00",
-    "source": "Air Force Mag",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "The F-117: Now Washington Can See Stealth in the Light of History",
-    "url": "https://www.airandspaceforces.com/f-117-see-stealth-in-the-light-of-history/"
-  },
-  {
-    "id": "https://www.defenseone.com/technology/2026/09/will-airmen-trust-ai-air-forces-future-plans-depend-it/416098/",
-    "timestamp": "2026-09-20T12:00:00",
-    "source": "Defense One",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Will airmen trust AI? The Air Force\u2019s future plans depend on it",
-    "url": "https://www.defenseone.com/technology/2026/09/will-airmen-trust-ai-air-forces-future-plans-depend-it/416098/"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/9/20/israeli-settlers-storm-al-aqsa-in-latest-targeting-of-east-jerusalem-sites?traffic_source=rss",
-    "timestamp": "2026-09-20T11:54:24",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Israeli settlers storm Al-Aqsa in latest targeting of East Jerusalem sites",
-    "url": "https://www.aljazeera.com/news/2026/9/20/israeli-settlers-storm-al-aqsa-in-latest-targeting-of-east-jerusalem-sites?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/asia-pacific/20260920-north-korea-fires-two-ballistic-missiles-into-the-sea-in-latest-weapons-display",
-    "timestamp": "2026-09-20T11:40:58",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "North Korea fires two ballistic missiles into the sea in latest weapons display",
-    "url": "https://www.france24.com/en/asia-pacific/20260920-north-korea-fires-two-ballistic-missiles-into-the-sea-in-latest-weapons-display"
-  },
-  {
-    "id": "https://tass.com/politics/2190297",
-    "timestamp": "2026-09-20T11:29:43",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "TASS Director General opens OANA Executive Committee meeting in Moscow",
-    "url": "https://tass.com/politics/2190297"
-  },
-  {
-    "id": "https://www.aljazeera.com/features/2026/9/20/back-to-school-in-gaza-learning-in-tents-after-years-of-disruption?traffic_source=rss",
-    "timestamp": "2026-09-20T11:26:20",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Back to school in Gaza: Learning in tents after years of disruption",
-    "url": "https://www.aljazeera.com/features/2026/9/20/back-to-school-in-gaza-learning-in-tents-after-years-of-disruption?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/9/20/what-are-irans-new-conditions-to-end-its-war-with-the-us?traffic_source=rss",
-    "timestamp": "2026-09-20T11:21:06",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "What are Iran\u2019s latest conditions to end its war with the US?",
-    "url": "https://www.aljazeera.com/news/2026/9/20/what-are-irans-new-conditions-to-end-its-war-with-the-us?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/9/20/anthems-transport-housing-whats-gone-wrong-at-the-asian-games-in-japan?traffic_source=rss",
-    "timestamp": "2026-09-20T11:18:21",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Anthems, transport, housing: What\u2019s gone wrong at the Asian Games in Japan?",
-    "url": "https://www.aljazeera.com/sports/2026/9/20/anthems-transport-housing-whats-gone-wrong-at-the-asian-games-in-japan?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/politics/2190295",
-    "timestamp": "2026-09-20T11:13:40",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russians choose future for their children by voting today \u2014 human rights commissioner",
-    "url": "https://tass.com/politics/2190295"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/09/20/ukraine-retakes-three-settlements-in-northern-donetsk-vivaldi/",
-    "timestamp": "2026-09-20T11:03:17",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Ukraine retakes ground in a region Russia has fought for years to capture. \u201cVivaldi\u201d is only getting started but is already \u201cone of the most important victories for Ukraine in 2026\u201d",
-    "url": "https://euromaidanpress.com/2026/09/20/ukraine-retakes-three-settlements-in-northern-donetsk-vivaldi/"
-  },
-  {
-    "id": "https://tass.com/politics/2190291",
-    "timestamp": "2026-09-20T10:46:48",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "More than 45% of Russians have voted in the election as of Sunday morning \u2014 CEC chairwoman",
-    "url": "https://tass.com/politics/2190291"
-  },
-  {
-    "id": "https://www.france24.com/en/germany-could-regional-polls-froce-friedrich-merz-to-step-down",
-    "timestamp": "2026-09-20T10:26:10",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Germany: Could regional polls force Friedrich Merz to step down?",
-    "url": "https://www.france24.com/en/germany-could-regional-polls-froce-friedrich-merz-to-step-down"
-  },
-  {
-    "id": "https://www.france24.com/en/ukraine-hits-russia-with-major-drone-attack-targetting-refinery",
-    "timestamp": "2026-09-20T10:24:57",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Ukraine hits Russia with major drone attack, targetting refinery",
-    "url": "https://www.france24.com/en/ukraine-hits-russia-with-major-drone-attack-targetting-refinery"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/09/20/ukraines-launches-massive-attack-on-moscow/",
-    "timestamp": "2026-09-20T10:05:38",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Ukraine\u2019s long-range strikes reach Moscow\u2019s fuel supply as Russia votes in State Duma elections",
-    "url": "https://euromaidanpress.com/2026/09/20/ukraines-launches-massive-attack-on-moscow/"
-  },
-  {
-    "id": "https://www.france24.com/en/nine-women-found-dead-near-johannesburg-sends-shockwaves-through-south-africa",
-    "timestamp": "2026-09-20T10:00:02",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Nine women found dead near Johannesburg sends shockwaves through South Africa",
-    "url": "https://www.france24.com/en/nine-women-found-dead-near-johannesburg-sends-shockwaves-through-south-africa"
-  },
-  {
-    "id": "https://www.france24.com/en/ed-sheeran-calls-gaza-war-catastrophic-after-dropping-macklemore-over-pro-palestinian-comments",
-    "timestamp": "2026-09-20T09:57:12",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Ed Sheeran calls Gaza war catastrophic after dropping Macklemore over pro-Palestinian comments",
-    "url": "https://www.france24.com/en/ed-sheeran-calls-gaza-war-catastrophic-after-dropping-macklemore-over-pro-palestinian-comments"
-  },
-  {
-    "id": "https://www.france24.com/en/three-media-outlets-barred-from-the-white-house-over-fake-news",
-    "timestamp": "2026-09-20T09:55:09",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Three media outlets barred from the White House over 'fake news'",
-    "url": "https://www.france24.com/en/three-media-outlets-barred-from-the-white-house-over-fake-news"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/9/20/salah-scores-hat-trick-as-trabzonspor-beat-galatasaray-in-turkish-league?traffic_source=rss",
-    "timestamp": "2026-09-20T09:52:30",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Salah scores hat-trick as Trabzonspor beat Galatasaray in Turkish league",
-    "url": "https://www.aljazeera.com/sports/2026/9/20/salah-scores-hat-trick-as-trabzonspor-beat-galatasaray-in-turkish-league?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/us-and-denmark-reach-greenland-security-deal",
-    "timestamp": "2026-09-20T09:40:12",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "US and Denmark reach Greenland security deal",
-    "url": "https://www.france24.com/en/us-and-denmark-reach-greenland-security-deal"
-  },
-  {
-    "id": "https://www.france24.com/en/yemen-s-houthis-strike-saudi-capital-riyadh-for-the-first-time",
-    "timestamp": "2026-09-20T09:38:42",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Yemen's Houthis strike Saudi capital Riyadh for the first time",
-    "url": "https://www.france24.com/en/yemen-s-houthis-strike-saudi-capital-riyadh-for-the-first-time"
-  },
-  {
-    "id": "https://www.france24.com/en/argentines-protest-milei-s-austerity-demanding-higher-wages-and-public-spending",
-    "timestamp": "2026-09-20T09:38:27",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Argentines protest Milei's austerity, demanding higher wages and public spending",
-    "url": "https://www.france24.com/en/argentines-protest-milei-s-austerity-demanding-higher-wages-and-public-spending"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/9/20/asian-games-smriti-mandhana-breaks-t20-record-as-india-beat-bangladesh?traffic_source=rss",
-    "timestamp": "2026-09-20T09:36:23",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Asian Games: Smriti Mandhana breaks T20 record as India beat Bangladesh",
-    "url": "https://www.aljazeera.com/sports/2026/9/20/asian-games-smriti-mandhana-breaks-t20-record-as-india-beat-bangladesh?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/will-german-s-far-right-party-afd-win-over-two-more-regions",
-    "timestamp": "2026-09-20T09:35:34",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Will German's far right party AfD win over two more regions?",
-    "url": "https://www.france24.com/en/will-german-s-far-right-party-afd-win-over-two-more-regions"
-  },
-  {
-    "id": "https://www.france24.com/en/tv-shows/sports/20260920-ligue-1-paris-saint-germain-head-to-marseille-for-a-tense-classique",
-    "timestamp": "2026-09-20T09:34:08",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Ligue 1: Paris Saint-Germain head to Marseille for a tense Classique",
-    "url": "https://www.france24.com/en/tv-shows/sports/20260920-ligue-1-paris-saint-germain-head-to-marseille-for-a-tense-classique"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/9/20/there-will-be-a-very-sizeable-saudi-response-to-houthi-attacks?traffic_source=rss",
-    "timestamp": "2026-09-20T09:30:51",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "\u2018There will be a very sizeable Saudi response\u2019 to Houthi attacks",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/there-will-be-a-very-sizeable-saudi-response-to-houthi-attacks?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/politics/2190273",
-    "timestamp": "2026-09-20T09:28:42",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Chairwoman of Central Election Commission says term \"unfriendly countries\" is too mild",
-    "url": "https://tass.com/politics/2190273"
-  },
-  {
-    "id": "https://tass.com/politics/2190271",
-    "timestamp": "2026-09-20T08:51:08",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Polling stations close in Russia\u2019s easternmost regions, Kamchatka, Chukotka",
-    "url": "https://tass.com/politics/2190271"
-  },
-  {
-    "id": "https://tass.com/politics/2190267",
-    "timestamp": "2026-09-20T08:37:19",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Two people killed in drone attack on bus in Kherson Region \u2014 CEC chairwoman",
-    "url": "https://tass.com/politics/2190267"
-  },
-  {
-    "id": "https://www.dw.com/en/russia-ukrainian-drone-strike-on-moscow-kills-2/a-79341964?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-09-20T08:37:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Russia: Ukrainian drone strike on Moscow kills 2",
-    "url": "https://www.dw.com/en/russia-ukrainian-drone-strike-on-moscow-kills-2/a-79341964?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news-analysis/2026/9/20/echoicide-who-decides-which-truths-survive-in-gaza?traffic_source=rss",
-    "timestamp": "2026-09-20T08:32:45",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Echoicide: Who decides which truths survive in Gaza?",
-    "url": "https://www.aljazeera.com/news-analysis/2026/9/20/echoicide-who-decides-which-truths-survive-in-gaza?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/world/2190249",
-    "timestamp": "2026-09-20T08:09:57",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Iran will keep Strait of Hormuz closed until US accepts its terms \u2014 parliamentary speaker",
-    "url": "https://tass.com/world/2190249"
-  },
-  {
-    "id": "https://tass.com/politics/2190247",
-    "timestamp": "2026-09-20T08:09:05",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian air defenses repel largest-ever Ukrainian drone attack, mayor says",
-    "url": "https://tass.com/politics/2190247"
-  },
-  {
-    "id": "https://www.navalnews.com/naval-news/2026/09/cochin-shipyard-lays-keel-for-indian-navys-first-ngmv/",
-    "timestamp": "2026-09-20T08:05:27",
-    "source": "Naval News",
-    "platform": "rss",
-    "category": "naval",
-    "region": "global",
-    "text": "Cochin Shipyard Lays Keel for Indian Navy\u2019s First NGMV",
-    "url": "https://www.navalnews.com/naval-news/2026/09/cochin-shipyard-lays-keel-for-indian-navys-first-ngmv/"
-  },
-  {
-    "id": "https://www.dw.com/en/ed-sheeran-speaks-on-gaza-in-concert-after-macklemore-controversy/a-79341971?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-09-20T08:00:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Ed Sheeran speaks on Gaza in concert after Macklemore controversy",
-    "url": "https://www.dw.com/en/ed-sheeran-speaks-on-gaza-in-concert-after-macklemore-controversy/a-79341971?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-09-20T07:57:32",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "German elections under way which could decide fate of Chancellor Merz",
-    "url": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/9/20/20-09-clip-townsend-gets-rolled-over-in-thailand-th?traffic_source=rss",
-    "timestamp": "2026-09-20T07:55:58",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Former England and Tottenham star Andros Townsend run over by pitch roller",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/20-09-clip-townsend-gets-rolled-over-in-thailand-th?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/defense/2190245",
-    "timestamp": "2026-09-20T07:38:09",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian air defenses down 1,110 Ukrainian drones overnight",
-    "url": "https://tass.com/defense/2190245"
-  },
-  {
-    "id": "https://www.dw.com/en/in-cosmopolitan-berlin-elections-still-closed-to-foreigners/a-78744579?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-09-20T07:11:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "In cosmopolitan Berlin, elections still closed to foreigners",
-    "url": "https://www.dw.com/en/in-cosmopolitan-berlin-elections-still-closed-to-foreigners/a-78744579?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.france24.com/en/europe/20260920-live-russian-election-enters-final-day-in-shadow-of-war-in-ukraine",
-    "timestamp": "2026-09-20T07:10:06",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "\ud83d\udd34 Russian election enters final day after major Ukrainian drone attack on Moscow",
-    "url": "https://www.france24.com/en/europe/20260920-live-russian-election-enters-final-day-in-shadow-of-war-in-ukraine"
-  },
-  {
-    "id": "https://tass.com/politics/2190243",
-    "timestamp": "2026-09-20T07:10:00",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Putin congratulates South Ossetian president Kambolov on Republic Day",
-    "url": "https://tass.com/politics/2190243"
-  },
-  {
-    "id": "https://tass.com/defense/2190239",
-    "timestamp": "2026-09-20T07:09:26",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian forces hit Fire Point warehouse storing drone components in Kiev Region",
-    "url": "https://tass.com/defense/2190239"
-  },
-  {
-    "id": "https://tass.com/defense/2190237",
-    "timestamp": "2026-09-20T07:08:05",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian forces hit tanker carrying military supplies for Ukrainian troops",
-    "url": "https://tass.com/defense/2190237"
-  },
-  {
-    "id": "https://tass.com/defense/2190235",
-    "timestamp": "2026-09-20T07:07:15",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian forces hit cargo ship, logistics center near Odessa",
-    "url": "https://tass.com/defense/2190235"
-  },
-  {
-    "id": "https://tass.com/defense/2190233",
-    "timestamp": "2026-09-20T07:05:43",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian forces hit Radionix plant, B-Mobile data center in Kiev",
-    "url": "https://tass.com/defense/2190233"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/9/20/mass-ukrainian-drone-attack-on-moscow-kills-two-russia-says?traffic_source=rss",
-    "timestamp": "2026-09-20T06:57:05",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Two killed in Ukrainian drone attack on Moscow, says Russia",
-    "url": "https://www.aljazeera.com/news/2026/9/20/mass-ukrainian-drone-attack-on-moscow-kills-two-russia-says?traffic_source=rss"
-  },
-  {
-    "id": "https://www.dw.com/en/india-news-pm-modi-says-developing-nations-unfairly-blamed-for-emissions/live-79335891?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-09-20T06:50:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "India news: PM Modi says developing nations unfairly blamed for emissions",
-    "url": "https://www.dw.com/en/india-news-pm-modi-says-developing-nations-unfairly-blamed-for-emissions/live-79335891?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.dw.com/en/germany-news-doctors-offer-oktoberfest-flu-jabs/live-79335548?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-09-20T06:43:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Germany news: Doctors offer Oktoberfest flu jabs",
-    "url": "https://www.dw.com/en/germany-news-doctors-offer-oktoberfest-flu-jabs/live-79335548?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.dw.com/en/decolonizing-perceptions-about-africa/a-79331178?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-09-20T06:32:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Decolonizing perceptions about Africa",
-    "url": "https://www.dw.com/en/decolonizing-perceptions-about-africa/a-79331178?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/9/20/myanmars-van-defeats-pantoja-to-retain-flyweight-title-in-ufc-331?traffic_source=rss",
-    "timestamp": "2026-09-20T06:03:14",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Myanmar\u2019s Van defeats Pantoja to retain flyweight title in UFC 331",
-    "url": "https://www.aljazeera.com/sports/2026/9/20/myanmars-van-defeats-pantoja-to-retain-flyweight-title-in-ufc-331?traffic_source=rss"
-  },
-  {
-    "id": "https://www.theguardian.com/world/2026/sep/20/why-china-is-pushing-back-on-us-warnings-over-rapid-ai-development",
-    "timestamp": "2026-09-20T06:00:09",
-    "source": "Guardian World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Why China is pushing back on US warnings over rapid AI development",
-    "url": "https://www.theguardian.com/world/2026/sep/20/why-china-is-pushing-back-on-us-warnings-over-rapid-ai-development"
-  },
-  {
-    "id": "https://www.dw.com/en/germany-friedrich-merz-fights-for-survival-after-election-defeats/live-79322092?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-09-20T06:00:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Germany: Friedrich Merz fights for survival after election defeats",
-    "url": "https://www.dw.com/en/germany-friedrich-merz-fights-for-survival-after-election-defeats/live-79322092?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.dw.com/en/germany-afd-wins-in-northeastern-state-left-in-berlin/live-79322092?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-09-20T06:00:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Germany: AfD wins in northeastern state, Left in Berlin",
-    "url": "https://www.dw.com/en/germany-afd-wins-in-northeastern-state-left-in-berlin/live-79322092?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.dw.com/en/far-right-afd-wins-state-election-in-mecklenburg-western-pomerania-cdu-fails-to-enter-parliament/live-79322092?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-09-20T06:00:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Far-right AfD wins state election in Mecklenburg-Western Pomerania, CDU fails to enter parliament",
-    "url": "https://www.dw.com/en/far-right-afd-wins-state-election-in-mecklenburg-western-pomerania-cdu-fails-to-enter-parliament/live-79322092?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.dw.com/en/germany-s-merz-under-pressure-as-afd-eyes-second-state-win/live-79322092?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-09-20T06:00:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Germany's Merz under pressure as AfD eyes second state win",
-    "url": "https://www.dw.com/en/germany-s-merz-under-pressure-as-afd-eyes-second-state-win/live-79322092?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.dw.com/en/germany-voting-underway-in-two-key-state-elections/live-79322092?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-09-20T06:00:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Germany: Voting underway in two key state elections",
-    "url": "https://www.dw.com/en/germany-voting-underway-in-two-key-state-elections/live-79322092?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.dw.com/en/germany-polls-open-in-two-key-state-elections/live-79322092?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-09-20T06:00:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Germany: Polls open in two key state elections",
-    "url": "https://www.dw.com/en/germany-polls-open-in-two-key-state-elections/live-79322092?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/9/20/journalists-locked-out-of-the-white-house-after-trump-ban?traffic_source=rss",
-    "timestamp": "2026-09-20T05:43:01",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Journalists locked out of the White House after Trump ban",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/journalists-locked-out-of-the-white-house-after-trump-ban?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/9/20/two-german-states-go-to-the-polls-after-far-right-gains?traffic_source=rss",
-    "timestamp": "2026-09-20T05:42:50",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Germany\u2019s Berlin, Mecklenburg-Western Pomerania states head to polls",
-    "url": "https://www.aljazeera.com/news/2026/9/20/two-german-states-go-to-the-polls-after-far-right-gains?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/politics/2190219",
-    "timestamp": "2026-09-20T05:30:11",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Drone attack on Moscow Region leaves two dead \u2014 governor",
-    "url": "https://tass.com/politics/2190219"
-  },
-  {
-    "id": "https://tass.com/politics/2190221",
-    "timestamp": "2026-09-20T05:28:42",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian parliamentary election turnout rises to 45.1% \u2014 election authority",
-    "url": "https://tass.com/politics/2190221"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/9/20/jammertest-arctic-exercise-to-counter-satellite-jamming?traffic_source=rss",
-    "timestamp": "2026-09-20T05:16:08",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Jammertest: Arctic exercise to counter satellite jamming",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/jammertest-arctic-exercise-to-counter-satellite-jamming?traffic_source=rss"
-  },
-  {
-    "id": "https://www.dw.com/en/germany-is-it-possible-to-replace-the-chancellor/a-79313623?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-09-20T05:06:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Germany: Is it possible to replace the chancellor?",
-    "url": "https://www.dw.com/en/germany-is-it-possible-to-replace-the-chancellor/a-79313623?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-09-20T05:04:54",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia",
-    "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/9/20/state-funeral-honours-hong-kongs-first-post-colonial-leader-tung-chee-hwa?traffic_source=rss",
-    "timestamp": "2026-09-20T04:59:15",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "State funeral honours Hong Kong\u2019s first post-colonial leader Tung Chee-hwa",
-    "url": "https://www.aljazeera.com/news/2026/9/20/state-funeral-honours-hong-kongs-first-post-colonial-leader-tung-chee-hwa?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/economy/2190217",
-    "timestamp": "2026-09-20T04:56:24",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Chinese imports of Russian LNG up 28.2%, of oil - up 18.1% in January-August",
-    "url": "https://tass.com/economy/2190217"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/9/20/tunisian-protesters-demand-release-of-four-sumud-activists?traffic_source=rss",
-    "timestamp": "2026-09-20T04:55:33",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Tunisian protesters demand release of four Sumud activists",
-    "url": "https://www.aljazeera.com/news/2026/9/20/tunisian-protesters-demand-release-of-four-sumud-activists?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/politics/2190215",
-    "timestamp": "2026-09-20T04:52:58",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian regional authorities, military ready for Kiev\u2019s provocative acts \u2014 diplomat",
-    "url": "https://tass.com/politics/2190215"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-09-20T04:49:11",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
-    "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://tass.com/world/2190213",
-    "timestamp": "2026-09-20T04:33:55",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "US embassies in Middle East issue security alert for US citizens",
-    "url": "https://tass.com/world/2190213"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/by-the-numbers-3/2026/9/20/how-did-the-us-recall-a-billion-products-in-six-months?traffic_source=rss",
-    "timestamp": "2026-09-20T04:18:55",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "How did the US recall a billion products in six months?",
-    "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/9/20/how-did-the-us-recall-a-billion-products-in-six-months?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/politics/2190209",
-    "timestamp": "2026-09-20T04:16:55",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian parliamentary elections enter their final day",
-    "url": "https://tass.com/politics/2190209"
-  },
-  {
-    "id": "https://tass.com/world/2190205",
-    "timestamp": "2026-09-20T03:57:09",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Trump makes attempts to resolve conflict in Ukraine \u2014 US envoy to UN",
-    "url": "https://tass.com/world/2190205"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/9/20/moroccos-pjd-what-has-the-party-learned-from-its-dramatic-fall?traffic_source=rss",
-    "timestamp": "2026-09-20T03:40:24",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Morocco\u2019s PJD: what has the party learned from its dramatic fall",
-    "url": "https://www.aljazeera.com/news/2026/9/20/moroccos-pjd-what-has-the-party-learned-from-its-dramatic-fall?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/9/20/ed-sheeran-opens-solo-concert-with-comments-about-gaza?traffic_source=rss",
-    "timestamp": "2026-09-20T03:31:54",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Ed Sheeran opens solo concert with comments about Gaza",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/ed-sheeran-opens-solo-concert-with-comments-about-gaza?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/emergencies/2190195",
-    "timestamp": "2026-09-20T03:17:28",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Mayor reports damage at Moscow oil refinery",
-    "url": "https://tass.com/emergencies/2190195"
-  },
-  {
-    "id": "https://tass.com/politics/2190193",
-    "timestamp": "2026-09-20T03:14:58",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian parliamentary election turnout rises to 44.75% \u2014 election authority",
-    "url": "https://tass.com/politics/2190193"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/9/20/peruvian-journalist-shot-dead-after-threatening-to-expose-police?traffic_source=rss",
-    "timestamp": "2026-09-20T03:14:40",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Peruvian journalist shot dead after threatening to expose police",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/peruvian-journalist-shot-dead-after-threatening-to-expose-police?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/9/20/ed-sheeran-calls-gaza-situation-unjustifiable-after-palestine-controversy?traffic_source=rss",
-    "timestamp": "2026-09-20T03:14:26",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Ed Sheeran calls Gaza situation \u2018unjustifiable\u2019 after Palestine controversy",
-    "url": "https://www.aljazeera.com/news/2026/9/20/ed-sheeran-calls-gaza-situation-unjustifiable-after-palestine-controversy?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/world/2190191",
-    "timestamp": "2026-09-20T03:12:30",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Slovak premier says Ukraine\u2019s decision not to sign peace deal in 2022 was a mistake",
-    "url": "https://tass.com/world/2190191"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/9/20/australia-seeks-big-tech-support-for-internet-safety-ai-regulation?traffic_source=rss",
-    "timestamp": "2026-09-20T02:39:32",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Australia seeks big tech support for internet safety, AI regulation",
-    "url": "https://www.aljazeera.com/news/2026/9/20/australia-seeks-big-tech-support-for-internet-safety-ai-regulation?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/inside-story/2026/9/20/how-much-of-a-challenge-recurrent-bombings-to-pakistan?traffic_source=rss",
-    "timestamp": "2026-09-20T02:38:24",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "How much of a challenge are recurrent bombings for Pakistan?",
-    "url": "https://www.aljazeera.com/video/inside-story/2026/9/20/how-much-of-a-challenge-recurrent-bombings-to-pakistan?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/world/2190187",
-    "timestamp": "2026-09-20T02:33:53",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "EU continues to ignore Ukraine\u2019s attacks on nuclear power plants \u2014 Finnish politician",
-    "url": "https://tass.com/world/2190187"
-  },
-  {
-    "id": "https://tass.com/world/2190185",
-    "timestamp": "2026-09-20T02:17:26",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Trump announces creating AI Force in similar vein to Space Force",
-    "url": "https://tass.com/world/2190185"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/9/20/dr-congo-begins-ebola-vaccination-trials-for-frontline-health-workers?traffic_source=rss",
-    "timestamp": "2026-09-20T01:51:47",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "DR Congo begins Ebola vaccination trials for frontline health workers",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/dr-congo-begins-ebola-vaccination-trials-for-frontline-health-workers?traffic_source=rss"
   }
 ]
