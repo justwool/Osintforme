@@ -1,5 +1,325 @@
 [
   {
+    "id": "https://www.airandspaceforces.com/space-force-activates-special-forces-command-component/",
+    "timestamp": "2026-10-14T00:30:45",
+    "source": "Air Force Mag",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Space Force Activates Component Under Special Forces Command",
+    "url": "https://www.airandspaceforces.com/space-force-activates-special-forces-command-component/"
+  },
+  {
+    "id": "https://breakingdefense.com/2026/10/army-doubles-down-on-autonomy-stakes-out-indo-pacific-role-ausa-day-2/",
+    "timestamp": "2026-10-14T00:27:00",
+    "source": "Breaking Defense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Army doubles down on autonomy, stakes out Indo-Pacific role: AUSA Day 2",
+    "url": "https://breakingdefense.com/2026/10/army-doubles-down-on-autonomy-stakes-out-indo-pacific-role-ausa-day-2/"
+  },
+  {
+    "id": "https://tass.com/emergencies/2201661",
+    "timestamp": "2026-10-14T00:03:50",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Number of drones downed while approaching Moscow since start of day reaches 30",
+    "url": "https://tass.com/emergencies/2201661"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/liveblog/2026/10/14/iran-war-live-saudi-coalition-hits-houthi-sites-aramco-office-hit-in-east?traffic_source=rss",
+    "timestamp": "2026-10-14T00:00:00",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Iran war live: Saudi coalition hits Houthi sites; Aramco office hit in east",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/10/14/iran-war-live-saudi-coalition-hits-houthi-sites-aramco-office-hit-in-east?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/10/13/openai-engineer-charged-after-listening-device-found-in-meeting-room?traffic_source=rss",
+    "timestamp": "2026-10-13T23:55:33",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "OpenAI engineer charged after listening device found in meeting room",
+    "url": "https://www.aljazeera.com/news/2026/10/13/openai-engineer-charged-after-listening-device-found-in-meeting-room?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/10/13/ex-gang-leader-gets-40-years-to-life-for-rapper-tupac-shakurs-1996-murder?traffic_source=rss",
+    "timestamp": "2026-10-13T23:42:57",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Ex-gang leader gets 40 years to life for rapper Tupac Shakur\u2019s 1996 murder",
+    "url": "https://www.aljazeera.com/news/2026/10/13/ex-gang-leader-gets-40-years-to-life-for-rapper-tupac-shakurs-1996-murder?traffic_source=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-10-13T23:42:22",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+    "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://tass.com/world/2201659",
+    "timestamp": "2026-10-13T23:38:33",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russia to convene Arria-formula meeting on human rights violations in Ukraine on Oct. 14",
+    "url": "https://tass.com/world/2201659"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-10-13T23:31:10",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Zimbabwean author denies using AI to write award-winning story",
+    "url": "https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://tass.com/defense/2201657",
+    "timestamp": "2026-10-13T23:19:29",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Ukrainian army attacks DPR settlements eight times in 24 hours, wounding two people",
+    "url": "https://tass.com/defense/2201657"
+  },
+  {
+    "id": "https://www.defensenews.com/news/your-military/2026/10/13/us-army-suspends-longtime-hometown-recruiter-assistance-program-faces-cancellation/",
+    "timestamp": "2026-10-13T23:00:00",
+    "source": "Defense News",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "US Army suspends longtime hometown recruiter assistance program, faces cancellation",
+    "url": "https://www.defensenews.com/news/your-military/2026/10/13/us-army-suspends-longtime-hometown-recruiter-assistance-program-faces-cancellation/"
+  },
+  {
+    "id": "https://www.dw.com/en/cornell-suspends-frat-parties-after-gang-rape-case/a-79655735?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-10-13T22:58:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Cornell suspends frat parties after gang rape case",
+    "url": "https://www.dw.com/en/cornell-suspends-frat-parties-after-gang-rape-case/a-79655735?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.aljazeera.com/sports/2026/10/13/manchester-uniteds-martinez-blasts-boards-lack-of-investment?traffic_source=rss",
+    "timestamp": "2026-10-13T22:57:56",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Manchester United\u2019s Martinez blasts board\u2019s lack of investment",
+    "url": "https://www.aljazeera.com/sports/2026/10/13/manchester-uniteds-martinez-blasts-boards-lack-of-investment?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/sports/2026/10/13/bayerns-michael-olise-sent-off-for-super-dumb-yellows-within-seconds?traffic_source=rss",
+    "timestamp": "2026-10-13T22:56:24",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Bayern\u2019s Michael Olise sent off for \u2018super dumb\u2019 yellows within seconds",
+    "url": "https://www.aljazeera.com/sports/2026/10/13/bayerns-michael-olise-sent-off-for-super-dumb-yellows-within-seconds?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/10/13/mauritius-imposes-curfew-after-night-of-unrest-over-police-shooting?traffic_source=rss",
+    "timestamp": "2026-10-13T22:41:59",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Mauritius imposes curfew after night of unrest over police shooting",
+    "url": "https://www.aljazeera.com/news/2026/10/13/mauritius-imposes-curfew-after-night-of-unrest-over-police-shooting?traffic_source=rss"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/10/14/ukraines-tanks-are-back-but-only-because-drones-are-escorting-them/",
+    "timestamp": "2026-10-13T22:40:48",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Ukraine\u2019s tanks are back! But only because drones are escorting them.",
+    "url": "https://euromaidanpress.com/2026/10/14/ukraines-tanks-are-back-but-only-because-drones-are-escorting-them/"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/10/13/albanian-police-fire-tear-gas-at-protesters-as-education-ministry-attacked?traffic_source=rss",
+    "timestamp": "2026-10-13T22:33:50",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Albanian police fire tear gas at protesters as Education Ministry attacked",
+    "url": "https://www.aljazeera.com/news/2026/10/13/albanian-police-fire-tear-gas-at-protesters-as-education-ministry-attacked?traffic_source=rss"
+  },
+  {
+    "id": "https://www.defensenews.com/industry/techwatch/2026/10/13/andurils-palmer-luckey-envisions-missiles-made-in-car-factories-underground-battles/",
+    "timestamp": "2026-10-13T22:30:00",
+    "source": "Defense News",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Anduril\u2019s Palmer Luckey envisions missiles made in car factories, underground battles",
+    "url": "https://www.defensenews.com/industry/techwatch/2026/10/13/andurils-palmer-luckey-envisions-missiles-made-in-car-factories-underground-battles/"
+  },
+  {
+    "id": "https://tass.com/economy/2201653",
+    "timestamp": "2026-10-13T22:29:42",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Over 30 planes bound for Moscow diverted to other cities",
+    "url": "https://tass.com/economy/2201653"
+  },
+  {
+    "id": "https://www.aljazeera.com/sports/2026/10/13/manchester-city-psg-champions-league-haaland-torres-predictions-teams?traffic_source=rss",
+    "timestamp": "2026-10-13T22:17:26",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Man City vs PSG: Champions League \u2013 teams, predictions, line ups",
+    "url": "https://www.aljazeera.com/sports/2026/10/13/manchester-city-psg-champions-league-haaland-torres-predictions-teams?traffic_source=rss"
+  },
+  {
+    "id": "https://news.usni.org/2026/10/13/ncis-investigating-submarine-sailor-death-on-naval-base-kitsap",
+    "timestamp": "2026-10-13T22:15:49",
+    "source": "USNI News",
+    "platform": "rss",
+    "category": "naval",
+    "region": "global",
+    "text": "NCIS Investigating Submarine Sailor Death on Naval Base Kitsap",
+    "url": "https://news.usni.org/2026/10/13/ncis-investigating-submarine-sailor-death-on-naval-base-kitsap"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/10/13/us-trial-begins-for-rwandan-american-accused-of-role-in-genocide?traffic_source=rss",
+    "timestamp": "2026-10-13T22:15:44",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "US trial begins for Rwandan-American accused of role in genocide",
+    "url": "https://www.aljazeera.com/news/2026/10/13/us-trial-begins-for-rwandan-american-accused-of-role-in-genocide?traffic_source=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-10-13T22:14:33",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+    "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cm5ynwpzkgk1o?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-10-13T22:02:09",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "'I'd talk to the TV': The paid companions bringing warmth to China's lonely",
+    "url": "https://www.bbc.co.uk/news/articles/cm5ynwpzkgk1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.france24.com/en/sport/20261013-arsenal-thrash-lille-as-atletico-madrid-beat-manchester-united",
+    "timestamp": "2026-10-13T21:59:44",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Arsenal thrash Lille as Atletico Madrid beat Manchester United",
+    "url": "https://www.france24.com/en/sport/20261013-arsenal-thrash-lille-as-atletico-madrid-beat-manchester-united"
+  },
+  {
+    "id": "https://www.aljazeera.com/sports/2026/10/13/arsenal-beat-lille-3-0-as-perfect-champions-league-start-continues?traffic_source=rss",
+    "timestamp": "2026-10-13T21:59:39",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Arsenal beat Lille 3-0 as perfect Champions League start continues",
+    "url": "https://www.aljazeera.com/sports/2026/10/13/arsenal-beat-lille-3-0-as-perfect-champions-league-start-continues?traffic_source=rss"
+  },
+  {
+    "id": "https://www.twz.com/sponsored-content/airbus-details-progress-with-lakota-connector-uncrewed-cargo-helicopter",
+    "timestamp": "2026-10-13T21:55:11",
+    "source": "The Drive WarZone",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Airbus Details Progress With Lakota Connector Uncrewed Cargo Helicopter",
+    "url": "https://www.twz.com/sponsored-content/airbus-details-progress-with-lakota-connector-uncrewed-cargo-helicopter"
+  },
+  {
+    "id": "https://tass.com/world/2201651",
+    "timestamp": "2026-10-13T21:46:07",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Libya to participate in Russia-Africa summit in Moscow \u2014 envoy",
+    "url": "https://tass.com/world/2201651"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-10-13T21:42:49",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+    "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/10/13/pope-leo-diagnosed-with-cancer-after-surgery-to-remove-part-of-lung?traffic_source=rss",
+    "timestamp": "2026-10-13T21:25:04",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Pope Leo diagnosed with cancer after surgery to remove part of lung",
+    "url": "https://www.aljazeera.com/news/2026/10/13/pope-leo-diagnosed-with-cancer-after-surgery-to-remove-part-of-lung?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/sports/2026/10/13/atletico-madrid-beat-manchester-united-2-0-as-winless-run-continues?traffic_source=rss",
+    "timestamp": "2026-10-13T21:24:19",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Atletico Madrid beat Manchester United 2-0 as winless run continues",
+    "url": "https://www.aljazeera.com/sports/2026/10/13/atletico-madrid-beat-manchester-united-2-0-as-winless-run-continues?traffic_source=rss"
+  },
+  {
+    "id": "https://www.dw.com/en/openai-says-employee-caught-planting-listening-device/a-79655491?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-10-13T21:24:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "OpenAI says employee caught planting listening device",
+    "url": "https://www.dw.com/en/openai-says-employee-caught-planting-listening-device/a-79655491?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
     "id": "https://www.dw.com/en/open-ai-says-employee-caught-planting-listening-device/a-79655491?maca=en-rss-en-all-1573-xml-mrss",
     "timestamp": "2026-10-13T21:24:00",
     "source": "DW World",
@@ -8,6 +328,26 @@
     "region": "global",
     "text": "Open AI says employee caught planting listening device",
     "url": "https://www.dw.com/en/open-ai-says-employee-caught-planting-listening-device/a-79655491?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.france24.com/en/pope-leo-has-cancerous-growth-removed-in-lung-operation",
+    "timestamp": "2026-10-13T21:23:45",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Pope Leo has cancerous growth removed in lung operation",
+    "url": "https://www.france24.com/en/pope-leo-has-cancerous-growth-removed-in-lung-operation"
+  },
+  {
+    "id": "https://www.france24.com/en/tv-shows/business/20261013-china-is-bringing-car-production-to-eu",
+    "timestamp": "2026-10-13T21:23:38",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "China is bringing car production to EU",
+    "url": "https://www.france24.com/en/tv-shows/business/20261013-china-is-bringing-car-production-to-eu"
   },
   {
     "id": "https://www.airandspaceforces.com/air-force-test-launches-new-sentinel-icbm-nuclear-reentry-vehicle/",
@@ -50,6 +390,46 @@
     "url": "https://tass.com/defense/2201643"
   },
   {
+    "id": "https://www.france24.com/en/tv-shows/a-propos/20261013-supermarket-fridge-hacking-attacks-due-to-lack-of-basic-cybersecurity-measures-expert-says",
+    "timestamp": "2026-10-13T21:06:59",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Supermarket fridge hacking attacks due to lack of basic cybersecurity measures, expert says",
+    "url": "https://www.france24.com/en/tv-shows/a-propos/20261013-supermarket-fridge-hacking-attacks-due-to-lack-of-basic-cybersecurity-measures-expert-says"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/10/13/vatican-confirms-pope-leos-surgery-was-successful?traffic_source=rss",
+    "timestamp": "2026-10-13T21:05:07",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Vatican confirms Pope Leo\u2019s surgery was successful",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/vatican-confirms-pope-leos-surgery-was-successful?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/10/13/food-shortages-in-yemens-taiz-as-houthi-siege-hits-supplies?traffic_source=rss",
+    "timestamp": "2026-10-13T21:04:44",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Food shortages in Yemen\u2019s Taiz as Houthi siege hits supplies",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/food-shortages-in-yemens-taiz-as-houthi-siege-hits-supplies?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/10/13/surveillance-video-shows-moment-ice-vehicle-strikes-man-in-houston?traffic_source=rss",
+    "timestamp": "2026-10-13T21:03:40",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Surveillance video shows moment ICE vehicle strikes man in Houston",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/surveillance-video-shows-moment-ice-vehicle-strikes-man-in-houston?traffic_source=rss"
+  },
+  {
     "id": "https://tass.com/defense/2201641",
     "timestamp": "2026-10-13T21:02:11",
     "source": "TASS English",
@@ -78,6 +458,16 @@
     "region": "global",
     "text": "B-2 Stealth Bomber Returns to Base After Depot Maintenance",
     "url": "https://www.airandspaceforces.com/b-2-stealth-bomber-returns-to-base-after-depot-maintenance/"
+  },
+  {
+    "id": "https://www.france24.com/en/tv-shows/truth-or-fake/20261013-have-ukrainian-strikes-on-yandex-data-centres-hit-russian-online-disinformation",
+    "timestamp": "2026-10-13T20:59:32",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Have Ukrainian strikes on Yandex data centres hit Russian online disinformation?",
+    "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20261013-have-ukrainian-strikes-on-yandex-data-centres-hit-russian-online-disinformation"
   },
   {
     "id": "https://tass.com/sports/2201639",
@@ -4608,395 +4998,5 @@
     "region": "global",
     "text": "U.S. Navy to Integrate LRASM into USAF\u2019s B-52 Strategic Bombers",
     "url": "https://www.navalnews.com/naval-news/2026/10/u-s-navy-to-integrate-lrasm-into-usafs-b-52-strategic-bombers/"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/10/12/ukrainian-marines-cleared-about-6-km%c2%b2-near-pokrovsk-without-losses-the-russians-they-faced-got-a-can-of-meat-a-week/",
-    "timestamp": "2026-10-12T12:22:43",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Ukrainian marines cleared about 6 km\u00b2 near Pokrovsk without losses. The Russians they faced got a can of meat a week",
-    "url": "https://euromaidanpress.com/2026/10/12/ukrainian-marines-cleared-about-6-km%c2%b2-near-pokrovsk-without-losses-the-russians-they-faced-got-a-can-of-meat-a-week/"
-  },
-  {
-    "id": "https://breakingdefense.com/2026/10/agvs-vs-ugvs-a-new-class-of-ground-autonomy-takes-the-field/",
-    "timestamp": "2026-10-12T12:20:00",
-    "source": "Breaking Defense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "AGVs vs. UGVs: A new class of ground autonomy takes the field",
-    "url": "https://breakingdefense.com/2026/10/agvs-vs-ugvs-a-new-class-of-ground-autonomy-takes-the-field/"
-  },
-  {
-    "id": "https://www.gov.uk/guidance/pensions-and-compensation-for-veterans",
-    "timestamp": "2026-10-12T12:15:14",
-    "source": "UK MoD",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Armed forces pensions",
-    "url": "https://www.gov.uk/guidance/pensions-and-compensation-for-veterans"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/10/12/ten-casualties-to-one-by-a-nato-officials-count-russias-september-in-ukraines-kill-zones/",
-    "timestamp": "2026-10-12T12:08:17",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Ten casualties to one, by a NATO official\u2019s count: Russia\u2019s September in Ukraine\u2019s kill zones",
-    "url": "https://euromaidanpress.com/2026/10/12/ten-casualties-to-one-by-a-nato-officials-count-russias-september-in-ukraines-kill-zones/"
-  },
-  {
-    "id": "https://www.twz.com/land/test-plans-change-small-distinctions-emerge-between-xm30-bradley-replacement-prototypes",
-    "timestamp": "2026-10-12T12:01:42",
-    "source": "The Drive WarZone",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Test Plans Change, Small Distinctions Emerge Between XM30 Bradley Replacement Prototypes",
-    "url": "https://www.twz.com/land/test-plans-change-small-distinctions-emerge-between-xm30-bradley-replacement-prototypes"
-  },
-  {
-    "id": "https://breakingdefense.com/2026/10/us-norwegian-startup-heaviside-launches-tyr-loitering-munition/",
-    "timestamp": "2026-10-12T12:00:00",
-    "source": "Breaking Defense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "US-Norwegian startup Heaviside launches Tyr loitering munition",
-    "url": "https://breakingdefense.com/2026/10/us-norwegian-startup-heaviside-launches-tyr-loitering-munition/"
-  },
-  {
-    "id": "https://taskandpurpose.com/news/mechanized-infantry-energy-use/",
-    "timestamp": "2026-10-12T12:00:00",
-    "source": "Task & Purpose",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "The future of mechanized infantry is charging your phone",
-    "url": "https://taskandpurpose.com/news/mechanized-infantry-energy-use/"
-  },
-  {
-    "id": "https://www.dw.com/en/ukraine-says-russia-launched-strikes-hours-after-donald-trump-announced-an-energy-ceasefire/a-79640911?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-10-12T11:54:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Ukraine says Russia launched strikes hours after Donald Trump announced an 'energy ceasefire'",
-    "url": "https://www.dw.com/en/ukraine-says-russia-launched-strikes-hours-after-donald-trump-announced-an-energy-ceasefire/a-79640911?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.militarytimes.com/industry/techwatch/2026/10/12/us-army-helicopter-pilots-test-new-in-flight-relief-system/",
-    "timestamp": "2026-10-12T11:28:09",
-    "source": "Military Times",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "US Army helicopter pilots test new in-flight \u2018relief\u2019 system",
-    "url": "https://www.militarytimes.com/industry/techwatch/2026/10/12/us-army-helicopter-pilots-test-new-in-flight-relief-system/"
-  },
-  {
-    "id": "https://www.theguardian.com/environment/2026/oct/12/eu-deal-china-limit-imports-hybrid-electric-vehicles",
-    "timestamp": "2026-10-12T11:23:55",
-    "source": "Guardian World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "EU to limit Chinese hybrid vehicle imports to 350,000 a year",
-    "url": "https://www.theguardian.com/environment/2026/oct/12/eu-deal-china-limit-imports-hybrid-electric-vehicles"
-  },
-  {
-    "id": "https://www.gov.uk/government/publications/contact-with-parliamentarians",
-    "timestamp": "2026-10-12T10:50:15",
-    "source": "UK MoD",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Guidance: \u200b\u200bContact with Parliamentarians\u200b",
-    "url": "https://www.gov.uk/government/publications/contact-with-parliamentarians"
-  },
-  {
-    "id": "https://www.theguardian.com/environment/2026/oct/12/balkan-temperatures-montenegro-rain-greece",
-    "timestamp": "2026-10-12T10:48:26",
-    "source": "Guardian World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Balkan temperatures swing as heavy rain heads for Greece",
-    "url": "https://www.theguardian.com/environment/2026/oct/12/balkan-temperatures-montenegro-rain-greece"
-  },
-  {
-    "id": "https://www.dw.com/en/germany-s-wadephul-calls-new-eu-sanctions-unprecedented-blow-to-russia/a-79638017?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-10-12T10:48:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Germany's Wadephul calls new EU sanctions 'unprecedented' blow to Russia",
-    "url": "https://www.dw.com/en/germany-s-wadephul-calls-new-eu-sanctions-unprecedented-blow-to-russia/a-79638017?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.dw.com/en/saudi-arabia-deadly-houthi-strikes-on-riyadh-airport-fuel-fears-of-wider-middle-east-conflict/live-79639277?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-10-12T10:41:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Saudi Arabia: Deadly Houthi strikes on Riyadh airport fuel fears of wider Middle East conflict",
-    "url": "https://www.dw.com/en/saudi-arabia-deadly-houthi-strikes-on-riyadh-airport-fuel-fears-of-wider-middle-east-conflict/live-79639277?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/cmd7qn1g0xrxo?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-10-12T10:04:50",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Women's billion-dollar boom leaves players behind, says Fifpro",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cmd7qn1g0xrxo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://breakingdefense.com/2026/10/army-again-tweaks-acquisition-structure-to-remove-unwanted-layer-of-bureaucracy/",
-    "timestamp": "2026-10-12T10:00:00",
-    "source": "Breaking Defense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Army again tweaks acquisition structure to remove unwanted layer of bureaucracy",
-    "url": "https://breakingdefense.com/2026/10/army-again-tweaks-acquisition-structure-to-remove-unwanted-layer-of-bureaucracy/"
-  },
-  {
-    "id": "https://www.defenseone.com/policy/2026/10/army-brings-back-night-court-audit-programs-shifting-more-100m/416547/",
-    "timestamp": "2026-10-12T10:00:00",
-    "source": "Defense One",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Army brings back \u2018night court\u2019 audit of programs, shifting more than $100M",
-    "url": "https://www.defenseone.com/policy/2026/10/army-brings-back-night-court-audit-programs-shifting-more-100m/416547/"
-  },
-  {
-    "id": "https://www.militarytimes.com/land/2026/10/12/us-army-gets-first-mobile-cannon-to-replace-m777-howitzer-officials-say/",
-    "timestamp": "2026-10-12T10:00:00",
-    "source": "Military Times",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "US Army gets first mobile cannon to replace M777 howitzer, officials say",
-    "url": "https://www.militarytimes.com/land/2026/10/12/us-army-gets-first-mobile-cannon-to-replace-m777-howitzer-officials-say/"
-  },
-  {
-    "id": "https://www.dw.com/en/nobel-prize-in-economics-goes-to-pair-of-us-economists/a-79638025?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-10-12T09:55:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Nobel Prize in Economics goes to pair of US economists",
-    "url": "https://www.dw.com/en/nobel-prize-in-economics-goes-to-pair-of-us-economists/a-79638025?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.dw.com/en/india-news-opposition-parties-march-to-supreme-court/live-79638649?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-10-12T09:38:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "India news: Opposition parties march to Supreme Court",
-    "url": "https://www.dw.com/en/india-news-opposition-parties-march-to-supreme-court/live-79638649?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://tass.com/world/2200725",
-    "timestamp": "2026-10-12T08:57:16",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Iran dissatisfied with current situation around Strait of Hormuz \u2014 diplomat",
-    "url": "https://tass.com/world/2200725"
-  },
-  {
-    "id": "https://tass.com/defense/2200723",
-    "timestamp": "2026-10-12T08:49:37",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Ukrainian forces attach mines, TNT to Russian prisoners for sabotage operations \u2014 soldier",
-    "url": "https://tass.com/defense/2200723"
-  },
-  {
-    "id": "https://tass.com/science/2200721",
-    "timestamp": "2026-10-12T08:45:18",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russia\u2019s Apophis mission to help shed light on asteroid\u2019s origin \u2014 Moscow University",
-    "url": "https://tass.com/science/2200721"
-  },
-  {
-    "id": "https://tass.com/world/2200719",
-    "timestamp": "2026-10-12T08:45:10",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Lula da Silva\u2019s team accuses Meta of interfering in Brazilian presidential election",
-    "url": "https://tass.com/world/2200719"
-  },
-  {
-    "id": "https://www.france24.com/en/middle-east/20261012-live-saudi-arabia-extends-suspension-of-operations-at-riyadh-airport-after-deadly-houthi-attacks",
-    "timestamp": "2026-10-12T08:41:12",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Live: Saudi Arabia extends suspension of operations at Riyadh airport after deadly Houthi attacks",
-    "url": "https://www.france24.com/en/middle-east/20261012-live-saudi-arabia-extends-suspension-of-operations-at-riyadh-airport-after-deadly-houthi-attacks"
-  },
-  {
-    "id": "https://tass.com/politics/2200713",
-    "timestamp": "2026-10-12T08:33:59",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian forces keep advancing to liberate Donetsk People\u2019s Republic \u2014 DPR head",
-    "url": "https://tass.com/politics/2200713"
-  },
-  {
-    "id": "https://tass.com/economy/2200711",
-    "timestamp": "2026-10-12T08:32:17",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "EU approved 22nd package of anti-Russian sanctions \u2014 Kallas",
-    "url": "https://tass.com/economy/2200711"
-  },
-  {
-    "id": "https://tass.com/economy/2200709",
-    "timestamp": "2026-10-12T08:31:04",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Goldman Sachs increases Brent price outlook to $90 per bbl for December \u2014 Reuters",
-    "url": "https://tass.com/economy/2200709"
-  },
-  {
-    "id": "https://www.dw.com/en/frankfurt-book-fair-rights-lawyer-sands-awarded-peace-prize/a-79637687?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-10-12T08:26:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Frankfurt Book Fair: Rights lawyer Sands awarded peace prize",
-    "url": "https://www.dw.com/en/frankfurt-book-fair-rights-lawyer-sands-awarded-peace-prize/a-79637687?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://tass.com/society/2200707",
-    "timestamp": "2026-10-12T08:25:44",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Ukrainian scam call centers shift their focus to Western countries \u2014 expert",
-    "url": "https://tass.com/society/2200707"
-  },
-  {
-    "id": "https://www.navalnews.com/naval-news/2026/10/french-mod-selects-top-contenders-for-danae-armed-surface-drone-project/",
-    "timestamp": "2026-10-12T08:22:51",
-    "source": "Naval News",
-    "platform": "rss",
-    "category": "naval",
-    "region": "global",
-    "text": "French MoD Selects Top Contenders for DANAE Armed Surface Drone Project",
-    "url": "https://www.navalnews.com/naval-news/2026/10/french-mod-selects-top-contenders-for-danae-armed-surface-drone-project/"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/10/12/steve-smith-breaks-test-fielding-record-as-australia-dominate-south-africa?traffic_source=rss",
-    "timestamp": "2026-10-12T08:17:50",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Steve Smith breaks Test fielding record as Australia dominate South Africa",
-    "url": "https://www.aljazeera.com/sports/2026/10/12/steve-smith-breaks-test-fielding-record-as-australia-dominate-south-africa?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/tv-shows/sports/20261012-marseille-end-five-game-losing-streak-to-climb-out-of-the-relegation-zone",
-    "timestamp": "2026-10-12T08:17:18",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Marseille end five-game losing streak to climb out of Ligue 1 relegation zone",
-    "url": "https://www.france24.com/en/tv-shows/sports/20261012-marseille-end-five-game-losing-streak-to-climb-out-of-the-relegation-zone"
-  },
-  {
-    "id": "https://tass.com/defense/2200701",
-    "timestamp": "2026-10-12T08:07:59",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian Defense Ministry creates service for training military-purpose neutral networks",
-    "url": "https://tass.com/defense/2200701"
-  },
-  {
-    "id": "https://www.france24.com/en/france/20261012-fire-burns-down-paris-s-oldest-covered-food-market",
-    "timestamp": "2026-10-12T08:02:55",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Fire burns down Paris's oldest covered food market",
-    "url": "https://www.france24.com/en/france/20261012-fire-burns-down-paris-s-oldest-covered-food-market"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/10/12/india-opposition-plans-new-delhi-protest-to-demand-election-chief-resign?traffic_source=rss",
-    "timestamp": "2026-10-12T08:00:16",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "India opposition plans New Delhi protest to demand election chief resign",
-    "url": "https://www.aljazeera.com/news/2026/10/12/india-opposition-plans-new-delhi-protest-to-demand-election-chief-resign?traffic_source=rss"
-  },
-  {
-    "id": "https://warontherocks.com/cogs-of-war/ground-robots-are-arriving-on-the-front-lines/",
-    "timestamp": "2026-10-12T08:00:11",
-    "source": "War on the Rocks",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Ground Robots Are Arriving on the Front Lines",
-    "url": "https://warontherocks.com/cogs-of-war/ground-robots-are-arriving-on-the-front-lines/"
-  },
-  {
-    "id": "https://breakingdefense.com/2026/10/three-years-of-war-100000-targets-struck-idf-releases-new-conflict-data/",
-    "timestamp": "2026-10-12T08:00:00",
-    "source": "Breaking Defense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Three years of war, 100,000 targets struck: IDF releases new conflict data",
-    "url": "https://breakingdefense.com/2026/10/three-years-of-war-100000-targets-struck-idf-releases-new-conflict-data/"
-  },
-  {
-    "id": "https://www.dw.com/en/germany-news-s\u00f6der-demands-cdu-supports-of-the-afd-in-saxony-anhalt-reveal-themselves/live-79636427?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-10-12T07:46:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Germany news: S\u00f6der demands CDU supports of the AfD in Saxony-Anhalt reveal themselves",
-    "url": "https://www.dw.com/en/germany-news-s\u00f6der-demands-cdu-supports-of-the-afd-in-saxony-anhalt-reveal-themselves/live-79636427?maca=en-rss-en-all-1573-xml-mrss"
   }
 ]
