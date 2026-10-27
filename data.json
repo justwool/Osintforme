@@ -1,5 +1,815 @@
 [
   {
+    "id": "https://tass.com/world/2209151",
+    "timestamp": "2026-10-27T20:46:38",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Netanyahu\u2019s party is first in Israel\u2019s elections, but opposition bloc winning more seats",
+    "url": "https://tass.com/world/2209151"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-10-27T20:45:25",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Alexander brothers each sentenced to 30 years in prison for sex trafficking case",
+    "url": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-10-27T20:44:40",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Egypt court fines journalist Lina Attalah and orders news site's closure",
+    "url": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.defenseone.com/policy/2026/10/armys-last-sfab-helped-broker-ceasefire-southeast-asia/416846/",
+    "timestamp": "2026-10-27T20:35:16",
+    "source": "Defense One",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "The Army\u2019s only remaining SFAB helped broker a ceasefire in southeast Asia",
+    "url": "https://www.defenseone.com/policy/2026/10/armys-last-sfab-helped-broker-ceasefire-southeast-asia/416846/"
+  },
+  {
+    "id": "https://tass.com/economy/2209149",
+    "timestamp": "2026-10-27T20:35:01",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russia, Equatorial Guinea have potential for mutual supply increase \u2014 Putin",
+    "url": "https://tass.com/economy/2209149"
+  },
+  {
+    "id": "https://taskandpurpose.com/news/military-drug-boat-240-killed/",
+    "timestamp": "2026-10-27T20:31:01",
+    "source": "Task & Purpose",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "US military\u2019s drug boat strikes have now killed at least 240 people",
+    "url": "https://taskandpurpose.com/news/military-drug-boat-240-killed/"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/10/27/ukraine-intercepts-nearly-60-of-russias-geran-4-jet-drones/",
+    "timestamp": "2026-10-27T20:28:36",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Ukraine intercepts nearly 60% of Russia\u2019s Geran-4 jet drones, General Staff says, as Kyiv races to counter evolving threat",
+    "url": "https://euromaidanpress.com/2026/10/27/ukraine-intercepts-nearly-60-of-russias-geran-4-jet-drones/"
+  },
+  {
+    "id": "https://www.theguardian.com/world/2026/oct/27/olivia-chow-toronto-mayor-election-results",
+    "timestamp": "2026-10-27T20:23:46",
+    "source": "Guardian World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Olivia Chow elected as Toronto mayor for second term in victory for progressives",
+    "url": "https://www.theguardian.com/world/2026/oct/27/olivia-chow-toronto-mayor-election-results"
+  },
+  {
+    "id": "https://news.usni.org/2026/10/27/navy-sees-10-year-high-for-class-a-aviation-afloat-mishaps",
+    "timestamp": "2026-10-27T20:22:10",
+    "source": "USNI News",
+    "platform": "rss",
+    "category": "naval",
+    "region": "global",
+    "text": "Navy Sees 10-year High For Class A Aviation, Afloat Mishaps",
+    "url": "https://news.usni.org/2026/10/27/navy-sees-10-year-high-for-class-a-aviation-afloat-mishaps"
+  },
+  {
+    "id": "https://www.dw.com/en/israel-election-anti-netanyahu-bloc-ahead-but-no-majority/live-79713839?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-10-27T20:21:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Israel election: Anti-Netanyahu bloc ahead, but no majority",
+    "url": "https://www.dw.com/en/israel-election-anti-netanyahu-bloc-ahead-but-no-majority/live-79713839?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-10-27T20:19:53",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Ceasefire extended across Ukraine's Kherson region, officials say",
+    "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://tass.com/economy/2209137",
+    "timestamp": "2026-10-27T20:05:27",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "UralChem intends to supply at least 1 mln tons of fertilizers to Africa annually",
+    "url": "https://tass.com/economy/2209137"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/10/27/germanys-helsing-promises-jet-drone-hunting-missiles-at-under-100000-a-shot-its-ceo-doesnt-expect-them-on-the-market-before-2027/",
+    "timestamp": "2026-10-27T20:04:58",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Germany\u2019s Helsing promises jet-drone-hunting missiles at under $100,000 a shot\u2014its CEO doesn\u2019t expect them on the market before 2027",
+    "url": "https://euromaidanpress.com/2026/10/27/germanys-helsing-promises-jet-drone-hunting-missiles-at-under-100000-a-shot-its-ceo-doesnt-expect-them-on-the-market-before-2027/"
+  },
+  {
+    "id": "https://tass.com/politics/2209141",
+    "timestamp": "2026-10-27T20:03:01",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Putin holding talks with Equatorial Guinea president",
+    "url": "https://tass.com/politics/2209141"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/10/27/tanzanias-jailed-opposition-leader-tundu-lissu-ends-brief-hunger-strike?traffic_source=rss",
+    "timestamp": "2026-10-27T20:00:46",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Tanzania\u2019s jailed opposition leader Tundu Lissu ends brief hunger strike",
+    "url": "https://www.aljazeera.com/news/2026/10/27/tanzanias-jailed-opposition-leader-tundu-lissu-ends-brief-hunger-strike?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/economy/2209135",
+    "timestamp": "2026-10-27T20:00:14",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "UralChem prepared to establish joint ventures in Africa",
+    "url": "https://tass.com/economy/2209135"
+  },
+  {
+    "id": "https://tass.com/economy/2209139",
+    "timestamp": "2026-10-27T20:00:01",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Energy cooperation between Russia, Egypt actively developing \u2014 Putin",
+    "url": "https://tass.com/economy/2209139"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/10/27/ukraine-says-it-has-finished-its-part-of-freyja-europes-joint-anti-ballistic-project-partners-work-is-still-underway/",
+    "timestamp": "2026-10-27T19:57:44",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Ukraine says it has finished its part of FREYJA, Europe\u2019s joint anti-ballistic project. Partners\u2019 work is still underway",
+    "url": "https://euromaidanpress.com/2026/10/27/ukraine-says-it-has-finished-its-part-of-freyja-europes-joint-anti-ballistic-project-partners-work-is-still-underway/"
+  },
+  {
+    "id": "https://www.defensenews.com/industry/techwatch/2026/10/27/us-air-force-awards-lockheed-martin-694m-hypersonic-missile-production-contract/",
+    "timestamp": "2026-10-27T19:53:42",
+    "source": "Defense News",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "US Air Force awards Lockheed Martin $694M hypersonic missile production contract",
+    "url": "https://www.defensenews.com/industry/techwatch/2026/10/27/us-air-force-awards-lockheed-martin-694m-hypersonic-missile-production-contract/"
+  },
+  {
+    "id": "https://tass.com/world/2209133",
+    "timestamp": "2026-10-27T19:53:16",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Voter turnout at Israel\u2019s elections exceed 74% two hours before end of voting \u2014 TV",
+    "url": "https://tass.com/world/2209133"
+  },
+  {
+    "id": "https://tass.com/economy/2209129",
+    "timestamp": "2026-10-27T19:52:09",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russia emerging as leading supplier of fertilizers to Africa with 20% share \u2014 UralChem",
+    "url": "https://tass.com/economy/2209129"
+  },
+  {
+    "id": "https://tass.com/defense/2209131",
+    "timestamp": "2026-10-27T19:46:53",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Senior Russian defense official, Madagascar general discuss military cooperation",
+    "url": "https://tass.com/defense/2209131"
+  },
+  {
+    "id": "https://www.france24.com/en/netanyahu-govt-has-attacked-israeli-judicial-system-supreme-court-and-democratic-institutions",
+    "timestamp": "2026-10-27T19:44:07",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Netanyahu govt has 'attacked' Israeli judicial system, Supreme Court and democratic institutions",
+    "url": "https://www.france24.com/en/netanyahu-govt-has-attacked-israeli-judicial-system-supreme-court-and-democratic-institutions"
+  },
+  {
+    "id": "https://tass.com/world/2209127",
+    "timestamp": "2026-10-27T19:43:02",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Russian diplomat Desyatnikov appointed UN Assistant Secretary General",
+    "url": "https://tass.com/world/2209127"
+  },
+  {
+    "id": "https://news.usni.org/2026/10/27/u-s-forces-kill-5-in-strike-on-suspected-narco-boat",
+    "timestamp": "2026-10-27T19:42:55",
+    "source": "USNI News",
+    "platform": "rss",
+    "category": "naval",
+    "region": "global",
+    "text": "U.S. Forces Kill 5 in Strike on Suspected Narco Boat",
+    "url": "https://news.usni.org/2026/10/27/u-s-forces-kill-5-in-strike-on-suspected-narco-boat"
+  },
+  {
+    "id": "https://tass.com/economy/2209125",
+    "timestamp": "2026-10-27T19:42:10",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "GECF member states call for ensuring creation of fair gas price",
+    "url": "https://tass.com/economy/2209125"
+  },
+  {
+    "id": "https://tass.com/politics/2209123",
+    "timestamp": "2026-10-27T19:38:45",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Putin tells Zelensky 'million times' he's welcome in Moscow, Kremlin aide reiterates",
+    "url": "https://tass.com/politics/2209123"
+  },
+  {
+    "id": "https://tass.com/economy/2209121",
+    "timestamp": "2026-10-27T19:37:38",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "GECF to establish mechanisms to respond to crisis situations on gas market",
+    "url": "https://tass.com/economy/2209121"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/10/27/qatars-emir-and-putin-call-for-diplomacy-amid-us-iran-conflict?traffic_source=rss",
+    "timestamp": "2026-10-27T19:36:01",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Qatar\u2019s Emir and Putin call for diplomacy amid US-Iran conflict",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/qatars-emir-and-putin-call-for-diplomacy-amid-us-iran-conflict?traffic_source=rss"
+  },
+  {
+    "id": "https://www.dw.com/en/flavio-bolsonaro-flees-brazil-for-us-amid-investigation-reports/a-79781094?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-10-27T19:34:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Flavio Bolsonaro flees Brazil for US amid investigation  \u2014 reports",
+    "url": "https://www.dw.com/en/flavio-bolsonaro-flees-brazil-for-us-amid-investigation-reports/a-79781094?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-10-27T19:30:37",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Dutch zookeeper dies after being mauled in leopard enclosure",
+    "url": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-results-live-exit-polls-soon-as-netanyahu-faces-tight-race?traffic_source=rss",
+    "timestamp": "2026-10-27T19:28:12",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Israel election results live: No clear winner \u2013 first TV exit polls",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-results-live-exit-polls-soon-as-netanyahu-faces-tight-race?traffic_source=rss"
+  },
+  {
+    "id": "https://www.defensenews.com/pentagon/2026/10/27/pentagon-creates-advisory-council-on-human-performance-health/",
+    "timestamp": "2026-10-27T19:24:01",
+    "source": "Defense News",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Pentagon creates advisory council on human performance, health",
+    "url": "https://www.defensenews.com/pentagon/2026/10/27/pentagon-creates-advisory-council-on-human-performance-health/"
+  },
+  {
+    "id": "https://www.militarytimes.com/news/2026/10/27/a-shipwreck-two-nazi-spies-and-the-boy-scout-who-noticed/",
+    "timestamp": "2026-10-27T19:23:46",
+    "source": "Military Times",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "A shipwreck, two Nazi spies and the Boy Scout who noticed",
+    "url": "https://www.militarytimes.com/news/2026/10/27/a-shipwreck-two-nazi-spies-and-the-boy-scout-who-noticed/"
+  },
+  {
+    "id": "https://www.defensenews.com/industry/2026/10/27/us-army-queries-industrys-ability-to-build-21000-infantry-squad-vehicles/",
+    "timestamp": "2026-10-27T19:22:31",
+    "source": "Defense News",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "US Army queries industry\u2019s ability to build 21,000 Infantry Squad Vehicles",
+    "url": "https://www.defensenews.com/industry/2026/10/27/us-army-queries-industrys-ability-to-build-21000-infantry-squad-vehicles/"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/10/27/uss-rfk-jr-claims-arabs-dont-produce-science-why-hes-very-very-wrong?traffic_source=rss",
+    "timestamp": "2026-10-27T19:12:35",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "US\u2019s RFK Jr claims Arabs \u2018don\u2019t produce science\u2019: Why he\u2019s very, very wrong",
+    "url": "https://www.aljazeera.com/news/2026/10/27/uss-rfk-jr-claims-arabs-dont-produce-science-why-hes-very-very-wrong?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/economy/2209115",
+    "timestamp": "2026-10-27T19:11:43",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "GECF member states concerned about impact of geopolitics on gas market stability",
+    "url": "https://tass.com/economy/2209115"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/10/27/trump-says-hell-respect-us-midterm-results-if-elections-are?traffic_source=rss",
+    "timestamp": "2026-10-27T19:11:27",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Trump says he\u2019ll respect US midterm results if elections are \u2018honest\u2019",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/trump-says-hell-respect-us-midterm-results-if-elections-are?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/economy/2209113",
+    "timestamp": "2026-10-27T19:10:39",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "GECF member states intend to cooperate to protect gas infrastructure",
+    "url": "https://tass.com/economy/2209113"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cmgel8pqj5rwo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-10-27T19:01:16",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Deaths in detention cells in Nigeria were entirely preventable, inquiry finds",
+    "url": "https://www.bbc.co.uk/news/articles/cmgel8pqj5rwo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.france24.com/en/video/20261027-ibrahim-abu-ahmad-on-israeli-election-crucial-for-arab-citizens-to-have-ally-in-jewish-community",
+    "timestamp": "2026-10-27T18:59:43",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Ibrahim Abu Ahmad on Israeli election: 'Crucial for Arab citizens to have ally in Jewish community'",
+    "url": "https://www.france24.com/en/video/20261027-ibrahim-abu-ahmad-on-israeli-election-crucial-for-arab-citizens-to-have-ally-in-jewish-community"
+  },
+  {
+    "id": "https://www.france24.com/en/europe/20261027-how-student-assemblies-brought-down-the-serbian-government",
+    "timestamp": "2026-10-27T18:58:25",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "How student assemblies brought down the Serbian government",
+    "url": "https://www.france24.com/en/europe/20261027-how-student-assemblies-brought-down-the-serbian-government"
+  },
+  {
+    "id": "https://www.militarytimes.com/news/2026/10/27/navy-identifies-nas-pensacola-sailors-killed-in-car-crash/",
+    "timestamp": "2026-10-27T18:56:25",
+    "source": "Military Times",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Navy identifies NAS Pensacola sailors killed in car crash",
+    "url": "https://www.militarytimes.com/news/2026/10/27/navy-identifies-nas-pensacola-sailors-killed-in-car-crash/"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/10/27/deadly-tornado-strikes-construction-site-in-turkiye?traffic_source=rss",
+    "timestamp": "2026-10-27T18:52:07",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Deadly tornado strikes construction site in Turkiye",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/deadly-tornado-strikes-construction-site-in-turkiye?traffic_source=rss"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/10/27/protesters-condemn-us-concessions-to-moscow/",
+    "timestamp": "2026-10-27T18:51:39",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "\u201cOur future cannot be the subject of agreements between Trump and Putin\u201d: Ukraine supporters protest US policy on Russia in Europe, US, and Australia",
+    "url": "https://euromaidanpress.com/2026/10/27/protesters-condemn-us-concessions-to-moscow/"
+  },
+  {
+    "id": "https://breakingdefense.com/2026/10/defense-department-selects-poland-for-new-pac-3-maintenance-facility/",
+    "timestamp": "2026-10-27T18:50:27",
+    "source": "Breaking Defense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Defense Department selects Poland for new PAC-3 maintenance facility",
+    "url": "https://breakingdefense.com/2026/10/defense-department-selects-poland-for-new-pac-3-maintenance-facility/"
+  },
+  {
+    "id": "https://breakingdefense.com/2026/10/a-more-flexible-way-to-defend-maneuver-forces-from-drones-that-doesnt-tie-them-down/",
+    "timestamp": "2026-10-27T18:48:04",
+    "source": "Breaking Defense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "A more flexible way to defend maneuver forces from drones that doesn\u2019t tie them down",
+    "url": "https://breakingdefense.com/2026/10/a-more-flexible-way-to-defend-maneuver-forces-from-drones-that-doesnt-tie-them-down/"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cwz0vg2j442lo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-10-27T18:43:41",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Ghanaian twin brothers and US woman plead guilty to $9m romance scam",
+    "url": "https://www.bbc.co.uk/news/articles/cwz0vg2j442lo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://taskandpurpose.com/news/recon-marines-deploying-undersea-cables-pipelines/",
+    "timestamp": "2026-10-27T18:43:00",
+    "source": "Task & Purpose",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Nearly 50 recon and intel Marines headed to undersea cable guard duty in Europe",
+    "url": "https://taskandpurpose.com/news/recon-marines-deploying-undersea-cables-pipelines/"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/10/27/russia-jails-it-worker-for-13-years-for-donating-money-to-ukraine?traffic_source=rss",
+    "timestamp": "2026-10-27T18:42:48",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Russia jails IT worker for 13 years for donating money to Ukraine",
+    "url": "https://www.aljazeera.com/news/2026/10/27/russia-jails-it-worker-for-13-years-for-donating-money-to-ukraine?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/10/27/indonesia-wildfires-rain-toxic-haze-southeast-asia?traffic_source=rss",
+    "timestamp": "2026-10-27T18:41:28",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Rain brings temporary relief as Southeast Asia battles fires and toxic haze",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/indonesia-wildfires-rain-toxic-haze-southeast-asia?traffic_source=rss"
+  },
+  {
+    "id": "https://www.militarytimes.com/news/2026/10/27/hitlers-eagles-nest-mountain-retreat-burned-down/",
+    "timestamp": "2026-10-27T18:41:23",
+    "source": "Military Times",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Hitler\u2019s Eagle\u2019s Nest mountain retreat burned down",
+    "url": "https://www.militarytimes.com/news/2026/10/27/hitlers-eagles-nest-mountain-retreat-burned-down/"
+  },
+  {
+    "id": "https://www.aljazeera.com/sports/2026/10/27/ballon-dor-harry-kane-england-bayern-munich?traffic_source=rss",
+    "timestamp": "2026-10-27T18:38:13",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Harry Kane: How the \u2018runt of the litter\u2019 conquered a historic Ballon d\u2019Or",
+    "url": "https://www.aljazeera.com/sports/2026/10/27/ballon-dor-harry-kane-england-bayern-munich?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/10/27/the-whatsapp-general-behind-lulas-election-comeback-in-brazil?traffic_source=rss",
+    "timestamp": "2026-10-27T18:35:05",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "The WhatsApp \u2018general\u2019 behind Lula\u2019s election comeback in Brazil",
+    "url": "https://www.aljazeera.com/news/2026/10/27/the-whatsapp-general-behind-lulas-election-comeback-in-brazil?traffic_source=rss"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cxdd8nq55d74o?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-10-27T18:35:02",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Controversial Islamic cleric shot dead in northern Nigeria",
+    "url": "https://www.bbc.co.uk/news/articles/cxdd8nq55d74o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.france24.com/en/israeli-elections-a-referendum-on-netanyahu-security-and-whether-israel-will-remain-a-democracy",
+    "timestamp": "2026-10-27T18:34:19",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Israeli elections a 'referendum' on Netanyahu, security and whether Israel will 'remain a democracy'",
+    "url": "https://www.france24.com/en/israeli-elections-a-referendum-on-netanyahu-security-and-whether-israel-will-remain-a-democracy"
+  },
+  {
+    "id": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
+    "timestamp": "2026-10-27T18:27:32",
+    "source": "Guardian World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Fl\u00e1vio Bolsonaro flees Brazil after presidential election loss, reports say",
+    "url": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled"
+  },
+  {
+    "id": "https://www.france24.com/en/france/20261027-rights-groups-say-proposed-french-law-to-make-rioters-pay-for-damage-anti-democratic",
+    "timestamp": "2026-10-27T18:27:15",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Rights groups say proposed French law to make rioters pay for damage is anti-democratic",
+    "url": "https://www.france24.com/en/france/20261027-rights-groups-say-proposed-french-law-to-make-rioters-pay-for-damage-anti-democratic"
+  },
+  {
+    "id": "https://www.navalnews.com/naval-news/2026/10/navantia-launches-second-f110-frigate-roger-de-lauria-four-months-ahead-of-schedule/",
+    "timestamp": "2026-10-27T18:26:23",
+    "source": "Naval News",
+    "platform": "rss",
+    "category": "naval",
+    "region": "global",
+    "text": "Navantia Launches Second F110 Frigate \u2018Roger de Lauria\u2019 Four Months Ahead of Schedule",
+    "url": "https://www.navalnews.com/naval-news/2026/10/navantia-launches-second-f110-frigate-roger-de-lauria-four-months-ahead-of-schedule/"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/10/27/if-theyre-honest-trump-casts-latest-suspicion-on-us-midterm-elections?traffic_source=rss",
+    "timestamp": "2026-10-27T18:24:13",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "\u2018If they\u2019re honest\u2019: Trump casts latest suspicion on US midterm elections",
+    "url": "https://www.aljazeera.com/news/2026/10/27/if-theyre-honest-trump-casts-latest-suspicion-on-us-midterm-elections?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/10/27/jerusalem-daily-israeli-elections-underway?traffic_source=rss",
+    "timestamp": "2026-10-27T18:12:17",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Jerusalem Daily: Israeli elections underway",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/jerusalem-daily-israeli-elections-underway?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/10/27/arab-parties-in-israel-accuse-netanyahu-of-inciting-hatred-to-scare-voters?traffic_source=rss",
+    "timestamp": "2026-10-27T18:11:57",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Arab parties in Israel accuse Netanyahu of inciting hatred to scare voters",
+    "url": "https://www.aljazeera.com/news/2026/10/27/arab-parties-in-israel-accuse-netanyahu-of-inciting-hatred-to-scare-voters?traffic_source=rss"
+  },
+  {
+    "id": "https://www.militarytimes.com/news/pentagon-congress/2026/10/27/congressmen-launch-bipartisan-military-range-test-facility-caucus/",
+    "timestamp": "2026-10-27T18:11:12",
+    "source": "Military Times",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Congressmen launch bipartisan military range, test facility caucus",
+    "url": "https://www.militarytimes.com/news/pentagon-congress/2026/10/27/congressmen-launch-bipartisan-military-range-test-facility-caucus/"
+  },
+  {
+    "id": "https://breakingdefense.com/2026/10/whats-haunting-the-pentagon-this-halloween/",
+    "timestamp": "2026-10-27T17:45:00",
+    "source": "Breaking Defense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "What\u2019s haunting the Pentagon this Halloween?",
+    "url": "https://breakingdefense.com/2026/10/whats-haunting-the-pentagon-this-halloween/"
+  },
+  {
+    "id": "https://www.dw.com/en/eu-proposes-giving-frontex-border-agency-new-major-powers/a-79779690?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-10-27T17:44:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "EU proposes giving Frontex border agency new major powers",
+    "url": "https://www.dw.com/en/eu-proposes-giving-frontex-border-agency-new-major-powers/a-79779690?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.navalnews.com/naval-news/2026/10/lockheed-martin-showcases-1000-km-prsm-inc-4-prototype/",
+    "timestamp": "2026-10-27T17:41:05",
+    "source": "Naval News",
+    "platform": "rss",
+    "category": "naval",
+    "region": "global",
+    "text": "Lockheed Martin Showcases 1000 km PrSM Inc 4 Prototype",
+    "url": "https://www.navalnews.com/naval-news/2026/10/lockheed-martin-showcases-1000-km-prsm-inc-4-prototype/"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/10/27/protesters-storm-serbian-pro-vucic-tv-station-after-his-loss-at-polls?traffic_source=rss",
+    "timestamp": "2026-10-27T17:37:51",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Protesters storm Serbian pro-Vucic TV station after his loss at polls",
+    "url": "https://www.aljazeera.com/news/2026/10/27/protesters-storm-serbian-pro-vucic-tv-station-after-his-loss-at-polls?traffic_source=rss"
+  },
+  {
+    "id": "https://www.theguardian.com/us-news/2026/oct/27/us-military-strike-vessel-eastern-pacific",
+    "timestamp": "2026-10-27T17:35:50",
+    "source": "Guardian World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "US military says strike on alleged drug vessel in eastern Pacific kills five people",
+    "url": "https://www.theguardian.com/us-news/2026/oct/27/us-military-strike-vessel-eastern-pacific"
+  },
+  {
+    "id": "https://www.defensenews.com/industry/techwatch/2026/10/27/us-army-looks-to-high-flying-balloons-to-help-see-strike-along-front-lines-with-china/",
+    "timestamp": "2026-10-27T17:22:47",
+    "source": "Defense News",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "US Army looks to high-flying balloons to help see, strike along front lines with China",
+    "url": "https://www.defensenews.com/industry/techwatch/2026/10/27/us-army-looks-to-high-flying-balloons-to-help-see-strike-along-front-lines-with-china/"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/10/27/spain-deports-migrants-from-ceuta-in-move-criticised-by-rights-group?traffic_source=rss",
+    "timestamp": "2026-10-27T17:10:58",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Spain deports migrants from Ceuta in move criticised by rights group",
+    "url": "https://www.aljazeera.com/news/2026/10/27/spain-deports-migrants-from-ceuta-in-move-criticised-by-rights-group?traffic_source=rss"
+  },
+  {
+    "id": "https://www.france24.com/en/video/20261027-france-lawmakers-hold-a-minute-of-silence-for-pengo-bossio-wangi-victim-of-racist-attack-1",
+    "timestamp": "2026-10-27T17:08:44",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "France: Lawmakers hold a minute of silence for Pengo Bossio Wangi, victim of racist attack",
+    "url": "https://www.france24.com/en/video/20261027-france-lawmakers-hold-a-minute-of-silence-for-pengo-bossio-wangi-victim-of-racist-attack-1"
+  },
+  {
+    "id": "https://www.militarytimes.com/news/your-military/2026/10/27/us-marine-indicted-over-suspected-murder-robbery-of-woman-in-okinawa/",
+    "timestamp": "2026-10-27T17:07:46",
+    "source": "Military Times",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "US Marine indicted over suspected murder, robbery of woman in Okinawa",
+    "url": "https://www.militarytimes.com/news/your-military/2026/10/27/us-marine-indicted-over-suspected-murder-robbery-of-woman-in-okinawa/"
+  },
+  {
+    "id": "https://breakingdefense.com/2026/10/another-michigan-auto-firm-enters-defense-industry-as-state-tries-to-revive-arsenal-of-democracy/",
+    "timestamp": "2026-10-27T17:00:00",
+    "source": "Breaking Defense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Another Michigan auto firm enters defense industry as state tries to revive \u2018Arsenal of Democracy\u2019",
+    "url": "https://breakingdefense.com/2026/10/another-michigan-auto-firm-enters-defense-industry-as-state-tries-to-revive-arsenal-of-democracy/"
+  },
+  {
+    "id": "https://www.france24.com/en/israelis-vote-in-a-tense-election-what-s-at-stake",
+    "timestamp": "2026-10-27T16:59:06",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Israelis vote in a tense election: What's at stake?",
+    "url": "https://www.france24.com/en/israelis-vote-in-a-tense-election-what-s-at-stake"
+  },
+  {
+    "id": "https://www.gov.uk/government/publications/defence-safety-management-system-jsp-815",
+    "timestamp": "2026-10-27T16:55:32",
+    "source": "UK MoD",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Guidance: Defence Safety Management System (JSP 815)",
+    "url": "https://www.gov.uk/government/publications/defence-safety-management-system-jsp-815"
+  },
+  {
+    "id": "https://www.france24.com/en/israel-elections-voter-turnout-reaches-55-by-4pm-local-time",
+    "timestamp": "2026-10-27T16:52:33",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Israel elections: voter turnout reaches 55% by 4pm local time",
+    "url": "https://www.france24.com/en/israel-elections-voter-turnout-reaches-55-by-4pm-local-time"
+  },
+  {
+    "id": "https://www.dw.com/en/mbappe-apologizes-as-chinese-sponsors-drop-him-and-tv-broadcasts-are-halted-over-mao-dictator-remark/a-79779831?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-10-27T16:49:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Mbappe apologizes as Chinese sponsors drop him and TV broadcasts are halted over Mao dictator remark",
+    "url": "https://www.dw.com/en/mbappe-apologizes-as-chinese-sponsors-drop-him-and-tv-broadcasts-are-halted-over-mao-dictator-remark/a-79779831?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.defensenews.com/global/europe/2026/10/27/us-taps-poland-to-host-european-pac-3-missile-maintenance-facility/",
+    "timestamp": "2026-10-27T16:42:28",
+    "source": "Defense News",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "US taps Poland to host European PAC-3 missile maintenance facility",
+    "url": "https://www.defensenews.com/global/europe/2026/10/27/us-taps-poland-to-host-european-pac-3-missile-maintenance-facility/"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/10/27/russia-strikes-publishing-house-warehouse-in-kharkiv/",
+    "timestamp": "2026-10-27T16:35:01",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "Russia strikes publishing house warehouse in Kharkiv on Ukrainian Language Day, adding to a campaign against Ukrainian literature and culture",
+    "url": "https://euromaidanpress.com/2026/10/27/russia-strikes-publishing-house-warehouse-in-kharkiv/"
+  },
+  {
+    "id": "https://www.france24.com/en/americas/20261027-defeated-brazilian-candidate-flavio-bolsonaro-passports-cancelled-whereabouts-unknown",
+    "timestamp": "2026-10-27T16:33:13",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Brazil's defeated candidate Flavio Bolsonaro heads to US despite cancelled passports",
+    "url": "https://www.france24.com/en/americas/20261027-defeated-brazilian-candidate-flavio-bolsonaro-passports-cancelled-whereabouts-unknown"
+  },
+  {
+    "id": "https://www.twz.com/air/ukraines-stargate-drone-now-evacuating-wounded-soldiers",
+    "timestamp": "2026-10-27T16:32:30",
+    "source": "The Drive WarZone",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Ukraine\u2019s StarGate Drone Now Evacuating Wounded Soldiers",
+    "url": "https://www.twz.com/air/ukraines-stargate-drone-now-evacuating-wounded-soldiers"
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cwvgrk0zx641o?at_medium=RSS&at_campaign=rss",
     "timestamp": "2026-10-27T16:20:22",
     "source": "BBC World",
@@ -28,6 +838,16 @@
     "region": "global",
     "text": "Nanotyrannus skeleton auctioned for $47.3m in New York",
     "url": "https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.militarytimes.com/news/2026/10/27/hitlers-eagles-nest-famously-captured-by-band-of-brothers-deliberately-set-ablaze/",
+    "timestamp": "2026-10-27T16:09:50",
+    "source": "Military Times",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Hitler\u2019s Eagle\u2019s Nest, famously captured by \u2018Band of Brothers,\u2019 deliberately set ablaze",
+    "url": "https://www.militarytimes.com/news/2026/10/27/hitlers-eagles-nest-famously-captured-by-band-of-brothers-deliberately-set-ablaze/"
   },
   {
     "id": "https://tass.com/politics/2208933",
@@ -78,6 +898,16 @@
     "region": "ru",
     "text": "Iran\u2019s gas production capacity reaches 300 bln cubic meters \u2014 Pezeshkian",
     "url": "https://tass.com/economy/2208921"
+  },
+  {
+    "id": "https://www.navalnews.com/naval-news/2026/10/hanwha-defense-usa-to-acquire-hanwha-philly-shipyard/",
+    "timestamp": "2026-10-27T15:51:23",
+    "source": "Naval News",
+    "platform": "rss",
+    "category": "naval",
+    "region": "global",
+    "text": "Hanwha Defense USA to Acquire Hanwha Philly Shipyard",
+    "url": "https://www.navalnews.com/naval-news/2026/10/hanwha-defense-usa-to-acquire-hanwha-philly-shipyard/"
   },
   {
     "id": "https://www.aljazeera.com/video/newsfeed/2026/10/27/iranian-and-qatari-leaders-meet-at-russian-energy-forum?traffic_source=rss",
@@ -148,6 +978,16 @@
     "region": "global",
     "text": "Marine Rotational Force Concludes Deployment to the Outback",
     "url": "https://news.usni.org/2026/10/27/marine-rotational-force-concludes-deployment-to-the-outback"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cj5ynkk6v3pzo?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-10-27T15:41:46",
+    "source": "BBC World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "West warns of famine risk in Sudan as civil war grinds on",
+    "url": "https://www.bbc.co.uk/news/articles/cj5ynkk6v3pzo?at_medium=RSS&at_campaign=rss"
   },
   {
     "id": "https://tass.com/economy/2208903",
@@ -458,6 +1298,16 @@
     "region": "global",
     "text": "Norway and Finland leaders hold rare call with Putin",
     "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "https://www.navalnews.com/naval-news/2026/10/houthi-ballistic-missile-intercepted-near-belgian-minehunter-in-bab-el-mandeb/",
+    "timestamp": "2026-10-27T14:22:15",
+    "source": "Naval News",
+    "platform": "rss",
+    "category": "naval",
+    "region": "global",
+    "text": "Houthi Ballistic Missile Intercepted Near Belgian Minehunter in Bab el-Mandeb",
+    "url": "https://www.navalnews.com/naval-news/2026/10/houthi-ballistic-missile-intercepted-near-belgian-minehunter-in-bab-el-mandeb/"
   },
   {
     "id": "https://www.france24.com/en/tv-shows/perspective/20261027-as-china-s-communist-party-holds-plenum-xi-s-anti-corruption-drive-continues",
@@ -4148,855 +4998,5 @@
     "region": "global",
     "text": "AUKUS: Autonomous Undersea Warfare is on Track",
     "url": "https://www.realcleardefense.com/us-navy/links/aukus-autonomous-undersea-warfare-is-on-track-2026-10-26"
-  },
-  {
-    "id": "https://www.realcleardefense.com/pentagon/links/inside-the-pentagons-doomsday-plan-to-keep-america-fighting-2026-10-26",
-    "timestamp": "2026-10-26T11:01:10",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Inside the Pentagon\u2019s Doomsday Plan To Keep America Fighting",
-    "url": "https://www.realcleardefense.com/pentagon/links/inside-the-pentagons-doomsday-plan-to-keep-america-fighting-2026-10-26"
-  },
-  {
-    "id": "https://www.realcleardefense.com/us-air-force/links/hypersonic--firing-b-1b-lancer-to-fly-into-the-2040s-2026-10-26",
-    "timestamp": "2026-10-26T11:01:10",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Hypersonic -Firing B-1B Lancer To Fly Into the 2040s",
-    "url": "https://www.realcleardefense.com/us-air-force/links/hypersonic--firing-b-1b-lancer-to-fly-into-the-2040s-2026-10-26"
-  },
-  {
-    "id": "https://www.realcleardefense.com/pentagon/links/sba-and-pentagon-partner-to-strengthen-70-of-defense-industrial-base-2026-10-26",
-    "timestamp": "2026-10-26T11:01:10",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "SBA and Pentagon Partner to Strengthen 70% of Defense Industrial Base",
-    "url": "https://www.realcleardefense.com/pentagon/links/sba-and-pentagon-partner-to-strengthen-70-of-defense-industrial-base-2026-10-26"
-  },
-  {
-    "id": "https://www.realcleardefense.com/us-navy/links/pentagon-launches-120-day-sprint-to-field-counter-uas-armed-usvs-2026-10-26",
-    "timestamp": "2026-10-26T11:01:10",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Pentagon Launches 120-Day \u201cSprint\u201d to Field Counter-UAS Armed USVs",
-    "url": "https://www.realcleardefense.com/us-navy/links/pentagon-launches-120-day-sprint-to-field-counter-uas-armed-usvs-2026-10-26"
-  },
-  {
-    "id": "https://www.realcleardefense.com/us-space-force/links/us-military-gives-elon-musks-spacex-access-to-sensitive-tracking-data-2026-10-26",
-    "timestamp": "2026-10-26T11:01:09",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "U.S. Military Gives Elon Musk\u2019s SpaceX Access to Sensitive Tracking Data",
-    "url": "https://www.realcleardefense.com/us-space-force/links/us-military-gives-elon-musks-spacex-access-to-sensitive-tracking-data-2026-10-26"
-  },
-  {
-    "id": "https://www.realcleardefense.com/us-navy/links/the-us-shipbuilding-revival-is-taking-lessons-halfway-around-the-world-2026-10-26",
-    "timestamp": "2026-10-26T11:01:09",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "The U.S. Shipbuilding Revival Is Taking Lessons Halfway Around the World",
-    "url": "https://www.realcleardefense.com/us-navy/links/the-us-shipbuilding-revival-is-taking-lessons-halfway-around-the-world-2026-10-26"
-  },
-  {
-    "id": "https://www.realcleardefense.com/us-army/links/somebody-has-to-hold-the-ground-2026-10-26",
-    "timestamp": "2026-10-26T11:01:09",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Somebody Has to Hold the Ground",
-    "url": "https://www.realcleardefense.com/us-army/links/somebody-has-to-hold-the-ground-2026-10-26"
-  },
-  {
-    "id": "https://www.realcleardefense.com/us-navy/links/us-navy-shipbuilding-the-good-the-bad-and-the-ugly-2026-10-26",
-    "timestamp": "2026-10-26T11:01:09",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "U.S. Navy Shipbuilding: The Good, the Bad and the Ugly",
-    "url": "https://www.realcleardefense.com/us-navy/links/us-navy-shipbuilding-the-good-the-bad-and-the-ugly-2026-10-26"
-  },
-  {
-    "id": "https://www.realcleardefense.com/us-space-force/links/space-forces-commercial-augmentation-space-reserve-casr-initiative-2026-10-26",
-    "timestamp": "2026-10-26T11:01:09",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Space Force\u2019s Commercial Augmentation Space Reserve (CASR) Initiative",
-    "url": "https://www.realcleardefense.com/us-space-force/links/space-forces-commercial-augmentation-space-reserve-casr-initiative-2026-10-26"
-  },
-  {
-    "id": "https://www.realcleardefense.com/us-navy/links/how-to-lose-a-thermonuclear-war-2026-10-26",
-    "timestamp": "2026-10-26T11:01:09",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "How to Lose a Thermonuclear War",
-    "url": "https://www.realcleardefense.com/us-navy/links/how-to-lose-a-thermonuclear-war-2026-10-26"
-  },
-  {
-    "id": "https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino",
-    "timestamp": "2026-10-26T11:00:40",
-    "source": "Guardian World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "US forces accused of \u2018weaponising\u2019 Somalia\u2019s floods by trapping women and children in the path of El Ni\u00f1o",
-    "url": "https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino"
-  },
-  {
-    "id": "https://www.realcleardefense.com/china/links/china-is-collecting-militarily-useful-weather-data-abroad-2026-10-26",
-    "timestamp": "2026-10-26T11:00:13",
-    "source": "RealClearDefense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "China Is Collecting Militarily Useful Weather Data Abroad",
-    "url": "https://www.realcleardefense.com/china/links/china-is-collecting-militarily-useful-weather-data-abroad-2026-10-26"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/10/26/more-than-a-us-briefing-brussels-security-talks-on-ukraine-planned-for-27-or-28-october-kyiv-says/",
-    "timestamp": "2026-10-26T10:50:39",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "More than a US briefing: Brussels security talks on Ukraine planned for 27 or 28 October, Kyiv says",
-    "url": "https://euromaidanpress.com/2026/10/26/more-than-a-us-briefing-brussels-security-talks-on-ukraine-planned-for-27-or-28-october-kyiv-says/"
-  },
-  {
-    "id": "https://www.dw.com/en/jordan-3-arrested-over-deadly-church-attack/a-79760441?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-10-26T10:12:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Jordan: 3 arrested over deadly church attack",
-    "url": "https://www.dw.com/en/jordan-3-arrested-over-deadly-church-attack/a-79760441?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.dw.com/en/germany-news-audi-boss-slammed-over-trump-rally-appearance/live-79760097?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-10-26T10:00:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Germany news: Audi boss slammed over Trump rally appearance",
-    "url": "https://www.dw.com/en/germany-news-audi-boss-slammed-over-trump-rally-appearance/live-79760097?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.dw.com/en/germany-news-union-slams-audi-ceo-for-joining-trump-at-campaign-rally-while-chancellor-merz-and-president-steinmeier-embark-on-separate-asia-tours/live-79760097?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-10-26T10:00:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Germany news: Union slams Audi CEO for joining Trump at campaign rally, while Chancellor Merz and President Steinmeier embark on separate Asia tours",
-    "url": "https://www.dw.com/en/germany-news-union-slams-audi-ceo-for-joining-trump-at-campaign-rally-while-chancellor-merz-and-president-steinmeier-embark-on-separate-asia-tours/live-79760097?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states",
-    "timestamp": "2026-10-26T09:59:27",
-    "source": "Guardian World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Sudan paramilitary drone strikes cause mass power cuts in eastern states",
-    "url": "https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states"
-  },
-  {
-    "id": "https://www.theguardian.com/world/2026/oct/26/zero-energy-companionship-bizarre-hobby-takes-seed-among-chinas-stressed-young-adults",
-    "timestamp": "2026-10-26T09:47:14",
-    "source": "Guardian World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "\u2018Zero-energy companionship\u2019: bizarre hobby takes seed among China\u2019s stressed young adults",
-    "url": "https://www.theguardian.com/world/2026/oct/26/zero-energy-companionship-bizarre-hobby-takes-seed-among-chinas-stressed-young-adults"
-  },
-  {
-    "id": "https://www.gov.uk/government/news/middlesex-regiment-soldier-laid-to-rest-on-the-somme",
-    "timestamp": "2026-10-26T09:46:28",
-    "source": "UK MoD",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Middlesex Regiment soldier laid to rest on the Somme",
-    "url": "https://www.gov.uk/government/news/middlesex-regiment-soldier-laid-to-rest-on-the-somme"
-  },
-  {
-    "id": "https://www.gov.uk/government/news/bedfordshire-soldiers-laid-to-rest-on-the-western-front",
-    "timestamp": "2026-10-26T09:46:14",
-    "source": "UK MoD",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Bedfordshire soldiers laid to rest on the Western Front",
-    "url": "https://www.gov.uk/government/news/bedfordshire-soldiers-laid-to-rest-on-the-western-front"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/10/26/russia-apparently-meant-a-tank-division-for-druzhkivka-a-ukrainian-push-in-the-south-drew-the-bigger-part-of-it-away/",
-    "timestamp": "2026-10-26T09:29:13",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Russia apparently meant a tank division for Druzhkivka. A Ukrainian push in the south drew the bigger part of it away",
-    "url": "https://euromaidanpress.com/2026/10/26/russia-apparently-meant-a-tank-division-for-druzhkivka-a-ukrainian-push-in-the-south-drew-the-bigger-part-of-it-away/"
-  },
-  {
-    "id": "https://www.navalnews.com/naval-news/2026/10/france-smokers-kamikaze-usv/",
-    "timestamp": "2026-10-26T09:27:39",
-    "source": "Naval News",
-    "platform": "rss",
-    "category": "naval",
-    "region": "global",
-    "text": "From Concept to Sea Trials in Six Months: France Fast-Tracks SMOKERS Kamikaze USV",
-    "url": "https://www.navalnews.com/naval-news/2026/10/france-smokers-kamikaze-usv/"
-  },
-  {
-    "id": "https://www.dw.com/en/venezuelan-opposition-leader-machado-returns-from-exile/a-79759187?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-10-26T09:08:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Venezuelan opposition leader Machado returns from exile",
-    "url": "https://www.dw.com/en/venezuelan-opposition-leader-machado-returns-from-exile/a-79759187?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.dw.com/en/venezuela-opposition-leader-machado-returns-from-exile-received-by-thousands-of-supporters-in-caracas/a-79759187?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-10-26T09:08:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Venezuela: Opposition leader Machado returns from exile, received by thousands of supporters in Caracas",
-    "url": "https://www.dw.com/en/venezuela-opposition-leader-machado-returns-from-exile-received-by-thousands-of-supporters-in-caracas/a-79759187?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://breakingdefense.com/2026/10/unmanned-systems-take-center-stage-at-turkish-ates-serbest-military-demonstration/",
-    "timestamp": "2026-10-26T09:00:00",
-    "source": "Breaking Defense",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Unmanned systems take center stage at Turkish Ate\u015f Serbest military demonstration",
-    "url": "https://breakingdefense.com/2026/10/unmanned-systems-take-center-stage-at-turkish-ates-serbest-military-demonstration/"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/10/26/plane-parts-for-russias-air-force-rubber-for-its-industry-voronezhs-factories-came-under-drone-attack/",
-    "timestamp": "2026-10-26T08:25:38",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Plane parts for Russia\u2019s air force, rubber for its industry\u2014Voronezh\u2019s factories came under drone attack",
-    "url": "https://euromaidanpress.com/2026/10/26/plane-parts-for-russias-air-force-rubber-for-its-industry-voronezhs-factories-came-under-drone-attack/"
-  },
-  {
-    "id": "https://www.dw.com/en/from-rotten-food-to-political-opponents-researchers-explore-how-disgust-relates-to-our-beliefs-and-why-the-connection-is-complicated/a-79734659?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-10-26T08:13:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "From rotten food to political opponents: Researchers explore how disgust relates to our beliefs, and why the connection is complicated",
-    "url": "https://www.dw.com/en/from-rotten-food-to-political-opponents-researchers-explore-how-disgust-relates-to-our-beliefs-and-why-the-connection-is-complicated/a-79734659?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://warontherocks.com/cogs-of-war/lessons-for-pentagon-procurement-from-the-special-operations-enterprise/",
-    "timestamp": "2026-10-26T08:00:14",
-    "source": "War on the Rocks",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Lessons for Pentagon Procurement from the Special Operations Enterprise",
-    "url": "https://warontherocks.com/cogs-of-war/lessons-for-pentagon-procurement-from-the-special-operations-enterprise/"
-  },
-  {
-    "id": "https://tass.com/politics/2207717",
-    "timestamp": "2026-10-26T07:33:51",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Ukrainian drone attack on Voronezh causes fires at facilities \u2014 governor",
-    "url": "https://tass.com/politics/2207717"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/10/26/officials-from-mecca-pact-states-to-hold-talks-in-iran-amid-regional-tensions?traffic_source=rss",
-    "timestamp": "2026-10-26T07:33:47",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Officials from Mecca pact states to hold talks in Iran amid regional tensions",
-    "url": "https://www.aljazeera.com/news/2026/10/26/officials-from-mecca-pact-states-to-hold-talks-in-iran-amid-regional-tensions?traffic_source=rss"
-  },
-  {
-    "id": "https://warontherocks.com/the-importance-of-the-battle-of-bailen/",
-    "timestamp": "2026-10-26T07:30:22",
-    "source": "War on the Rocks",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "The Importance of the Battle of Bail\u00e9n",
-    "url": "https://warontherocks.com/the-importance-of-the-battle-of-bailen/"
-  },
-  {
-    "id": "https://www.aljazeera.com/gallery/2026/10/26/photos-lula-supporters-flood-streets-in-celebration-of-historic-win?traffic_source=rss",
-    "timestamp": "2026-10-26T07:24:58",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Photos: Lula supporters flood streets in celebration of historic win",
-    "url": "https://www.aljazeera.com/gallery/2026/10/26/photos-lula-supporters-flood-streets-in-celebration-of-historic-win?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/economy/2207711",
-    "timestamp": "2026-10-26T07:21:52",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russian stocks up as main trading session opens",
-    "url": "https://tass.com/economy/2207711"
-  },
-  {
-    "id": "https://www.dw.com/en/india-news-remark-on-modi-s-father-stirs-political-row/live-79758965?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-10-26T07:17:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "India news: Remark on Modi's father stirs political row",
-    "url": "https://www.dw.com/en/india-news-remark-on-modi-s-father-stirs-political-row/live-79758965?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://tass.com/politics/2207707",
-    "timestamp": "2026-10-26T07:13:19",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Kiev loses 8,300 troops, mercenaries over week of fighting \u2014 expert",
-    "url": "https://tass.com/politics/2207707"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/10/26/israels-election-the-main-issues-in-the-words-of-the-leading-candidates?traffic_source=rss",
-    "timestamp": "2026-10-26T07:03:43",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Israel\u2019s election: The main issues in the words of the leading candidates",
-    "url": "https://www.aljazeera.com/news/2026/10/26/israels-election-the-main-issues-in-the-words-of-the-leading-candidates?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/10/26/jordan-arrests-three-suspects-in-deadly-church-attack?traffic_source=rss",
-    "timestamp": "2026-10-26T07:03:07",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Jordan arrests three suspects in deadly church attack",
-    "url": "https://www.aljazeera.com/news/2026/10/26/jordan-arrests-three-suspects-in-deadly-church-attack?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/emergencies/2207697",
-    "timestamp": "2026-10-26T07:01:44",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Ukrainian attack on Russia\u2019s Voronezh Region kills two \u2014 governor",
-    "url": "https://tass.com/emergencies/2207697"
-  },
-  {
-    "id": "https://www.theguardian.com/politics/2026/oct/26/uk-international-aid-target-spending-shortfall-budget-research",
-    "timestamp": "2026-10-26T06:59:36",
-    "source": "Guardian World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "UK poised to miss reduced aid spending target of 0.3% of national income",
-    "url": "https://www.theguardian.com/politics/2026/oct/26/uk-international-aid-target-spending-shortfall-budget-research"
-  },
-  {
-    "id": "https://www.navalnews.com/naval-news/2026/10/aksungur-ucav-drops-aselbuoy-sonobuoys-for-the-first-time/",
-    "timestamp": "2026-10-26T06:57:28",
-    "source": "Naval News",
-    "platform": "rss",
-    "category": "naval",
-    "region": "global",
-    "text": "Aksungur UCAV drops aselBUOY sonobuoys for the first time",
-    "url": "https://www.navalnews.com/naval-news/2026/10/aksungur-ucav-drops-aselbuoy-sonobuoys-for-the-first-time/"
-  },
-  {
-    "id": "https://www.theguardian.com/world/2026/oct/26/brazil-presidential-elections-luiz-inacio-lula-da-silva-flavio-bolsonaro",
-    "timestamp": "2026-10-26T06:44:33",
-    "source": "Guardian World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Brazil keeps left: what Lula\u2019s victory means for his country and beyond",
-    "url": "https://www.theguardian.com/world/2026/oct/26/brazil-presidential-elections-luiz-inacio-lula-da-silva-flavio-bolsonaro"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/10/26/dakar-rally-2027-moved-out-of-saudi-arabia-amid-conflict-in-middle-east?traffic_source=rss",
-    "timestamp": "2026-10-26T06:29:10",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Dakar Rally 2027 moved out of Saudi Arabia amid conflict in Middle East",
-    "url": "https://www.aljazeera.com/sports/2026/10/26/dakar-rally-2027-moved-out-of-saudi-arabia-amid-conflict-in-middle-east?traffic_source=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-10-26T06:16:15",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46",
-    "url": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/tv-shows/sports/20261026-real-madrid-win-clasico-against-fc-barcelona-thanks-to-kylian-mbapp%C3%A9",
-    "timestamp": "2026-10-26T06:10:08",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Real Madrid win Clasico against FC Barcelona thanks to Kylian Mbapp\u00e9",
-    "url": "https://www.france24.com/en/tv-shows/sports/20261026-real-madrid-win-clasico-against-fc-barcelona-thanks-to-kylian-mbapp%C3%A9"
-  },
-  {
-    "id": "https://tass.com/world/2207667",
-    "timestamp": "2026-10-26T06:00:00",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Lula da Silva wins 51.79% of vote after 100% of ballots counted \u2014 electoral court",
-    "url": "https://tass.com/world/2207667"
-  },
-  {
-    "id": "https://www.aljazeera.com/opinions/2026/10/26/the-french-government-is-hiding-behind-a-riots-narrative?traffic_source=rss",
-    "timestamp": "2026-10-26T05:56:04",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "The French government is hiding behind a \u2018riots\u2019 narrative",
-    "url": "https://www.aljazeera.com/opinions/2026/10/26/the-french-government-is-hiding-behind-a-riots-narrative?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/10/26/chinas-political-elite-gather-for-talks-on-communist-party-discipline?traffic_source=rss",
-    "timestamp": "2026-10-26T05:38:41",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "China\u2019s political elite gather for talks on Communist Party discipline",
-    "url": "https://www.aljazeera.com/news/2026/10/26/chinas-political-elite-gather-for-talks-on-communist-party-discipline?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/world/2207659",
-    "timestamp": "2026-10-26T05:27:27",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Cooperation with Russia helps to bolster energy security \u2014 Iran\u2019s top diplomat",
-    "url": "https://tass.com/world/2207659"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/10/26/aleksandar-vucic-the-serbian-leader-brought-down-by-students?traffic_source=rss",
-    "timestamp": "2026-10-26T05:24:59",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Aleksandar Vucic, the Serbian leader brought down by students",
-    "url": "https://www.aljazeera.com/news/2026/10/26/aleksandar-vucic-the-serbian-leader-brought-down-by-students?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/10/26/the-gambias-first-blind-magistrate-tests-a-system-built-for-the-sighted?traffic_source=rss",
-    "timestamp": "2026-10-26T05:18:00",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "The Gambia\u2019s first blind magistrate tests a system built for the sighted",
-    "url": "https://www.aljazeera.com/news/2026/10/26/the-gambias-first-blind-magistrate-tests-a-system-built-for-the-sighted?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/10/26/israels-election-five-key-things-to-know?traffic_source=rss",
-    "timestamp": "2026-10-26T05:16:38",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Israel\u2019s election: Five key things to know",
-    "url": "https://www.aljazeera.com/news/2026/10/26/israels-election-five-key-things-to-know?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/10/26/social-video-captures-moment-brazils-election-turned?traffic_source=rss",
-    "timestamp": "2026-10-26T05:01:59",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Social video captures moment Brazil\u2019s election turned",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/social-video-captures-moment-brazils-election-turned?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-calls-for-brazil-election-result-to-be-annulled?traffic_source=rss",
-    "timestamp": "2026-10-26T04:36:46",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Bolsonaro calls for Brazil election result to be annulled",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-calls-for-brazil-election-result-to-be-annulled?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/10/26/us-appeals-court-sceptical-of-trumps-lawsuit-over-california-voter-rolls?traffic_source=rss",
-    "timestamp": "2026-10-26T04:32:48",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "US appeals court sceptical of Trump\u2019s lawsuit over California voter rolls",
-    "url": "https://www.aljazeera.com/news/2026/10/26/us-appeals-court-sceptical-of-trumps-lawsuit-over-california-voter-rolls?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/world/2207649",
-    "timestamp": "2026-10-26T04:32:26",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "South Korea, US launch joint air force drills dubbed Freedom Flag",
-    "url": "https://tass.com/world/2207649"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/10/26/attackers-kill-nurse-injure-health-worker-responding-to-drc-ebola-case?traffic_source=rss",
-    "timestamp": "2026-10-26T04:21:26",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Attackers kill nurse, injure health worker responding to DRC Ebola case",
-    "url": "https://www.aljazeera.com/news/2026/10/26/attackers-kill-nurse-injure-health-worker-responding-to-drc-ebola-case?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil?traffic_source=rss",
-    "timestamp": "2026-10-26T04:05:44",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "US military says it helped Gulf states export 1.5 billion barrels of oil",
-    "url": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil?traffic_source=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-10-26T04:05:28",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Australian murderer loses bid to eat Vegemite in prison",
-    "url": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://tass.com/world/2207645",
-    "timestamp": "2026-10-26T03:17:24",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Presidential candidate Bolsonaro urges to annul Brazilian elections\u2019 results",
-    "url": "https://tass.com/world/2207645"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-10-26T02:53:00",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Watch: How President Lula turned it around to beat Fl\u00e1vio Bolsonaro",
-    "url": "https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://tass.com/world/2207643",
-    "timestamp": "2026-10-26T02:44:38",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Protests in Europe stem from instability on energy markets \u2014 Iranian top diplomat",
-    "url": "https://tass.com/world/2207643"
-  },
-  {
-    "id": "https://www.dw.com/en/brazilian-leftist-president-lula-wins-reelection-against-conservative-challenger-flavio-bolsonaro/live-79755630?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-10-26T01:22:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Brazilian leftist President Lula wins reelection against conservative challenger Flavio Bolsonaro",
-    "url": "https://www.dw.com/en/brazilian-leftist-president-lula-wins-reelection-against-conservative-challenger-flavio-bolsonaro/live-79755630?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://tass.com/politics/2207639",
-    "timestamp": "2026-10-26T01:20:55",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Putin maintains permanent contact with new Cabinet members \u2014 Kremlin",
-    "url": "https://tass.com/politics/2207639"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/10/26/netanyahu-rival-eisenkot-holds-final-rally-before-israeli-election?traffic_source=rss",
-    "timestamp": "2026-10-26T01:02:57",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Netanyahu rival Eisenkot holds final rally before Israeli election",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/netanyahu-rival-eisenkot-holds-final-rally-before-israeli-election?traffic_source=rss"
-  },
-  {
-    "id": "https://www.theguardian.com/world/2026/oct/26/xi-jinping-corruption-crackdown-china-fifth-plenum",
-    "timestamp": "2026-10-26T00:58:25",
-    "source": "Guardian World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Xi Jinping\u2019s corruption crackdown in the spotlight as China prepares for meeting of top leaders",
-    "url": "https://www.theguardian.com/world/2026/oct/26/xi-jinping-corruption-crackdown-china-fifth-plenum"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/10/26/serbia-celebrates-historic-election-win-for-student-backed-movement?traffic_source=rss",
-    "timestamp": "2026-10-26T00:58:21",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Serbia celebrates historic election win for student-backed movement",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/serbia-celebrates-historic-election-win-for-student-backed-movement?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/americas/20261026-what-challenges-await-brazil-s-lula-in-his-fourth-term-as-president",
-    "timestamp": "2026-10-26T00:52:54",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "What challenges await Brazil's Lula in his fourth term as president?",
-    "url": "https://www.france24.com/en/americas/20261026-what-challenges-await-brazil-s-lula-in-his-fourth-term-as-president"
-  },
-  {
-    "id": "https://tass.com/world/2207637",
-    "timestamp": "2026-10-26T00:49:56",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Incumbent President of Brazil Lula da Silva wins presidential election",
-    "url": "https://tass.com/world/2207637"
-  },
-  {
-    "id": "https://www.france24.com/en/americas/20261026-brazil-s-president-lula-da-silva-beats-flavio-bolsonaro-to-win-re-election",
-    "timestamp": "2026-10-26T00:23:59",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Brazil's President Lula da Silva beats Flavio Bolsonaro to win re-election",
-    "url": "https://www.france24.com/en/americas/20261026-brazil-s-president-lula-da-silva-beats-flavio-bolsonaro-to-win-re-election"
-  },
-  {
-    "id": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election",
-    "timestamp": "2026-10-26T00:19:05",
-    "source": "Guardian World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Lula wins fourth term as Brazil president after historic upset over far-right Fl\u00e1vio Bolsonaro",
-    "url": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss",
-    "timestamp": "2026-10-26T00:16:29",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Lula holds off far right with victory in Brazil presidential election",
-    "url": "https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/sports/2207633",
-    "timestamp": "2026-10-26T00:12:35",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russia\u2019s Alexander Nikishin signs $3 mln one-year contract with NHL Carolina Hurricanes",
-    "url": "https://tass.com/sports/2207633"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/10/26/trump-escalates-anti-muslim-rhetoric-in-fierce-attack-on-el-sayed?traffic_source=rss",
-    "timestamp": "2026-10-26T00:02:55",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Trump escalates anti-Muslim rhetoric in fierce attack on El-Sayed",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/trump-escalates-anti-muslim-rhetoric-in-fierce-attack-on-el-sayed?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss",
-    "timestamp": "2026-10-26T00:00:00",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Iran war live: Trump rules out strikes \u2018today\u2019; Israeli forces raid Hebron",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/world/2207615",
-    "timestamp": "2026-10-25T23:55:53",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Next parliamentary elections in Slovakia to be held on September 25, 2027 \u2014 radio",
-    "url": "https://tass.com/world/2207615"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/10/25/ballon-dor-2026-can-barcelona-phenom-lamine-yamal-become-youngest-winner?traffic_source=rss",
-    "timestamp": "2026-10-25T23:38:57",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Ballon d\u2019Or 2026: Can Barcelona phenom Lamine Yamal become youngest winner?",
-    "url": "https://www.aljazeera.com/sports/2026/10/25/ballon-dor-2026-can-barcelona-phenom-lamine-yamal-become-youngest-winner?traffic_source=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-10-25T23:33:19",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
-    "url": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/10/25/thousands-protest-in-prague-against-public-media-funding-reforms?traffic_source=rss",
-    "timestamp": "2026-10-25T23:29:13",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Thousands protest in Prague against public media funding reforms",
-    "url": "https://www.aljazeera.com/news/2026/10/25/thousands-protest-in-prague-against-public-media-funding-reforms?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/video/20261025-report-idf-pushes-back-on-netanyahu-s-order",
-    "timestamp": "2026-10-25T23:24:14",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Report: IDF chief pushes back on Netanyahu's order",
-    "url": "https://www.france24.com/en/video/20261025-report-idf-pushes-back-on-netanyahu-s-order"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/10/25/venezuelas-opposition-leader-machado-returns-after-months-in-exile?traffic_source=rss",
-    "timestamp": "2026-10-25T23:23:25",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Venezuela\u2019s opposition leader Machado returns after months in exile",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/venezuelas-opposition-leader-machado-returns-after-months-in-exile?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/10/25/bulgaria-election-heads-to-a-run-off-amid-low-voter-turnout?traffic_source=rss",
-    "timestamp": "2026-10-25T22:57:17",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Bulgaria election heads to a run-off amid low voter turnout",
-    "url": "https://www.aljazeera.com/news/2026/10/25/bulgaria-election-heads-to-a-run-off-amid-low-voter-turnout?traffic_source=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-10-25T22:54:57",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Serbia's veteran ruler Vu\u010di\u0107 concedes election to student-led protest movement",
-    "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
-    "timestamp": "2026-10-25T22:53:30",
-    "source": "Guardian World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Brazil runoff live updates: ballot count resumes after two-hour voting extension",
-    "url": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula"
-  },
-  {
-    "id": "https://tass.com/defense/2207631",
-    "timestamp": "2026-10-25T22:26:54",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Kiev troops bombard Donetsk People\u2019s Republic five times over past day",
-    "url": "https://tass.com/defense/2207631"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/10/25/real-madrid-beat-barcelona-2-1-at-camp-nou-to-halve-gap-to-la-liga-leaders?traffic_source=rss",
-    "timestamp": "2026-10-25T22:22:53",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Real Madrid beat Barcelona 2-1 at Camp Nou to halve gap to La Liga leaders",
-    "url": "https://www.aljazeera.com/sports/2026/10/25/real-madrid-beat-barcelona-2-1-at-camp-nou-to-halve-gap-to-la-liga-leaders?traffic_source=rss"
   }
 ]
