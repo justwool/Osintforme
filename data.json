@@ -1,5 +1,345 @@
 [
   {
+    "id": "https://www.dw.com/en/us-midterm-election-results-how-americans-voted-and-what-the-data-tells-us/a-79841886?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-11-04T03:01:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "US midterm election results: How Americans voted and what the data tells us",
+    "url": "https://www.dw.com/en/us-midterm-election-results-how-americans-voted-and-what-the-data-tells-us/a-79841886?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://www.france24.com/en/video/20261104-midterms-abdul-el-sayed-mike-rogers-face-off-for-michigan-senate-seat",
+    "timestamp": "2026-11-04T02:53:45",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Midterms: Abdul El-Sayed, Mike Rogers face off for Michigan Senate seat",
+    "url": "https://www.france24.com/en/video/20261104-midterms-abdul-el-sayed-mike-rogers-face-off-for-michigan-senate-seat"
+  },
+  {
+    "id": "https://www.france24.com/en/video/20261104-us-midterms-democrats-flip-senate-seat-in-north-carolina",
+    "timestamp": "2026-11-04T02:46:07",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "US midterm elections: Democrats flip Senate seat in North Carolina",
+    "url": "https://www.france24.com/en/video/20261104-us-midterms-democrats-flip-senate-seat-in-north-carolina"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/11/4/seven-flights-across-europe-targeted-by-suspected-bomb-threats?traffic_source=rss",
+    "timestamp": "2026-11-04T02:36:18",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Seven flights across Europe targeted by suspected bomb threats",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/seven-flights-across-europe-targeted-by-suspected-bomb-threats?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/society/2212787",
+    "timestamp": "2026-11-04T02:27:40",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Expert says Kiev began building unofficial prisons as early as 2014",
+    "url": "https://tass.com/society/2212787"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/11/4/keisha-lance-bottoms-makes-us-history-as-first-black-woman-elected-governor?traffic_source=rss",
+    "timestamp": "2026-11-04T02:25:51",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Keisha Lance Bottoms makes history as Georgia\u2019s first Black woman governor",
+    "url": "https://www.aljazeera.com/news/2026/11/4/keisha-lance-bottoms-makes-us-history-as-first-black-woman-elected-governor?traffic_source=rss"
+  },
+  {
+    "id": "https://euromaidanpress.com/2026/11/04/a-fake-torture-chamber-a-real-riot-russia-scores-points-on-ukraines-mobilization-crisis/",
+    "timestamp": "2026-11-04T02:19:24",
+    "source": "Euromaidan Press",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ua",
+    "text": "A fake torture chamber, a real riot: Russia scores points on Ukraine\u2019s mobilization crisis",
+    "url": "https://euromaidanpress.com/2026/11/04/a-fake-torture-chamber-a-real-riot-russia-scores-points-on-ukraines-mobilization-crisis/"
+  },
+  {
+    "id": "https://tass.com/world/2212785",
+    "timestamp": "2026-11-04T02:09:58",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "US, Iran have approached \"edge of abyss\" \u2014 expert",
+    "url": "https://tass.com/world/2212785"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/11/4/ballot-shortages-reported-in-dearborn-michigan?traffic_source=rss",
+    "timestamp": "2026-11-04T02:09:42",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Ballot shortages reported in Dearborn, Michigan",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/ballot-shortages-reported-in-dearborn-michigan?traffic_source=rss"
+  },
+  {
+    "id": "https://www.dw.com/en/us-midterms-democrat-wins-north-carolina-as-first-polls-close/live-79829440?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-11-04T01:54:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "US midterms: Democrat wins North Carolina as first polls close",
+    "url": "https://www.dw.com/en/us-midterms-democrat-wins-north-carolina-as-first-polls-close/live-79829440?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://tass.com/world/2212783",
+    "timestamp": "2026-11-04T01:50:52",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Trump to block Democrats\u2019 legislative efforts in event of their election win \u2014 source",
+    "url": "https://tass.com/world/2212783"
+  },
+  {
+    "id": "https://www.airandspaceforces.com/general-atomics-afrl-next-steps-autonomous-drones/",
+    "timestamp": "2026-11-04T01:40:06",
+    "source": "Air Force Mag",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "General Atomics, AFRL Eye Next Steps for Autonomous Drone Concepts",
+    "url": "https://www.airandspaceforces.com/general-atomics-afrl-next-steps-autonomous-drones/"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/11/4/kazakhstan-releases-second-tiger-into-the-wild?traffic_source=rss",
+    "timestamp": "2026-11-04T01:39:46",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Kazakhstan releases second tiger into the wild",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/kazakhstan-releases-second-tiger-into-the-wild?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/11/4/democrat-roy-cooper-flips-north-carolina-us-senate-seat?traffic_source=rss",
+    "timestamp": "2026-11-04T01:36:33",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Democrat Roy Cooper flips North Carolina US Senate seat",
+    "url": "https://www.aljazeera.com/news/2026/11/4/democrat-roy-cooper-flips-north-carolina-us-senate-seat?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/world/2212781",
+    "timestamp": "2026-11-04T01:31:20",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "About 60% of voters in US dissatisfied with Trump\u2019s work \u2014 CNN poll",
+    "url": "https://tass.com/world/2212781"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/11/4/scepticism-as-trump-says-hes-ending-israels-3-8-bn-military-aid-deal?traffic_source=rss",
+    "timestamp": "2026-11-04T01:13:49",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Scepticism as Trump says he\u2019s ending Israel\u2019s $3.8 bn military aid deal",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/scepticism-as-trump-says-hes-ending-israels-3-8-bn-military-aid-deal?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/sports/2212779",
+    "timestamp": "2026-11-04T01:11:49",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Canada to deny visas to Russian hockey players \u2014 PM Carney",
+    "url": "https://tass.com/sports/2212779"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/11/4/un-elects-five-judges-to-international-court-of-justice-amid-record-cases?traffic_source=rss",
+    "timestamp": "2026-11-04T01:03:12",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "UN elects five judges to International Court of Justice amid record cases",
+    "url": "https://www.aljazeera.com/news/2026/11/4/un-elects-five-judges-to-international-court-of-justice-amid-record-cases?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/11/4/democrat-jon-ossoff-wins-georgia-us-senate-race?traffic_source=rss",
+    "timestamp": "2026-11-04T00:59:58",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Jon Ossoff wins Georgia Senate race, defeating Republican Mike Collins",
+    "url": "https://www.aljazeera.com/news/2026/11/4/democrat-jon-ossoff-wins-georgia-us-senate-race?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/11/4/fbi-arrests-man-for-sending-700-white-powder-letters-to-us-officials?traffic_source=rss",
+    "timestamp": "2026-11-04T00:44:04",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "FBI arrests man for sending over 700 threatening letters to US officials",
+    "url": "https://www.aljazeera.com/news/2026/11/4/fbi-arrests-man-for-sending-700-white-powder-letters-to-us-officials?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/emergencies/2212777",
+    "timestamp": "2026-11-04T00:42:13",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Power grid failure occurs outside Crimea",
+    "url": "https://tass.com/emergencies/2212777"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/11/4/bomb-threats-disrupt-flights-across-europe-no-explosive-devices-found?traffic_source=rss",
+    "timestamp": "2026-11-04T00:35:44",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Bomb threats disrupt flights across Europe, no explosive devices found",
+    "url": "https://www.aljazeera.com/news/2026/11/4/bomb-threats-disrupt-flights-across-europe-no-explosive-devices-found?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/11/4/us-department-of-justice-expands-its-probe-into-alaskas-us-senate-election?traffic_source=rss",
+    "timestamp": "2026-11-04T00:33:57",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "US Department of Justice expands its probe into Alaska\u2019s US Senate election",
+    "url": "https://www.aljazeera.com/news/2026/11/4/us-department-of-justice-expands-its-probe-into-alaskas-us-senate-election?traffic_source=rss"
+  },
+  {
+    "id": "https://www.dw.com/en/us-to-cut-nearly-4-billion-in-israel-military-aid-trump-says/a-79848860?maca=en-rss-en-all-1573-xml-mrss",
+    "timestamp": "2026-11-04T00:21:00",
+    "source": "DW World",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "US to cut nearly $4 billion in Israel military aid, Trump says",
+    "url": "https://www.dw.com/en/us-to-cut-nearly-4-billion-in-israel-military-aid-trump-says/a-79848860?maca=en-rss-en-all-1573-xml-mrss"
+  },
+  {
+    "id": "https://tass.com/world/2212773",
+    "timestamp": "2026-11-04T00:14:41",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "US has no immediate plans to strike Iran \u2014 Trump",
+    "url": "https://tass.com/world/2212773"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/11/4/stevie-wonder-endorses-abdul-el-sayed?traffic_source=rss",
+    "timestamp": "2026-11-04T00:13:41",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Stevie Wonder endorses Abdul El-Sayed",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/stevie-wonder-endorses-abdul-el-sayed?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/video/newsfeed/2026/11/4/ballot-scanner-glitch-disrupts-voting-in-new-york?traffic_source=rss",
+    "timestamp": "2026-11-04T00:08:02",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Ballot scanner glitch disrupts voting in New York",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/ballot-scanner-glitch-disrupts-voting-in-new-york?traffic_source=rss"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack?traffic_source=rss",
+    "timestamp": "2026-11-04T00:00:00",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Iran war live: Tehran prepares \u2018maximum deterrence\u2019 plan for any new attack",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/world/2212769",
+    "timestamp": "2026-11-03T23:51:27",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Democrats\u2019 decisive victory in US elections could lead to escalation in Ukraine \u2014 expert",
+    "url": "https://tass.com/world/2212769"
+  },
+  {
+    "id": "https://www.france24.com/en/americas/20261103-trump-fatigue-cost-of-living-and-corruption-are-top-issues-with-us-voters-ap-survey-finds",
+    "timestamp": "2026-11-03T23:46:02",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "US democracy, Trump fatigue, cost of living are top issues with voters, AP survey finds",
+    "url": "https://www.france24.com/en/americas/20261103-trump-fatigue-cost-of-living-and-corruption-are-top-issues-with-us-voters-ap-survey-finds"
+  },
+  {
+    "id": "https://www.aljazeera.com/news/2026/11/3/where-have-there-been-technical-issues-so-far-during-us-midterm-elections?traffic_source=rss",
+    "timestamp": "2026-11-03T23:42:36",
+    "source": "Al Jazeera",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "mena",
+    "text": "Where have there been technical issues so far during US midterm elections?",
+    "url": "https://www.aljazeera.com/news/2026/11/3/where-have-there-been-technical-issues-so-far-during-us-midterm-elections?traffic_source=rss"
+  },
+  {
+    "id": "https://tass.com/emergencies/2212767",
+    "timestamp": "2026-11-03T23:23:56",
+    "source": "TASS English",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "ru",
+    "text": "Ozon logistics center in Adygeysk hit by drone attack, no casualties",
+    "url": "https://tass.com/emergencies/2212767"
+  },
+  {
+    "id": "https://breakingdefense.com/2026/11/snc-pulls-out-of-navy-trainer-jet-t45-ujts-leonardo-textron/",
+    "timestamp": "2026-11-03T23:19:46",
+    "source": "Breaking Defense",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "EXCLUSIVE: SNC pulls out of Navy\u2019s trainer jet competition, leaving Textron likely winner",
+    "url": "https://breakingdefense.com/2026/11/snc-pulls-out-of-navy-trainer-jet-t45-ujts-leonardo-textron/"
+  },
+  {
+    "id": "https://www.twz.com/news-features/what-trumps-drastic-reduction-of-u-s-military-aid-to-israel-could-mean",
+    "timestamp": "2026-11-03T23:15:40",
+    "source": "The Drive WarZone",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "What Trump\u2019s Drastic Reduction Of U.S. Military Aid To Israel Could Mean",
+    "url": "https://www.twz.com/news-features/what-trumps-drastic-reduction-of-u-s-military-aid-to-israel-could-mean"
+  },
+  {
     "id": "https://tass.com/defense/2212761",
     "timestamp": "2026-11-03T22:55:48",
     "source": "TASS English",
@@ -58,6 +398,16 @@
     "region": "mena",
     "text": "US midterm election results live: Polls to start closing in some states",
     "url": "https://www.aljazeera.com/news/liveblog/2026/11/3/us-midterm-election-results-live-polls-to-start-closing-in-some-states?traffic_source=rss"
+  },
+  {
+    "id": "https://www.france24.com/en/tv-shows/spotlight/20261103-historian-timothy-snyder-trump-running-us-foreign-policy-as-though-he-were-an-organized-criminal",
+    "timestamp": "2026-11-03T22:28:56",
+    "source": "France24",
+    "platform": "rss",
+    "category": "analysis",
+    "region": "global",
+    "text": "Historian Timothy Snyder: Trump running US foreign policy 'as though he were an organized criminal'",
+    "url": "https://www.france24.com/en/tv-shows/spotlight/20261103-historian-timothy-snyder-trump-running-us-foreign-policy-as-though-he-were-an-organized-criminal"
   },
   {
     "id": "https://www.militarytimes.com/news/your-military/2026/11/03/first-hh-60w-to-succeed-aging-hueys-arrives-at-joint-base-andrews/",
@@ -4648,355 +4998,5 @@
     "region": "ru",
     "text": "Zverev reaches top of ATP rankings for first time, Medvedev stays fifth",
     "url": "https://tass.com/sports/2211707"
-  },
-  {
-    "id": "https://www.france24.com/en/americas/20261102-michigan-democrat-stuns-party-back-republican-candidate-critical-senate-race",
-    "timestamp": "2026-11-02T08:20:48",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Michigan Democrat stuns party to back Republican candidate in critical Senate race",
-    "url": "https://www.france24.com/en/americas/20261102-michigan-democrat-stuns-party-back-republican-candidate-critical-senate-race"
-  },
-  {
-    "id": "https://tass.com/society/2211705",
-    "timestamp": "2026-11-02T08:20:16",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Ugandan educator sees his project contributing to future of Russia-Africa relations",
-    "url": "https://tass.com/society/2211705"
-  },
-  {
-    "id": "https://tass.com/world/2211703",
-    "timestamp": "2026-11-02T08:18:13",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Iran continues to exchange messages with US through intermediaries \u2014 diplomat",
-    "url": "https://tass.com/world/2211703"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/11/2/chinese-state-tv-continues-real-madrid-blackout-after-mbappe-mao-meme-row?traffic_source=rss",
-    "timestamp": "2026-11-02T08:16:45",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Chinese state TV continues Real Madrid blackout after Mbappe-Mao meme row",
-    "url": "https://www.aljazeera.com/sports/2026/11/2/chinese-state-tv-continues-real-madrid-blackout-after-mbappe-mao-meme-row?traffic_source=rss"
-  },
-  {
-    "id": "https://tass.com/society/2211701",
-    "timestamp": "2026-11-02T08:16:15",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Ugandan educator calls for more cultural exchanges between Russia, Africa",
-    "url": "https://tass.com/society/2211701"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/11/02/helping-mom-out-how-to-send-money-to-ukraine-from-canada/",
-    "timestamp": "2026-11-02T08:15:20",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Helping Mom out? How to send money to Ukraine from Canada",
-    "url": "https://euromaidanpress.com/2026/11/02/helping-mom-out-how-to-send-money-to-ukraine-from-canada/"
-  },
-  {
-    "id": "https://tass.com/politics/2211699",
-    "timestamp": "2026-11-02T08:13:34",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Shelters for Neptune launchers, dry cargo ship hit: strikes by Russian Armed Forces",
-    "url": "https://tass.com/politics/2211699"
-  },
-  {
-    "id": "https://euromaidanpress.com/2026/11/02/ukraines-and-russias-ombudsmen-agree-to-keep-working-on-regular-humanitarian-missions-after-the-oleshky-evacuation/",
-    "timestamp": "2026-11-02T08:13:26",
-    "source": "Euromaidan Press",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ua",
-    "text": "Ukraine\u2019s and Russia\u2019s ombudsmen agree to keep working on regular humanitarian missions after the Oleshky evacuation",
-    "url": "https://euromaidanpress.com/2026/11/02/ukraines-and-russias-ombudsmen-agree-to-keep-working-on-regular-humanitarian-missions-after-the-oleshky-evacuation/"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/11/2/how-the-presidents-party-has-fared-in-every-us-midterm-election-since-1946?traffic_source=rss",
-    "timestamp": "2026-11-02T08:05:03",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "How the president\u2019s party has fared in every US midterm election since 1946",
-    "url": "https://www.aljazeera.com/news/2026/11/2/how-the-presidents-party-has-fared-in-every-us-midterm-election-since-1946?traffic_source=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cmjwe9nggp60o?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-11-02T08:03:39",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Popular Australian children's author jailed over child exploitation offences",
-    "url": "https://www.bbc.co.uk/news/articles/cmjwe9nggp60o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.defensenews.com/naval/2026/11/02/australia-unveils-secretive-ghost-shark-underwater-drone-payloads/",
-    "timestamp": "2026-11-02T08:00:24",
-    "source": "Defense News",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Australia unveils secretive Ghost Shark underwater drone payloads",
-    "url": "https://www.defensenews.com/naval/2026/11/02/australia-unveils-secretive-ghost-shark-underwater-drone-payloads/"
-  },
-  {
-    "id": "https://www.france24.com/en/michigan-democrat-s-endorsement-of-republican-ruffles-critical-senate-race",
-    "timestamp": "2026-11-02T07:55:44",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Michigan Democrat's endorsement of Republican ruffles critical Senate race",
-    "url": "https://www.france24.com/en/michigan-democrat-s-endorsement-of-republican-ruffles-critical-senate-race"
-  },
-  {
-    "id": "https://www.navalnews.com/naval-news/2026/11/rafale-m-conducts-maiden-trials-onboard-indian-aircraft-carrier-ins-vikrant/",
-    "timestamp": "2026-11-02T07:54:26",
-    "source": "Naval News",
-    "platform": "rss",
-    "category": "naval",
-    "region": "global",
-    "text": "Rafale M Conducts Maiden Trials onboard Indian Aircraft Carrier INS Vikrant",
-    "url": "https://www.navalnews.com/naval-news/2026/11/rafale-m-conducts-maiden-trials-onboard-indian-aircraft-carrier-ins-vikrant/"
-  },
-  {
-    "id": "https://tass.com/defense/2211695",
-    "timestamp": "2026-11-02T07:50:07",
-    "source": "TASS English",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "ru",
-    "text": "Russia\u2019s Admiral Golovko frigate sets sail for long-distance deployment \u2014 Northern Fleet",
-    "url": "https://tass.com/defense/2211695"
-  },
-  {
-    "id": "https://www.dw.com/en/us-9-killed-in-florida-jet-crash/a-79825921?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-11-02T07:46:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "US: 9 killed in Florida jet crash",
-    "url": "https://www.dw.com/en/us-9-killed-in-florida-jet-crash/a-79825921?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.dw.com/en/us-nine-killed-in-florida-jet-crash/a-79825921?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-11-02T07:46:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "US: Nine killed in Florida jet crash",
-    "url": "https://www.dw.com/en/us-nine-killed-in-florida-jet-crash/a-79825921?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.aljazeera.com/opinions/2026/11/2/rfk-jr-is-wrong-about-the-arab-world?traffic_source=rss",
-    "timestamp": "2026-11-02T07:45:35",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "RFK Jr is wrong about the Arab world",
-    "url": "https://www.aljazeera.com/opinions/2026/11/2/rfk-jr-is-wrong-about-the-arab-world?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/11/2/un-staffers-death-in-custody-exposes-houthi-political-extortion-in-yemen?traffic_source=rss",
-    "timestamp": "2026-11-02T07:43:05",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "UN staffer\u2019s death in custody exposes Houthi \u2018political extortion\u2019 in Yemen",
-    "url": "https://www.aljazeera.com/news/2026/11/2/un-staffers-death-in-custody-exposes-houthi-political-extortion-in-yemen?traffic_source=rss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-11-02T07:42:33",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Binance users withdraw $3.6bn after largest-ever crypto hack",
-    "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/sports/2026/11/2/nba-yaxel-lendeborg-scores-37-as-warriors-defeat-clippers?traffic_source=rss",
-    "timestamp": "2026-11-02T07:37:30",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "NBA: Yaxel Lendeborg scores 37 as Warriors defeat Clippers",
-    "url": "https://www.aljazeera.com/sports/2026/11/2/nba-yaxel-lendeborg-scores-37-as-warriors-defeat-clippers?traffic_source=rss"
-  },
-  {
-    "id": "https://www.dw.com/en/merz-says-next-german-president-must-be-a-woman-report/live-79825749?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-11-02T07:36:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Merz says next German president 'must be a woman' \u2014 report",
-    "url": "https://www.dw.com/en/merz-says-next-german-president-must-be-a-woman-report/live-79825749?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.dw.com/en/germany-news-berlin-hosts-digital-summit-with-ai-focus/live-79825749?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-11-02T07:36:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Germany news: Berlin hosts digital summit with AI focus",
-    "url": "https://www.dw.com/en/germany-news-berlin-hosts-digital-summit-with-ai-focus/live-79825749?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/11/2/hormuz-shipping-still-faces-major-risks?traffic_source=rss",
-    "timestamp": "2026-11-02T07:30:12",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Hormuz shipping still faces major risks",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/hormuz-shipping-still-faces-major-risks?traffic_source=rss"
-  },
-  {
-    "id": "https://www.france24.com/en/asia-pacific/20261102-taliban-voice-alarm-over-us-plan-to-deport-afghan-migrants-via-pakistan",
-    "timestamp": "2026-11-02T07:26:31",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Taliban voices 'serious concern' over US plan to deport Afghan migrants via Pakistan",
-    "url": "https://www.france24.com/en/asia-pacific/20261102-taliban-voice-alarm-over-us-plan-to-deport-afghan-migrants-via-pakistan"
-  },
-  {
-    "id": "https://www.aljazeera.com/opinions/2026/11/2/the-future-of-the-palestinian-vote-in-israel?traffic_source=rss",
-    "timestamp": "2026-11-02T07:14:44",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "The future of the Palestinian vote in Israel",
-    "url": "https://www.aljazeera.com/opinions/2026/11/2/the-future-of-the-palestinian-vote-in-israel?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/news/2026/11/2/bangladesh-garment-factories-disrupted-as-protests-continue-for-third-day?traffic_source=rss",
-    "timestamp": "2026-11-02T07:08:28",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Bangladesh garment factories disrupted as protests continue for third day",
-    "url": "https://www.aljazeera.com/news/2026/11/2/bangladesh-garment-factories-disrupted-as-protests-continue-for-third-day?traffic_source=rss"
-  },
-  {
-    "id": "https://www.aljazeera.com/video/newsfeed/2026/11/2/final-distress-call-with-learjet-pilot-captured-moments-before-crash?traffic_source=rss",
-    "timestamp": "2026-11-02T06:49:51",
-    "source": "Al Jazeera",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "mena",
-    "text": "Final distress call with Learjet pilot captured moments before crash",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/final-distress-call-with-learjet-pilot-captured-moments-before-crash?traffic_source=rss"
-  },
-  {
-    "id": "https://www.dw.com/en/india-news-gandhi-vows-to-step-up-pressure-on-modi-at-protest-rally/live-79825419?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-11-02T06:38:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "India news: Gandhi vows to step up pressure on Modi at protest rally",
-    "url": "https://www.dw.com/en/india-news-gandhi-vows-to-step-up-pressure-on-modi-at-protest-rally/live-79825419?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.france24.com/en/tv-shows/sports/20261102-liga-yan-diomand%C3%A9-and-kylian-mbapp%C3%A9-score-again-for-real-madrid",
-    "timestamp": "2026-11-02T06:28:22",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Liga: Yan Diomand\u00e9 and Kylian Mbapp\u00e9 score again for Real Madrid",
-    "url": "https://www.france24.com/en/tv-shows/sports/20261102-liga-yan-diomand%C3%A9-and-kylian-mbapp%C3%A9-score-again-for-real-madrid"
-  },
-  {
-    "id": "https://www.france24.com/en/europe/20261102-live-russia-and-ukraine-trade-blame-cyber-attacks-fragile-ceasefire-ends",
-    "timestamp": "2026-11-02T06:19:40",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Live: Russia and Ukraine trade blame for cyber attacks as fragile ceasefire ends",
-    "url": "https://www.france24.com/en/europe/20261102-live-russia-and-ukraine-trade-blame-cyber-attacks-fragile-ceasefire-ends"
-  },
-  {
-    "id": "https://www.france24.com/en/americas/20261102-midterms-2026-georgians-front-lines-people-war-against-data-centres",
-    "timestamp": "2026-11-02T06:11:55",
-    "source": "France24",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Midterms 2026: Georgians on the front lines of the people\u2019s war against data centres",
-    "url": "https://www.france24.com/en/americas/20261102-midterms-2026-georgians-front-lines-people-war-against-data-centres"
-  },
-  {
-    "id": "https://www.dw.com/en/kimi-antonelli-makes-history-as-youngest-f1-champion/a-79825130?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-11-02T05:01:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "Kimi Antonelli makes history as youngest F1 champion",
-    "url": "https://www.dw.com/en/kimi-antonelli-makes-history-as-youngest-f1-champion/a-79825130?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.dw.com/en/south-korea-to-pour-billions-into-ai/a-79825118?maca=en-rss-en-all-1573-xml-mrss",
-    "timestamp": "2026-11-02T05:01:00",
-    "source": "DW World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "South Korea to pour billions into AI",
-    "url": "https://www.dw.com/en/south-korea-to-pour-billions-into-ai/a-79825118?maca=en-rss-en-all-1573-xml-mrss"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/videos/cqvgjljj74n8o?at_medium=RSS&at_campaign=rss",
-    "timestamp": "2026-11-02T04:40:00",
-    "source": "BBC World",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "How a Democrat in Michigan rocked the party days before the US midterms",
-    "url": "https://www.bbc.co.uk/news/videos/cqvgjljj74n8o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "https://www.defenseone.com/technology/2026/11/pentagons-it-agency-wants-bridge-network-gaps-pacific/416963/",
-    "timestamp": "2026-11-02T04:37:52",
-    "source": "Defense One",
-    "platform": "rss",
-    "category": "analysis",
-    "region": "global",
-    "text": "The Pentagon\u2019s IT agency wants to bridge network gaps in the Pacific",
-    "url": "https://www.defenseone.com/technology/2026/11/pentagons-it-agency-wants-bridge-network-gaps-pacific/416963/"
   }
 ]
